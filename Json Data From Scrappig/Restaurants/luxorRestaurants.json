@@ -1,0 +1,482 @@
+﻿[
+	{
+		"name": "Wenkie's German Ice Cream & Iced Coffee Parlour",
+		"phone": "+20 128 894 7380",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/05/39/59/b1/wenkie-s-german-ice-cream.jpg",
+		"location": "El Gawazat Street | Opposite the Nile Palace at the Far Left End of the Street, Luxor, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Dessert"
+	},
+	{
+		"name": "Gerda's Garden",
+		"phone": "+20 100 968 7337",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/05/60/d9/2d/gerda-s-garden.jpg",
+		"location": "El karnak | Ali Ibn Abi Taleb, Luxor 85951, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "German"
+	},
+	{
+		"name": "The Lantern Room Restaurant",
+		"phone": "+20 95 2361451",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/08/87/41/96/the-lantern-room.jpg",
+		"location": "Al Roda Al Sharifa Street, Luxor 85836, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "International"
+	},
+	{
+		"name": "Pizza Roma-it",
+		"phone": "+20 111 879 9559",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/04/c3/ec/d9/pizza-roma-it.jpg",
+		"location": "El-Mahdi Street on the corner of St. Joseph Hotel | Opposite street of sonesta hotel, Luxor 71111, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Italian"
+	},
+	{
+		"name": "Sofra Restaurant & Cafe",
+		"phone": "+20 95 239752",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/45/2b/f9/autre-vue-du-restaurant.jpg",
+		"location": "90 Mohamed Farid Street | Al Manshiya, Luxor 83911, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Middle Eastern"
+	},
+	{
+		"name": "Aisha Restaurant",
+		"phone": "+20 100 574 7068",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0f/da/02/4d/photo1jpg.jpg",
+		"location": "El Rawda El Sharifa St | Front of Sonesta Hotel, Luxor, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Mediterranean"
+	},
+	{
+		"name": "Al-Sahaby Lane Restaurant",
+		"phone": "+20 95 2256086",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/09/99/b5/alsahaby-lane.jpg",
+		"location": "Al-Sahaby St | Via Luxor Temple St, Luxor 85951, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Mediterranean"
+	},
+	{
+		"name": "Jewel of the Nile",
+		"phone": "+20 106 252 2394",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/2b/13/90/luxor.jpg",
+		"location": "El Roada El Sharyfa | Off Medina Street, Luxor, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "European"
+	},
+	{
+		"name": "A Taste of India & Arabia International Restaurant Plus Bar",
+		"phone": "+20 109 373 2727",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0d/87/eb/27/russell-owner-a-taste.jpg",
+		"location": "St Joseph Street,, Luxor, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "International"
+	},
+	{
+		"name": "The Kings Head Pub and Restaurant",
+		"phone": "+20 106 510 2133",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/4f/c7/01/the-kings-head-pub-and.jpg",
+		"location": "Khaled Ben El Waleed Street | Opposite The Lotus Hotel, 2nd Floor, Luxor 123456, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "British"
+	},
+	{
+		"name": "Sunflower Restaurant West bank",
+		"phone": "+20 100 900 2234",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/15/2f/6f/d8/the-best-egyptian-food.jpg",
+		"location": "Gezira Al Bharat | West Bank, Luxor 85951, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Healthy"
+	},
+	{
+		"name": "SunRise Bar & Restaurant",
+		"phone": "+20 127 008 5503",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/15/cf/a7/b3/sunrise.jpg",
+		"location": "Khaled Ibn Al Walid St., First Floor | Front of Sonesta Hotel & Lotus Hotel & Steigenberger Hotel, Luxor, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Italian"
+	},
+	{
+		"name": "Africa Restaurant",
+		"phone": " ",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/66/45/e3/the-restaurant.jpg",
+		"location": "Main street West Bank | Gezira, Luxor, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "African"
+	},
+	{
+		"name": "Steigenberger Nile Palace Luxor Hotel",
+		"phone": "+20 95 2366999",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/11/3e/44/85/italian-casa-di-napoli.jpg",
+		"location": "Khaled Ben El Walid Street, Luxor, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Mediterranean"
+	},
+	{
+		"name": "Tutankhamon",
+		"phone": "022-0952310918",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/83/f6/d8/tut-ankh-amoun.jpg",
+		"location": "Al-Gezira | West Bank, Luxor, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Middle Eastern"
+	},
+	{
+		"name": "Snobs",
+		"phone": "+20 100 280 2880",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/12/c9/4a/b0/snobs-grand-mezzes-a.jpg",
+		"location": "El Rhoda El Sherifa St | El Rhoda El Sherifa St Luxor Egypt, Luxor, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Vegan Options"
+	},
+	{
+		"name": "Oasis Palace",
+		"phone": "+20 127 941 6951",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/f6/ca/c5/oasis-palace.jpg",
+		"location": "Dr Labib Habashy Street, Luxor, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Middle Eastern"
+	},
+	{
+		"name": "Aboudi Coffee Break",
+		"phone": "+20 101 098 7293",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/11/ae/6b/b5/dsc02393-largejpg.jpg",
+		"location": "Luxor Temple Street | In front of Luxor Temple Luxor, beside McDonald's, Luxor, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Cafe"
+	},
+	{
+		"name": "Esquire Restaurant and Bar",
+		"phone": " ",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/1d/c9/aa/good-hospitality-and.jpg",
+		"location": "Ali Ebn Taleb Street, Luxor, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Mediterranean"
+	},
+	{
+		"name": "1886 Restaurant",
+		"phone": " ",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/19/3d/51/encore-un-des-plats.jpg",
+		"location": "Old Winter Palace Hotel, Luxor, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "French"
+	},
+	{
+		"name": "Secret Garden Cafe",
+		"phone": "0020162522394",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-o/03/fa/7e/f1/chili-cheeseburger-the.jpg",
+		"location": "Radwa Sherifa St | opposite Sonesta Hotel, Luxor, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Cafe"
+	},
+	{
+		"name": "Deans Bistro",
+		"phone": "+20 109 019 0393",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/da/f3/da/deans-bistro-early-evening.jpg",
+		"location": "El Rawda El Sherifa Street, Luxor, Egypt",
+		"rating": "4.0 ",
+		"cuisine": ""
+	},
+	{
+		"name": "Kam Thai Takeaway",
+		"phone": "+20 127 728 2490",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/09/f1/21/a7/getlstd-property-photo.jpg",
+		"location": "21 El Gwazat Street, Luxor 83951, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Asian"
+	},
+	{
+		"name": "Quick Pizza Luxor",
+		"phone": "+20 102 870 0900",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/b4/e0/e1/quick-pizza-luxor.jpg",
+		"location": "Television Street, Luxor 99999, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Pizza"
+	},
+	{
+		"name": "Sonesta St. George Hotel Restaurant",
+		"phone": "+20 95 2382575",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/08/e3/91/a0/sonesta-st-george-hotel.jpg",
+		"location": "Cornesh El Nile Street, Luxor, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "European"
+	},
+	{
+		"name": "La Fleur",
+		"phone": "+2952274855",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/b7/14/50/img-4105-largejpg.jpg",
+		"location": "Kings Island, Luxor 55555, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "French"
+	},
+	{
+		"name": "Cafe Latte",
+		"phone": " ",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-o/02/5c/7d/de/from-the-balcony.jpg",
+		"location": "Luxor Temple Street | Opposite Luxor temple, next to McDonald's, Luxor 85952, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Cafe"
+	},
+	{
+		"name": "Silk Road",
+		"phone": "+20 95 2374933",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/75/cc/84/silk-road.jpg",
+		"location": "Hilton Hotel, Luxor, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Asian"
+	},
+	{
+		"name": "Snack Time",
+		"phone": "+20 95 2375405",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/3b/50/0d/delicious-beef-slices.jpg",
+		"location": "Maabad el karnak St, Luxor, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Fast Food"
+	},
+	{
+		"name": "Oasis Cafe",
+		"phone": "+20 95 2372914",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/74/31/cd/new-look-feb-2013.jpg",
+		"location": "St Joseph Street, Luxor Luxor, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Cafe"
+	},
+	{
+		"name": "Fayrouz",
+		"phone": "01444 242088",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0f/0d/95/55/pasta-deliciosa.jpg",
+		"location": "El-Gezeera Village, Luxor, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Middle Eastern"
+	},
+	{
+		"name": "Zigolini Restaurant",
+		"phone": "002-95-2274-855",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/e6/55/66/zigolini-restaurant.jpg",
+		"location": "Awameya Road, Kings Island Luxor, Luxor 85952, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Italian"
+	},
+	{
+		"name": "Oum Hashim Restaurant",
+		"phone": "+20 122 750 4605",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-o/05/d4/7f/4c/eat-egyptian-style-fantastic.jpg",
+		"location": "Youssef Hassan St., Luxor, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Barbecue"
+	},
+	{
+		"name": "Maxime Restaurant",
+		"phone": "+20 95 2386315",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/bc/0e/ed/humm-quel-regal.jpg",
+		"location": "Khaled Ibn Alwaleed Street, Luxor, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "International"
+	},
+	{
+		"name": "Rosetta",
+		"phone": "+20 95 2374933",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/4a/87/0e/rosetta.jpg",
+		"location": "Hotel Hilton, Luxor, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "International"
+	},
+	{
+		"name": "McDonald's Luxor",
+		"phone": "+20 95 2379670",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/08/66/29/50/mcdonald-s-luxor.jpg",
+		"location": "Temple Road, Luxor, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Quick Bites"
+	},
+	{
+		"name": "Moon Valley Restaurant",
+		"phone": "+20 109 683 9557",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/e4/c7/be/moon-valley-restaurant.jpg",
+		"location": "Memnon Street | West Bank El Korrna, Luxor, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Mediterranean"
+	},
+	{
+		"name": "Jana",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/b0/53/89/jana.jpg",
+		"location": "Beside Hilton Hotel | Karnak, Luxor, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Mediterranean"
+	},
+	{
+		"name": "El Hussein Restaurant",
+		"phone": "+20 95 2378335",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/22/9d/b1/el-hussein-restaurant.jpg",
+		"location": "Hilton St. | New Karnak, Luxor, Egypt",
+		"rating": "3.5 ",
+		"cuisine": "Middle Eastern"
+	},
+	{
+		"name": "Nile View Restaurant",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0f/ba/74/12/screenshot-20170630-145755.jpg",
+		"location": "Gezerat El Barat | West bank, Luxor, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Middle Eastern"
+	},
+	{
+		"name": "JJ's Bar and Restaurant",
+		"phone": "+20 106 426 3878",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/13/91/1f/d0/jj-s-after-refurbishment.jpg",
+		"location": "JJ_s at El Gezira Gardens Hotel | Gezira-el-Beirat. West Bank, Luxor LU1, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "British"
+	},
+	{
+		"name": "Blue Sky Restaurant",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/5a/4b/b5/view-from-blue-sky.jpg",
+		"location": "El Ramla | West Bank, Luxor, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Middle Eastern"
+	},
+	{
+		"name": "El Tarboush",
+		"phone": "+20 95 2366999",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/11/3e/48/1c/taste-the-oriental-atmosphere.jpg",
+		"location": "Khaled Ben El Walid Street | Steigenberger Nile Palace Luxor, Luxor 85111, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Lebanese"
+	},
+	{
+		"name": "Jamboree Restaurant Luxor",
+		"phone": "+20 95 2256017",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/57/cb/6b/new-om-kalthom-coffee.jpg",
+		"location": "Market Street | Right in the souk, Luxor, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Middle Eastern"
+	},
+	{
+		"name": "Restaurant Mohammed",
+		"phone": "+20 122 385 0227",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/f9/43/27/repas-complet.jpg",
+		"location": "Luxor, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Middle Eastern"
+	},
+	{
+		"name": "Marsam",
+		"phone": "+20 106 594 6063",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/12/bf/6a/df/ta-img-20180425-154924.jpg",
+		"location": "Luxor, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Middle Eastern"
+	},
+	{
+		"name": "Wolf Restaurant",
+		"phone": "+20 101 054 4277",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/12/1c/04/68/stir-fry.jpg",
+		"location": "Luxor, Egypt",
+		"rating": "5.0 ",
+		"cuisine": ""
+	},
+	{
+		"name": "Ramesseum Rest House",
+		"phone": "+20 109 557 8160",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/05/6f/17/5b/ramesseum-rest-house.jpg",
+		"location": "Mortuary Temple of Rameses II | West Bank, Old Gurna, Luxor, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Mediterranean"
+	},
+	{
+		"name": "Victoria Room, Winter Palace",
+		"phone": "+20 95 2380425",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/12/39/19/00/the-original-style-presentatio.jpg",
+		"location": "Corniche El Nile Street, Luxor, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " "
+	},
+	{
+		"name": "L'Oasis",
+		"phone": "+20 100 648 3656",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/e1/44/08/l-oasis.jpg",
+		"location": "Sofitel Winter Palace - Corniche el Nile street, Luxor, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Mediterranean"
+	},
+	{
+		"name": "AL Hoot",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0a/d8/0e/04/incredible-soup-must.jpg",
+		"location": "Luxor, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Seafood"
+	},
+	{
+		"name": "Nero Caffe",
+		"phone": "+20 100 310 6447",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/09/dc/68/bd/enjoy-your-meal-in-nero.jpg",
+		"location": "El Sharifa Street, Luxor, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Cafe"
+	},
+	{
+		"name": "Al Hareef Restaurant",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0a/3d/36/5d/bread-tahine-dip-salad.jpg",
+		"location": "El Mansheya Street | Directly across from Luxor Train Station, Luxor, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Mediterranean"
+	},
+	{
+		"name": "Nour El Gourna",
+		"phone": "+20 95 2311430",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/05/df/a3/53/nour-el-gourna.jpg",
+		"location": "Luxor -West Bank - Old Gourna Behind Ticket Office ., Luxor, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Mediterranean"
+	},
+	{
+		"name": "Corniche Restaurant",
+		"phone": "+20 95 2380425",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-p/12/4f/e1/fd/photo0jpg.jpg",
+		"location": "Cornish el Nile st, Luxor, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "French"
+	},
+	{
+		"name": "Elnakhil",
+		"phone": "+20 95 2313922",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/12/54/34/d6/moussaka.jpg",
+		"location": "Gezira el Bariat, Luxor, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Mediterranean"
+	},
+	{
+		"name": "Hotel El Mesala & Restaurant",
+		"phone": "+20 95 2314004",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/d3/b9/34/hotel-el-mesala-restaurant.jpg",
+		"location": "Ramala, Luxor, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Middle Eastern"
+	},
+	{
+		"name": "Nile Valley Restaurant",
+		"phone": "+20 95 2311477",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/57/0b/c7/tagen.jpg",
+		"location": "Ferry boat landing, west bank Luxor | Gezirat el bairat, Luxor 12345, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Middle Eastern"
+	},
+	{
+		"name": "El Gazira Gardens Hotel & Restaurant",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/05/df/c9/72/el-gazira-gardens-hotel.jpg",
+		"location": "Ramla | West Bank, Luxor, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Mediterranean"
+	},
+	{
+		"name": "The Roof",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/82/c2/59/dinner.jpg",
+		"location": "Karnak St. | 4th floor, above Snack Time, Luxor, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Middle Eastern"
+	}
+]

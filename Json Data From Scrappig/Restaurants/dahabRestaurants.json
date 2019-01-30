@@ -1,0 +1,450 @@
+﻿[
+	{
+		"name": "Shams Restaurant",
+		"phone": "+20 100 816 2070",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0d/56/f5/d8/bedouin-style-sitting.jpg",
+		"location": "El Madaris Street | Shams Hotel & Dive Centre, Dahab 46617, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Egyptian, International, Mediterranean"
+	},
+	{
+		"name": "Red Cat",
+		"phone": "+20 109 114 0113",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/09/24/0b/04/red-cat.jpg",
+		"location": "Light House Area - Dahab, Dahab, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "European, Russian, Soups"
+	},
+	{
+		"name": "Shark Restaurant",
+		"phone": "+20 101 313 3348",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/83/ce/79/grilled-shrimps.jpg",
+		"location": "Beachside Promenade | Masbat Bay, Dahab 46617, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Seafood, Mediterranean, Middle Eastern"
+	},
+	{
+		"name": "Yum Yum",
+		"phone": "+20 109 798 6161",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/04/0f/fe/0f/yum-yum.jpg",
+		"location": "EL Masbat, Dahab, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Fast Food, Mediterranean, Middle Eastern"
+	},
+	{
+		"name": "Athanor Cafe-Pizzeria",
+		"phone": "+20 106 950 3541",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-o/06/06/b2/55/athanor-coffee-shop-and.jpg",
+		"location": "3 El Melil Street | Light House Area, Dahab 46617, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Italian, Pizza, Mediterranean"
+	},
+	{
+		"name": "Meya Meya",
+		"phone": " ",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/c7/2c/4d/meya-meya-cushions.jpg",
+		"location": "Dahab, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Mediterranean, Middle Eastern, Egyptian"
+	},
+	{
+		"name": "Ralph's German Bakery",
+		"phone": "+20 69 3642479",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-o/03/59/6b/76/ralph-s-german-bakery.jpg",
+		"location": "El Fanar, Lighthouse | Lighthouse & Assalah Square, Dahab 0020, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "German, Cafe, International"
+	},
+	{
+		"name": "Ali Baba Restaurant",
+		"phone": "0020101929170",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/b6/0f/2f/ali-baba.jpg",
+		"location": "Masbat Bay, Dahab, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Seafood, Barbecue, Middle Eastern"
+	},
+	{
+		"name": "Ramez & Paola Restaurant",
+		"phone": "+20 122 557 9641",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/04/75/3d/23/lakhbatita-ramez-paola.jpg",
+		"location": "Mashraba | close to Penguin Village, Dahab, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Italian, Pizza, Mediterranean"
+	},
+	{
+		"name": "Hell's Kitchen",
+		"phone": "+20 102 292 4824",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/c8/65/47/hells-angels.jpg",
+		"location": "2 El Melil Street, | Lighthouse, Dahab 46617, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Steakhouse, Barbecue, European"
+	},
+	{
+		"name": "Everyday Cafe & Restaurant",
+		"phone": "+20 111 999 2571",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/15/03/89/5d/coloured-your-day.jpg",
+		"location": "Masbat Square | next to Ghazala Market and the Police Station, Dahab 24668, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Cafe, Egyptian, Vegetarian Friendly"
+	},
+	{
+		"name": "Eel Garden View Restaurant",
+		"phone": "+20 109 752 2991",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/10/fc/30/3c/eel-garden-view-restaurant.jpg",
+		"location": "El Melal Street | Eel Garden, Dahab, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Mediterranean, European, Egyptian"
+	},
+	{
+		"name": "King Chicken",
+		"phone": " ",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/0f/26/3c/photo0jpg.jpg",
+		"location": "Al-Mashraba, Dahab, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Barbecue, Middle Eastern, Egyptian"
+	},
+	{
+		"name": "Baba Ali",
+		"phone": "+20 100 120 1378",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/4c/21/af/baba-ali.jpg",
+		"location": "Fanar Street | First Of Fanar Street, Dahab, Egypt",
+		"rating": "4.5",
+		"cuisine": "African, Healthy, Middle Eastern"
+	},
+	{
+		"name": "BoxMeal",
+		"phone": "+20 109 497 8059",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0f/7b/9a/af/20170516-191525-largejpg.jpg",
+		"location": "3 El Malel Street, Dahab, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "French, Chinese, Japanese"
+	},
+	{
+		"name": "Friends",
+		"phone": " ",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/2e/d6/37/photo0jpg.jpg",
+		"location": "Masbath, Dahab, Dahab, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Seafood, Mediterranean, Egyptian"
+	},
+	{
+		"name": "Yalla Bar",
+		"phone": "+20 69 3642166",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/a0/b9/74/in-the-restaurant.jpg",
+		"location": "Light House Area | Masbat, Dahab, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Bar, Egyptian, Vegetarian Friendly"
+	},
+	{
+		"name": "Blue House Thai Restaurant",
+		"phone": "+20 106 717 7846",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/b3/6f/d1/blue-house-thai-restaurant.jpg",
+		"location": "Entrance of Seven Heaven Hotel | Masbat, Dahab, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Thai, Asian"
+	},
+	{
+		"name": "Nemo Restaurant",
+		"phone": "+20 122 949 5318",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/b1/53/44/fish-platter-with-prawns.jpg",
+		"location": "El Masbat., Dahab, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Seafood, Middle Eastern, International"
+	},
+	{
+		"name": "Namaste Indian Cuisine",
+		"phone": "+20 100 518 7063",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0d/fa/6c/59/photo0jpg.jpg",
+		"location": "El Fanar Street, Dahab, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Indian, Asian, Vegetarian Friendly"
+	},
+	{
+		"name": "Zanooba Slow Cooking",
+		"phone": "+20 100 613 5045",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-p/11/ac/9b/65/zanooba-slow-cooking.jpg",
+		"location": "El Meliel Street, Dahab, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Mediterranean, International, Moroccan"
+	},
+	{
+		"name": "Lindy's Dahab Restaurant",
+		"phone": "+20 120 203 8253",
+		"photo": " https://media-cdn.tripadvisor.com/media/photo-s/10/ee/30/17/lindy-s-dahab-restaurant.jpg",
+		"location": "Mashraba Dahab South Sinai Egypt, Dahab 46617, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Steakhouse, Pizza, Seafood"
+	},
+	{
+		"name": "South North - Tea Garden & Culture Cafe",
+		"phone": "+20 100 404 0179",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/53/6d/21/south-north-tea-garden.jpg",
+		"location": "Mashraba Street | Front of Acacia Hotel, Dahab 069, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Cafe, Halal"
+	},
+	{
+		"name": "Carm Inn Restaurant",
+		"phone": "+20 122 227 0443",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/12/2b/76/bf/renewed-carm-inn-carm.jpg",
+		"location": "Masbat Bay | Lighthouse, Dahab, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "International, European, Fusion"
+	},
+	{
+		"name": "El Fanar",
+		"phone": "+20 100 307 7173",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/68/9f/42/filename-img-8113-jpg.jpg",
+		"location": "El Masbat, Dahab 55555, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Seafood, Mediterranean, Fusion"
+	},
+	{
+		"name": "Food Urge",
+		"phone": "+20 115 292 3764",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/2a/bb/b6/welcome-to-food-urge.jpg",
+		"location": "El Melal Street | Eel Garden, Dahab 46617, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Mediterranean, British, Egyptian"
+	},
+	{
+		"name": "eldorado",
+		"phone": "+20 69 3641027",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/2a/2b/90/eldorado.jpg",
+		"location": "El Melal St, Eel Garden Area, Dahab, Dahab, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Italian, Pizza, Mediterranean"
+	},
+	{
+		"name": "The Kitchen Restaurant",
+		"phone": "+20 109 595 9764",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/76/a0/18/prepared-for-our-guests.jpg",
+		"location": "Masbat Bay - Boulevard | 150 M North From the Dahab Bridge, Dahab, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Chinese, Asian, Thai"
+	},
+	{
+		"name": "Planet Cafe",
+		"phone": "+20 100 385 5604",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/0b/2e/b7/planet-cafe.jpg",
+		"location": "Light House, Dahab 12345, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Cafe, International"
+	},
+	{
+		"name": "Dai Pescatori",
+		"phone": " ",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/ff/31/1d/pasta-pizza.jpg",
+		"location": "Sheik Salem House, Dahab, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Italian, Pizza, Mediterranean"
+	},
+	{
+		"name": "Nirvana",
+		"phone": "+20 106 586 6161",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/bc/27/d6/roof-top.jpg",
+		"location": "Beach promenade, Dahab, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Indian, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Jackie's",
+		"phone": "+20 102 778 5060",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/12/30/1b/0f/getlstd-property-photo.jpg",
+		"location": "El Masbat Street, Dahab 46617, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Mexican, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Yambo Cafe",
+		"phone": "+20 101 501 5252",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0f/42/4b/46/getlstd-property-photo.jpg",
+		"location": "Dahab, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "European, Egyptian, Cafe"
+	},
+	{
+		"name": "Aladdin Resturant",
+		"phone": "+20 109 500 1026",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/b9/c0/a9/aladdin-resturant.jpg",
+		"location": "El Masbat | Masbat, Dahab 46617, Egypt",
+		"rating": "4.0",
+		"cuisine": "Seafood, International, Mediterranean"
+	},
+	{
+		"name": "Penguin Restaurant",
+		"phone": "+20 69 3640117",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0d/c8/18/92/penguin-restaurant.jpg",
+		"location": "Mashraba Street | Penguin Village, Dahab, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Mediterranean, Egyptian"
+	},
+	{
+		"name": "Mona Mama",
+		"phone": "+20 100 521 7127",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/20/f6/c2/mona-mama-restaurant.jpg",
+		"location": "Al Mashraba Street, Dahab, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Mediterranean, Egyptian, Vegetarian Friendly"
+	},
+	{
+		"name": "El Primo Restaurant",
+		"phone": "+20 100 404 3978",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/04/c6/2c/b4/el-primo-restaurant.jpg",
+		"location": "El Melil Street | El Primo Hotel Dahab, Dahab, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Mediterranean, European, Vegetarian Friendly"
+	},
+	{
+		"name": "Sea Bride",
+		"phone": "+20 69 3640891",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/20/2c/1a/absolutely-delicious.jpg",
+		"location": "center of Dahab Mashraba | Al Masbat, Dahab, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Seafood, Mediterranean, Egyptian"
+	},
+	{
+		"name": "Shells",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/04/16/dc/e6/shells.jpg",
+		"location": "Lighhouse, Dahab, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Egyptian, Vegetarian Friendly"
+	},
+	{
+		"name": "Jasmine",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/04/54/73/93/jasmine.jpg",
+		"location": "boulevard Dahab, Dahab, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Mediterranean, European, Central European"
+	},
+	{
+		"name": "Churchill Pub Dahab Egypt",
+		"phone": "+20 69 3641309",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-p/15/1b/14/39/photo0jpg.jpg",
+		"location": "Dahab, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Italian, Fast Food, European"
+	},
+	{
+		"name": "Shahrazad Restaurant and Cafe",
+		"phone": "+20 127 444 7060",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/01/79/26/shahrazad-restaurant.jpg",
+		"location": "Mashraba, Dahab 12411, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Cafe, International, Halal"
+	},
+	{
+		"name": "Seaduction",
+		"phone": "+20 109 163 3322",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-p/13/ad/74/e4/photo0jpg.jpg",
+		"location": "Dahab, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Lebanese, Mediterranean"
+	},
+	{
+		"name": "The Caves",
+		"phone": "+20 100 698 1653",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/08/00/fa/1e/chicken-grilled.jpg",
+		"location": "Wadi Gonai | South of Dahab, Dahab, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Seafood, Fast Food, Barbecue"
+	},
+	{
+		"name": "Coffee Wheel",
+		"phone": "+20 111 801 9462",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0f/dc/1d/11/coffee-wheel.jpg",
+		"location": "Dahab, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Cafe"
+	},
+	{
+		"name": "Sababa Hotel Restaurant",
+		"phone": "+20 109 544 4498",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0d/c5/05/3e/caption.jpg",
+		"location": "El Fanar Rd | Sababa Hotel, Dahab 46617, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "European, Grill, Russian"
+	},
+	{
+		"name": "Timoja Restaurant & Lounge",
+		"phone": "+20 101 909 0178",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/13/ba/72/08/timoja-restaurant-lounge.jpg",
+		"location": "Dahab, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Mediterranean, Egyptian"
+	},
+	{
+		"name": "Sun Restaurant",
+		"phone": "+20 102 409 1901",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0d/a0/69/86/caption.jpg",
+		"location": "EL FANAL Street Yellow Building | Sun Hotel Dahab, Dahab 2345, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Asian, Chinese, Korean"
+	},
+	{
+		"name": "El Dorado Restaurant",
+		"phone": "",
+		"photo": "",
+		"location": "El Melil St. Beside Garden Restaurant, Dahab, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Italian, Mediterranean, Pizza, European"
+	},
+	{
+		"name": "Same Same But Different Restaurant",
+		"phone": "+20 100 646 6863",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/a1/63/ec/crispy-pancakes.jpg",
+		"location": "Almasbat, Dahab, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Moroccan, Mediterranean, Egyptian"
+	},
+	{
+		"name": "El Mundo",
+		"phone": "+20122627095",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/ba/e0/fb/el-mundo.jpg",
+		"location": "Masbat | After the bridge bedside Cairo bank, Dahab 12345, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "International, Mediterranean, Egyptian"
+	},
+	{
+		"name": "Mojo CoWork Cafe",
+		"phone": "+20 102 093 7294",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/13/2e/2c/ca/getlstd-property-photo.jpg",
+		"location": "Lighthouse Road, Dahab 46617, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "American, German, European"
+	},
+	{
+		"name": "I Don't Care",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/09/3c/6b/aa/amazing-place-lovely.jpg",
+		"location": "Dahab Street, Dahab, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Steakhouse, Mediterranean"
+	},
+	{
+		"name": "Kung Fu Pasta",
+		"phone": "+20 100 619 0017",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/10/d0/dd/8e/getlstd-property-photo.jpg",
+		"location": "Dahab, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Italian, American, Cafe"
+	},
+	{
+		"name": "Fresh Fish",
+		"phone": "+20 100 385 5604",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/d9/91/89/fresh-fish.jpg",
+		"location": "Dahab,Masbat Bay, Dahab, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Seafood, Egyptian"
+	},
+	{
+		"name": "Waffle House Dahab",
+		"phone": "+20 109 319 9993",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/12/bc/d2/40/wh-logo.jpg",
+		"location": "Dahab, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "French, Belgian, Fast Food"
+	}
+]

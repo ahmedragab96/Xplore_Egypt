@@ -1,0 +1,482 @@
+﻿[
+	{
+		"name": "Roberto's Italian Restaurant",
+		"phone": "+20 3 4209120",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0f/38/bb/33/getlstd-property-photo.jpg",
+		"location": "14th of May Bridge Road, Alexandria 21599, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Italian, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Balbaa Village",
+		"phone": "+20 16941",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/7a/1b/c7/balbaa-amazing-seafood.jpg",
+		"location": "Malak Hifny St | Sidi Bishr And Down Town Branch, Alexandria 032023446, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Seafood, Mediterranean, Barbecue"
+	},
+	{
+		"name": "Fish Market",
+		"phone": "+20 3 4805114",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/0d/52/d5/photo0jpg.jpg",
+		"location": "El Corniche Rd. Beside Scout Club, Alexandria 21599, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Seafood, Mediterranean, Soups"
+	},
+	{
+		"name": "White and Blue Restaurant",
+		"phone": "+20 3 4802690",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-p/07/a0/02/04/greek-salad-and-beer.jpg",
+		"location": "Qaitbay Str. | Third Floor, Alexandria 21599, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Seafood, Mediterranean, Greek"
+	},
+	{
+		"name": "Santorini Greek Restaurant",
+		"phone": "+20 3 5490935",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0f/17/e6/09/getlstd-property-photo.jpg",
+		"location": "544 El Geish Road, Sidi Bishr, Alexandria 21611, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Greek, Seafood, European"
+	},
+	{
+		"name": "Ginger",
+		"phone": "+20 3 4209120",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0a/98/22/93/sushi-fusion.jpg",
+		"location": "Hilton Green Plaza, 14th of May Bridge Road - Smouha, Alexandria 21599, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Sushi, Asian, Chinese"
+	},
+	{
+		"name": "Sea Gull",
+		"phone": "+20 3 2204214",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/5a/c9/1c/sea-gull.jpg",
+		"location": "Elmax | Elagamy, Elmax, Alexandria 21599, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Seafood, Mediterranean, Soups"
+	},
+	{
+		"name": "Chez Gaby",
+		"phone": "+20 3 4874404",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/05/88/a6/c5/im-typischen-italienischen.jpg",
+		"location": "22 El Horreya Rd., Alexandria 21599, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Italian, Pizza, European"
+	},
+	{
+		"name": "Fresca, Four Seasons Alexandria at San Stefano",
+		"phone": "+20 3 5818000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/42/0b/3f/fresca-four-seasons-alexandria.jpg",
+		"location": "399 El Geish Road | Four Seasons Hotel Alexandria at San Stefano, Alexandria 21599, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Italian, Japanese, Pizza"
+	},
+	{
+		"name": "Roastery coffee",
+		"phone": "+20 3 4834363",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0d/e8/21/30/photo0jpg.jpg",
+		"location": "Fouad street | Kafr-Abdo, Alexandria 12556, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Cafe, Contemporary, Vegetarian Friendly"
+	},
+	{
+		"name": "Zephere Sea Food",
+		"phone": "+20 3 4403250",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/05/c1/1f/62/wurzig-gefullt-auf-dem.jpg",
+		"location": "29 Corniche El Max, Alexandria 21599, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Seafood, Mediterranean, Egyptian"
+	},
+	{
+		"name": "Abd El Wahab Village",
+		"phone": "+20 3 5032856",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0c/fd/a1/f0/photo0jpg.jpg",
+		"location": "Gameela Abu Hered st, Seyouf, Alexandria 21599, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Mediterranean, Barbecue, Middle Eastern"
+	},
+	{
+		"name": "Alban Swissra",
+		"phone": "+20 3 5913369",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/39/92/21/photo0jpg.jpg",
+		"location": "Al Ibrahimeyah Bahri WA Sidi Gaber, Qesm Bab Sharqi, Alexandria Governorate, Alexandria 21599, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Egyptian"
+	},
+	{
+		"name": "Tejano's Mexican Grill",
+		"phone": "+20 3 5853454",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0b/24/48/72/tejano-s-mexican-grill.jpg",
+		"location": "Al Ikbal St., Building 19, Louran, Alexandria 21599, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Mexican, Latin, Vegetarian Friendly"
+	},
+	{
+		"name": "Fish Market",
+		"phone": "+20 16770",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/36/23/30/shrimp-sole.jpg",
+		"location": "El Gaish Road, Alexandria 21599, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Seafood, Mediterranean, Middle Eastern"
+	},
+	{
+		"name": "Byblos Restaurant",
+		"phone": "+20 3 5818000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/08/7f/4e/03/byblos-restaurant.jpg",
+		"location": "399 El Geish Road | Four Seasons Hotel Alexandria at San Stefano, Alexandria 21599, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Lebanese, Middle Eastern, Mediterranean"
+	},
+	{
+		"name": "Hosny",
+		"phone": "+20 3 4812350",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/b4/67/57/hosny.jpg",
+		"location": "30 Saffar Pasha St,Bahary & Gamal Abd El Nasser St., Alexandria 21599, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Barbecue, Middle Eastern, Egyptian"
+	},
+	{
+		"name": "Tamara Lebanese Bistro",
+		"phone": "+20 120 888 8494",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/83/87/f3/caption.jpg",
+		"location": "Alexandria Desert Road, Alexandria 21599, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Lebanese, Middle Eastern, Vegetarian Friendly"
+	},
+	{
+		"name": "Farag Fish",
+		"phone": " ",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/f9/1a/2c/farag-fish.jpg",
+		"location": "7 Souk El Tabbakhin St., Alexandria 21599, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Seafood, Mediterranean, Egyptian"
+	},
+	{
+		"name": "Tikka Grill",
+		"phone": "+20 3 4805119",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/ce/58/71/exterior.jpg",
+		"location": "Bahary | Beside Scout club Eastern Harbor, Alexandria 21599, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Barbecue, Egyptian, Grill"
+	},
+	{
+		"name": "Arous El Bahr Fish Restaurant",
+		"phone": "+20 100 007 7080",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/9b/ab/ba/sea-food.jpg",
+		"location": "El Masaged Sq. | Beside abi el abbas mosque, Alexandria 21599, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Seafood, Mediterranean, Egyptian"
+	},
+	{
+		"name": "Latino",
+		"phone": "+20 3 5849660",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/7a/c1/f6/photo0jpg.jpg",
+		"location": "El Guish Rd | Beside Glim Traffic Point, Alexandria 21599, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Cafe, Mediterranean, Vegetarian Friendly"
+	},
+	{
+		"name": "Santa Lucia Restaurant",
+		"phone": "+20 3 4860332",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/63/f8/b2/starters-the-muscles.jpg",
+		"location": "40 Safia Zagloul Street, Alexandria 21599, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Mediterranean, European"
+	},
+	{
+		"name": "Samakmak",
+		"phone": "+20 3 4811560",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-w/0e/25/5b/cb/samakmak.jpg",
+		"location": "42 Kasr Raas El Teen Street | Anfushi, Alexandria 21599, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Seafood, Mediterranean, Egyptian"
+	},
+	{
+		"name": "Balady gourmet",
+		"phone": "+20 3 4241590",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/16/14/71/09/balady-gourmet.jpg",
+		"location": "33 Albert El Awal Street, Alexandria 21599, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Mediterranean, Egyptian"
+	},
+	{
+		"name": "Gad Restaurants",
+		"phone": "+20 3 4878267",
+		"photo": " ",
+		"location": "3 Saad Zaghloul St. | Raml Station, Alexandria 21599, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Middle Eastern, Egyptian, Fast Food"
+	},
+	{
+		"name": "7 Seas Fish Restaurant",
+		"phone": "+20 3 5635314",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0c/53/1f/0b/7-seas-fish-restaurant.jpg",
+		"location": "30 Alkaid Gohar St | Abu kir, Alexandria 21599, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Seafood, Mediterranean, Egyptian"
+	},
+	{
+		"name": "Gad",
+		"phone": " ",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/7a/4c/85/alexandria.jpg",
+		"location": "Mahmoud Azmi | Attarine, Alexandria 21599, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Fast Food, Middle Eastern, Egyptian"
+	},
+	{
+		"name": "Ole Cafe Espaniol",
+		"phone": " ",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-o/04/58/6f/f1/cappuccino-filtered-coffee.jpg",
+		"location": "3 Mokarar, , Kafr Abdou, Alexandria 21599, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Cafe"
+	},
+	{
+		"name": "Minouche Pizza",
+		"phone": "+20 3 5442072",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/de/de/1b/americana-pizza.jpg",
+		"location": "242 El Guish Rd. In Front Of Sangiovanni Stanly Hotel, Alexandria 21599, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Pizza, Italian, Vegetarian Friendly"
+	},
+	{
+		"name": "NEO Lounge Alexandria",
+		"phone": "+20 127 002 7777",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/12/47/17/8d/enjoy-the-neo-experience.jpg",
+		"location": "544 El-Gaish Road, | Hilton Alexandria Corniche Hotel, Alexandria 21611, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Lebanese, Mediterranean, Sushi"
+	},
+	{
+		"name": "Bruxie's EGYPT",
+		"phone": "5448994 03",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-p/0a/9f/bf/42/bruxies.jpg",
+		"location": "26 Ismailiya St., Alexandria 21599, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "American, Vegetarian Friendly"
+	},
+	{
+		"name": "Jars & Jazz",
+		"phone": "+20 127 779 9028",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0d/34/15/58/photo1jpg.jpg",
+		"location": "267 ElGeish Road Stanley, Alexandria 21599, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "American, Vegetarian Friendly"
+	},
+	{
+		"name": "Stefano's Restaurant",
+		"phone": "+20 3 5818000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/05/f5/03/12/stefano-s.jpg",
+		"location": "399 El Geish Road | Four Seasons Hotel Alexandria at San Stefano, Alexandria 21599, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Mediterranean, Italian, European"
+	},
+	{
+		"name": "Jungle",
+		"phone": "+20 3 3808080",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/08/3f/b1/44/jungle.jpg",
+		"location": "DownTown area in Alexandria Egypt, Alexandria 21599, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "International, Mediterranean, Egyptian"
+	},
+	{
+		"name": "Spitfire Bar",
+		"phone": "+20 3 3806503",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/09/ce/f2/35/spitfire-bar.jpg",
+		"location": "Raml Station/Manshia | Next to Telecom Egypt Central, Alexandria 21599, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Pub"
+	},
+	{
+		"name": "Kadoura Restaurant",
+		"phone": "+20 3 4800967",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0d/a9/4d/72/photo0jpg.jpg",
+		"location": "47 26 Yolu Elkornesh Street | Bahary, Alexandria 21599, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Seafood, Mediterranean, Middle Eastern"
+	},
+	{
+		"name": "Hosny For B.B.Q & Seafood",
+		"phone": "+20 3 5507717",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/00/8c/cb/caption.jpg",
+		"location": "Gamal Abdel Nasser St. | El Mandara, Alexandria 21599, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Seafood, Barbecue, Middle Eastern"
+	},
+	{
+		"name": "Ibn Hamido",
+		"phone": "+20 3 5413338",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-p/12/7d/cc/4a/photo1jpg.jpg",
+		"location": "El Corniche Rd | Mostafa Kamel, Alexandria 21599, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Seafood, Mediterranean, Egyptian"
+	},
+	{
+		"name": "China House",
+		"phone": "+20 3 5839334",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/44/df/26/20170123-164219-largejpg.jpg",
+		"location": "16 Midan Saad Zaghloul | Cecil Hotel, Alexandria 21599, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Chinese, Asian, Thai"
+	},
+	{
+		"name": "El Fallah Restaurant",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0d/1b/8b/3d/best-liver-sandwiches.jpg",
+		"location": "6 El Tahrir Sq. Beside El Didy Shop | Besides Cinema Metro, Alexandria 21599, Egypt",
+		"rating": "4.5 ",
+		"cuisine": ""
+	},
+	{
+		"name": "Fish Island",
+		"phone": "+20 101 050 6886",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0f/eb/bb/e1/ramadan-iftar.jpg",
+		"location": "2 Burj El-Arab Airport Road, Alexandria 21599, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Seafood, Mediterranean"
+	},
+	{
+		"name": "Potasta",
+		"phone": "+20 120 444 2724",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0d/98/3c/37/mozzarella-sticks.jpg",
+		"location": "Moaskar Romany Street, Alexandria 21599, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Healthy"
+	},
+	{
+		"name": "Holmes Burgers",
+		"phone": "+20 109 881 3977",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0d/e7/a3/6f/double.jpg",
+		"location": "7 Ibrahim Nussair Street, Alexandria 21599, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "International, Fast Food"
+	},
+	{
+		"name": "San Giovanni restaurant",
+		"phone": "+20 3 5467775",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0a/dc/70/dd/miramar.jpg",
+		"location": "205 El Guiesh Road, Stanly, Alexandria 21599, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Seafood, Mediterranean, European"
+	},
+	{
+		"name": "Starbucks",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0b/a3/a6/a5/this-is-the-place-entranceover.jpg",
+		"location": "El Guish Rd. Beside San Stefano Grand Plaza Mall, Alexandria 21599, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Cafe"
+	},
+	{
+		"name": "Karam Beirut",
+		"phone": "+20 3 5472391",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/11/21/09/01/photo0jpg.jpg",
+		"location": "Montaza Gardens, Alexandria 21599, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Lebanese, Middle Eastern, Mediterranean"
+	},
+	{
+		"name": "Fish Market",
+		"phone": "+20 3 4805114",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/bb/34/54/fish-market.jpg",
+		"location": "Corniche Alexandria | Bahary area, Alexandria 21599, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Seafood, Mediterranean"
+	},
+	{
+		"name": "Kadoura",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/29/12/db/kadoura.jpg",
+		"location": "Gamal Abdel Nasser St. El Mandara Sq., Alexandria 21599, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Seafood, Mediterranean, Egyptian"
+	},
+	{
+		"name": "Zephyrion Fish",
+		"phone": "+20 3 5621319",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/05/a0/c5/8c/zephyrion-fish.jpg",
+		"location": "Abou kir, Alexandria 21599, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Seafood, Mediterranean, Greek"
+	},
+	{
+		"name": "Carlos Cafe",
+		"phone": "+20 3 5430395",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/09/43/05/39/wow.jpg",
+		"location": "El Guish Rd. | Sidi Gaber, Alexandria 21599, Egypt",
+		"rating": "4.5 ",
+		"cuisine": ""
+	},
+	{
+		"name": "Abou El Sid Restaurant",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-o/05/c8/6d/05/abou-el-sid-restaurant.jpg",
+		"location": "39 El Horreya Rd. beside Amir Cinema, Alexandria 21599, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Middle Eastern, Egyptian, Mediterranean"
+	},
+	{
+		"name": "La Veranda",
+		"phone": "+20 3 4861432",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/c7/c3/53/la-veranda.jpg",
+		"location": "46 Saad Zaghloul | Raml Station, Alexandria 21599, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "French, Greek, Egyptian"
+	},
+	{
+		"name": "Zanilli's Cafe & Restaurant Montazah",
+		"phone": "+20 3 5479935",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0b/6f/43/bd/very-nice-place-with.jpg",
+		"location": "Montaza Palace Gardens | In front of Montazah Water Sports Club., Alexandria 21599, Egypt",
+		"rating": "3.5 ",
+		"cuisine": "Mediterranean, Cafe, Vegetarian Friendly"
+	},
+	{
+		"name": "Gad Restaurants",
+		"phone": "+20 3 5546126",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-o/04/60/99/12/bread-foul-pomme-frite.jpg",
+		"location": "683 El Guish Rd., Alexandria 21599, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Middle Eastern, Halal, Vegetarian Friendly"
+	},
+	{
+		"name": "Calithea Restaurant",
+		"phone": "+20 3 4847508",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/a0/bf/a7/calithea.jpg",
+		"location": "83 El Geish Rd | Ramleh Station, Alexandria 21599, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Mediterranean"
+	},
+	{
+		"name": "China House",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/10/e8/b7/d7/hot-and-sour-chicken.jpg",
+		"location": "12 Mohamed Ahmed Afify St | Beside Fathalla Market, Alexandria 21599, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Chinese, Asian, Thai"
+	},
+	{
+		"name": "Grand Cafe'",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0f/a1/a4/f7/20170619-132527-largejpg_rotated_90.jpg",
+		"location": "26th of July Rd. Beside Egyptian Sea Scout, Alexandria 21599, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Cafe, Mediterranean, Middle Eastern"
+	},
+	{
+		"name": "Nutellopia",
+		"phone": "+20 109 678 8967",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0a/cf/68/24/a-nice-place-for-a-visit.jpg",
+		"location": "52 Foad Street | in the L passage, Alexandria 21599, Egypt",
+		"rating": "4.5 ",
+		"cuisine": ""
+	},
+	{
+		"name": "Atheneos",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/a6/c9/3c/the-main-restaurant.jpg",
+		"location": "21 Saad Zaglool square-in front of Raml station, Alexandria 21599, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Cafe, Mediterranean, Egyptian"
+	}
+]

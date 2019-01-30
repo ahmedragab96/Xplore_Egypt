@@ -1,0 +1,458 @@
+﻿[
+	{
+		"name": "Mr.Greek Bar & Restaurant",
+		"phone": "+20 127 078 8121",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/14/98/ca/d2/getlstd-property-photo.jpg",
+		"location": "Marina Boulevard, Hurghada, Egypt",
+		"rating": "5.0 ",
+		"cuisine":"Italian, Steakhouse, European"
+	},
+	{
+		"name": "Sofra",
+		"phone": "+20 65 3590120",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/04/1a/34/fb/sofra.jpg",
+		"location": "Jaz Makadi Saraya Resort | Madinat Makadi, Hurghada 84651, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Mediterranean, Middle Eastern, Egyptian"
+	},
+	{
+		"name": "Makai Tukai Restaurant",
+		"phone": "+20 65 3461100",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/b8/76/85/getlstd-property-photo.jpg",
+		"location": "South Sahl Hashish Road, Magawish District | Jaz Aquamarine Resort, Hurghada 84511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Chinese, Sushi, Asian"
+	},
+	{
+		"name": "Moby Dick",
+		"phone": "+20 65 3440050",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/15/6a/8c/e4/big-boys-challenge-300.jpg",
+		"location": "Sheraton Road | Sheraton street, opposite the hotel Regina Royal Resort, to the right after exit., Hurghada 84511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "International, European, Egyptian"
+	},
+	{
+		"name": "Nino's Restaurant",
+		"phone": "+20 65 3590120",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/4f/c3/e1/getlstd-property-photo.jpg",
+		"location": "Jaz Makadi Saraya Resort | Madinat Makadi, Hurghada 127, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Italian, Pizza, Mediterranean"
+	},
+	{
+		"name": "Waves Restaurant & lounge Bar",
+		"phone": "+20 122 928 2717",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-p/12/a1/2c/02/our-logo.jpg",
+		"location": "Hurghada Marina Boulevard, Hurghada 84511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Italian, International, Steakhouse"
+	},
+	{
+		"name": "Sofra Middle Eastern Cuisine - Hurghada",
+		"phone": "+20 65 3461100",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/b8/7b/89/getlstd-property-photo.jpg",
+		"location": "Jaz Aquamarine Resort, | Magawish District,, Hurghada 84511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Lebanese, Middle Eastern, Mediterranean"
+	},
+	{
+		"name": "Makai Tukai",
+		"phone": "+20 65 3590120",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/04/1a/39/93/makai-tukai.jpg",
+		"location": "Jaz Makadi Saraya Resort | Madinat Makadi, Hurghada 127, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Chinese, Sushi, Asian"
+	},
+	{
+		"name": "Kahramana",
+		"phone": "+20 122 242 8204",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/10/2f/cf/42/kahramana-restaurant.jpg",
+		"location": "Hurghada, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Chinese, Indian, Asian"
+	},
+	{
+		"name": "Grill & Chill Restaurant",
+		"phone": "+20 109 564 1044",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0f/5e/98/b7/grill-chill-restaurant.jpg",
+		"location": "Hurghada New Marina Blvd., Hurghada, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "International, Grill, Egyptian"
+	},
+	{
+		"name": "Chuchichaschtli - swiss house ",
+		"phone": "+20 111 348 9944",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/11/33/59/b7/chuchichaschtli-swiss.jpg",
+		"location": "El Balad | 84513 El Gouna, El Gouna, Hurghada 84513, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Swiss, European, Central European"
+	},
+	{
+		"name": "Pasta e Basta ",
+		"phone": "+20 127 903 3338",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/13/15/69/99/fb-img-1527340804023.jpg",
+		"location": "Kafr El Gouna, El Gouna, Hurghada, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Italian, Mediterranean, European"
+	},
+	{
+		"name": "Alex Beach Club & Restaurant",
+		"phone": "+20 65 3465400",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/04/10/ef/95/alexander.jpg",
+		"location": "Stiegenberger Al Dau beach hotel, Hurghada, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "European, French, Vegetarian Friendly"
+	},
+	{
+		"name": "Breeze Restaurant & Bar - El Gouna ",
+		"phone": "+20 120 283 8123",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/15/a1/99/11/home-of-quality.jpg",
+		"location": "Abu Tig Marina, El Gouna, Hurghada 14474, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "International, Mediterranean, European"
+	},
+	{
+		"name": "Amaya Restaurant Madinat Makadi",
+		"phone": "+20 65 3590580",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-p/0f/68/60/2d/entrance.jpg",
+		"location": "JazAmaya Restaurant-Madinat Makadi - Safaga Road - Hurghada Red Sea - Egypt, Hurghada 84512, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Indian, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "The Grill Restaurant",
+		"phone": "+20 65 3590120",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0b/97/61/36/die-platze-unter-dem.jpg",
+		"location": "Jaz Makadi Saraya Resort | Madinat Makadi, Hurghada 127, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "European, International, Vegetarian Friendly"
+	},
+	{
+		"name": "The Heaven Restaurant",
+		"phone": "+20 122 242 8204",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0c/fc/81/e1/our-angel.jpg",
+		"location": "Hurghada Marina Boulevard | B4-B5 Marina Boulevard, Hurghada 84517, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Asian, Seafood, International"
+	},
+	{
+		"name": "Malu's Deli ",
+		"phone": "+20 127 230 9108",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/12/43/78/23/fresh-smoothies.jpg",
+		"location": " | New Marina, El Gouna, Hurghada 84513, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Healthy, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Le Garage - Gourmet Burger ",
+		"phone": "+20 127 390 5425",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0b/3d/74/09/the-black-pearl-and-the.jpg",
+		"location": "Abu Tig Marina, El Gouna, Hurghada, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "International, European, Diner"
+	},
+	{
+		"name": "MazaGouna ",
+		"phone": "+20 106 645 2108",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/13/3d/5a/8f/fattoush-come-try-our.jpg",
+		"location": "Abu Tig Marina | El Gouna, Egypt, El Gouna, Hurghada, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Lebanese, Mediterranean, Middle Eastern"
+	},
+	{
+		"name": "Puddleduck Bar & Restaurant ",
+		"phone": "+20 128 896 3841",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/05/2c/e6/95/puddleduck-restaurant.jpg",
+		"location": " | Downtown, Kafr, El Gouna, Hurghada EG1, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Bar, European, British"
+	},
+	{
+		"name": "The Snack Shack ",
+		"phone": "+20 127 010 0774",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/05/b8/84/cc/snack-shack.jpg",
+		"location": "Inas El Degheidy Street | Down Town, El Gouna, Hurghada, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Cafe, Fast Food, Vegetarian Friendly"
+	},
+	{
+		"name": "Retro Bar & Pub",
+		"phone": "+20 100 512 6667",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/04/36/13/26/getlstd-property-photo.jpg",
+		"location": "Old Sheraton Road | between Sunrise Holidays Resort and Moon Valley Residence, Hurghada, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Bar, British, Pub"
+	},
+	{
+		"name": "The Grill ",
+		"phone": "+20 122 178 5555",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0f/1f/ab/68/main-photo.jpg",
+		"location": "Downtown, across wooden bridge behind Ebeid Market, El Gouna, Hurghada, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Mediterranean, Barbecue, Middle Eastern"
+	},
+	{
+		"name": "The Lodge Restaurant",
+		"phone": "+20 122 416 3912",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/43/41/7c/the-lodge-restaurant.jpg",
+		"location": "Hurghada Marina, Hurghada 1200EG, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Steakhouse, Seafood, European"
+	},
+	{
+		"name": "Upstairs Restaurant ",
+		"phone": "+20 102 888 8923",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/55/0a/91/inside-upstairs.jpg",
+		"location": "Kafr, El Gouna, Hurghada 11122, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "European, Vegetarian Friendly"
+	},
+	{
+		"name": "L'Imperatore Marina",
+		"phone": "+20 100 482 4903",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/14/0a/5d/8a/nice-view.jpg",
+		"location": "New Marina, Hurghada, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Italian, Pizza, Mediterranean"
+	},
+	{
+		"name": "Granada",
+		"phone": "+20 102 514 4220",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/14/62/7c/1c/having-a-romantic-night.jpg",
+		"location": "Old Sheraton Road | Old Sheraton Road,200m after Sunrise holiday hotel, Hurghada, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Italian, Seafood, International"
+	},
+	{
+		"name": "Thai Garden",
+		"phone": "+20 65 3463131",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/81/1d/54/thai-garden.jpg",
+		"location": "Village Road | Siva Grand Beach Resort, Hurghada, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Asian, Thai, Vegetarian Friendly"
+	},
+	{
+		"name": "Caribbean Bar",
+		"phone": "+20 111 049 7436",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/79/29/f9/caribbean-bar.jpg",
+		"location": "Sheraton Road | Bella Vista Building, Hurghada 84511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Bar, Seafood, Mediterranean"
+	},
+	{
+		"name": "White Elephant Thai Restaurant",
+		"phone": "+20 65 3442156",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-o/04/45/f1/3f/entrance-to-white-elephant.jpg",
+		"location": "Marin, block b | Hurghada New Marina, Hurghada, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Asian, Thai, Vegetarian Friendly"
+	},
+	{
+		"name": "Town House ",
+		"phone": "+20 127 406 9244",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-w/08/5a/8d/f8/crab-gratin.jpg",
+		"location": "El Gouna / Down Town | H10, El Gouna, Hurghada, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Chinese, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Jobo's Sports Bar & Restaurant ",
+		"phone": "+20 102 888 8793",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/15/50/3f/85/jobo-s-sports-bar-during.jpg",
+		"location": "Tamr Henna Square, El Gouna, Hurghada 84513, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Bar, European, Pub"
+	},
+	{
+		"name": "Maritim Restaurant ",
+		"phone": "+20 102 888 8926",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/71/3f/68/maritim-restaurant.jpg",
+		"location": "Abu Tig Marina, El Gouna, Hurghada 11122, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Seafood, Mediterranean, European"
+	},
+	{
+		"name": "El Halaka",
+		"phone": "+20 65 3442649",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/51/a2/52/el-halaka.jpg",
+		"location": "Sakalla Square in Front of Fish Market and Next to El Mena Mosque, Hurghada, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Seafood, Mediterranean, Soups"
+	},
+	{
+		"name": "Bordiehn`s Villa Kunterbunt",
+		"phone": "+20 100 123 2354",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/80/08/3c/villa-kunterbunt.jpg",
+		"location": "Corniche | Arabia Azur Resort, Hurghada 5555, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "International, Egyptian, Vegetarian Friendly"
+	},
+	{
+		"name": "Ali Pacha Resort, Tandoor Restaurant ",
+		"phone": "+20 128 109 0188",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0c/88/c8/69/ali-pacha-resort-tandoor.jpg",
+		"location": "Abu Tig Marina, El Gouna, Hurghada, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Indian, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Captain's Steakhouse ",
+		"phone": "+20 65 3580170",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/84/54/ea/prachtig-uitgebreider.jpg",
+		"location": "Abu Tig Marina, El Gouna, Hurghada, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Steakhouse, European, Vegetarian Friendly"
+	},
+	{
+		"name": "The Purrfect Cuppa English Tea Room",
+		"phone": "+20 120 141 5500",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/09/c8/b3/61/the-purrfect-cuppa-english.jpg",
+		"location": " | El Kawther, Hurghada, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Healthy, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Grasshopper Cafe Restaurant ",
+		"phone": "+20 122 445 2978",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0b/f1/dd/d5/frischer-deutscher-kasekuchen.jpg",
+		"location": "El Kafr | Downtown, El Gouna, Hurghada, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "German, International, European"
+	},
+	{
+		"name": "Nubian Cafe & Restaurant",
+		"phone": "0122287825",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/09/f2/fe/03/us.jpg",
+		"location": "Marina Hurghada | New Marina, Hurghada, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Mediterranean, Middle Eastern, Egyptian"
+	},
+	{
+		"name": "Hard Rock Cafe",
+		"phone": "+20 65 3465172",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/09/9b/4a/4e/hard-rock-cafe-hurghada.jpg",
+		"location": "Nawwara Center, Tareek El Kora, Red Sea, Hurghada 84511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Pub, Central American, Vegetarian Friendly"
+	},
+	{
+		"name": "Kan Zaman Restaurant ",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/05/1e/c8/ba/kan-zaman.jpg",
+		"location": "El Gouna downtown | Behind China House, H-11, El Gouna, Hurghada, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Middle Eastern, Egyptian, Mediterranean"
+	},
+	{
+		"name": "Star Fish Restaurant",
+		"phone": "+20 65 3443751",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/87/02/bd/filename-dscn1281-jpg.jpg",
+		"location": "Sheraton Rd. Near To Roma Hotel, Hurghada, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Seafood, Mediterranean, Middle Eastern"
+	},
+	{
+		"name": "Moods Restaurant & Beach Club ",
+		"phone": "+20 122 090 0777",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/e0/4f/c9/moods-restaurant-beach.jpg",
+		"location": "Abu Tig Marina, El Gouna, Hurghada, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Bar, European, International"
+	},
+	{
+		"name": "White Elephant Thai Resturant ",
+		"phone": "+20 100 102 5117",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/05/b7/4b/21/white-elephant-thai-resturant.jpg",
+		"location": "El Balad, Downtown, El Gouna, Hurghada, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Sushi, Asian, Thai"
+	},
+	{
+		"name": "The Three Corners Rihanna Restaurant ",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/ca/d9/e2/sauber-und-gepflegt.jpg",
+		"location": "El Gouna, Hurghada, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Egyptian, Vegetarian Friendly, Gluten Free Options"
+	},
+	{
+		"name": "Gad Restaurants",
+		"phone": "+20 65 3453262",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/04/45/ec/7c/entrance-to-take-away.jpg",
+		"location": "Sheraton Rd. | Sekala, Hurghada, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Fast Food, Middle Eastern, Egyptian"
+	},
+	{
+		"name": "El Dar Darak Restaurant",
+		"phone": "+20 122 502 4413",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-o/03/99/26/63/caption.jpg",
+		"location": "El Central El Seyahy St., Hurghada, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Barbecue, Middle Eastern, Egyptian"
+	},
+	{
+		"name": "Dunes Restaurant and Bar ",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0d/bd/da/a3/photo1jpg.jpg",
+		"location": "Downtown, El Gouna, Hurghada, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Bar"
+	},
+	{
+		"name": "The Turkish House ",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0d/7f/bf/7b/beef-fillet-turkish-house.jpg",
+		"location": "Down town, El Gouna, Hurghada, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Mediterranean, Turkish, Middle Eastern"
+	},
+	{
+		"name": "Lagoonie Restaurant & Bar ",
+		"phone": "+20 128 899 0118",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/09/2c/cf/ff/in-the-new-marina-piazza.jpg",
+		"location": "New Marina Next to Club 88, El Gouna | New Marina Piazza, El Gouna, El Gouna, Hurghada, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "International, Mediterranean, Spanish"
+	},
+	{
+		"name": "Little Buddha",
+		"phone": "+20 120211221",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/46/f0/34/mind-blowing-sushi.jpg",
+		"location": "Village Road, Hurghada, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Japanese, Bar, Sushi"
+	},
+	{
+		"name": "samos",
+		"phone": "+20 100 329 9662",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0a/27/7e/97/20160121-103103-largejpg.jpg",
+		"location": "Sheraton Road, Hurghada, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Mediterranean, Greek, Egyptian"
+	},
+	{
+		"name": "Gaucho Steakhouse",
+		"phone": "+20 65 3463131",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/81/39/5c/gaucho-steakhouse.jpg",
+		"location": "Village Road | Siva Grand Besch Hotel, Hurghada, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Steakhouse, Barbecue"
+	},
+	{
+		"name": "Athena Greek Taverna ",
+		"phone": "+20 100 696 5102",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/09/0e/db/5a/athena-greek-taverna.jpg",
+		"location": "Down Town, Beside Ebaed Market, El Gouna, Hurghada, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Mediterranean, Greek, Vegetarian Friendly"
+	},
+	{
+		"name": "El Mina Restaurant",
+		"phone": "+20 65 3556637",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/3f/cb/50/hurghada-agypten-tasty.jpg",
+		"location": "El Minaa St., Hurghada 22313, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Seafood, Soups, Egyptian"
+	}
+]
