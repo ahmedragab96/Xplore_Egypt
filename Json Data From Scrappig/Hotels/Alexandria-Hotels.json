@@ -1,0 +1,552 @@
+﻿[
+	{
+		"name": "Romance Alexandria Corniche Hotel",
+		"priceRange": "EGP 1,098",
+		"address": "303 Tareek El Gueish Saba Pasha, Alexandria 31211, Egypt",
+		"rate": "4.5",
+		"description": "This 4 star hotel is located in the elegant Saba Pasha district, between the Montaza Palace and the centre of the city, 7 kilometres from Nozha Airport. Eatabe Alexandria Hotel offers 45 suites and 36 rooms all with panoramic sea views, of which most have been recently renovated. The hotel features gourmet restaurants, a coffee shop, a bar and a nightclub in addition to a fully renovated multi-function ballroom and private parking, wifi free with high speed , New SPA& GYM facilities & free shuttle bus service for all guest in house .",
+		"features": "Restaurant\r\nRoom Service\r\nFree Internet\r\nBar/Lounge\r\nBanquet Room\r\nBreakfast Available\r\nConcierge\r\nConference Facilities\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nSafe\r\nQuiet\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-w/15/ff/d9/d0/eatabe-alexandria-hotel.jpg"
+	},
+	{
+		"name": "Hilton Alexandria Corniche",
+		"priceRange": "EGP 3,053",
+		"address": "544 El Geish Road, Sidi Bishr, Alexandria 21611, Egypt",
+		"rate": "4.5",
+		"description": " Full view",
+		"features": "Pool\r\nRoom Service\r\nRestaurant\r\nFitness Center with Gym / Workout Room\r\nAirport Transportation\r\nBanquet Room\r\nBreakfast Available\r\nConcierge\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nMarina View\r\nGreat View\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-m/1280/14/7a/f6/4c/guest-room.jpg"
+	},
+	{
+		"name": "Steigenberger Cecil Hotel",
+		"priceRange": "EGP 3,684",
+		"address": "16, Saad Zagloul Square | Raml Station Alexandria, Alexandria 11053, Egypt",
+		"rate": "4.0",
+		"description": "Steigenberger Cecil Alexandria lets you experience all the splendor of this amazing city first hand. Conveniently located in the heart of the business district, overlooking the bay and yacht club, this exquisite hotel is just minutes from the airport, ideal for business or pleasure. Built in 1929 yet constantly in step with the times, it provides a perfect blend of modern amenities and old world charm. Discerning connoisseurs also appreciate the impeccable service and attention to detail.",
+		"features": "Restaurant\r\nRoom Service\r\nBar/Lounge\r\nFree High Speed Internet (WiFi)\r\nBreakfast included\r\nBanquet Room\r\nBusiness Center with Internet Access\r\nConcierge\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nQuaint\r\nHistoric Hotel\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/65/3c/a2/steigenberger-cecil-hotel.jpg"
+	},
+	{
+		"name": "Helnan Palestine Hotel",
+		"priceRange": "EGP 3,001",
+		"address": "Montazah Garden Palace, Alexandria 21599, Egypt",
+		"rate": "4.0",
+		"description": "The Hotel is The civic & social center of Alexandria, known for its commitment to excellence in service & hospitality,The hotel is a five star deluxe hotel, situated in a unique location and embracing the Mediterranean and providing harmonious scenery. The vast magnificent gifts of nature, 350 acres of gardens and golden sandy beaches surround its bay. The hotel faces one of the most famous historical landmarks in Alexandria, \"Royal Palace\" which was once the site where the late Egyptian royal family vacationed.",
+		"features": "Pool\r\nRoom Service\r\nRestaurant\r\nBar/Lounge\r\nSpa\r\nFree High Speed Internet (WiFi)\r\nFitness Center with Gym / Workout Room\r\nBanquet Room\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nPark View\r\nOcean View\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/08/86/ba/75/helnan-palestine-hotel.jpg"
+	},
+	{
+		"name": "Four Seasons Hotel Alexandria",
+		"priceRange": "EGP 4,064",
+		"address": "399 El Geish Road, Alexandria 21599, Egypt",
+		"rate": "4.5",
+		"description": "Edging the Mediterranean in a setting of legendary glamour, discover an intimate enclave within the stately Grand Plaza shopping and residential complex. Indulge in classically elegant accommodations, European spa treatments and terraced restaurants with fresh sea breezes.",
+		"features": "Pool\r\nRoom Service\r\nFitness Center with Gym / Workout Room\r\nRestaurant\r\nSpa\r\nBar/Lounge\r\nFree High Speed Internet (WiFi)\r\nAirport Transportation\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nGreat View\r\nMarina View\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/06/dd/52/31/alx-guest-room.jpg"
+	},
+	{
+		"name": "Radisson Blu Hotel, Alexandria",
+		"priceRange": "EGP 2,001",
+		"address": "Mehwar El Taameer | Northern Coast Road 21st KM, Alexandria 21599, Egypt",
+		"rate": "4.5",
+		"description": "Certificate of Excellence\r\n",
+		"features": "Pool\r\nFree Parking\r\nRestaurant\r\nFree High Speed Internet (WiFi)\r\nFitness Center with Gym / Workout Room\r\nRoom Service\r\nBar/Lounge\r\nSpa\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nLake View\r\nTrendy\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/14/80/d5/3d/exterior.jpg"
+	},
+	{
+		"name": "Hilton Alexandria King's Ranch",
+		"priceRange": "EGP 1,981",
+		"address": "10 5 Km Borg Elarab Rd, King Mariout, Alexandria 21599, Egypt",
+		"rate": "4.5",
+		"description": "Certificate of Excellence\r\n",
+		"features": "Pool\r\nRoom Service\r\nRestaurant\r\nBar/Lounge\r\nSpa\r\nFree High Speed Internet (WiFi)\r\nBreakfast included\r\nFitness Center with Gym / Workout Room\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nTrendy\r\nLuxury\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/60/6c/96/reception.jpg"
+	},
+	{
+		"name": "TOLIP Hotel Alexandria",
+		"priceRange": "EGP 1,065",
+		"address": "252 El-Gaish Rd | Mustafa Kamel WA Bolkli, Alexandria 0000, Egypt",
+		"rate": "3.5",
+		"description": "Alexandria with its 477 highly equipped and elegant rooms, suites and penthouses, offers a wide array of services just to make you feel at home.All of our rooms are provided with WIFI internet, Flat LCD/TV screen, tea/coffee making, and facilities, digital safe box, mini bar, hairdryer signature amenities and signature bathrobes.Royal Tulip Alexandria offers you a variety of restaurants, lounges and bars with the best atmosphere indoor and outdoor by the sea view.",
+		"features": "Pool\r\nRoom Service\r\nRestaurant\r\nBar/Lounge\r\nSpa\r\nFitness Center with Gym / Workout Room\r\nFree Internet\r\nBreakfast included\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nOcean View\r\nBay View\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/05/e9/ef/5e/tolip.jpg"
+	},
+	{
+		"name": "Alexander the Great Hotel",
+		"priceRange": "EGP 526",
+		"address": "5 Oskofia St. | Manshia, Alexandria 21599, Egypt",
+		"rate": "3.5",
+		"description": "Located in Alexandria city center, Alexander The Great Hotel offers air-conditioned rooms with balconies and free Wi-Fi. The hotel overlooks the Episcopal Church and features a 24-hour front desk and a tour desk service.Just a 15-minute drive away from the Library of Alexandria, this hotel has spacious rooms with a satellite TV and a telephone. Each room has a minibar and a private bathroom with a shower.Guests can start their day with a breakfast buffet in the dining area or in the privacy of their room. The hotel’s à la carte restaurant serves local dishes, while you will also find a variety of restaurant in the surrounding area.Alexander The Great Hotel is 5 minutes away from the waterfront promenade corniche in Alexandria, and free private parking is available on site.Alexandria International Airport is 5 km away, and a car rental service is also provided.",
+		"features": "Free High Speed Internet (WiFi)\r\nDry Cleaning\r\nLaundry Service\r\nNon-Smoking Hotel\r\nPublic Wifi\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nCentrally Located\r\nFamily\r\n",
+		"imageURL": " "
+	},
+	{
+		"name": "Cherry Maryski Hotel",
+		"priceRange": "EGP 826",
+		"address": "9 Al Borsa Al Kadima St | Al Raml Station, Alexandria 21599, Egypt",
+		"rate": "3.5",
+		"description": "One Of Alexandria business hotels, Cherry Maryski Hotel, enjoys one of the most idyllic locations; founded in the Down Town Area within 5 minutes walking distance of many historical Sites. The City Hotel is perfectly positioned near most of the vital zones & easy access to some of the most remarkable areas in Alexandria. The 4 star City Hotel offers 192 guestrooms, all of which have been designed to ensure your stay with us to be as enjoyable as possible.",
+		"features": "Pool\r\nRestaurant\r\nRoom Service\r\nBreakfast included\r\nFitness Center with Gym / Workout Room\r\nBanquet Room\r\nBusiness Center with Internet Access\r\nConcierge\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nMid-range\r\nTrendy\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/0f/1e/e6/6f/hotel-entrance.jpg"
+	},
+	{
+		"name": "Sheraton Montazah Hotel",
+		"priceRange": "EGP 1,271",
+		"address": "El Corniche Road, Alexandria 21599, Egypt",
+		"rate": "3.5",
+		"description": "Sheraton Montazah,overlooking King's Farouk Palace and gardens on one side and the bright blue waters of the Mediterranean Sea on the other.From the moment you arrive, you will receive the warmest welcome from attentive and responsive staff whose mission is to make your stay a relaxing and unforgettable one.",
+		"features": "Pool\r\nRoom Service\r\nRestaurant\r\nFitness Center with Gym / Workout Room\r\nBar/Lounge\r\nFree High Speed Internet (WiFi)\r\nBabysitting\r\nBanquet Room\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nSafe\r\nGreat View\r\n",
+		"imageURL": " "
+	},
+	{
+		"name": "Green Plaza Inn Hotel",
+		"priceRange": "EGP 575",
+		"address": "14th May Bridge, Alexandria 21599, Egypt",
+		"rate": "4.0",
+		"description": "green plaza is situated in the heart of smouha district close to most of the transportaion facilities Individual AC in rooms - wireless internet access - safe deposit box at front office - car parking facility laundry and valet upon request - baby sitter request - shopping within the mallyou will enjoy your staying with US.",
+		"features": "Room Service\r\nFree Parking\r\nRestaurant\r\nFree High Speed Internet (WiFi)\r\nBabysitting\r\nChildren Activities (Kid / Family Friendly)\r\nDry Cleaning\r\nLaundry Service\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nQuaint\r\nTrendy\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-s/0a/a9/ef/e2/green-plaza-inn-hotel.jpg"
+	},
+	{
+		"name": "Hotel Transit Alexandria",
+		"priceRange": "EGP 469",
+		"address": "1 Gamal Al Deen Yassin St. | Raml Station, Alexandria 21599, Egypt",
+		"rate": "3.5",
+		"description": "Hotel Transit Alexandria Egypt offers a comfortable stay with low price, find all the most important information and site seeing places in Alexandria, enjoy your holiday hotel with Transit.Wifi free, triple rooms, special discount for students, baby cot, two connected rooms for big family with special rates,cafeteria, lobby, breakfast corner, room service, minibar in each room, sea view rooms available by requestAbout 10 minutes walk to the Library of Alexandria, 10 minutes drive from the train station of Alexandria, surrounded by famous restaurants and cafes, just next to Hotel Cecil in Raml Station at 4th floor downtown and not far from French Consulate in Alexandria.",
+		"features": "Free High Speed Internet (WiFi)\r\nBreakfast included\r\nWheelchair access\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nBudget\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/01/e3/c6/c3/hotel-transit-alexandria.jpg"
+	},
+	{
+		"name": "The Grand Plaza Hotel Smouha",
+		"priceRange": "EGP 938",
+		"address": "14th May Avenue, Smouha | Pharos University Entrance, Alexandria 21599, Egypt",
+		"rate": "4.5",
+		"description": "The Grand Plaza Hotel is The Ideal Hotel in Alexandria - The Mediterranean Mermaid and The Second Capital of Egypt. Enjoy Your Stay in The Luxurious Grand Plaza Hotel, Located at The Centre of Alexandria.",
+		"features": "Room Service\r\nRestaurant\r\nFree High Speed Internet (WiFi)\r\nBar/Lounge\r\nBanquet Room\r\nBreakfast Available\r\nConcierge\r\nConference Facilities\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nBoutique\r\nBusiness\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/12/41/ea/73/hotel-entrance.jpg"
+	},
+	{
+		"name": "Paradise Inn Le Metropole Hotel",
+		"priceRange": "EGP 1,157",
+		"address": "52 Saad Zaglol Street | Raml Station, Alexandria, Alexandria 21599, Egypt",
+		"rate": "3.5",
+		"description": "Situated in an 18th century building with classical decorations and stunning views of the Mediterranean, Le Metropole boasts 2 French restaurants and elegantly furnished rooms with a balcony. Le Metropole's rooms are decorated with luxurious fabrics and include free Wi-Fi, air conditioning, satellite TV and daily newspapers. Each room has a modern bathroom. An extensive breakfast buffet is served daily in the breakfast room. For dinner, Les Ambassadeurs Restaurant serves French, seasonal cuisine. The Versailles restaurant also serves French meals, but in a Louis XIV-style setting with daily piano music. The 24-hour front desk at Le Metropole can arrange car rentals, dry cleaning services and recommend attractions and restaurants in the surroundings. Free parking is available. The hotel is situated a 2-minute walk from the El Raml Train Station and the sandy beaches. The library of Alexandria is 1.5 Km away.",
+		"features": "Room Service\r\nRestaurant\r\nFree High Speed Internet (WiFi)\r\nBar/Lounge\r\nBreakfast included\r\nBanquet Room\r\nBreakfast Available\r\nConcierge\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nHistoric Hotel\r\nQuaint\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-s/03/28/cf/c8/metropole-hotel.jpg"
+	},
+	{
+		"name": "Triomphe Hotel",
+		"priceRange": "EGP 301",
+		"address": "26 El Gorfa El Togaria St.- Ramlah Station, Alexandria 21599, Egypt",
+		"rate": "3.0",
+		"description": " ",
+		"features": "Free High Speed Internet (WiFi)\r\nConcierge\r\nLaundry Service\r\nNon-Smoking Hotel\r\nPublic Wifi\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nBudget\r\nQuaint\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/01/ea/b2/dd/triomphe-hotel.jpg"
+	},
+	{
+		"name": "Plaza Hotel",
+		"priceRange": "EGP 1,592",
+		"address": "394 El Gueish Street | Zizinia, Alexandria 21599, Egypt",
+		"rate": "3.5",
+		"description": " Full view",
+		"features": "Restaurant\r\nRoom Service\r\nBar/Lounge\r\nFree High Speed Internet (WiFi)\r\nBreakfast included\r\nBusiness Center with Internet Access\r\nConcierge\r\nDry Cleaning\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nBay View\r\nBusiness\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/02/b6/1b/ec/plaza-hotel.jpg"
+	},
+	{
+		"name": "Alexandria Mediterranean Suites",
+		"priceRange": "EGP 885",
+		"address": "6 Neamat Allah St. | Corniche Road, Alexandria 21599, Egypt",
+		"rate": "4.0",
+		"description": " ",
+		"features": "Room Service\r\nAirport Transportation\r\nBusiness Center with Internet Access\r\nConcierge\r\nDry Cleaning\r\nLaundry Service\r\nMeeting Rooms\r\nNon-Smoking Hotel\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nFamily\r\nCharming\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/07/d2/ae/68/alexandria-mediterranean.jpg"
+	},
+	{
+		"name": "Paradise Inn Windsor Palace Hotel",
+		"priceRange": "EGP 953",
+		"address": "17 El Shohada Street | from El Gish St, El Mansheya, Alexandria 21599, Egypt",
+		"rate": " ",
+		"description": "Dating back to the early 20th century, this historic 4-star hotel is situated directly on Alexandria’s waterfront. Breakfast can be enjoyed on the rooftop terrace with panoramic Corniche views.The elegant rooms of Windsor Palace Hotel offer hand-decorated high ceilings. Each has a balcony, satellite TV and free Wi-Fi. Individually controlled air conditioning is standard in all rooms.Light snacks and refreshments can be enjoyed in the open-air Prince Charles Café with sea views. Decorated with antiques and frescos, the Queen Elizabeth Hall offers fine dining and wine.Guests will be ideally situated in the social and cultural hub of the city. There are several street cafés, shopping boutiques, and seaside promenades nearby. Alexandria Library is 1.5 km away.",
+		"features": "Restaurant\r\nRoom Service\r\nBar/Lounge\r\nFree High Speed Internet (WiFi)\r\nBreakfast included\r\nBanquet Room\r\nConcierge\r\nDry Cleaning\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nHistoric Hotel\r\nOcean View\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/06/e4/b4/05/paradise-inn-windsor.jpg"
+	},
+	{
+		"name": "Mediterranean Azur Hotel",
+		"priceRange": "EGP 1,504",
+		"address": "Corneish Road Roshdy, Alexandria 21599, Egypt",
+		"rate": "3.0",
+		"description": " Full view",
+		"features": "Room Service\r\nPool\r\nRestaurant\r\nBar/Lounge\r\nSpa\r\nBreakfast included\r\nFitness Center with Gym / Workout Room\r\nBanquet Room\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nMid-range\r\nSafe\r\n",
+		"imageURL": " "
+	},
+	{
+		"name": "Africana Hotel",
+		"priceRange": "EGP 1,061",
+		"address": "11km Borg El Arab Road King Mariout | King Mariout, Alexandria 23713, Egypt",
+		"rate": "4.0",
+		"description": "Africana Hotel & Spa is a 4 Star Hotel located in Alexandria, King Mariout, Borg El Arab, 20 minutes away from Alexandria downtown. Known for being the nearest Hotel to Borg El Arab area, and the nearest Hotel to Borg, El Arab Airport (HBE, HEBA), Africana Hotel is known for its familiar atmosphere, and for hosting the most entertaining events among Alexandria Hotels *All rooms and suites have lake view and swimming pools view, Africana hotel also has Elite Spa which is one of the most luxurious Spas in Alexandria, And a fully equipped professional Gym (Elite Gym), *Africana \"On Rocks Bar\" features the nightlife in the hotel. *Africana Thai Restaurant is our new unique outlet that serves exotic Thai food and desserts prepared by our professional Thai Chef.",
+		"features": "Pool\r\nRoom Service\r\nFree Parking\r\nRestaurant\r\nBar/Lounge\r\nSpa\r\nFree High Speed Internet (WiFi)\r\nBreakfast included\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nFamily\r\nMid-range\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/07/56/15/f0/africana-hotel.jpg"
+	},
+	{
+		"name": "Al Maghraby Hotel",
+		"priceRange": "EGP 531",
+		"address": "10 El Boursa Al Adima , Manshia- Alexandria, Alexandria 21599, Egypt",
+		"rate": "4.0",
+		"description": " ",
+		"features": "Room Service\r\nRestaurant\r\nFree High Speed Internet (WiFi)\r\nBusiness Center with Internet Access\r\nLaundry Service\r\nMeeting Rooms\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nQuaint\r\nSafe\r\n",
+		"imageURL": " "
+	},
+	{
+		"name": "Tolip Sports City Borg El Arab",
+		"priceRange": "EGP 1,168",
+		"address": "Army Stadium, Gate 9, Borg El Arab, Alexandria 21599, Egypt",
+		"rate": "4.0",
+		"description": " ",
+		"features": "Pool\r\nRoom Service\r\nFree Parking\r\nRestaurant\r\nBar/Lounge\r\nSpa\r\nFree High Speed Internet (WiFi)\r\nFitness Center with Gym / Workout Room\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nBudget\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/0e/c0/0c/5a/photo9jpg.jpg"
+	},
+	{
+		"name": "Adham Compound Hotel",
+		"priceRange": "EGP 790",
+		"address": "Km 1.5 Borg El-Arab Hwy | King Marriout, Alexandria 21599, Egypt",
+		"rate": "3.5",
+		"description": " Full view",
+		"features": "Pool\r\nRestaurant\r\nBar/Lounge\r\nFree High Speed Internet (WiFi)\r\nRoom Service\r\nFree Parking\r\nSpa\r\nFitness Center with Gym / Workout Room\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nFamily\r\nMid-range\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/08/03/1f/23/adham-compound-hotel.jpg"
+	},
+	{
+		"name": "Eastern Al Montazah Hotel",
+		"priceRange": "EGP 1,051",
+		"address": "El Malek Street, Alexandria 12345, Egypt",
+		"rate": "3.5",
+		"description": " ",
+		"features": "Room Service\r\nFree Parking\r\nRestaurant\r\nFree High Speed Internet (WiFi)\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nTrendy\r\nMid-range\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/0b/05/45/42/eastern-al-montazah-hotel.jpg"
+	},
+	{
+		"name": "Kaoud Sporting Hotel",
+		"priceRange": "EGP 315",
+		"address": "133 Al Gaish Road, Alexandria 1215, Egypt",
+		"rate": "2.0",
+		"description": " Full view",
+		"features": "Restaurant\r\nRoom Service\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nBudget\r\nFamily\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/12/c9/78/e9/a-view-of-the-room.jpg"
+	},
+	{
+		"name": "Romance Alexandria Corniche Hotel",
+		"priceRange": "EGP 1,098",
+		"address": "303 Tareek El Gueish Saba Pasha, Alexandria 31211, Egypt",
+		"rate": "4.5",
+		"description": "This 4 star hotel is located in the elegant Saba Pasha district, between the Montaza Palace and the centre of the city, 7 kilometres from Nozha Airport. Eatabe Alexandria Hotel offers 45 suites and 36 rooms all with panoramic sea views, of which most have been recently renovated. The hotel features gourmet restaurants, a coffee shop, a bar and a nightclub in addition to a fully renovated multi-function ballroom and private parking, wifi free with high speed , New SPA& GYM facilities & free shuttle bus service for all guest in house .",
+		"features": "Restaurant\r\nRoom Service\r\nFree Internet\r\nBar/Lounge\r\nBanquet Room\r\nBreakfast Available\r\nConcierge\r\nConference Facilities\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nSafe\r\nQuiet\r\n",
+		"imageURL": ""
+	},
+	{
+		"name": "Hilton Alexandria Corniche",
+		"priceRange": "EGP 3,053",
+		"address": "544 El Geish Road, Sidi Bishr, Alexandria 21611, Egypt",
+		"rate": "4.5",
+		"description": " Full view",
+		"features": "Pool\r\nRoom Service\r\nRestaurant\r\nFitness Center with Gym / Workout Room\r\nAirport Transportation\r\nBanquet Room\r\nBreakfast Available\r\nConcierge\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nMarina View\r\nGreat View\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-m/1280/14/7a/f6/4c/guest-room.jpg"
+	},
+	{
+		"name": "Steigenberger Cecil Hotel",
+		"priceRange": "EGP 3,684",
+		"address": "16, Saad Zagloul Square | Raml Station Alexandria, Alexandria 11053, Egypt",
+		"rate": "4.0",
+		"description": "Steigenberger Cecil Alexandria lets you experience all the splendor of this amazing city first hand. Conveniently located in the heart of the business district, overlooking the bay and yacht club, this exquisite hotel is just minutes from the airport, ideal for business or pleasure. Built in 1929 yet constantly in step with the times, it provides a perfect blend of modern amenities and old world charm. Discerning connoisseurs also appreciate the impeccable service and attention to detail.",
+		"features": "Restaurant\r\nRoom Service\r\nBar/Lounge\r\nFree High Speed Internet (WiFi)\r\nBreakfast included\r\nBanquet Room\r\nBusiness Center with Internet Access\r\nConcierge\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nQuaint\r\nHistoric Hotel\r\n",
+		"imageURL": ""
+	},
+	{
+		"name": "Helnan Palestine Hotel",
+		"priceRange": "EGP 3,001",
+		"address": "Montazah Garden Palace, Alexandria 21599, Egypt",
+		"rate": "4.0",
+		"description": "The Hotel is The civic & social center of Alexandria, known for its commitment to excellence in service & hospitality,The hotel is a five star deluxe hotel, situated in a unique location and embracing the Mediterranean and providing harmonious scenery. The vast magnificent gifts of nature, 350 acres of gardens and golden sandy beaches surround its bay. The hotel faces one of the most famous historical landmarks in Alexandria, \"Royal Palace\" which was once the site where the late Egyptian royal family vacationed.",
+		"features": "Pool\r\nRoom Service\r\nRestaurant\r\nBar/Lounge\r\nSpa\r\nFree High Speed Internet (WiFi)\r\nFitness Center with Gym / Workout Room\r\nBanquet Room\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nPark View\r\nOcean View\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/08/86/ba/75/helnan-palestine-hotel.jpg"
+	},
+	{
+		"name": "Four Seasons Hotel Alexandria",
+		"priceRange": "EGP 4,064",
+		"address": "399 El Geish Road, Alexandria 21599, Egypt",
+		"rate": "4.5",
+		"description": "Edging the Mediterranean in a setting of legendary glamour, discover an intimate enclave within the stately Grand Plaza shopping and residential complex. Indulge in classically elegant accommodations, European spa treatments and terraced restaurants with fresh sea breezes.",
+		"features": "Pool\r\nRoom Service\r\nFitness Center with Gym / Workout Room\r\nRestaurant\r\nSpa\r\nBar/Lounge\r\nFree High Speed Internet (WiFi)\r\nAirport Transportation\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nGreat View\r\nMarina View\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/06/dd/52/31/alx-guest-room.jpg"
+	},
+	{
+		"name": "Radisson Blu Hotel, Alexandria",
+		"priceRange": "EGP 2,001",
+		"address": "Mehwar El Taameer | Northern Coast Road 21st KM, Alexandria 21599, Egypt",
+		"rate": "4.5",
+		"description": "Certificate of Excellence\r\n",
+		"features": "Pool\r\nFree Parking\r\nRestaurant\r\nFree High Speed Internet (WiFi)\r\nFitness Center with Gym / Workout Room\r\nRoom Service\r\nBar/Lounge\r\nSpa\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nLake View\r\nTrendy\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/14/80/d5/3d/exterior.jpg"
+	},
+	{
+		"name": "Hilton Alexandria King's Ranch",
+		"priceRange": "EGP 1,981",
+		"address": "10 5 Km Borg Elarab Rd, King Mariout, Alexandria 21599, Egypt",
+		"rate": "4.5",
+		"description": "Certificate of Excellence\r\n",
+		"features": "Pool\r\nRoom Service\r\nRestaurant\r\nBar/Lounge\r\nSpa\r\nFree High Speed Internet (WiFi)\r\nBreakfast included\r\nFitness Center with Gym / Workout Room\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nTrendy\r\nLuxury\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/60/6c/96/reception.jpg"
+	},
+	{
+		"name": "TOLIP Hotel Alexandria",
+		"priceRange": "EGP 1,065",
+		"address": "252 El-Gaish Rd | Mustafa Kamel WA Bolkli, Alexandria 0000, Egypt",
+		"rate": "3.5",
+		"description": "Alexandria with its 477 highly equipped and elegant rooms, suites and penthouses, offers a wide array of services just to make you feel at home.All of our rooms are provided with WIFI internet, Flat LCD/TV screen, tea/coffee making, and facilities, digital safe box, mini bar, hairdryer signature amenities and signature bathrobes.Royal Tulip Alexandria offers you a variety of restaurants, lounges and bars with the best atmosphere indoor and outdoor by the sea view.",
+		"features": "Pool\r\nRoom Service\r\nRestaurant\r\nBar/Lounge\r\nSpa\r\nFitness Center with Gym / Workout Room\r\nFree Internet\r\nBreakfast included\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nOcean View\r\nBay View\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/05/e9/ef/5e/tolip.jpg"
+	},
+	{
+		"name": "Alexander the Great Hotel",
+		"priceRange": "EGP 526",
+		"address": "5 Oskofia St. | Manshia, Alexandria 21599, Egypt",
+		"rate": "3.5",
+		"description": "Located in Alexandria city center, Alexander The Great Hotel offers air-conditioned rooms with balconies and free Wi-Fi. The hotel overlooks the Episcopal Church and features a 24-hour front desk and a tour desk service.Just a 15-minute drive away from the Library of Alexandria, this hotel has spacious rooms with a satellite TV and a telephone. Each room has a minibar and a private bathroom with a shower.Guests can start their day with a breakfast buffet in the dining area or in the privacy of their room. The hotel’s à la carte restaurant serves local dishes, while you will also find a variety of restaurant in the surrounding area.Alexander The Great Hotel is 5 minutes away from the waterfront promenade corniche in Alexandria, and free private parking is available on site.Alexandria International Airport is 5 km away, and a car rental service is also provided.",
+		"features": "Free High Speed Internet (WiFi)\r\nDry Cleaning\r\nLaundry Service\r\nNon-Smoking Hotel\r\nPublic Wifi\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nCentrally Located\r\nFamily\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-s/02/5b/71/4f/filename-sam-1438-jpg.jpg"
+	},
+	{
+		"name": "Amoun Hotel",
+		"priceRange": "EGP 584",
+		"address": "32 El Nasr Street El manshia, Alexandria 21599, Egypt",
+		"rate": "3.5",
+		"description": "Amoun hotel location goes back to the historical Ancient Alexandria, being located on the south border of the ancient pharos island, where was the pharos lighthouse situated, nearby the Hypastadion, which was a 1300 meters long bridge connecting Pharos island with the rest of Ancient Alexandria, around the time of hypatia. Amoun Hotel is distinguished by its unique panoramic view from its roof of the long beautiful coastal areas of The Mediterranean which extends from the fort of Quiet- bay till bibliothecaAlexandrina and in between the eastern harbor, telling the whole story of Ancient Alexandria.",
+		"features": "Restaurant\r\nFree Parking\r\nBreakfast included\r\nRoom Service\r\nFree High Speed Internet (WiFi)\r\nAirport Transportation\r\nDry Cleaning\r\nLaundry Service\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nFamily\r\nRomantic\r\n",
+		"imageURL": ""
+	},
+	{
+		"name": "Cherry Maryski Hotel",
+		"priceRange": "EGP 826",
+		"address": "9 Al Borsa Al Kadima St | Al Raml Station, Alexandria 21599, Egypt",
+		"rate": "3.5",
+		"description": "One Of Alexandria business hotels, Cherry Maryski Hotel, enjoys one of the most idyllic locations; founded in the Down Town Area within 5 minutes walking distance of many historical Sites. The City Hotel is perfectly positioned near most of the vital zones & easy access to some of the most remarkable areas in Alexandria. The 4 star City Hotel offers 192 guestrooms, all of which have been designed to ensure your stay with us to be as enjoyable as possible.",
+		"features": "Pool\r\nRestaurant\r\nRoom Service\r\nBreakfast included\r\nFitness Center with Gym / Workout Room\r\nBanquet Room\r\nBusiness Center with Internet Access\r\nConcierge\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nMid-range\r\nTrendy\r\n",
+		"imageURL": ""
+	},
+	{
+		"name": "Sheraton Montazah Hotel",
+		"priceRange": "EGP 1,271",
+		"address": "El Corniche Road, Alexandria 21599, Egypt",
+		"rate": "3.5",
+		"description": "Sheraton Montazah,overlooking King's Farouk Palace and gardens on one side and the bright blue waters of the Mediterranean Sea on the other.From the moment you arrive, you will receive the warmest welcome from attentive and responsive staff whose mission is to make your stay a relaxing and unforgettable one.",
+		"features": "Pool\r\nRoom Service\r\nRestaurant\r\nFitness Center with Gym / Workout Room\r\nBar/Lounge\r\nFree High Speed Internet (WiFi)\r\nBabysitting\r\nBanquet Room\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nSafe\r\nGreat View\r\n",
+		"imageURL": ""
+	},
+	{
+		"name": "Green Plaza Inn Hotel",
+		"priceRange": "EGP 575",
+		"address": "14th May Bridge, Alexandria 21599, Egypt",
+		"rate": "4.0",
+		"description": "green plaza is situated in the heart of smouha district close to most of the transportaion facilities Individual AC in rooms - wireless internet access - safe deposit box at front office - car parking facility laundry and valet upon request - baby sitter request - shopping within the mallyou will enjoy your staying with US.",
+		"features": "Room Service\r\nFree Parking\r\nRestaurant\r\nFree High Speed Internet (WiFi)\r\nBabysitting\r\nChildren Activities (Kid / Family Friendly)\r\nDry Cleaning\r\nLaundry Service\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nQuaint\r\nTrendy\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-s/0a/a9/ef/e2/green-plaza-inn-hotel.jpg"
+	},
+	{
+		"name": "Hotel Transit Alexandria",
+		"priceRange": "EGP 469",
+		"address": "1 Gamal Al Deen Yassin St. | Raml Station, Alexandria 21599, Egypt",
+		"rate": "3.5",
+		"description": "Hotel Transit Alexandria Egypt offers a comfortable stay with low price, find all the most important information and site seeing places in Alexandria, enjoy your holiday hotel with Transit.Wifi free, triple rooms, special discount for students, baby cot, two connected rooms for big family with special rates,cafeteria, lobby, breakfast corner, room service, minibar in each room, sea view rooms available by requestAbout 10 minutes walk to the Library of Alexandria, 10 minutes drive from the train station of Alexandria, surrounded by famous restaurants and cafes, just next to Hotel Cecil in Raml Station at 4th floor downtown and not far from French Consulate in Alexandria.",
+		"features": "Free High Speed Internet (WiFi)\r\nBreakfast included\r\nWheelchair access\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nBudget\r\n",
+		"imageURL": ""
+	},
+	{
+		"name": "The Grand Plaza Hotel Smouha",
+		"priceRange": "EGP 938",
+		"address": "14th May Avenue, Smouha | Pharos University Entrance, Alexandria 21599, Egypt",
+		"rate": "4.5",
+		"description": "The Grand Plaza Hotel is The Ideal Hotel in Alexandria - The Mediterranean Mermaid and The Second Capital of Egypt. Enjoy Your Stay in The Luxurious Grand Plaza Hotel, Located at The Centre of Alexandria.",
+		"features": "Room Service\r\nRestaurant\r\nFree High Speed Internet (WiFi)\r\nBar/Lounge\r\nBanquet Room\r\nBreakfast Available\r\nConcierge\r\nConference Facilities\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nBoutique\r\nBusiness\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/12/41/ea/73/hotel-entrance.jpg"
+	},
+	{
+		"name": "Paradise Inn Le Metropole Hotel",
+		"priceRange": "EGP 1,157",
+		"address": "52 Saad Zaglol Street | Raml Station, Alexandria, Alexandria 21599, Egypt",
+		"rate": "3.5",
+		"description": "Situated in an 18th century building with classical decorations and stunning views of the Mediterranean, Le Metropole boasts 2 French restaurants and elegantly furnished rooms with a balcony. Le Metropole's rooms are decorated with luxurious fabrics and include free Wi-Fi, air conditioning, satellite TV and daily newspapers. Each room has a modern bathroom. An extensive breakfast buffet is served daily in the breakfast room. For dinner, Les Ambassadeurs Restaurant serves French, seasonal cuisine. The Versailles restaurant also serves French meals, but in a Louis XIV-style setting with daily piano music. The 24-hour front desk at Le Metropole can arrange car rentals, dry cleaning services and recommend attractions and restaurants in the surroundings. Free parking is available. The hotel is situated a 2-minute walk from the El Raml Train Station and the sandy beaches. The library of Alexandria is 1.5 Km away.",
+		"features": "Room Service\r\nRestaurant\r\nFree High Speed Internet (WiFi)\r\nBar/Lounge\r\nBreakfast included\r\nBanquet Room\r\nBreakfast Available\r\nConcierge\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nHistoric Hotel\r\nQuaint\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-s/03/28/cf/c8/metropole-hotel.jpg"
+	},
+	{
+		"name": "Triomphe Hotel",
+		"priceRange": "EGP 301",
+		"address": "26 El Gorfa El Togaria St.- Ramlah Station, Alexandria 21599, Egypt",
+		"rate": "3.0",
+		"description": "",
+		"features": "Free High Speed Internet (WiFi)\r\nConcierge\r\nLaundry Service\r\nNon-Smoking Hotel\r\nPublic Wifi\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nBudget\r\nQuaint\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/01/ea/b2/dd/triomphe-hotel.jpg"
+	},
+	{
+		"name": "Plaza Hotel",
+		"priceRange": "EGP 1,592",
+		"address": "394 El Gueish Street | Zizinia, Alexandria 21599, Egypt",
+		"rate": "3.5",
+		"description": " Full view",
+		"features": "Restaurant\r\nRoom Service\r\nBar/Lounge\r\nFree High Speed Internet (WiFi)\r\nBreakfast included\r\nBusiness Center with Internet Access\r\nConcierge\r\nDry Cleaning\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nBay View\r\nBusiness\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/02/b6/1b/ec/plaza-hotel.jpg"
+	},
+	{
+		"name": "Alexandria Mediterranean Suites",
+		"priceRange": "EGP 885",
+		"address": "6 Neamat Allah St. | Corniche Road, Alexandria 21599, Egypt",
+		"rate": "4.0",
+		"description": "",
+		"features": "Room Service\r\nAirport Transportation\r\nBusiness Center with Internet Access\r\nConcierge\r\nDry Cleaning\r\nLaundry Service\r\nMeeting Rooms\r\nNon-Smoking Hotel\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nFamily\r\nCharming\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/07/d2/ae/68/alexandria-mediterranean.jpg"
+	},
+	{
+		"name": "Paradise Inn Windsor Palace Hotel",
+		"priceRange": "EGP 953",
+		"address": "17 El Shohada Street | from El Gish St, El Mansheya, Alexandria 21599, Egypt",
+		"rate": "3.0",
+		"description": "Dating back to the early 20th century, this historic 4-star hotel is situated directly on Alexandria’s waterfront. Breakfast can be enjoyed on the rooftop terrace with panoramic Corniche views.The elegant rooms of Windsor Palace Hotel offer hand-decorated high ceilings. Each has a balcony, satellite TV and free Wi-Fi. Individually controlled air conditioning is standard in all rooms.Light snacks and refreshments can be enjoyed in the open-air Prince Charles Café with sea views. Decorated with antiques and frescos, the Queen Elizabeth Hall offers fine dining and wine.Guests will be ideally situated in the social and cultural hub of the city. There are several street cafés, shopping boutiques, and seaside promenades nearby. Alexandria Library is 1.5 km away.",
+		"features": "Restaurant\r\nRoom Service\r\nBar/Lounge\r\nFree High Speed Internet (WiFi)\r\nBreakfast included\r\nBanquet Room\r\nConcierge\r\nDry Cleaning\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nHistoric Hotel\r\nOcean View\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/06/e4/b4/05/paradise-inn-windsor.jpg"
+	},
+	{
+		"name": "Mediterranean Azur Hotel",
+		"priceRange": "EGP 1,504",
+		"address": "Corneish Road Roshdy, Alexandria 21599, Egypt",
+		"rate": "3.0",
+		"description": " Full view",
+		"features": "Room Service\r\nPool\r\nRestaurant\r\nBar/Lounge\r\nSpa\r\nBreakfast included\r\nFitness Center with Gym / Workout Room\r\nBanquet Room\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nMid-range\r\nSafe\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/88/96/4a/piscina.jpg"
+	},
+	{
+		"name": "Africana Hotel",
+		"priceRange": "EGP 1,061",
+		"address": "11km Borg El Arab Road King Mariout | King Mariout, Alexandria 23713, Egypt",
+		"rate": "4.0",
+		"description": "Africana Hotel & Spa is a 4 Star Hotel located in Alexandria, King Mariout, Borg El Arab, 20 minutes away from Alexandria downtown. Known for being the nearest Hotel to Borg El Arab area, and the nearest Hotel to Borg, El Arab Airport (HBE, HEBA), Africana Hotel is known for its familiar atmosphere, and for hosting the most entertaining events among Alexandria Hotels *All rooms and suites have lake view and swimming pools view, Africana hotel also has Elite Spa which is one of the most luxurious Spas in Alexandria, And a fully equipped professional Gym (Elite Gym), *Africana \"On Rocks Bar\" features the nightlife in the hotel. *Africana Thai Restaurant is our new unique outlet that serves exotic Thai food and desserts prepared by our professional Thai Chef.",
+		"features": "Pool\r\nRoom Service\r\nFree Parking\r\nRestaurant\r\nBar/Lounge\r\nSpa\r\nFree High Speed Internet (WiFi)\r\nBreakfast included\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nFamily\r\nMid-range\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/07/56/15/f0/africana-hotel.jpg"
+	},
+	{
+		"name": "Al Maghraby Hotel",
+		"priceRange": "EGP 531",
+		"address": "10 El Boursa Al Adima , Manshia- Alexandria, Alexandria 21599, Egypt",
+		"rate": "4.0",
+		"description": "",
+		"features": "Room Service\r\nRestaurant\r\nFree High Speed Internet (WiFi)\r\nBusiness Center with Internet Access\r\nLaundry Service\r\nMeeting Rooms\r\n",
+		"StyleandPrice": "",
+		"imageURL": ""
+	},
+	{
+		"name": "Tolip Sports City Borg El Arab",
+		"priceRange": "EGP 1,168",
+		"address": "Army Stadium, Gate 9, Borg El Arab, Alexandria 21599, Egypt",
+		"rate": "4.0",
+		"description": "",
+		"features": "Pool\r\nRoom Service\r\nFree Parking\r\nRestaurant\r\nBar/Lounge\r\nSpa\r\nFree High Speed Internet (WiFi)\r\nFitness Center with Gym / Workout Room\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nBudget\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/0e/c0/0c/5a/photo9jpg.jpg"
+	},
+	{
+		"name": "Adham Compound Hotel",
+		"priceRange": "EGP 790",
+		"address": "Km 1.5 Borg El-Arab Hwy | King Marriout, Alexandria 21599, Egypt",
+		"rate": "3.5",
+		"description": " Full view",
+		"features": "Pool\r\nRestaurant\r\nBar/Lounge\r\nFree High Speed Internet (WiFi)\r\nRoom Service\r\nFree Parking\r\nSpa\r\nFitness Center with Gym / Workout Room\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nFamily\r\nMid-range\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/08/03/1f/23/adham-compound-hotel.jpg"
+	},
+	{
+		"name": "Eastern Al Montazah Hotel",
+		"priceRange": "EGP 1,051",
+		"address": "El Malek Street, Alexandria 12345, Egypt",
+		"rate": "3.5",
+		"description": "",
+		"features": "Room Service\r\nFree Parking\r\nRestaurant\r\nFree High Speed Internet (WiFi)\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nTrendy\r\nMid-range\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/0b/05/45/42/eastern-al-montazah-hotel.jpg"
+	},
+	{
+		"name": "Royal NJ Hotel",
+		"priceRange": "EGP 757",
+		"address": "Central Zone Block 5 No. 1 Borg El Arab New City, Alexandria 21599, Egypt",
+		"rate": "",
+		"description": "",
+		"features": "",
+		"StyleandPrice": "",
+		"imageURL": ""
+	},
+	{
+		"name": "Mandara Armed Forces Apartments",
+		"priceRange": "EGP 606",
+		"address": "818 El Geish Road, El Mandara, Alexandria, Egypt",
+		"rate": "",
+		"description": "",
+		"features": "",
+		"StyleandPrice": "",
+		"imageURL": ""
+	},
+	{
+		"name": "Kaoud Sporting Hotel",
+		"priceRange": "EGP 315",
+		"address": "133 Al Gaish Road, Alexandria 1215, Egypt",
+		"rate": "2.0",
+		"description": " Full view",
+		"features": "Restaurant\r\nRoom Service\r\n",
+		"StyleandPrice": "HOTEL STYLE\r\nBudget\r\nFamily\r\n",
+		"imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/12/c9/78/e9/a-view-of-the-room.jpg"
+	}
+]
