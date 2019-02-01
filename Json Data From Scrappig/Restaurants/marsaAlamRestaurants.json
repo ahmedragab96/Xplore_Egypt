@@ -1,0 +1,106 @@
+﻿[
+	{
+		"name": "Hakuna matata cafe",
+		"phone": "+20 122 594 4903",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/13/a2/fd/a2/port-ghalib-marina-with.jpg",
+		"location": "Port Ghalib Marina,, Marsa Alam, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Italian, American, German"
+	},
+	{
+		"name": "Costa Coffee",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/04/bd/8d/ba/coffee-costa.jpg",
+		"location": "Port Galib Marsa alam, Marsa Alam, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Cafe"
+	},
+	{
+		"name": "Sofra",
+		"phone": "+(20)65370105",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/30/3e/f4/sofra-middle-east-cuisine.jpg",
+		"location": "Madinat Coraya, 67 KM El Qusier, Marsa Alam, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Mediterranean, Middle Eastern, Halal"
+	},
+	{
+		"name": "Sharme El Luli",
+		"phone": "+20 101 203 7083",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0f/93/b4/c1/v-restauraci.jpg",
+		"location": "Spiaggia Di Sharme El Luli, Marsa Alam, Egypt",
+		"rating": "4.5 ",
+		"cuisine": ""
+	},
+	{
+		"name": "Gorgonia Beach Resort Pizzeria",
+		"phone": "168801741",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0f/d2/71/b1/pizzeria-im-gorgonia.jpg",
+		"location": "International Road 48 km south of Marsa Alam | Wadi el Gamal / National Park / Marsa Alam / Read Sea / Egypt, Marsa Alam, Egypt",
+		"rating": "4.0 ",
+		"cuisine": ""
+	},
+	{
+		"name": "Stella del Mare",
+		"phone": "+20 109 191 9149",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0f/47/95/fb/stella-del-mare.jpg",
+		"location": "22, Street19, Marsa Alam, Marsa Alam, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Seafood, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Nino’s Italian cuisine",
+		"phone": "+(20)65370105",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/10/a7/99/getlstd-property-photo.jpg",
+		"location": "Madinat Coraya, 67 KM El Qusier, Marsa Alam, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Italian, Pizza"
+	},
+	{
+		"name": "Ristorante \"La Mia Africa\"",
+		"phone": "+20 100 222 9915",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0b/02/c0/61/serata-importante.jpg",
+		"location": "25 Km South of Marsa Alam City, Marsa Alam 00000, Egypt",
+		"rating": "3.5 ",
+		"cuisine": ""
+	},
+	{
+		"name": "Non Solo Pasta",
+		"phone": "+20 120 231 7060",
+		"photo": "",
+		"location": "19 Marsa Alam, Marsa Alam, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Italian"
+	},
+	{
+		"name": "Mashrabia Restaurant Marsa Alam",
+		"phone": "+20 128 224 9078",
+		"photo": "",
+		"location": "Street 68, Marsa Alam, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Mediterranean, Egyptian"
+	},
+	{
+		"name": "Pamboty Seafood Restaurant",
+		"phone": "+20 100 801 0850",
+		"photo": "",
+		"location": "Street 9 | Kenz Alam Centre, Marsa Alam, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Seafood"
+	},
+	{
+		"name": "4 corners coffeeshop",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/b0/8c/50/4-corners-coffeeshop.jpg",
+		"location": "Abu Dhabi beach, Marsa Alam, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Mediterranean, Egyptian"
+	},
+	{
+		"name": "Turtles Restaurant",
+		"phone": "",
+		"photo": "",
+		"location": "Marsa Alam, Egypt",
+		"rating": "There are no reviews for Turtles Restaurant, Egypt yet. Be the first to write a review!",
+		"cuisine": "Italian, Seafood, Fast Food, Mediterranean"
+	}
+]

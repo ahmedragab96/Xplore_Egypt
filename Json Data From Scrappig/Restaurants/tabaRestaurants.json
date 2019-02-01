@@ -1,0 +1,122 @@
+﻿[
+	{
+		"name": "Flying Carpet",
+		"phone": "+20 69 3580085",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/42/f1/1c/flying-carpet.jpg",
+		"location": "Wekala district | Downtown, Taba, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Vegetarian Friendly"
+	},
+	{
+		"name": "Nelson Restaurant & Bar",
+		"phone": "+20 69 3530140",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/11/13/9f/ba/nelson-restaurant.jpg",
+		"location": "Taba, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Seafood"
+	},
+	{
+		"name": "Castle Zaman",
+		"phone": "2 018 214 0591",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/08/01/db/c4/castle-zaman.jpg",
+		"location": "25 km Taba-Nuweiba Rd, Taba, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " "
+	},
+	{
+		"name": "El Fuego",
+		"phone": "+20 69 3580100",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/70/25/ee/filename-20080706-98.jpg",
+		"location": "Taba Heights Uptown, Taba, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Mexican"
+	},
+	{
+		"name": "Casa Taba Restaurant",
+		"phone": "+20 69 3530140",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/7f/da/60/outside-area-at-the-casa.jpg",
+		"location": "Taba Beach | Taba Hotel & Nelson Village, Taba 46621, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Italian, Vegetarian Friendly"
+	},
+	{
+		"name": "Chez Pascal",
+		"phone": "+20 69 3580152",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/3b/fb/5d/chez-pascal.jpg",
+		"location": "km 42, Taba Nuweibaa Rd. | Three Corners El Wekala Golf Resort, Taba Heights, Taba, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " French, Belgian, European"
+	},
+	{
+		"name": "Sea Shells",
+		"phone": "+20 69 3530530",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/51/1d/6b/sea-shells.jpg",
+		"location": "Movenpick beach | Next To Dive Centre / Clinic, Taba, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Seafood, Mediterranean"
+	},
+	{
+		"name": "Marhaba Restaurant",
+		"phone": "+20 69 3530140",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/10/b5/6d/b7/getlstd-property-photo.jpg",
+		"location": "Taba, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Middle Eastern"
+	},
+	{
+		"name": "Shahrazad",
+		"phone": "+20 69 3530530",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/14/17/88/cf/20180804-213224-largejpg.jpg",
+		"location": "Movenpick Hotel, Taba, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Lebanese, Mediterranean, Arabic"
+	},
+	{
+		"name": "L'Asiatique",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-o/03/66/3d/0e/my-beef-tenderloin-is.jpg",
+		"location": "Sofitel Hotel | KM 42, Taba Newuiba Road, Taba, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Japanese"
+	},
+	{
+		"name": "Regatta Club",
+		"phone": "20 69 580100",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/10/b8/7a/22/regatta-club-in-the-bay.jpg",
+		"location": "Taba and Nuweiba Highway, Taba Heights | Taba Heights Marriott Red Sea Resort, Taba 46621, Egypt",
+		"rating": "4.0 ",
+		"cuisine": ""
+	},
+	{
+		"name": "Lagoon Restaurant",
+		"phone": "",
+		"photo": "",
+		"location": "Im Hotel Intercontinental Taba Heights, Taba, Egypt",
+		"rating": "5.0 ",
+		"cuisine": ""
+	},
+	{
+		"name": "Olive Branch Restaurant",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/09/a6/09/a2/olive-branch-restaurant.jpg",
+		"location": "Taba Sands Hotel, Taba, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Mediterranean"
+	},
+	{
+		"name": "Retro Cafe",
+		"phone": "+20 110 110 1066",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/16/03/c3/63/getlstd-property-photo.jpg",
+		"location": "Taba Heights | El Wekala Aqua park Resort beside CIB bank, Taba, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Italian, Cafe, Barbecue"
+	},
+	{
+		"name": "Crepiano Restaurant",
+		"phone": "974 5004 9886",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/12/bc/3e/99/caption.jpg",
+		"location": "Taba, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Deli"
+	}
+]

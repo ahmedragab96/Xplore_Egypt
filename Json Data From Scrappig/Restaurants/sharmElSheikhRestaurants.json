@@ -1,4 +1,4 @@
-	﻿[
+[
 	{
 		"name": "Mandarin Bistro",
 		"phone": " ",
@@ -230,14 +230,6 @@
 		"location": "Centre of Na'ama Bay, Camel Hotel, Sharm El Sheikh, Egypt",
 		"rating": "4.5 ",
 		"cuisine": "Indian, Asian, Gluten Free Options"
-	},
-	{
-		"name": "Pomodoro",
-		"phone": " ",
-		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/15/67/3b/6e/img-20181116-wa0015-largejpg.jpg",
-		"location": "Centre of Na'ama Bay | Camel Dive Club & Hotel, Sharm El Sheikh, Egypt",
-		"rating": "4.5 ",
-		"cuisine": "Italian, Pizza, Mediterranean, European, Grill, Vegetarian Friendly, Vegan Options, Gluten Free Options"
 	},
 	{
 		"name": "Arab Bucks",
@@ -478,5 +470,717 @@
 		"location": "Shark's Bay, Sharm El Sheikh, Egypt",
 		"rating": "5.0 ",
 		"cuisine": "Bar"
+	},
+	{
+		"name": "Mandarin Bistro",
+		"phone": "+20 100 010 9109",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/a8/26/65/mandarin-bistro.jpg",
+		"location": "Soho Square | Sharks Bay, Sharm El Sheikh 12444, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Chinese, Indian, Asian"
+	},
+	{
+		"name": "House of Spice",
+		"phone": "+20 69 3602130",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/45/12/c7/dishes.jpg",
+		"location": "Sultan Gardens Resort | Shark's Bay, Sharm El Sheikh 111, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Indian, Asian, Vegetarian Friendly"
+	},
+	{
+		"name": "El Kababgy",
+		"phone": "+20 69 3600081",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/11/8a/4e/93/taking-pride-in-culinary.jpg",
+		"location": " | Mövenpick Resort, Naama Bay, Sharm El Sheikh 46619, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Grill, Egyptian, Barbecue"
+	},
+	{
+		"name": "The Queen Vic",
+		"phone": "+20 100 010 9109",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/c7/a6/26/beer-garden.jpg",
+		"location": "Soho Square, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Bar, British, Pub"
+	},
+	{
+		"name": "Boharat Restaurant",
+		"phone": "+20 122 386 6000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/10/83/e0/b8/20170901-210409-largejpg.jpg",
+		"location": "Namma Bay, next to Tropitl resort and Little Buddha, Sharm El Sheikh, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Egyptian, Mediterranean, Middle Eastern"
+	},
+	{
+		"name": "Luxor",
+		"phone": "+20 100 010 9109",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/04/89/61/a9/luxor.jpg",
+		"location": "Soho Square, Sharm El Sheikh, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Mediterranean, Middle Eastern, Egyptian"
+	},
+	{
+		"name": "Bombay",
+		"phone": "+20 100 010 9109",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/04/89/62/b6/bombay.jpg",
+		"location": "Soho Square, Sharm El Sheikh 169, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Indian, Asian, Balti"
+	},
+	{
+		"name": "Rangoli",
+		"phone": "+20 69 3600081",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/08/30/4a/rangoli.jpg",
+		"location": "Movenpick Resort, Naama Bay, Sharm El Sheikh 46619, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Indian, Asian, Vegetarian Friendly"
+	},
+	{
+		"name": "Sushi Lounge",
+		"phone": "+20 100 010 9109",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/a4/2a/f9/soho-sushi-bar.jpg",
+		"location": "Soho Square | White Knight Beach, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Japanese, Sushi, Asian"
+	},
+	{
+		"name": "Fusion 21",
+		"phone": "+20 100 010 9109",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/c7/a1/88/restaurant.jpg",
+		"location": "Soho Square | Sharks Bay, Sharm El Sheikh 12444, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Mediterranean, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Cafe Chino",
+		"phone": "+20 100 010 9109",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/a6/da/41/cafe-chino.jpg",
+		"location": "Soho Square, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Lebanese, Cafe, Mediterranean"
+	},
+	{
+		"name": "Da Mauro \"Solo Pasta&Pizza\"",
+		"phone": "+20 100 412 4178",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/14/08/25/e2/tris-di-terra.jpg",
+		"location": "El-Salam | Ras Kenedy 5, Sharm El Sheikh 46619, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Italian, Pizza, Mediterranean"
+	},
+	{
+		"name": "The Blue Fountain",
+		"phone": "+20 109 993 4746",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/10/a9/2c/95/apologise-for-temporarily.jpg",
+		"location": "1 Market Square, Beside Rear Exit of Carrefour, | Naama Bay, Sharm El Sheikh 0000, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Steakhouse, International, Gastropub"
+	},
+	{
+		"name": "Zen Chinese Restaurant - SOHO Square Sharm El Sheikh",
+		"phone": "+20 100 010 9109",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/a7/dd/81/zen.jpg",
+		"location": "Soho Square, Sharm El Sheikh 169, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Chinese, Asian, Vegetarian Friendly"
+	},
+	{
+		"name": "Mai Thai",
+		"phone": "+20 100 010 9109",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/ae/ad/de/mai-thai.jpg",
+		"location": "Soho Square | Sharks Bay, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Asian, Thai, Vegetarian Friendly"
+	},
+	{
+		"name": "L'entrecote Steak House",
+		"phone": "+20 100 010 9109",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/a7/da/b1/l-entrecote-steak-house.jpg",
+		"location": "Soho Square, | White Knight Beach, Sharm El Sheikh 169, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Steakhouse, European, Halal"
+	},
+	{
+		"name": "Casa Mia",
+		"phone": "+20 69 3602130",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/72/6f/43/our-famous-mushroom-soup.jpg",
+		"location": "Sultan Gardens Resort | Shark's Bay, Sharm El Sheikh 111, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Italian, Mediterranean, European"
+	},
+	{
+		"name": "Farsha Cafe",
+		"phone": "+20 122 236 0269",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/08/8d/16/6d/farsha-cafe.jpg",
+		"location": "Umm el sid hill | Um El Sid Hill, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Bar, Cafe, Egyptian"
+	},
+	{
+		"name": "Il Vizietto Italian Restaurant - Pizza",
+		"phone": "+20 100 943 8857",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/91/bf/39/bruschette-pomodoro-e.jpg",
+		"location": "Laguna Avenue, Nabq Bay, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Italian, Pizza, Mediterranean"
+	},
+	{
+		"name": "Hard Rock Cafe Nabq ",
+		"phone": "+20 101 909 1900",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/42/3a/95/thisishardrock.jpg",
+		"location": "El Salam Road, Nabq Bay, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " American, Bar, European"
+	},
+	{
+		"name": "Camel Bar & Roof",
+		"phone": "+20 69 3600700",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/05/44/e1/1c/camel-bar-roof.jpg",
+		"location": " | Camel Hotel, Centre of Naama Bay, Sharm El Sheikh 46619, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Bar, Pub, Vegetarian Friendly"
+	},
+	{
+		"name": "Alhambra Cafe & Restaurant",
+		"phone": "+20 122 759 8200",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0d/cc/9c/ee/received-1683913825233511.jpg",
+		"location": "La Strada Mall | Nabq, Sharm El Sheikh 12345, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " International, Italian, Cafe"
+	},
+	{
+		"name": "Fish Market",
+		"phone": "+20 69 3602130",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/71/04/ee/sea-view-seafood.jpg",
+		"location": "Sultan Gardens Resort | Shark's Bay, Sharm El Sheikh 45615, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Seafood, Mediterranean, Egyptian"
+	},
+	{
+		"name": "Arab Bucks",
+		"phone": "+20 101 500 2324",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/10/19/30/2c/arab-bucks-front.jpg",
+		"location": "Nabq Bay, opposite Laguna Vista Resort, Sharm El Sheikh, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Italian, Cafe, Seafood"
+	},
+	{
+		"name": "Union Jack Bar and Restaurant",
+		"phone": "+20 101 208 6384",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/08/ac/c6/9a/photo1jpg.jpg",
+		"location": "15 Units 10 | Sharm Bride Hotel, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Bar, British, Pub"
+	},
+	{
+		"name": "Jive 1 Bar",
+		"phone": "+20 121 053 3105",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/05/b0/c8/47/jive-1-bar.jpg",
+		"location": "Falcon Naama Blue/Sharmin Amerin Hotel/Sharm Bride Hotel | Naama/Hadaba/Nabq, Sharm El Sheikh 46619, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Bar, British, Pub"
+	},
+	{
+		"name": "Sala Thai Restaurant",
+		"phone": "+20 69 3601234",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/05/bf/d7/09/sala-thai-restaurant.jpg",
+		"location": "Hyatt Regency Sharm El Sheikh | Gardens Bay, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Asian, Thai, Vegetarian Friendly"
+	},
+	{
+		"name": "Fairuz",
+		"phone": "+20 128 802 1418",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/16/42/da/3f/many-varieties-of-authentic.jpg",
+		"location": "king of bahrain St. , Naama Center , 2nd floor, Naama Bay., Sharm El Sheikh 11381, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Lebanese, Mediterranean, Middle Eastern"
+	},
+	{
+		"name": "Nino's Italian Restaurant ",
+		"phone": "+20 69 3710371",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/09/60/28/be/nino-s-italian-restaurant.jpg",
+		"location": "Jaz Mirabel Beach, Nabq Bay, Sharm El Sheikh 0377, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Italian"
+	},
+	{
+		"name": "Pomodoro",
+		"phone": "+20 69 3600700",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/11/52/75/ef/our-main-restaurant-is.jpg",
+		"location": "Centre of Na'ama Bay | Camel Dive Club & Hotel, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Italian, Pizza, Mediterranean"
+	},
+	{
+		"name": "Miramar Cafe & Restaurant",
+		"phone": "+20 100 138 5257",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0d/04/79/87/getlstd-property-photo.jpg",
+		"location": "Peace Road | Nabq Area, in front of Sierra Mall, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Italian, International, Pizza"
+	},
+	{
+		"name": "Reef Beach Restaurant Managed by Egyptian Vacation Club",
+		"phone": "+20 106 910 1450",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/ea/f6/44/beach-area.jpg",
+		"location": "Om El Seed Street | Salah Taher Street, Sharm El Sheikh 46619, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Italian, Pizza, Seafood"
+	},
+	{
+		"name": "Kokai Restaurant",
+		"phone": "+20 69 3600150",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/59/f6/d5/kokai-restaurant.jpg",
+		"location": " | Ghazala Beach Hotel, Sharm El Sheikh, Egypt",
+		"rating": "4.0 ",
+		"cuisine": " Chinese, Asian"
+	},
+	{
+		"name": "TGI Friday's",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/d2/2d/b1/seating-area.jpg",
+		"location": "Naama Bay, Sharm El Sheikh, Egypt",
+		"rating": "3.5 ",
+		"cuisine": " American, Central American, South American"
+	},
+	{
+		"name": "Kona Kai Sushi Bar & Restaurant",
+		"phone": "+20 106 350 6077",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/45/e0/60/kona-kai-sushi-bar-restaurant.jpg",
+		"location": "Naama Bay | At the Sharm El Sheikh Marriott Resort, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Japanese, Seafood, Sushi"
+	},
+	{
+		"name": "KFC",
+		"phone": "+20 69 3603037",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/46/b4/5e/kfc.jpg",
+		"location": "El Sultan Qabous St | Naama Bay, Sharm El Sheikh, Egypt",
+		"rating": "3.5 ",
+		"cuisine": "American, Fast Food"
+	},
+	{
+		"name": "Cheers Bar & Grill ",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/09/57/9c/a5/home-made-steak-pie.jpg",
+		"location": "Unit 3 La Strada, El Salam, Nabq Bay, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " American, British, Bar"
+	},
+	{
+		"name": "El Panorama Lounge & Restaurant",
+		"phone": "+20 120 880 3000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/3c/c7/20/el-panorama-lounge-restaurant.jpg",
+		"location": "Halomy Road | Genena City, Shop No #3059, Sharm El Sheikh 31111, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Italian, French, Japanese"
+	},
+	{
+		"name": "Made in Sud",
+		"phone": "+20 122 645 5553",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0b/10/e6/e6/fb-img-1461966376113.jpg",
+		"location": "Sharm El Sheikh, Egypt",
+		"rating": "4.0 ",
+		"cuisine": " Italian, Pizza, Seafood"
+	},
+	{
+		"name": "McDonald's",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/08/bf/11/51/mcdonald-s.jpg",
+		"location": "Peace Road | Naama Bay, Sharm El Sheikh, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "American, Fast Food"
+	},
+	{
+		"name": "Charleston",
+		"phone": "+20 69 3666318",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/72/26/51/sharm-el-sheikh.jpg",
+		"location": "Il Mercato, Beside Magrabi Optical, Sharm El Sheikh 46619, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Italian, Mediterranean"
+	},
+	{
+		"name": "Mughal Mahal",
+		"phone": "+20 0147545590",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/08/13/29/cb/fantastic-food.jpg",
+		"location": "Roza Mall | Above 24-7, Peace Road, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Indian, Halal, Vegetarian Friendly"
+	},
+	{
+		"name": "Sharks Bay Umbi Restaurant",
+		"phone": "+20 120 000 1558",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/de/81/ca/bedouin-tent.jpg",
+		"location": "Qesm Sharm Ash Sheikh, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Seafood, Mediterranean, International"
+	},
+	{
+		"name": "Calamari Seafood Market Restaurant",
+		"phone": "+20 120 112 3441",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/14/64/54/96/calamari-seafood-market.jpg",
+		"location": "Al Fanar Street | Renaissance Sharm El Sheikh Golden View Beach Resort, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Seafood, Mediterranean"
+	},
+	{
+		"name": "Pirate's Bar",
+		"phone": "+20 69 3600137",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/08/f1/90/69/pirate-s-bar.jpg",
+		"location": "Hilton Sharm el-Sheikh Fayrouz Resort | Na'ama Bay, Sharm El Sheikh 069, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Bar, British, Pub"
+	},
+	{
+		"name": "Bella Vista Italian Restaurant",
+		"phone": "+20 69 3661815",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/04/95/27/22/bella-vista-italian-restaurant.jpg",
+		"location": "Salah Taher St. | Shores Amphoras Resort, Sharm El Sheikh, Egypt",
+		"rating": "4.0 ",
+		"cuisine": " Italian"
+	},
+	{
+		"name": "La Gazelle Restaurant",
+		"phone": "+20 69 3660772",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/c0/92/ae/la-gazelle-restaurant.jpg",
+		"location": "20 Al Souk Al Togary Al Kadim, Sharm El Sheikh, Sharm El Sheikh, Egypt",
+		"rating": "4.0 ",
+		"cuisine": " Seafood, Soups"
+	},
+	{
+		"name": "Luna Lounge",
+		"phone": "0020145845445",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/ab/f9/44/form-the-indoor-lounge.jpg",
+		"location": "Across Il Mercato beside City Clinic, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Pizza"
+	},
+	{
+		"name": "The Stonegrill ",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-o/04/6a/86/fa/the-stonegrill.jpg",
+		"location": "El Salam Road, Nabq Bay, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Steakhouse"
+	},
+	{
+		"name": "Fisherman",
+		"phone": "+20 100 547 9028",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/15/94/37/fa/fisharman.jpg",
+		"location": "Sharm El Sheikh 46619, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Seafood, Egyptian, Mediterranean"
+	},
+	{
+		"name": "Old Town Restaurant",
+		"phone": "+20 109 444 2418",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/18/74/dd/authentic-meal.jpg",
+		"location": " | Next to Sinai Flowers, Sharm El Sheikh, Egypt",
+		"rating": "4.0 ",
+		"cuisine": ""
+	},
+	{
+		"name": "Ristorante El Wadi",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/05/fd/7f/d5/ristorante-el-wadi.jpg",
+		"location": "Domina Coral Bay, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Italian"
+	},
+	{
+		"name": "Oasis Bar",
+		"phone": "+20 69 3600136",
+		"photo": "",
+		"location": "Naama Bay | c/o Hilton Sharm El Sheikh Fayrouz Resort, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " European"
+	},
+	{
+		"name": "Halo Eat & Drink",
+		"phone": "+20 101 022 0275",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/08/66/f8/80/full-english-breakfast.jpg",
+		"location": "Tropicana Rosetta, Sharm El Sheikh, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Cafe, British, Gluten Free Options"
+	},
+	{
+		"name": "Fifty Sports Bar",
+		"phone": "+20 100 447 7499",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/59/1d/ac/fifty-sports-bar.jpg",
+		"location": "Na'ama Bay Promenade | Under the Sultana Restaurant, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Brew Pub, British"
+	},
+	{
+		"name": "Sofra ",
+		"phone": "+20 69 3710371",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/63/48/1b/sofra.jpg",
+		"location": "Jaz Mirabel Beach, Nabq Bay, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Middle Eastern, Lebanese, Mediterranean"
+	},
+	{
+		"name": "Ristorante La Casa Pizza & Pasta",
+		"phone": "+20 69 3664694",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/14/64/48/23/ristorante-la-casa-pizza.jpg",
+		"location": "Om El Sied Hill, El Fanar st | Renaissance Sharm El Sheikh Golden View Beach Resort, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Italian, Pizza, Mediterranean"
+	},
+	{
+		"name": "Emy Cafe",
+		"phone": "+20 100 503 3175",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-o/09/fe/f2/91/fb-img-1434312081219.jpg",
+		"location": "La Strada Mall, Nabq | ., Sharm El Sheikh 46619, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Bar, Cafe, Mediterranean"
+	},
+	{
+		"name": "WHY NOT Risto Cafe'",
+		"phone": "+(20)21755518",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/08/5c/5f/11/why-not-esterno.jpg",
+		"location": "Naama Bay, Sharm El Sheikh, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Italian, Cafe, Fast Food"
+	},
+	{
+		"name": "Shish Bish Restaurant",
+		"phone": "+20 69 3663232",
+		"photo": "",
+		"location": "Hilton Sharm Waterfalls resort | Ras Um El Sid Cliff, Sharm El Sheikh 0000, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Mediterranean, Egyptian"
+	},
+	{
+		"name": "Mandarin Bistro",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/a8/26/65/mandarin-bistro.jpg",
+		"location": "Soho Square | Sharks Bay, Sharm El Sheikh 12444, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Chinese, Indian, Asian"
+	},
+	{
+		"name": "House of Spice",
+		"phone": "+20 69 3602130",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/45/12/c7/dishes.jpg",
+		"location": "Sultan Gardens Resort | Shark's Bay, Sharm El Sheikh 111, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Indian, Asian, Vegetarian Friendly"
+	},
+	{
+		"name": "El Kababgy",
+		"phone": "+20 69 3600081",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/11/8a/4e/93/taking-pride-in-culinary.jpg",
+		"location": " | Mövenpick Resort, Naama Bay, Sharm El Sheikh 46619, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Grill, Egyptian, Barbecue"
+	},
+	{
+		"name": "The Queen Vic",
+		"phone": "+20 100 010 9109",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/c7/a6/26/beer-garden.jpg",
+		"location": "Soho Square, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Bar, British, Pub"
+	},
+	{
+		"name": "Boharat Restaurant",
+		"phone": "+20 122 386 6000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/10/83/e0/b8/20170901-210409-largejpg.jpg",
+		"location": "Namma Bay, next to Tropitl resort and Little Buddha, Sharm El Sheikh, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Egyptian, Mediterranean, Middle Eastern"
+	},
+	{
+		"name": "Luxor",
+		"phone": "+20 100 010 9109",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/04/89/61/a9/luxor.jpg",
+		"location": "Soho Square, Sharm El Sheikh, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Mediterranean, Middle Eastern, Egyptian"
+	},
+	{
+		"name": "Bombay",
+		"phone": "+20 100 010 9109",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/04/89/62/b6/bombay.jpg",
+		"location": "Soho Square, Sharm El Sheikh 169, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Indian, Asian, Balti"
+	},
+	{
+		"name": "Rangoli",
+		"phone": "+20 69 3600081",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/08/30/4a/rangoli.jpg",
+		"location": "Movenpick Resort, Naama Bay, Sharm El Sheikh 46619, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Indian, Asian, Vegetarian Friendly"
+	},
+	{
+		"name": "Sushi Lounge",
+		"phone": "+20 100 010 9109",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/a4/2a/f9/soho-sushi-bar.jpg",
+		"location": "Soho Square | White Knight Beach, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Japanese, Sushi, Asian"
+	},
+	{
+		"name": "Fusion 21",
+		"phone": "+20 100 010 9109",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/c7/a1/88/restaurant.jpg",
+		"location": "Soho Square | Sharks Bay, Sharm El Sheikh 12444, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Mediterranean, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Cafe Chino",
+		"phone": "+20 100 010 9109",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/a6/da/41/cafe-chino.jpg",
+		"location": "Soho Square, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Lebanese, Cafe, Mediterranean"
+	},
+	{
+		"name": "Da Mauro \"Solo Pasta&Pizza\"",
+		"phone": "+20 100 412 4178",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/14/08/25/e2/tris-di-terra.jpg",
+		"location": "El-Salam | Ras Kenedy 5, Sharm El Sheikh 46619, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Italian, Pizza, Mediterranean"
+	},
+	{
+		"name": "The Blue Fountain",
+		"phone": "+20 109 993 4746",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/10/a9/2c/95/apologise-for-temporarily.jpg",
+		"location": "1 Market Square, Beside Rear Exit of Carrefour, | Naama Bay, Sharm El Sheikh 0000, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Steakhouse, International, Gastropub"
+	},
+	{
+		"name": "Zen Chinese Restaurant - SOHO Square Sharm El Sheikh",
+		"phone": "+20 100 010 9109",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/a7/dd/81/zen.jpg",
+		"location": "Soho Square, Sharm El Sheikh 169, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Chinese, Asian, Vegetarian Friendly"
+	},
+	{
+		"name": "Mai Thai",
+		"phone": "+20 100 010 9109",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/ae/ad/de/mai-thai.jpg",
+		"location": "Soho Square | Sharks Bay, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Asian, Thai, Vegetarian Friendly"
+	},
+	{
+		"name": "L'entrecote Steak House",
+		"phone": "+20 100 010 9109",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/a7/da/b1/l-entrecote-steak-house.jpg",
+		"location": "Soho Square, | White Knight Beach, Sharm El Sheikh 169, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Steakhouse, European, Halal"
+	},
+	{
+		"name": "Casa Mia",
+		"phone": "+20 69 3602130",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/72/6f/43/our-famous-mushroom-soup.jpg",
+		"location": "Sultan Gardens Resort | Shark's Bay, Sharm El Sheikh 111, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Italian, Mediterranean, European"
+	},
+	{
+		"name": "Farsha Cafe",
+		"phone": "+20 122 236 0269",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/08/8d/16/6d/farsha-cafe.jpg",
+		"location": "Umm el sid hill | Um El Sid Hill, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Bar, Cafe, Egyptian"
+	},
+	{
+		"name": "Il Vizietto Italian Restaurant - Pizza",
+		"phone": "+20 100 943 8857",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/91/bf/39/bruschette-pomodoro-e.jpg",
+		"location": "Laguna Avenue, Nabq Bay, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Italian, Pizza, Mediterranean"
+	},
+	{
+		"name": "Hard Rock Cafe Nabq ",
+		"phone": "+20 101 909 1900",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/42/3a/95/thisishardrock.jpg",
+		"location": "El Salam Road, Nabq Bay, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " American, Bar, European"
+	},
+	{
+		"name": "Camel Bar & Roof",
+		"phone": "+20 69 3600700",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/05/44/e1/1c/camel-bar-roof.jpg",
+		"location": " | Camel Hotel, Centre of Naama Bay, Sharm El Sheikh 46619, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Bar, Pub, Vegetarian Friendly"
+	},
+	{
+		"name": "Alhambra Cafe & Restaurant",
+		"phone": "+20 122 759 8200",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0d/cc/9c/ee/received-1683913825233511.jpg",
+		"location": "La Strada Mall | Nabq, Sharm El Sheikh 12345, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " International, Italian, Cafe"
+	},
+	{
+		"name": "Fish Market",
+		"phone": "+20 69 3602130",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/71/04/ee/sea-view-seafood.jpg",
+		"location": "Sultan Gardens Resort | Shark's Bay, Sharm El Sheikh 45615, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Seafood, Mediterranean, Egyptian"
+	},
+	{
+		"name": "Arab Bucks",
+		"phone": "+20 101 500 2324",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/10/19/30/2c/arab-bucks-front.jpg",
+		"location": "Nabq Bay, opposite Laguna Vista Resort, Sharm El Sheikh, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Italian, Cafe, Seafood"
+	},
+	{
+		"name": "Union Jack Bar and Restaurant",
+		"phone": "+20 101 208 6384",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/08/ac/c6/9a/photo1jpg.jpg",
+		"location": "15 Units 10 | Sharm Bride Hotel, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Bar, British, Pub"
+	},
+	{
+		"name": "Jive 1 Bar",
+		"phone": "+20 121 053 3105",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/05/b0/c8/47/jive-1-bar.jpg",
+		"location": "Falcon Naama Blue/Sharmin Amerin Hotel/Sharm Bride Hotel | Naama/Hadaba/Nabq, Sharm El Sheikh 46619, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Bar, British, Pub"
+	},
+	{
+		"name": "Sala Thai Restaurant",
+		"phone": "+20 69 3601234",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/05/bf/d7/09/sala-thai-restaurant.jpg",
+		"location": "Hyatt Regency Sharm El Sheikh | Gardens Bay, Sharm El Sheikh, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Asian, Thai, Vegetarian Friendly"
+	},
+	{
+		"name": "Fairuz",
+		"phone": "+20 128 802 1418",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/16/42/da/3f/many-varieties-of-authentic.jpg",
+		"location": "king of bahrain St. , Naama Center , 2nd floor, Naama Bay., Sharm El Sheikh 11381, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Lebanese, Mediterranean, Middle Eastern"
+	},
+	{
+		"name": "Nino's Italian Restaurant ",
+		"phone": "+20 69 3710371",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/09/60/28/be/nino-s-italian-restaurant.jpg",
+		"location": "Jaz Mirabel Beach, Nabq Bay, Sharm El Sheikh 0377, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Italian"
 	}
 ]
