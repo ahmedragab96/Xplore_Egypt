@@ -1,80 +1,35 @@
 <div class="container">
-  <div class="row">
-    <div class="col-sm">
-      <div class="card">
-        <div class="card-body">
-          <h5 class="card-title">Trip 1</h5>
-          <p class="card-text">Description</p>
-          <a href="#" class="btn btn-primary" (click)="trip1=true">ADD</a>
-        </div>
-      </div>
+    <div class="row">
+        <ng-container *ngFor="let trip of trips">
+            <div class="col d-flex align-items-stretch">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">{{trip['name']}}</h5>
+                        <p class="card-text">{{trip['description']}}</p>
+                        <a class="btn btn-primary cardBtn" *ngIf="!trip['selected']" (click)="trip['selected']=true">ADD</a>
+                        <a class="btn btn-danger cardBtn" *ngIf="trip['selected']" (click)="trip['selected']=false">REMOVE</a>
+                    </div>
+                </div>
+            </div>
+        </ng-container>
     </div>
-    <div class="col-sm">
-      <div class="card">
-        <div class="card-body">
-          <h5 class="card-title">Trip 2</h5>
-          <p class="card-text">Description</p>
-          <a href="#" class="btn btn-primary" (click)="trip2=true">ADD</a>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm">
-      <div class="card">
-        <div class="card-body">
-          <h5 class="card-title">Trip 3</h5>
-          <p class="card-text">Description</p>
-          <a href="#" class="btn btn-primary" (click)="trip3=true">ADD</a>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm">
-      <div class="card">
-        <div class="card-body">
-          <h5 class="card-title">Trip 4</h5>
-          <p class="card-text">Description</p>
-          <a href="#" class="btn btn-primary" (click)="trip4=true">ADD</a>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm">
-      <div class="card">
-        <div class="card-body">
-          <h5 class="card-title">Trip 5</h5>
-          <p class="card-text">Description</p>
-          <a href="#" class="btn btn-primary" (click)="trip5=true">ADD</a>
-        </div>
-      </div>
-    </div>
-  </div>
 </div>
-
 
 
 <div class="container" id="planner">
-<div class="row">
-<div id='wrap' class="col-4">
-
-  <div id='external-events'>
-    <div id='external-events-listing'>
-      <h4>Draggable Events</h4>
-      <div class='fc-event'><span *ngIf="trip1">Trip 1</span></div> <!--dragabble but the name of trip doesn't appear after drop-->
-      <div class='fc-event'><span *ngIf="trip2">Trip 2</span></div>
-      <div class='fc-event'><span *ngIf="trip3">Trip 3</span></div>
-      <div class='fc-event'><span *ngIf="trip4">Trip 4</span></div>
-      <div class='fc-event'><span *ngIf="trip5">Trip 5</span></div>
+    <div class="row">
+        <div id='wrap' class="col-4">
+            <div id='external-events'>
+                <div id='external-events-listing'>
+                    <h4>Draggable Events</h4>
+                    <div *ngFor="let trip of trips" class="fc-event" [hidden]="!trip['selected']">{{trip['name']}}</div>
+                </div>
+                <p>
+                    <!-- <input hidden type='checkbox' id='drop-remove' checked='!checked' /> -->
+                </p>
+            </div>
+        </div>
+        <div class="col-8">
+            <div id='calendar1'></div>
+        </div>
     </div>
-    <p>
-      <input type='checkbox' id='drop-remove' checked='checked' />
-      <label for='drop-remove'>remove after drop</label>
-    </p>
-  </div>
-
-</div>
-      <div class="col-8">
-        
-          <div id='calendar1'></div>
-        
-      </div>
-
-</div>
-</div>
