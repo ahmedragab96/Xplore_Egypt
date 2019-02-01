@@ -9,6 +9,7 @@ import './../../index.js';
 export class TripPlannerComponent implements OnInit {
   constructor() { }
  
+
   ngOnInit() {
   }
   

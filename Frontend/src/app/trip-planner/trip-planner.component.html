@@ -2,9 +2,6 @@
   <div class="row">
     <div class="col-sm">
       <div class="card">
-        <div class="card-header">
-          Featured
-        </div>
         <div class="card-body">
           <h5 class="card-title">Trip 1</h5>
           <p class="card-text">Description</p>
@@ -14,9 +11,6 @@
     </div>
     <div class="col-sm">
       <div class="card">
-        <div class="card-header">
-          Featured
-        </div>
         <div class="card-body">
           <h5 class="card-title">Trip 2</h5>
           <p class="card-text">Description</p>
@@ -26,9 +20,6 @@
     </div>
     <div class="col-sm">
       <div class="card">
-        <div class="card-header">
-          Featured
-        </div>
         <div class="card-body">
           <h5 class="card-title">Trip 3</h5>
           <p class="card-text">Description</p>
@@ -38,9 +29,6 @@
     </div>
     <div class="col-sm">
       <div class="card">
-        <div class="card-header">
-          Featured
-        </div>
         <div class="card-body">
           <h5 class="card-title">Trip 4</h5>
           <p class="card-text">Description</p>
@@ -50,9 +38,6 @@
     </div>
     <div class="col-sm">
       <div class="card">
-        <div class="card-header">
-          Featured
-        </div>
         <div class="card-body">
           <h5 class="card-title">Trip 5</h5>
           <p class="card-text">Description</p>
@@ -63,50 +48,33 @@
   </div>
 </div>
 
-<!-- <button class="btn btn-primary" *ngIf="trip1">trip 1</button>
-<button class="btn btn-primary" *ngIf="trip2">trip 2</button>
-<button class="btn btn-primary" *ngIf="trip3">trip 3</button> -->
 
 
-
-
-
-
-<div id='wrap'>
+<div class="container" id="planner">
+<div class="row">
+<div id='wrap' class="col-4">
 
   <div id='external-events'>
     <div id='external-events-listing'>
       <h4>Draggable Events</h4>
       <div class='fc-event'><span *ngIf="trip1">Trip 1</span></div> <!--dragabble but the name of trip doesn't appear after drop-->
       <div class='fc-event'><span *ngIf="trip2">Trip 2</span></div>
-      <div class='fc-event'><span *ngIf="trip3">Trip 2</span></div>
-      <div class='fc-event'><span *ngIf="trip4">Trip 2</span></div>
-      <div class='fc-event'><span *ngIf="trip5">Trip 2</span></div>
-      <div class='fc-event' *ngIf="trip1">Trip 1</div> <!-- not dragabble -->
+      <div class='fc-event'><span *ngIf="trip3">Trip 3</span></div>
+      <div class='fc-event'><span *ngIf="trip4">Trip 4</span></div>
+      <div class='fc-event'><span *ngIf="trip5">Trip 5</span></div>
     </div>
     <p>
       <input type='checkbox' id='drop-remove' checked='checked' />
       <label for='drop-remove'>remove after drop</label>
     </p>
   </div>
-  <div class="container">
-      <div class="col-md-12">
+
+</div>
+      <div class="col-8">
         
-        <div class="col-md-6 mb-20">
           <div id='calendar1'></div>
-        </div>
-        
-        <div class="col-md-6 mb-20">
-          <div id='calendar2'></div>
-        </div>
-        
-        <div class="col-md-6 mb-20">
-          <div id='calendar3'></div>
-        </div>
         
       </div>
-  </div>
 
-  <div style='clear:both'></div>
-
+</div>
 </div>
