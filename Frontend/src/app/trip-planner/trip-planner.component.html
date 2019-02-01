@@ -6,8 +6,8 @@
           Featured
         </div>
         <div class="card-body">
-          <h5 class="card-title">Special title treatment</h5>
-          <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+          <h5 class="card-title">Trip 1</h5>
+          <p class="card-text">Description</p>
           <a href="#" class="btn btn-primary" (click)="trip1=true">ADD</a>
         </div>
       </div>
@@ -18,8 +18,8 @@
           Featured
         </div>
         <div class="card-body">
-          <h5 class="card-title">Special title treatment</h5>
-          <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+          <h5 class="card-title">Trip 2</h5>
+          <p class="card-text">Description</p>
           <a href="#" class="btn btn-primary" (click)="trip2=true">ADD</a>
         </div>
       </div>
@@ -30,8 +30,8 @@
           Featured
         </div>
         <div class="card-body">
-          <h5 class="card-title">Special title treatment</h5>
-          <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+          <h5 class="card-title">Trip 3</h5>
+          <p class="card-text">Description</p>
           <a href="#" class="btn btn-primary" (click)="trip3=true">ADD</a>
         </div>
       </div>
@@ -44,3 +44,44 @@
 <button class="btn btn-primary" *ngIf="trip3">trip 3</button>
 
 
+
+
+
+
+<div id='wrap'>
+
+  <div id='external-events'>
+    <div id='external-events-listing'>
+      <h4>Draggable Events</h4>
+      <div class='fc-event'>Trip 1</div>
+      <div class='fc-event'>Trip 2</div>
+      <div class='fc-event'>Trip 3</div>
+      <div class='fc-event'>Trip 4</div>
+      <div class='fc-event'>Trip 5</div>
+    </div>
+    <p>
+      <input type='checkbox' id='drop-remove' checked='checked' />
+      <label for='drop-remove'>remove after drop</label>
+    </p>
+  </div>
+  <div class="container">
+      <div class="col-md-12">
+        
+        <div class="col-md-6 mb-20">
+          <div id='calendar1'></div>
+        </div>
+        
+        <div class="col-md-6 mb-20">
+          <div id='calendar2'></div>
+        </div>
+        
+        <div class="col-md-6 mb-20">
+          <div id='calendar3'></div>
+        </div>
+        
+      </div>
+  </div>
+
+  <div style='clear:both'></div>
+
+</div>

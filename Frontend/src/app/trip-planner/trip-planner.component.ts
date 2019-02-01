@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import './../../index.js';
 
 @Component({
   selector: 'app-trip-planner',
