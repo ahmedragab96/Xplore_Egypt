@@ -478,5 +478,1381 @@
 		"location": "Cairo Festival City, Village Area, Cairo 11511, Egypt",
 		"rating": "4.0 ",
 		"cuisine": "Sushi, Italian, Pizza, International, Mediterranean, European, Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options"
+	},
+	{
+		"name": "The Grill Restaurant & Lounge",
+		"phone": "+20 2 27988000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/08/fe/d4/94/the-grill-features-three.jpg",
+		"location": "InterContinental Cairo Semiramis | Corniche El Nile Downtown, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "French, Steakhouse, Mediterranean, European, Vegan Options"
+	},
+	{
+		"name": "Fayruz Lebanese Restaurant",
+		"phone": "+20 2 24800009",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/db/a1/af/fayruz-lebanese-restaurant.jpg",
+		"location": "InterContinental Cairo Citystars | Omar Ibn El Khattab St., Heliopolis, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Local cuisine, Lebanese, Mediterranean, Middle Eastern, Vegetarian Friendly"
+	},
+	{
+		"name": "Bab Al Qasr",
+		"phone": "+20 109 711 1151",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/3c/56/3c/overview.jpg",
+		"location": "Royal Maxim Palace Kempinski Hotel | First Settlement, New Cairo, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Local cuisine, Lebanese, Middle Eastern, Egyptian, Vegetarian Friendly"
+	},
+	{
+		"name": "Birdcage",
+		"phone": "+20 2 27988000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0a/39/a8/8b/the-birdcage-is-a-special.jpg",
+		"location": "Corniche El Nil | Semiramis InterContinental Cairo, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Asian, Thai, Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options"
+	},
+	{
+		"name": "Maestro Italian Restaurant",
+		"phone": "+20 2 24800100",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0f/eb/d4/0b/menu-item.jpg",
+		"location": "InterContinental Cairo Citystars | Omar Ibn El Khattab St. Heliopolis, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Pizza, Italian, Mediterranean, Vegetarian Friendly, Vegan Options, Halal"
+	},
+	{
+		"name": "Sabaya",
+		"phone": "+20 2 27988000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/c1/94/49/sabaya-lebanese-restaurant.jpg",
+		"location": "Corniche El Nil | Semiramis InterContinental Cairo, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Local cuisine, Lebanese, Mediterranean, Middle Eastern, Vegetarian Friendly"
+	},
+	{
+		"name": "Al Khal Egyptian Restaurant",
+		"phone": "+20 2 24800009",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/ae/b1/9a/al-khal-egyptian-dishes.jpg",
+		"location": "InterContinental Cairo Citystars | Omar Bin Khattab Street, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": ""
+	},
+	{
+		"name": "Shogun Japanese Restaurant",
+		"phone": "+20 2 24800100",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/56/e1/f1/shogun.jpg",
+		"location": "Omar Ibn EL Khattab St. Heliopolis | InterContinental Cairo Citystars, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Japanese, Sushi, Asian, Vegetarian Friendly, Vegan Options, Halal"
+	},
+	{
+		"name": "Kazoku",
+		"phone": "+20 127 000 4877",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0a/2a/21/24/selection-of-our-starters.jpg",
+		"location": "Swan Lake Compound club house | Swan Lake Compound, 1st Settlement, New Cairo, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Japanese, Sushi, Asian, Vegetarian Friendly, Vegan Options, Halal"
+	},
+	{
+		"name": "O's Pasta",
+		"phone": "+20 100 415 5756",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0d/c6/9b/72/warm-and-cozy-delicious.jpg",
+		"location": "159 26th of July Street | Zamalek, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Italian, Mediterranean, European, Vegetarian Friendly, Vegan Options, Halal"
+	},
+	{
+		"name": "Windows Restaurant",
+		"phone": "+20 2 24803000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/e0/4a/47/windows-restaurant.jpg",
+		"location": "Holiday Inn Cairo Citystars | Aly Rashed St. Off Omar Ibn El Khattab St., Heliopolis, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Mediterranean, Egyptian, International"
+	},
+	{
+		"name": "Kamala at Conrad Cairo",
+		"phone": "+(20)25808430",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/88/aa/d4/kamala-restaurant-bar.jpg",
+		"location": "1191 Corniche El Nil, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Chinese, Japanese, Sushi, Asian, Thai, Diner"
+	},
+	{
+		"name": "Sachi Restaurant",
+		"phone": "+20 128 090 2028",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0f/2c/e2/d5/high-tables-dining.jpg",
+		"location": "3 Cleopatra Street | Heliopolis, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Japanese, Mediterranean, Sushi, Fusion, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Saigon Restaurant & Lounge",
+		"phone": "+20 2 24619494",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/a7/c1/bc/saigon-bleu.jpg",
+		"location": "2005 B, Corniche El Nil | Fairmont Towers Nile City - 2005 B, Corniche El Nil, Ramlet Beaulac, Cairo 2466, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Japanese, Sushi, Asian, Thai, Fusion, Vegetarian Friendly"
+	},
+	{
+		"name": "Night & Day",
+		"phone": "+20 2 27988000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0a/39/3c/12/the-appetizers-selection.jpg",
+		"location": "InterContinental Cairo Semiramis Hotel | Corniche El Nile Downtown. Postal Code 11511, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Local cuisine, Middle Eastern, Egyptian, International, Vegetarian Friendly"
+	},
+	{
+		"name": "Indira Indian Restaurant",
+		"phone": "+20-24803007",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/db/a5/20/indira-indian-restaurant.jpg",
+		"location": "Holiday Inn Cairo Citystars | Ali Rashed Street, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Indian, Asian, Vegetarian Friendly, Vegan Options, Halal"
+	},
+	{
+		"name": "Osmanly Restaurant",
+		"phone": "+20 2 27980000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/11/e7/e4/43/osmanly-restaurant.jpg",
+		"location": "12 Ahmed Ragheb Street | Garden City, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Mediterranean, Turkish, Middle Eastern, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Pane Vino Restaurant",
+		"phone": "+20 2 27988000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/15/70/37/0a/enjoy-unparalleled-views.jpg",
+		"location": "Corniche El Nil | InterContinental Cairo Semiramis Hotel, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Italian, Pizza, Mediterranean, European, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Koshary Abou Tarek",
+		"phone": "+20 2 25775935",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/83/f4/99/koshary-when-all-the.jpg",
+		"location": "Choppin ln | Champollion, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Fast Food, Middle Eastern, Egyptian"
+	},
+	{
+		"name": "Sequoia",
+		"phone": "+20 2 27350014",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0c/a5/5a/94/the-middle-east-awaits.jpg",
+		"location": "53 Abou El Feda St. | Zamalek, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Local cuisine, Lebanese, Mediterranean, Middle Eastern, Egyptian"
+	},
+	{
+		"name": "Sushiramis",
+		"phone": "+20 2 27988000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/13/b8/ce/9b/a-freshly-prepared-plate.jpg",
+		"location": "InterContinental Cairo Semiramis Hotel | Corniche El Nil, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Asian, Japanese, Sushi"
+	},
+	{
+		"name": "The Smokery",
+		"phone": "+20 102 601 9175",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/c1/18/36/the-smokery-seafood-bar.jpg",
+		"location": "Katameya Heights | New Cairo - 5th District, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "International, Sushi, French, Seafood, European, Vegetarian Friendly"
+	},
+	{
+		"name": "Carlo's - Le Pacha 1901",
+		"phone": "+20 112 959 9903",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/92/af/88/carlo-s-le-pacha.jpg",
+		"location": "Saray El Gezira st. Zamalek, Cairo, Egypt, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Local cuisine, International, Egyptian, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Taboula Lebanese Restaurant",
+		"phone": "002027497326",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/a0/85/e4/taboula.jpg",
+		"location": "1 Latin America Street | Garden City, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Local cuisine, Lebanese, Mediterranean, Middle Eastern, Grill"
+	},
+	{
+		"name": "Naguib Mahfouz Cafe",
+		"phone": "+202-5903788",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/f3/f9/8f/warm-pitas-lentil-soup.jpg",
+		"location": "5 El Baddistan Lane | Khan el-Khalili, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Cafe, Middle Eastern, Egyptian"
+	},
+	{
+		"name": "Maria's",
+		"phone": "+20 2 22677730",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/a0/ec/40/getlstd-property-photo.jpg",
+		"location": "Fairmont Heliopolis & Towers | Uruba Street, Heliopolis, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Mexican, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Tao",
+		"phone": "+20 2 26140000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/12/2f/75/a0/tao-cairo.jpg	",
+		"location": "Dusit Thani Lakeview Cairo, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Chinese, Japanese, Indian, Sushi, Asian, Vegetarian Friendly"
+	},
+	{
+		"name": "Oak Grill",
+		"phone": "+(20)25808440",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/88/a3/f1/oak-grill-by-joe-barza.jpg",
+		"location": "1191 Corniche El Nil, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Lebanese, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Crave Cairo Festival City",
+		"phone": "+20 120 000 2342",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0a/d2/87/87/outdoor-area.jpg",
+		"location": "Cairo Festival City, Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "International, Mediterranean, European, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Ayadina Lebanese restaurant",
+		"phone": "+20 100 045 0052",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/05/41/12/0c/ayadeena.jpg",
+		"location": "3 Cleopatra street, Korba, Heliopolis | Phase 1, 4th floor Citystars, Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Lebanese, Middle Eastern, Mediterranean, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Pepenero",
+		"phone": "+20 101 010 1342",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/b4/49/05/getlstd-property-photo.jpg",
+		"location": "18 Baghdad Street | 1st Floor Above Venus Bakery, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Italian, Pizza, Mediterranean, European, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Bua Khao",
+		"phone": "+20 2 23580126",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0c/da/03/a5/the-new-bua-khao-in-maadi.jpg",
+		"location": "151 No. 9 Road | Old Maadi, Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Asian, Thai, Vegetarian Friendly"
+	},
+	{
+		"name": "Pomodoro",
+		"phone": "+20 2 27931689",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0c/fe/64/fd/seafood.jpg",
+		"location": "197 El Tahrir St. Below Health Bureau - Abdin, Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Seafood, Mediterranean, Egyptian, Italian, Halal"
+	},
+	{
+		"name": "City Stars' foodcourt",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/ed/42/55/food-court.jpg",
+		"location": "City Stars Mall, Phase 1, Food Court, Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Fast Food, Halal"
+	},
+	{
+		"name": "Pool Lounge & Grill",
+		"phone": "+(20)25260601",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/14/6e/c0/fb/getlstd-property-photo.jpg",
+		"location": "29 Cornish El Nil Maadi | Holiday Inn Cairo Maadi, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "International, Grill"
+	},
+	{
+		"name": "Saraya Gallery",
+		"phone": "+20 2 27283000 ext. 8321",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/08/b1/8f/5b/saraya-gallery.jpg",
+		"location": "16 Saray El Gezira Street | Cairo Marriott Hotel & Omar Khayyam Casino, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "European, French, Halal"
+	},
+	{
+		"name": "Kaber Sobhy Restaurant",
+		"phone": "+20 16640",
+		"photo": "+20 16640",
+		"location": "151 Abeid Street, Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Barbecue, Middle Eastern, Egyptian"
+	},
+	{
+		"name": "Nile Terrace",
+		"phone": "+20 2 27988000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/ec/14/fd/nile-terrace-live-presents.jpg",
+		"location": "Corniche El NIl | InterContinental Semiramis Cairo, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Arabic, Bar, Pub"
+	},
+	{
+		"name": "Abou el Sid",
+		"phone": "380 5050",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/77/52/c3/abou-el-sid-sala-interna.jpg",
+		"location": "7 45 Street | Maadi, Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Middle Eastern, Egyptian, Mediterranean"
+	},
+	{
+		"name": "The View Restaurant",
+		"phone": "+20 2 25260601",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/13/8e/fd/87/getlstd-property-photo.jpg",
+		"location": "29A Cornish El Nil Maadi, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "International"
+	},
+	{
+		"name": "Hard Rock Cafe",
+		"phone": "+20 109 866 0003",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/12/50/92/65/hrc-cairo.jpg",
+		"location": "Building 1, Citadel Plaza, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "American, International, Bar"
+	},
+	{
+		"name": "Crimson Bar & Grill",
+		"phone": "+20 127 505 5555",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/10/11/1b/4b/pineapple-creme-brulee.jpg",
+		"location": "16 El Moseqar Kamal El Tawil Street, Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "American, Bar, Mediterranean, Barbecue, Grill, Vegetarian Friendly"
+	},
+	{
+		"name": "Egyptian Pancake House",
+		"phone": "+20 109 714 7392",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/05/8c/c9/a5/egyptian-pancake-house.jpg",
+		"location": "Midan Hussein, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Mediterranean, Egyptian, Halal"
+	},
+	{
+		"name": "Mercado",
+		"phone": "22569138",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/ee/c0/a0/mercado.jpg",
+		"location": "16 Plot 3B, El Hegaz St. Beside McDonald's, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "MEALS"
+	},
+	{
+		"name": "Ristorante Tuscany",
+		"phone": "+20 2 27283000 ext. 4661",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/03/49/75/71/ristorante-tuscany.jpg",
+		"location": "16 Saray El Gezira Street | Marriott Hotel, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Italian, Mediterranean, European"
+	},
+	{
+		"name": "Oldish",
+		"phone": "+20 106 011 9488",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0d/a3/05/f0/caption.jpg",
+		"location": "20 Mohammed Mahmoud | Downtown, Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Middle Eastern, Egyptian, Vegetarian Friendly"
+	},
+	{
+		"name": "The White Owl",
+		"phone": "+20 121 169 1699",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/10/a8/f9/85/the-white-owl.jpg",
+		"location": "17, Road 216. Degla, | Maadi., Cairo 11728, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Italian, International, Contemporary, Fusion, European, Vegetarian Friendly"
+	},
+	{
+		"name": "Khan El Khalili Restaurant",
+		"phone": "+20 2 25903788",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-p/0d/da/19/55/photo0jpg.jpg",
+		"location": "Khan El Khalili | Part of the Mena House Oberoi chain, Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Middle Eastern, Egyptian, Mediterranean"
+	},
+	{
+		"name": "LEXIE'S",
+		"phone": "+20 128 581 8590",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/15/d4/b4/da/lexie-s-is-an-angel-sent.jpg",
+		"location": "El-Tessen Street, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Italian"
+	},
+	{
+		"name": "Cortigiano",
+		"phone": "+20 19181",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/94/e1/72/cortigiano.jpg",
+		"location": "44 Dr. Michael Bakhoum St., Dokki, Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Italian, Pizza, Mediterranean, European, Vegetarian Friendly"
+	},
+	{
+		"name": "Manipuri",
+		"phone": "+20 2 27373737",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0c/3c/f7/5d/manipouri-indian-restaurant.jpg",
+		"location": "3 El Thawra Council Street | Zamalek : Sofitel El Gezirah Cairo,, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Indian, Vegetarian Friendly, Vegan Options, Halal"
+	},
+	{
+		"name": "TBS- The Bakery Shop",
+		"phone": "+20 16679",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/30/5b/f2/filename-img-1493-jpg.jpg",
+		"location": "22 Baghdad St. ,El Korba | Heliopolis, Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "MEALS"
+	},
+	{
+		"name": "O.Liv.O Pizzeria & Bar",
+		"phone": "+20 2 27366766",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0a/13/41/f3/olivo-bar-and-pizzeria.jpg",
+		"location": "20 Taha Hussein St. | Zamalek, Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Italian, Bar, Pizza, European, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Scores Sports Bar & Restaurant",
+		"phone": "+20 2 25260601",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/13/8e/fb/d5/getlstd-property-photo.jpg",
+		"location": "29 Corniche El Nil | Holiday Inn Cairo, Maadi, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "American, Bar, International"
+	},
+	{
+		"name": "The Grill Restaurant & Lounge",
+		"phone": "+20 2 27988000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/08/fe/d4/94/the-grill-features-three.jpg",
+		"location": "InterContinental Cairo Semiramis | Corniche El Nile Downtown, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "French, Steakhouse, Mediterranean, European, Vegan Options"
+	},
+	{
+		"name": "Fayruz Lebanese Restaurant",
+		"phone": "+20 2 24800009",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/db/a1/af/fayruz-lebanese-restaurant.jpg",
+		"location": "InterContinental Cairo Citystars | Omar Ibn El Khattab St., Heliopolis, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Local cuisine, Lebanese, Mediterranean, Middle Eastern, Vegetarian Friendly"
+	},
+	{
+		"name": "Bab Al Qasr",
+		"phone": "+20 109 711 1151",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/3c/56/3c/overview.jpg",
+		"location": "Royal Maxim Palace Kempinski Hotel | First Settlement, New Cairo, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Local cuisine, Lebanese, Middle Eastern, Egyptian, Vegetarian Friendly"
+	},
+	{
+		"name": "Birdcage",
+		"phone": "+20 2 27988000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0a/39/a8/8b/the-birdcage-is-a-special.jpg",
+		"location": "Corniche El Nil | Semiramis InterContinental Cairo, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Asian, Thai, Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options"
+	},
+	{
+		"name": "Maestro Italian Restaurant",
+		"phone": "+20 2 24800100",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0f/eb/d4/0b/menu-item.jpg",
+		"location": "InterContinental Cairo Citystars | Omar Ibn El Khattab St. Heliopolis, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Pizza, Italian, Mediterranean, Vegetarian Friendly, Vegan Options, Halal"
+	},
+	{
+		"name": "MIRAI",
+		"phone": "+20 2 27350014",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0c/ae/4c/f9/for-the-love-of-asian.jpg",
+		"location": "53 Abu El Feda St | Zamalek, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Japanese, Sushi, Asian, Thai, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Esplanade Cafe Restaurant",
+		"phone": "+20 2 24800100",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/05/a2/20/fc/esplanade-cafe-restaurant.jpg",
+		"location": "InterContinental Cairo Citystars | Omar Ibn El Khattab St., Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Local cuisine, Mediterranean, European, Middle Eastern, Egyptian"
+	},
+	{
+		"name": "Sabaya",
+		"phone": "+20 2 27988000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/c1/94/49/sabaya-lebanese-restaurant.jpg",
+		"location": "Corniche El Nil | Semiramis InterContinental Cairo, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Local cuisine, Lebanese, Mediterranean, Middle Eastern, Vegetarian Friendly"
+	},
+	{
+		"name": "Al Khal Egyptian Restaurant",
+		"phone": "+20 2 24800009",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/ae/b1/9a/al-khal-egyptian-dishes.jpg",
+		"location": "InterContinental Cairo Citystars | Omar Bin Khattab Street, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Middle Eastern, Egyptian, Arabic"
+	},
+	{
+		"name": "Shogun Japanese Restaurant",
+		"phone": "+20 2 24800100",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/56/e1/f1/shogun.jpg",
+		"location": "Omar Ibn EL Khattab St. Heliopolis | InterContinental Cairo Citystars, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Japanese, Sushi, Asian, Vegetarian Friendly, Vegan Options, Halal"
+	},
+	{
+		"name": "Kazoku",
+		"phone": "+20 127 000 4877",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0a/2a/21/24/selection-of-our-starters.jpg",
+		"location": "Swan Lake Compound club house | Swan Lake Compound, 1st Settlement, New Cairo, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Japanese, Sushi, Asian, Vegetarian Friendly, Vegan Options, Halal"
+	},
+	{
+		"name": "O's Pasta",
+		"phone": "+20 100 415 5756",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0d/c6/9b/72/warm-and-cozy-delicious.jpg",
+		"location": "159 26th of July Street | Zamalek, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Italian, Mediterranean, European, Vegetarian Friendly, Vegan Options, Halal"
+	},
+	{
+		"name": "Windows Restaurant",
+		"phone": "+20 2 24803000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/e0/4a/47/windows-restaurant.jpg",
+		"location": "Holiday Inn Cairo Citystars | Aly Rashed St. Off Omar Ibn El Khattab St., Heliopolis, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Mediterranean, Egyptian, International"
+	},
+	{
+		"name": "Kamala at Conrad Cairo",
+		"phone": "+(20)25808430",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/88/aa/d4/kamala-restaurant-bar.jpg",
+		"location": "1191 Corniche El Nil, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Chinese, Japanese, Sushi, Asian, Thai, Diner"
+	},
+	{
+		"name": "Maharaja Indian Restaurant at Ramses Hilton",
+		"phone": "+20 100 244 0224",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/08/e1/9e/c3/maharaja-indian-restaurant.jpg",
+		"location": "1115 Corniche El Nile | Ramses Hilton, Cairo 12344, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Indian, Asian, Vegetarian Friendly"
+	},
+	{
+		"name": "Sachi Restaurant",
+		"phone": "+20 128 090 2028",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0f/2c/e2/d5/high-tables-dining.jpg",
+		"location": "3 Cleopatra Street | Heliopolis, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Japanese, Mediterranean, Sushi, Fusion, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Saigon Restaurant & Lounge",
+		"phone": "+20 2 24619494",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/a7/c1/bc/saigon-bleu.jpg",
+		"location": "2005 B, Corniche El Nil | Fairmont Towers Nile City - 2005 B, Corniche El Nil, Ramlet Beaulac, Cairo 2466, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Japanese, Sushi, Asian, Thai, Fusion, Vegetarian Friendly"
+	},
+	{
+		"name": "Night & Day",
+		"phone": "+20 2 27988000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0a/39/3c/12/the-appetizers-selection.jpg",
+		"location": "InterContinental Cairo Semiramis Hotel | Corniche El Nile Downtown. Postal Code 11511, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Local cuisine, Middle Eastern, Egyptian, International, Vegetarian Friendly"
+	},
+	{
+		"name": "Indira Indian Restaurant",
+		"phone": "+20-24803007",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/db/a5/20/indira-indian-restaurant.jpg",
+		"location": "Holiday Inn Cairo Citystars | Ali Rashed Street, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Indian, Asian, Vegetarian Friendly, Vegan Options, Halal"
+	},
+	{
+		"name": "Osmanly Restaurant",
+		"phone": "+20 2 27980000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/11/e7/e4/43/osmanly-restaurant.jpg",
+		"location": "12 Ahmed Ragheb Street | Garden City, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Mediterranean, Turkish, Middle Eastern, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Pane Vino Restaurant",
+		"phone": "+20 2 27988000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/15/70/37/0a/enjoy-unparalleled-views.jpg",
+		"location": "Corniche El Nil | InterContinental Cairo Semiramis Hotel, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Italian, Pizza, Mediterranean, European, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Koshary Abou Tarek",
+		"phone": "+20 2 25775935",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/83/f4/99/koshary-when-all-the.jpg",
+		"location": "Choppin ln | Champollion, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Fast Food, Middle Eastern, Egyptian"
+	},
+	{
+		"name": "Sequoia",
+		"phone": "+20 2 27350014",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0c/a5/5a/94/the-middle-east-awaits.jpg",
+		"location": "53 Abou El Feda St. | Zamalek, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Local cuisine, Lebanese, Mediterranean, Middle Eastern, Egyptian"
+	},
+	{
+		"name": "Sushiramis",
+		"phone": "+20 2 27988000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/13/b8/ce/9b/a-freshly-prepared-plate.jpg",
+		"location": "InterContinental Cairo Semiramis Hotel | Corniche El Nil, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Asian, Japanese, Sushi"
+	},
+	{
+		"name": "The Smokery",
+		"phone": "+20 102 601 9175",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/c1/18/36/the-smokery-seafood-bar.jpg",
+		"location": "Katameya Heights | New Cairo - 5th District, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "International, Sushi, French, Seafood, European, Vegetarian Friendly"
+	},
+	{
+		"name": "Carlo's - Le Pacha 1901",
+		"phone": "+20 112 959 9903",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/92/af/88/carlo-s-le-pacha.jpg",
+		"location": "Saray El Gezira st. Zamalek, Cairo, Egypt, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Local cuisine, International, Egyptian, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Taboula Lebanese Restaurant",
+		"phone": "002027497326",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/a0/85/e4/taboula.jpg",
+		"location": "1 Latin America Street | Garden City, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Local cuisine, Lebanese, Mediterranean, Middle Eastern, Grill"
+	},
+	{
+		"name": "Naguib Mahfouz Cafe",
+		"phone": "+202-5903788",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/f3/f9/8f/warm-pitas-lentil-soup.jpg",
+		"location": "5 El Baddistan Lane | Khan el-Khalili, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Cafe, Middle Eastern, Egyptian"
+	},
+	{
+		"name": "Maria's",
+		"phone": "+20 2 22677730",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/a0/ec/40/getlstd-property-photo.jpg",
+		"location": "Fairmont Heliopolis & Towers | Uruba Street, Heliopolis, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Mexican, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Tao",
+		"phone": "+20 2 26140000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/12/2f/75/a0/tao-cairo.jpg",
+		"location": "Dusit Thani Lakeview Cairo, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": "Chinese, Japanese, Indian, Sushi, Asian, Vegetarian Friendly"
+	},
+	{
+		"name": "Little Swiss Restaurant",
+		"phone": "+20 109 639 6556",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-o/04/b5/1f/7f/chocolate-fondue-milk.jpg",
+		"location": "17 Street 18, Villa | Maadi Sarayat, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Swiss, European"
+	},
+	{
+		"name": "Ovio",
+		"phone": "+20 102 223 1095",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/a1/3e/0c/ovio.jpg",
+		"location": "18 11 Road | At the Royal Maadi Hotel,, Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "European, Cafe, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Gaya Restaurant",
+		"phone": "+20 2 25197769",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/04/b8/df/2b/nice-korean-style-beef.jpg",
+		"location": "218 32 Rd 253 And 41 Rd | Degla, Maadi, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Asian, Korean, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Koshary El Tahrir",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/23/f4/c0/caption.jpg",
+		"location": "7 Abbas El Akkad St., Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Fast Food, Egyptian, Mediterranean, Middle Eastern, Vegetarian Friendly"
+	},
+	{
+		"name": "Upper Deck Lounge",
+		"phone": "+20 2 27917027",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/aa/4a/95/getlstd-property-photo.jpg",
+		"location": "1089 Corniche El Nil | Garden City, Cairo 11519, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Bar, International, Sushi"
+	},
+	{
+		"name": "Torii The Gateway To Sushi And Teppanyaki",
+		"phone": "+20 2 27283000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/9d/f6/87/torii.jpg",
+		"location": "Cairo Marriott Hotel | 16 Saray El Gezira, Zamalek, Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Japanese, Sushi, Asian, Vegetarian Friendly"
+	},
+	{
+		"name": "Al Dabke",
+		"phone": "+20 2 22677730",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-p/09/7d/23/4a/photo0jpg.jpg",
+		"location": "Fairmont Heliopolis & Towers | Uruba Street, Heliopolis, Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Lebanese, Middle Eastern, Mediterranean"
+	},
+	{
+		"name": "Makino",
+		"phone": "+20 2 27375163",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/05/ed/c2/ee/makino.jpg",
+		"location": "21 Mohamed Mazhar Zamalek, Cairo, Egypt., Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Japanese, Sushi, Asian, Vegetarian Friendly"
+	},
+	{
+		"name": "Ted's",
+		"phone": "+20 122 300 0599",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/08/03/1d/ad/ted-s.jpg",
+		"location": "Citystars, Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "International, Vegetarian Friendly"
+	},
+	{
+		"name": "El Malky",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0f/ac/64/44/caption.jpg",
+		"location": "13 Umm El Gholam St. Off El Azhar St., Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Middle Eastern"
+	},
+	{
+		"name": "Fuddruckers",
+		"phone": "+20 2 25200291",
+		"photo": "",
+		"location": "263 10, Street | New Maadi, Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "American, Halal"
+	},
+	{
+		"name": "Blue Nile",
+		"phone": "+20 111 224 6256",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/11/2c/15/36/blue-nile-boat.jpg",
+		"location": "9 A Saray El Gezirah St., Cairo 11511, Egypt",
+		"rating": "3.5 ",
+		"cuisine": "Mediterranean, Middle Eastern, Egyptian"
+	},
+	{
+		"name": "Tea Garden",
+		"phone": "+20 2 27988000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/7a/d5/30/tea-garden.jpg",
+		"location": "Corniche El Nil, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Cafe, Vegetarian Friendly"
+	},
+	{
+		"name": "Mezzeh Restaurant",
+		"phone": "+20 2 22659600",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0f/7e/5e/11/mezzeh-restaurant.jpg",
+		"location": "Cairo International Airport - Terminal 3 . Heliopolis, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Lebanese, Vegetarian Friendly"
+	},
+	{
+		"name": "Tutti Matti",
+		"phone": "+20 112 250 0000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/04/6e/74/97/trio-burger.jpg",
+		"location": "9 49 Road | Maadi, Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Italian, Pizza, Mediterranean, European"
+	},
+	{
+		"name": "Italiano restaurant at Concorde El Salam Hotel Cairo",
+		"phone": "+20 2 22931156",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/d5/67/84/italiano-restaurant-at.jpg",
+		"location": "65 Abdel Hamid Badawey Street | Heliopolis, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Italian, Mediterranean, Pizza, European"
+	},
+	{
+		"name": "Asmak Bahary",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/15/1f/93/14/img-20181019-wa0006-largejpg.jpg",
+		"location": "26 Makram Ebaid St. beside Ahmed El Sallab Mall, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Seafood, Mediterranean, Egyptian"
+	},
+	{
+		"name": "Yokal",
+		"phone": "+20 120 442 4332",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-o/0e/b1/2d/08/liver-sandwich-sausage.jpg",
+		"location": "72 El-Horeya Street, Almazah, Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Street Food, Egyptian, Fast Food"
+	},
+	{
+		"name": "Ahlein",
+		"phone": "+20 2 24115588",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0b/6f/5a/19/our-flavorful-lebanese.jpg",
+		"location": "Ring Road- Mirage City, JW Mariott Hotel Cairo | Heliopolis, Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Lebanese, Mediterranean, Middle Eastern, Barbecue, Halal"
+	},
+	{
+		"name": "Blackstone Bistro",
+		"phone": "25281661",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/17/43/6f/blackstone-bistro.jpg",
+		"location": "4 Ali El Kordy Street | Behind Sofitel Maadi Towers, Maadi, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "American, Steakhouse"
+	},
+	{
+		"name": "El Borg Restaurants For Sea Food",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/0b/92/7a/el-borg-restaurants-for.jpg",
+		"location": "2 Abdullah El Araby St. Extension Of El Tayaran St. In Front Of Noury Khattab Mosque, Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Egyptian, Seafood, Mediterranean"
+	},
+	{
+		"name": "El Dahan Restaurant",
+		"phone": "+20 2 25756949",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/10/20/ec/f0/photo.jpg",
+		"location": "52 26th of July St. | Downtown, Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Barbecue, Middle Eastern, Egyptian, Halal"
+	},
+	{
+		"name": "JW's Steakhouse",
+		"phone": "+20 2 24115588",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/13/42/9b/00/offering-the-best-australian.jpg",
+		"location": "Ring Road- Mirage City, JW Mariott Hotel Cairo, Heliopolis | Heliopolis, Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "American, Steakhouse"
+	},
+	{
+		"name": "The Tap East",
+		"phone": "+20 106 000 0869",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0f/44/38/6d/the-tap-east.jpg",
+		"location": "9 Mohamed Naguib Street, Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Bar, Pub, Vegetarian Friendly"
+	},
+	{
+		"name": "Crave",
+		"phone": "+20 2 25198443",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0c/95/d5/d5/crave.jpg",
+		"location": "213 30 Rd. | Maadi, Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "SPECIAL DIETS, Vegetarian Friendly"
+	},
+	{
+		"name": "La Brioche Doree",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0c/14/a9/f2/brioce-doree-burger-in.jpg",
+		"location": "City Stars Mall, Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "French, Cafe, International"
+	},
+	{
+		"name": "The Lounge Restaurant",
+		"phone": "+20 2 24800009",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/db/9e/07/the-lounge-restaurant.jpg",
+		"location": "InterContinental Cairo Citystars | Omar Ibn El Khattab St., Heliopolis, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "International, Vegetarian Friendly"
+	},
+	{
+		"name": "Cilantro",
+		"phone": "",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/d4/f4/85/desayuno-en-cilantro.jpg",
+		"location": "126 Othman Ibn Affan St., Cairo 11511, Egypt",
+		"rating": "4.0 ",
+		"cuisine": "Cafe"
+	},
+	{
+		"name": "The Grill Restaurant & Lounge",
+		"phone": "+20 2 27988000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/08/fe/d4/94/the-grill-features-three.jpg",
+		"location": "InterContinental Cairo Semiramis | Corniche El Nile Downtown, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " French, Steakhouse, Mediterranean"
+	},
+	{
+		"name": "Fayruz Lebanese Restaurant",
+		"phone": "+20 2 24800009",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/db/a1/af/fayruz-lebanese-restaurant.jpg",
+		"location": "InterContinental Cairo Citystars | Omar Ibn El Khattab St., Heliopolis, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Lebanese, Mediterranean, Middle Eastern"
+	},
+	{
+		"name": "Bab Al Qasr",
+		"phone": "+20 109 711 1151",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/3c/56/3c/overview.jpg",
+		"location": "Royal Maxim Palace Kempinski Hotel | First Settlement, New Cairo, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Lebanese, Middle Eastern, Egyptian"
+	},
+	{
+		"name": "Birdcage",
+		"phone": "+20 2 27988000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0a/39/a8/8b/the-birdcage-is-a-special.jpg",
+		"location": "Corniche El Nil | Semiramis InterContinental Cairo, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Asian, Thai, Vegetarian Friendly"
+	},
+	{
+		"name": "Maestro Italian Restaurant",
+		"phone": "+20 2 24800100",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0f/eb/d4/0b/menu-item.jpg",
+		"location": "InterContinental Cairo Citystars | Omar Ibn El Khattab St. Heliopolis, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Pizza, Italian, Mediterranean"
+	},
+	{
+		"name": "MIRAI",
+		"phone": "+20 2 27350014",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0c/ae/4c/f9/for-the-love-of-asian.jpg",
+		"location": "53 Abu El Feda St | Zamalek, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Japanese, Sushi, Asian"
+	},
+	{
+		"name": "Esplanade Cafe Restaurant",
+		"phone": "+20 2 24800100",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/05/a2/20/fc/esplanade-cafe-restaurant.jpg",
+		"location": "InterContinental Cairo Citystars | Omar Ibn El Khattab St., Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Mediterranean, European, Middle Eastern"
+	},
+	{
+		"name": "Sabaya",
+		"phone": "+20 2 27988000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/c1/94/49/sabaya-lebanese-restaurant.jpg",
+		"location": "Corniche El Nil | Semiramis InterContinental Cairo, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Lebanese, Mediterranean, Middle Eastern"
+	},
+	{
+		"name": "Al Khal Egyptian Restaurant",
+		"phone": "+20 2 24800009",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/ae/b1/9a/al-khal-egyptian-dishes.jpg",
+		"location": "InterContinental Cairo Citystars | Omar Bin Khattab Street, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Middle Eastern, Egyptian, Arabic"
+	},
+	{
+		"name": "Shogun Japanese Restaurant",
+		"phone": "+20 2 24800100",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/56/e1/f1/shogun.jpg",
+		"location": "Omar Ibn EL Khattab St. Heliopolis | InterContinental Cairo Citystars, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Japanese, Sushi, Asian"
+	},
+	{
+		"name": "Kazoku",
+		"phone": "+20 127 000 4877",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0a/2a/21/24/selection-of-our-starters.jpg",
+		"location": "Swan Lake Compound club house | Swan Lake Compound, 1st Settlement, New Cairo, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Japanese, Sushi, Asian"
+	},
+	{
+		"name": "O's Pasta",
+		"phone": "+20 100 415 5756",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0d/c6/9b/72/warm-and-cozy-delicious.jpg",
+		"location": "159 26th of July Street | Zamalek, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Italian, Mediterranean, European"
+	},
+	{
+		"name": "Windows Restaurant",
+		"phone": "+20 2 24803000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/e0/4a/47/windows-restaurant.jpg",
+		"location": "Holiday Inn Cairo Citystars | Aly Rashed St. Off Omar Ibn El Khattab St., Heliopolis, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Mediterranean, Egyptian, International"
+	},
+	{
+		"name": "Kamala at Conrad Cairo",
+		"phone": "+(20)25808430",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/88/aa/d4/kamala-restaurant-bar.jpg",
+		"location": "1191 Corniche El Nil, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Chinese, Japanese, Sushi"
+	},
+	{
+		"name": "Maharaja Indian Restaurant at Ramses Hilton",
+		"phone": "+20 100 244 0224",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/08/e1/9e/c3/maharaja-indian-restaurant.jpg",
+		"location": "1115 Corniche El Nile | Ramses Hilton, Cairo 12344, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Indian, Asian, Vegetarian Friendly"
+	},
+	{
+		"name": "Sachi Restaurant",
+		"phone": "+20 128 090 2028",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0f/2c/e2/d5/high-tables-dining.jpg",
+		"location": "3 Cleopatra Street | Heliopolis, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Japanese, Mediterranean, Sushi"
+	},
+	{
+		"name": "Saigon Restaurant & Lounge",
+		"phone": "+20 2 24619494",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/a7/c1/bc/saigon-bleu.jpg",
+		"location": "2005 B, Corniche El Nil | Fairmont Towers Nile City - 2005 B, Corniche El Nil, Ramlet Beaulac, Cairo 2466, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Japanese, Sushi, Asian"
+	},
+	{
+		"name": "Night & Day",
+		"phone": "+20 2 27988000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0a/39/3c/12/the-appetizers-selection.jpg",
+		"location": "InterContinental Cairo Semiramis Hotel | Corniche El Nile Downtown. Postal Code 11511, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Middle Eastern, Egyptian, International"
+	},
+	{
+		"name": "Indira Indian Restaurant",
+		"phone": "+20-24803007",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/db/a5/20/indira-indian-restaurant.jpg",
+		"location": "Holiday Inn Cairo Citystars | Ali Rashed Street, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Indian, Asian, Vegetarian Friendly"
+	},
+	{
+		"name": "Osmanly Restaurant",
+		"phone": "+20 2 27980000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/11/e7/e4/43/osmanly-restaurant.jpg",
+		"location": "12 Ahmed Ragheb Street | Garden City, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Mediterranean, Turkish, Middle Eastern"
+	},
+	{
+		"name": "Pane Vino Restaurant",
+		"phone": "+20 2 27988000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/15/70/37/0a/enjoy-unparalleled-views.jpg",
+		"location": "Corniche El Nil | InterContinental Cairo Semiramis Hotel, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Italian, Pizza, Mediterranean"
+	},
+	{
+		"name": "Koshary Abou Tarek",
+		"phone": "+20 2 25775935",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/83/f4/99/koshary-when-all-the.jpg",
+		"location": "Choppin ln | Champollion, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "Fast Food, Middle Eastern, Egyptian"
+	},
+	{
+		"name": "Sequoia",
+		"phone": "+20 2 27350014",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0c/a5/5a/94/the-middle-east-awaits.jpg",
+		"location": "53 Abou El Feda St. | Zamalek, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Lebanese, Mediterranean, Middle Eastern"
+	},
+	{
+		"name": "Sushiramis",
+		"phone": "+20 2 27988000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/13/b8/ce/9b/a-freshly-prepared-plate.jpg",
+		"location": "InterContinental Cairo Semiramis Hotel | Corniche El Nil, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Asian, Japanese, Sushi"
+	},
+	{
+		"name": "The Smokery",
+		"phone": "+20 102 601 9175",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/c1/18/36/the-smokery-seafood-bar.jpg",
+		"location": "Katameya Heights | New Cairo - 5th District, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " International, Sushi, French"
+	},
+	{
+		"name": "Carlo's - Le Pacha 1901",
+		"phone": "+20 112 959 9903",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/92/af/88/carlo-s-le-pacha.jpg",
+		"location": "Saray El Gezira st. Zamalek, Cairo, Egypt, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " International, Egyptian, Vegetarian Friendly"
+	},
+	{
+		"name": "Taboula Lebanese Restaurant",
+		"phone": "002027497326",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/a0/85/e4/taboula.jpg",
+		"location": "1 Latin America Street | Garden City, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Lebanese, Mediterranean, Middle Eastern"
+	},
+	{
+		"name": "Naguib Mahfouz Cafe",
+		"phone": "+202-5903788",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/f3/f9/8f/warm-pitas-lentil-soup.jpg",
+		"location": "5 El Baddistan Lane | Khan el-Khalili, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Cafe, Middle Eastern, Egyptian"
+	},
+	{
+		"name": "Maria's",
+		"phone": "+20 2 22677730",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/a0/ec/40/getlstd-property-photo.jpg",
+		"location": "Fairmont Heliopolis & Towers | Uruba Street, Heliopolis, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Mexican, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Tao",
+		"phone": "+20 2 26140000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/12/2f/75/a0/tao-cairo.jpg",
+		"location": "Dusit Thani Lakeview Cairo, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Chinese, Japanese, Indian"
+	},
+	{
+		"name": "The Grill Restaurant & Lounge",
+		"phone": "+20 2 27988000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/08/fe/d4/94/the-grill-features-three.jpg",
+		"location": "InterContinental Cairo Semiramis | Corniche El Nile Downtown, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " French, Steakhouse, Mediterranean"
+	},
+	{
+		"name": "Fayruz Lebanese Restaurant",
+		"phone": "+20 2 24800009",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/db/a1/af/fayruz-lebanese-restaurant.jpg",
+		"location": "InterContinental Cairo Citystars | Omar Ibn El Khattab St., Heliopolis, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Lebanese, Mediterranean, Middle Eastern"
+	},
+	{
+		"name": "Bab Al Qasr",
+		"phone": "+20 109 711 1151",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/3c/56/3c/overview.jpg",
+		"location": "Royal Maxim Palace Kempinski Hotel | First Settlement, New Cairo, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Lebanese, Middle Eastern, Egyptian"
+	},
+	{
+		"name": "Birdcage",
+		"phone": "+20 2 27988000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0a/39/a8/8b/the-birdcage-is-a-special.jpg",
+		"location": "Corniche El Nil | Semiramis InterContinental Cairo, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Asian, Thai, Vegetarian Friendly"
+	},
+	{
+		"name": "Maestro Italian Restaurant",
+		"phone": "+20 2 24800100",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0f/eb/d4/0b/menu-item.jpg",
+		"location": "InterContinental Cairo Citystars | Omar Ibn El Khattab St. Heliopolis, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Pizza, Italian, Mediterranean"
+	},
+	{
+		"name": "MIRAI",
+		"phone": "+20 2 27350014",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0c/ae/4c/f9/for-the-love-of-asian.jpg",
+		"location": "53 Abu El Feda St | Zamalek, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Japanese, Sushi, Asian"
+	},
+	{
+		"name": "Esplanade Cafe Restaurant",
+		"phone": "+20 2 24800100",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/05/a2/20/fc/esplanade-cafe-restaurant.jpg",
+		"location": "InterContinental Cairo Citystars | Omar Ibn El Khattab St., Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Mediterranean, European, Middle Eastern"
+	},
+	{
+		"name": "Sabaya",
+		"phone": "+20 2 27988000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/c1/94/49/sabaya-lebanese-restaurant.jpg",
+		"location": "Corniche El Nil | Semiramis InterContinental Cairo, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Lebanese, Mediterranean, Middle Eastern"
+	},
+	{
+		"name": "Al Khal Egyptian Restaurant",
+		"phone": "+20 2 24800009",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/ae/b1/9a/al-khal-egyptian-dishes.jpg",
+		"location": "InterContinental Cairo Citystars | Omar Bin Khattab Street, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Middle Eastern, Egyptian, Arabic"
+	},
+	{
+		"name": "Shogun Japanese Restaurant",
+		"phone": "+20 2 24800100",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/56/e1/f1/shogun.jpg",
+		"location": "Omar Ibn EL Khattab St. Heliopolis | InterContinental Cairo Citystars, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Japanese, Sushi, Asian"
+	},
+	{
+		"name": "Kazoku",
+		"phone": "+20 127 000 4877",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0a/2a/21/24/selection-of-our-starters.jpg",
+		"location": "Swan Lake Compound club house | Swan Lake Compound, 1st Settlement, New Cairo, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Japanese, Sushi, Asian"
+	},
+	{
+		"name": "O's Pasta",
+		"phone": "+20 100 415 5756",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0d/c6/9b/72/warm-and-cozy-delicious.jpg",
+		"location": "159 26th of July Street | Zamalek, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Italian, Mediterranean, European"
+	},
+	{
+		"name": "Windows Restaurant",
+		"phone": "+20 2 24803000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/e0/4a/47/windows-restaurant.jpg",
+		"location": "Holiday Inn Cairo Citystars | Aly Rashed St. Off Omar Ibn El Khattab St., Heliopolis, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Mediterranean, Egyptian, International"
+	},
+	{
+		"name": "Kamala at Conrad Cairo",
+		"phone": "+(20)25808430",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/88/aa/d4/kamala-restaurant-bar.jpg",
+		"location": "1191 Corniche El Nil, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Chinese, Japanese, Sushi"
+	},
+	{
+		"name": "Maharaja Indian Restaurant at Ramses Hilton",
+		"phone": "+20 100 244 0224",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/08/e1/9e/c3/maharaja-indian-restaurant.jpg",
+		"location": "1115 Corniche El Nile | Ramses Hilton, Cairo 12344, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Indian, Asian, Vegetarian Friendly"
+	},
+	{
+		"name": "Sachi Restaurant",
+		"phone": "+20 128 090 2028",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0f/2c/e2/d5/high-tables-dining.jpg",
+		"location": "3 Cleopatra Street | Heliopolis, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Japanese, Mediterranean, Sushi"
+	},
+	{
+		"name": "Saigon Restaurant & Lounge",
+		"phone": "+20 2 24619494",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/a7/c1/bc/saigon-bleu.jpg",
+		"location": "2005 B, Corniche El Nil | Fairmont Towers Nile City - 2005 B, Corniche El Nil, Ramlet Beaulac, Cairo 2466, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Japanese, Sushi, Asian"
+	},
+	{
+		"name": "Night & Day",
+		"phone": "+20 2 27988000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0a/39/3c/12/the-appetizers-selection.jpg",
+		"location": "InterContinental Cairo Semiramis Hotel | Corniche El Nile Downtown. Postal Code 11511, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Middle Eastern, Egyptian, International"
+	},
+	{
+		"name": "Indira Indian Restaurant",
+		"phone": "+20-24803007",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/db/a5/20/indira-indian-restaurant.jpg",
+		"location": "Holiday Inn Cairo Citystars | Ali Rashed Street, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Indian, Asian, Vegetarian Friendly"
+	},
+	{
+		"name": "Osmanly Restaurant",
+		"phone": "+20 2 27980000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/11/e7/e4/43/osmanly-restaurant.jpg",
+		"location": "12 Ahmed Ragheb Street | Garden City, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Mediterranean, Turkish, Middle Eastern"
+	},
+	{
+		"name": "Pane Vino Restaurant",
+		"phone": "+20 2 27988000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/15/70/37/0a/enjoy-unparalleled-views.jpg",
+		"location": "Corniche El Nil | InterContinental Cairo Semiramis Hotel, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Italian, Pizza, Mediterranean"
+	},
+	{
+		"name": "Koshary Abou Tarek",
+		"phone": "+20 2 25775935",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/83/f4/99/koshary-when-all-the.jpg",
+		"location": "Choppin ln | Champollion, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": "$, Fast Food, Middle Eastern, Egyptian"
+	},
+	{
+		"name": "Sequoia",
+		"phone": "+20 2 27350014",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0c/a5/5a/94/the-middle-east-awaits.jpg",
+		"location": "53 Abou El Feda St. | Zamalek, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Lebanese, Mediterranean, Middle Eastern"
+	},
+	{
+		"name": "Sushiramis",
+		"phone": "+20 2 27988000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/13/b8/ce/9b/a-freshly-prepared-plate.jpg",
+		"location": "InterContinental Cairo Semiramis Hotel | Corniche El Nil, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Asian, Japanese, Sushi"
+	},
+	{
+		"name": "The Smokery",
+		"phone": "+20 102 601 9175",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/c1/18/36/the-smokery-seafood-bar.jpg",
+		"location": "Katameya Heights | New Cairo - 5th District, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " International, Sushi, French"
+	},
+	{
+		"name": "Carlo's - Le Pacha 1901",
+		"phone": "+20 112 959 9903",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/0e/92/af/88/carlo-s-le-pacha.jpg",
+		"location": "Saray El Gezira st. Zamalek, Cairo, Egypt, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " International, Egyptian, Vegetarian Friendly"
+	},
+	{
+		"name": "Taboula Lebanese Restaurant",
+		"phone": "002027497326",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/a0/85/e4/taboula.jpg",
+		"location": "1 Latin America Street | Garden City, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Lebanese, Mediterranean, Middle Eastern"
+	},
+	{
+		"name": "Naguib Mahfouz Cafe",
+		"phone": "+202-5903788",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/f3/f9/8f/warm-pitas-lentil-soup.jpg",
+		"location": "5 El Baddistan Lane | Khan el-Khalili, Cairo 11511, Egypt",
+		"rating": "4.5 ",
+		"cuisine": " Cafe, Middle Eastern, Egyptian"
+	},
+	{
+		"name": "Maria's",
+		"phone": "+20 2 22677730",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/02/a0/ec/40/getlstd-property-photo.jpg",
+		"location": "Fairmont Heliopolis & Towers | Uruba Street, Heliopolis, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Mexican, Vegetarian Friendly, Vegan Options"
+	},
+	{
+		"name": "Tao",
+		"phone": "+20 2 26140000",
+		"photo": "https://media-cdn.tripadvisor.com/media/photo-s/12/2f/75/a0/tao-cairo.jpg",
+		"location": "Dusit Thani Lakeview Cairo, Cairo 11511, Egypt",
+		"rating": "5.0 ",
+		"cuisine": " Chinese, Japanese, Indian"
 	}
 ]
