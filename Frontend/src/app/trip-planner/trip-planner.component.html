@@ -36,12 +36,36 @@
         </div>
       </div>
     </div>
+    <div class="col-sm">
+      <div class="card">
+        <div class="card-header">
+          Featured
+        </div>
+        <div class="card-body">
+          <h5 class="card-title">Trip 4</h5>
+          <p class="card-text">Description</p>
+          <a href="#" class="btn btn-primary" (click)="trip4=true">ADD</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm">
+      <div class="card">
+        <div class="card-header">
+          Featured
+        </div>
+        <div class="card-body">
+          <h5 class="card-title">Trip 5</h5>
+          <p class="card-text">Description</p>
+          <a href="#" class="btn btn-primary" (click)="trip5=true">ADD</a>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 
-<button class="btn btn-primary" *ngIf="trip1">trip 1</button>
+<!-- <button class="btn btn-primary" *ngIf="trip1">trip 1</button>
 <button class="btn btn-primary" *ngIf="trip2">trip 2</button>
-<button class="btn btn-primary" *ngIf="trip3">trip 3</button>
+<button class="btn btn-primary" *ngIf="trip3">trip 3</button> -->
 
 
 
@@ -53,11 +77,12 @@
   <div id='external-events'>
     <div id='external-events-listing'>
       <h4>Draggable Events</h4>
-      <div class='fc-event'>Trip 1</div>
-      <div class='fc-event'>Trip 2</div>
-      <div class='fc-event'>Trip 3</div>
-      <div class='fc-event'>Trip 4</div>
-      <div class='fc-event'>Trip 5</div>
+      <div class='fc-event'><span *ngIf="trip1">Trip 1</span></div> <!--dragabble but the name of trip doesn't appear after drop-->
+      <div class='fc-event'><span *ngIf="trip2">Trip 2</span></div>
+      <div class='fc-event'><span *ngIf="trip3">Trip 2</span></div>
+      <div class='fc-event'><span *ngIf="trip4">Trip 2</span></div>
+      <div class='fc-event'><span *ngIf="trip5">Trip 2</span></div>
+      <div class='fc-event' *ngIf="trip1">Trip 1</div> <!-- not dragabble -->
     </div>
     <p>
       <input type='checkbox' id='drop-remove' checked='checked' />
