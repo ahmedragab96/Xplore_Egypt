@@ -36,7 +36,10 @@ body {
 }
 
 #external-events .fc-event {
-    margin: 6%;
+    margin: 5px 0px 0px 0px;
+    padding: 4px;
+    border-radius: 10px;
+    text-align: center;
     cursor: pointer;
 }
 
