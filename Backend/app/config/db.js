@@ -10,7 +10,7 @@ const db = mysql.createConnection ({
   host: 'localhost',
   user: 'ragab',
   password: '1A2S3D!a',
-  database:
+  database: 'XploreEgypt'
 });
 
 db.connect((err) => {
