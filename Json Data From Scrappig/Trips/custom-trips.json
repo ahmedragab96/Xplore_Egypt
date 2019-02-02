@@ -1,0 +1,330 @@
+﻿[
+	{
+		"title": "Alexandria Independent Adventure",
+		"price": "£259",
+		"duration": "2 days",
+		"description": "Delve into legendary Alexandria, Egypt's capital for a millennium and once home to one of the Seven Wonders of the Ancient World. Wander the Roman amphitheatres, palaces, and catacombs of Egypt's gateway to the Mediterranean. Starting from Cairo, spend a day and a half exploring Alexandria's Greek, Roman, and Byzantine history in one of the greatest cities of the Hellenic world. And with a top-notch Chief Experience Officer (CEO) from door to door, you'll know you're in good hands the whole time."
+	},
+	{
+		"title": "Private Tour: Giza Pyramids, Sphinx, Memphis, Sakkara",
+		"price": "£73",
+		"duration": "6 hours",
+		"description": "Step back in time to the days of ancient Egypt on a private tour of the Great Pyramids of Giza and Sphinx, the necropolis of Sakkara and the former capital, Memphis. With your own private Egyptologist guide to lead the way on this private tour, you can determine the amount of time you'd like to spend at each of the sites you'll visit."
+	},
+	{
+		"title": "Private Tour: Giza Pyramids and Sphinx",
+		"price": "£33",
+		"duration": "3 hours",
+		"description": "No visit to Cairo is complete without seeing the majesty of the Great Pyramids of Giza and the Sphinx. With your own private Egyptologist guide to lead the way, you'll enjoy personalized attention on your private tour of these famous symbols of Egypt's ancient civilization. As this is a private tour, you can determine the amount of time you'd like to spend at each of the sites you'll visit."
+	},
+	{
+		"title": "Luxor West Bank Private Valley of the Kings, Hatshepsut Temple",
+		"price": "£53",
+		"duration": "4 hours",
+		"description": "Tour the most famous sites on Luxor's West Bank in the company of an expert private guide. You'll step back into Egypt's ancient history at the Valley of the Kings and Hatshepsut Temple on this private morning tour from Luxor. As this is a private tour, you can determine the amount of time you'd like to spend at each site."
+	},
+	{
+		"title": "Nile River Dinner Cruise in Cairo",
+		"price": "£59",
+		"duration": "3 hours",
+		"description": "Enjoy a Nile River dinner cruise aboard the Nile Maxim, one of the most elegant cruising restaurants sailing the world's longest waterway. You'll enjoy top-class service aboard your Nile cruise, gliding past Cairo's illuminated skyline while you dine, and with entertainment provided by a spectacular belly-dancing and folklore show."
+	},
+	{
+		"title": "Pyramids Sound and Light Show with Private Transport",
+		"price": "£33",
+		"duartion": "2 hours",
+		"description": "Want a truly unforgettable evening of entertainment in Cairo? Then don't miss the world-famous Pyramids Sound and Light Show in Giza! You'll hear the story of Egypt as seen through the eyes of the Sphinx over the ages, and see the breathtaking site of the floodlit pyramids lit up under the stars.",
+		"imageURL": "https://lpviator.imgix.net/graphicslib/thumbs674x446/3124/SITours/pyramids-sound-and-light-show-with-private-transport-in-cairo-157301.jpg?auto=enhance&crop=entropy&fit=crop&h=160&q=50&w=128"
+	},
+	{
+		"title": "Private Tour: Egyptian Museum",
+		"price": "£35",
+		"duartion": "3 hours",
+		"description": "The second most frequently visited and certainly one of the most important attractions in Cairo is the Egyptian Museum. You will find the fabulous collection of King Tutankhamun and monuments from all periods of Egyptian history, from the pre historic era to the Greco-Roman period.",
+		"imageURL": "https://lpviator.imgix.net/graphicslib/thumbs674x446/3124/SITours/private-tour-egyptian-museum-in-cairo-124910.jpg?auto=enhance&crop=entropy&fit=crop&h=160&q=50&w=128"
+	},
+	{
+		"title": "Full-Day Tour to Giza Pyramids, Memphis, and Sakkara",
+		"price": "£30",
+		"duartion": "8 hours",
+		"description": "Private full day tour visiting Giza Pyramids, Sphinx, Memphis City - the ancient Capital of Egypt and Sakkara Pyramid where you visit the Step Pyramid of King Zoser. Tour includes pick-up and drop off transfers. Your tour will also include a Certified tour guide. This is a luxury Cairo day tour that covers the ancient sites of Cairo.",
+		"imageURL": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6a/d4/a6.jpg"
+	},
+	{
+		"title": "Private Tour: Alabaster Mosque, Sultan Hassan, Khan el-Khalili",
+		"price": "£37",
+		"duartion": "3 hours",
+		"description": "Look beyond the pyramids and pharaohs, and discover the Citadel of Salah el Din, Sultan Hassan and the Khan el-Khalili Bazaar. This private tour will give you a deeper insight into the rich history that is Egypt.",
+		"imageURL": "https://lpviator.imgix.net/graphicslib/thumbs674x446/3124/SITours/private-tour-alabaster-mosque-sultan-hassan-khan-el-khalili-in-cairo-124914.jpg?auto=enhance&crop=entropy&fit=crop&h=160&q=50&w=128"
+	},
+	{
+		"title": "Private Tour: Alexandria Day Trip from Cairo",
+		"price": "£102",
+		"duartion": "11 hours",
+		"description": "Take a fascinating private tour to Alexandria from Cairo in the company of your own Egyptologist guide. With your own private Egyptologist guide to lead the way, you'll enjoy personalized attention on your private tour of Alexandria. As this is a private tour, you can determine the amount of time you'd like to spend at each of the sites in Alexandria you'll visit.",
+		"imageURL": "https://lpviator.imgix.net/graphicslib/thumbs674x446/3124/SITours/private-tour-alexandria-day-trip-from-cairo-in-cairo-124919.jpg?auto=enhance&crop=entropy&fit=crop&h=160&q=50&w=128"
+	},
+	{
+		"title": "Private Tour: Abu Simbel by Minibus from Aswan",
+		"price": "£96",
+		"duartion": "8 hours",
+		"description": "See the magnificent temples of Abu Simbel on a minibus tour from Aswan. With a qualified Egyptologist as your guide, you'll enjoy a personalized visit to Abu Simbel on this private tour. With its four rock-hewn pharaohs, you'll agree that the Great Temple is one of the most impressive sites in Egypt, and the highlight of any trip to Egypt.",
+		"imageURL": "https://lpviator.imgix.net/graphicslib/thumbs674x446/3124/SITours/private-tour-abu-simbel-by-minibus-from-aswan-in-aswan-141062.jpg?auto=enhance&crop=entropy&fit=crop&h=160&q=50&w=128"
+	},
+		{
+		"title": "Quad Biking in the Egyptian Desert from Sharm el Sheikh",
+		"price": "£31",
+		"duartion": "2.5 hours",
+		"description": "This 2 hour quad-biking excursion takes you riding across the sands at sunrise or sunset, when the amazing colors of the desert are revealed in all their glory. You'll explore crags and dunes as you ride along the sands on a desert escape from Egypt's bustling cities.",
+		"imageURL": "https://lpviator.imgix.net/graphicslib/thumbs674x446/3124/SITours/quad-biking-in-the-egyptian-desert-from-sharm-el-sheikh-in-sharm-el-sheikh-141061.jpg?fit=crop&w=960&h=416"
+	},
+		{
+		"title": "Day Trip to Cairo by Bus",
+		"price": "£54",
+		"duartion": "2.5 hours",
+		"description": "A tour guide will pick you up at 01:30 from your Hurghada hotel for a 5 hour coach transfer to Cairo. Upon arrival your tour guide will take you into central Cairo to wander Egyptian Museum and Inside this huge, world-famous museum you will find some of the most important treasures from Ancient Egypt. Built in neo-classical style, designed by the French architect Marcel Dourgnon the museum exceed 120,000 masterpieces. You will have free time to have your own tour and visit the Mummy room if you are interested.Your tour will continue to Giza to have lunch in a local restaurant before take you to the stunning Pyramids of Giza. The oldest of the 7 Wonders of the Ancient World you see the great Pyramid of Cheops which one of the world wonders, the Pyramid of Chephren (you have the chance to visit it from inside), and the smallest one of Mecarinus, the valley temple of Chephren. You will also see the great Sphinx and a panoramic view of the three Pyramids together. After you have viewed the ancient Pyramids, you will visit the perfume museum for a rest before you start your journey back to Hurghada.",
+		"imageURL": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/74/6d/2f.jpg?fit=crop&w=960&h=416"
+	},
+		{
+		"title": "Red Sea Snorkeling",
+		"price": "£20",
+		"duartion": "7 hours",
+		"description": "No trip to Hurghada would be complete without a day spent exploring the underwater world of the Red Sea. This snorkeling trip will take you to three spectacular sites where you can choose to jump in the water or simply lie on the decks and work on your tan.",
+		"imageURL": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/d0/10/1c.jpg?fit=crop&w=960&h=416"
+	},
+	{
+		"title":"Giza, Saqqara, Dahshur, Cairo 2-Day All-Inclusive Private Tour",
+		"price":"£101",
+		"duration":"2 days",
+		"description":"Do it all in two days. The target of this private tour is for you to visit all major pyramid sites in Saqqara, Dahshur and Giza, Admire the treasures of the Egyptian museum and the spiritual atmosphere of mosques and churches in the Citadel and in Old Cairo. Live the experience of bargaining in the famous Bazaar area of Khan el Khalili. Enjoy authentic Egyptian food, and enjoy entertainment during your evenings - one at the sound and light show in Giza, the other on a dinner cruise on the Nile with a belly dance and Tannoura (whirling Dervish) show.",
+		"imageURL":"https://media.tacdn.com/media/attractions-splice-spp-674x446/06/74/cc/cb.jpg"
+
+	},
+	{
+		"title":"Private Tour: Memphis and Sakkara",
+		"price":"£42",
+		"duration":"3 hours",
+		"description":"Discover Memphis and Sakkara, two of Egypt's most important archaeological treasures. Sakkara is home to the oldest pyramid in Egypt, and Memphis was the former capital founded in 3,100 BC.",
+		"imageURL":"https://lpviator.imgix.net/graphicslib/thumbs674x446/3124/SITours/private-tour-memphis-and-sakkara-in-cairo-124918.jpg?fit=crop&w=960&h=416"
+	},
+		{
+		"title":"Coptic Cairo Private Tour: Hanging Church, Abu Serga, Ben Ezra",
+		"price":"£30",
+		"duration":"3 hours",
+		"description":"Discover the ancient sites and culture of Coptic Christians on a private tour through Old Cairo. Visit Abu Serga where the Holy family sort refuge, and Ben Ezra, one of the oldest synagogues in Cairo. Learn about Christian life in Egypt, a country where Christianity is a minority.",
+		"imageURL":"https://lpviator.imgix.net/graphicslib/thumbs674x446/3124/SITours/private-tour-coptic-cairo-the-hanging-church-abu-serga-ben-ezra-in-cairo-124911.jpg?fit=crop&w=960&h=416"
+	},
+		{
+		"title":"Tiran Island Cruise and Snorkeling",
+		"price":"£37",
+		"duration":"7.5 hours",
+		"description":"Sunbathing, swimming, snorkeling - is there any better way to spend a day in the Egyptian sun? Escape the desert for a day of relaxation around the protected white sandy Tiran Island. Crystal clear blue water, lagoons and colorful coral reefs are waiting to be explored around Tiran Island, located north east of Sharm El Sheikh in the Gulf of Aqaba.",
+		"imageURL":"https://media.tacdn.com/media/attractions-splice-spp-674x446/06/d0/10/24.jpg"
+	},
+		{
+		"title":"Morning Alexandria Day Tour from Cairo",
+		"price":"£33",
+		"duration":"12 hours",
+		"description":"Alexandria, city of Alexander and capital of Egypt for a thousand years. until 30 B.C. it was the biggest city of the world, then it was second only to Rome. It had the biggest library of the world and the most famous lighthouse (Pharos)",
+		"imageURL":"https://lpviator.imgix.net/graphicslib/thumbs674x446/8243/SITours/morning-alexandria-day-tour-from-cairo-in-cairo-208027.jpg?fit=crop&w=960&h=416"
+	},
+		{
+		"title":"Nile River 3-Hour Buffet Dinner Cruise with Tanoura Sufi Show",
+		"price":"£22",
+		"duration":"3 hours",
+		"description":"Enjoy your dinner on this Nile cruise watching a belly dancer and and a Tanoura Sufi dance show. You can also go up to the sundeck to enjoy the view of Cairo - many great photo opportunities guaranteed",
+		"imageURL":"https://lpviator.imgix.net/graphicslib/thumbs674x446/8243/SITours/3-hour-nile-river-buffet-dinner-cruise-in-cairo-230007.jpg?fit=crop&w=960&h=416"
+	},
+		{
+		"title":"Cairo Sightseeing by Night Private Guided Tour",
+		"price":"£22",
+		"duration":"6 hours",
+		"description":"Enjoy this unique private night tour which will introduce you to nighttime Cairo, totally different to Cairo by day.You will be picked-up by your tour guide who will guide you around highlights of Cairo. Start your tour with Cairo tower (187m high) situated on Gezeira island on the Nile River, where you can see night-time Cairo in all its splendor.",
+		"imageURL":"https://media.tacdn.com/media/attractions-splice-spp-674x446/06/74/cc/9c.jpg?fit=crop&w=960&h=416"
+	},
+		{
+		"title":"Ras Mohamed Red Sea Cruise and Snorkeling",
+		"price":"£46",
+		"duration":"7.5 hours",
+		"description":"Hit the water at Sinai's famous Ras Mohamed National Park, where an abundance of underwater life is waiting to be discovered. Spend the day snorkeling, swimming or just relaxing on the sun deck the choice is up to you.",
+		"imageURL":"https://media.tacdn.com/media/attractions-splice-spp-674x446/06/d0/10/29.jpg?fit=crop&w=960&h=416"
+	},
+		{
+		"title":"Hot Air Balloon Flight Over Luxor West Bank and Nile River",
+		"price":"£154",
+		"duration":"2 hours",
+		"description":"For unbeatable views of Luxor's famous temples, take a hot-air balloon flight over the Nile River's west bank. Away from the crowds in the peaceful glow of dawn, your sunrise flight over Egypt's ancient monuments promises to be a highlight of your visit.",
+		"imageURL":"https://media.tacdn.com/media/attractions-splice-spp-674x446/06/d0/10/22.jpg"
+	},
+		{
+		"title":"Quad Bike Safari in Hurghada",
+		"price":"£18",
+		"duration":"5 hours",
+		"description":"Roar across Egypt's rugged Eastern Desert on a quad bike to a Bedouin village on this 5-hour desert safari from Hurghada. Sip Bedouin tea on Arabian carpets, brave an optional shisha pipe, enjoy dinner, ride a camel across the desert sands, learn about Bedouin culture from the locals, and maybe even catch sunset from a sand dune.",
+		"imageURL":"https://lpviator.imgix.net/graphicslib/thumbs674x446/10659/SITours/5-hour-quad-bike-safari-in-hurghada-in-hurghada-385688.jpg?auto=enhance&crop=entropy&fit=crop&h=160&q=50&w=128"
+	},
+		{
+		"title":"Giza, Dahshur, Saqqara and Memphis Pyramids Private Day Trip",
+		"price":"£15",
+		"duration":"8 hours",
+		"description":"Start your private tour with the step pyramid, the oldest, then visit Memphis, the first capital of ancient Egypt, then the Red Pyramid in Dahshur, the first true pyramid, and the Bent Pyramid, and lastly the Great Pyramid in Giza as well as as other pyramids and the Sphinx.",
+		"imageURL":"https://lpviator.imgix.net/graphicslib/thumbs674x446/17178/SITours/full-day-guided-private-tour-to-pyramids-of-giza-dahshur-sakkara-and-in-cairo-412017.jpg?auto=enhance&crop=entropy&fit=crop&h=160&q=50&w=128"
+	},
+		{
+		"title":"Private Tour: Abu Simbel Flight and Tour from Aswan",
+		"price":"£286.96",
+		"duration":"4 hours",
+		"description":"Fast track your journey and take the quick route to see the magnificent temples of Abu Simbel on an air tour from Aswan. With a qualified Egyptologist as your guide (fully guided or part guided depending on option selected), this private tour provides the most personalized visit to Abu Simbel, in the shortest time possible.",
+		"imageURL":"https://lpviator.imgix.net/graphicslib/thumbs674x446/3124/SITours/private-tour-abu-simbel-flight-and-tour-from-aswan-in-aswan-141042.jpg?fit=crop&w=960&h=416"
+	},
+	{
+		"title":"Glass Bottom Boat Cruise and Coral Reef Viewing",
+		"price":"£17",
+		"duration":"1.5 hours",
+		"description":"No need to get in the water to enjoy the spectacular coral reefs of the Red Sea near Sharm el-Sheikh. Board a glass bottom boat to see the underwater world while staying dry.",
+		"imageURL":"https://media.tacdn.com/media/attractions-splice-spp-674x446/06/d0/10/2b.jpg?fit=crop&w=960&h=416"
+	},
+	{
+		"title":"Nile Dinner Cruise with Belly Dancing and Hotel Transfer",
+		"price":"£23",
+		"duration":"3 hours",
+		"description":"One of the best things to do in Cairo at night is a dinner cruise on the Nile with Belly dancer and Tanoura Shows. Enjoy sailing on the Nile for 2 hours with open buffet dinner with varieties of food items that contains desserts and fruits too beside the main course and salad. This trip includes all pickup and drop off transfers from customers locations in Cairo or Giza.",
+		"imageURL":"https://media.tacdn.com/media/attractions-splice-spp-674x446/06/70/59/c6.jpg?fit=crop&w=960&h=416"
+	},
+	{
+		"title":"Day Trip to Luxor from Hurghada with Hotel Pickup and Lunch",
+		"price":"£54",
+		"duration":"16 hours",
+		"description":"Go on this full-day excursion to Luxor from Hurghada with a local guide. You will get to visit the Colossi of Memnon, the Valley of the Kings, the Temple of Queen Hatshepsut, and the Temple of Karnak. Lunch will be served at a local restaurant. Hotel pickup and drop-off is included.",
+		"imageURL":"https://media.tacdn.com/media/attractions-splice-spp-674x446/06/75/5f/67.jpg"
+	},
+	{
+		"title":"Cairo with Egyptian Museum and Khan Khalili Bazaar Day Tour",
+		"price":"£57",
+		"duration":"8 hours",
+		"description":"Enjoy a full day exploring Cairo on this sighting tour. You will visit the Egyptian Museum, where you can see the Treasures of King Tutankamoun before visiting the Citadel where you see the famous Mosque of Mohamed Ali and then visit Khan Khalili Bazaar. The tour could be sharing with others if there other guests booked it on same date",
+		"imageURL":"https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6a/d4/91.jpg?fit=crop&w=960&h=416"
+	},
+	{
+		"title":"Quad Biking in the Egyptian Desert from Hurghada",
+		"price":"£37",
+		"duration":"4 hours",
+		"description":"Combine adventure with dramatic desert scenery, as you take to the sands on a quad bike, using the sunset against the Sinai mountains as your backdrop.",
+		"imageURL":"https://media.tacdn.com/media/attractions-splice-spp-674x446/06/d0/10/1f.jpg?fit=crop&w=960&h=416"
+	},
+	{
+		"title":"Private Tour: Dendara and Abydos",
+		"price":"£59",
+		"duration":"10 hours",
+		"description":"Combine a morning in Dendara where you can visit the Temple of Hathor, before continuing for an afternoon of sightseeing in Abydos, home to The Cult of Osiris . It is a place where most ancient Egyptians would have made a pilgrimage to at least once in their lifetime.",
+		"imageURL":"https://lpviator.imgix.net/graphicslib/thumbs674x446/3124/SITours/private-tour-dendara-and-abydos-in-luxor-141832.jpg?fit=crop&w=960&h=416"
+	},
+	{
+		"title":"Day Trip to Luxor from Cairo by Plane with Lunch",
+		"price":"£277",
+		"duration":"18 hours",
+		"description":"If you have a limited time in Egypt and would like to explore the highlights of Luxor City in one day this is the best option.You will be picked up from your hotel by your driver at 4am. He will take you to the domestic airport for your flight to Luxor.Arriving in Luxor, you will be met at the airport by your tour guide (holding a sign with your name on it). In a modern, air-conditioned vehicle he will transfer you to the different sights. Enjoy an excursion to the Necropolis of Thebes, on the Eastern bank of the river. ",
+		"imageURL":"https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6a/d4/85.jpg?fit=crop&w=960&h=416"
+	},
+	{
+		"title":"Mt Sinai, St Catherine's Monastery Private with Sunrise Hike",
+		"price":"£72",
+		"duration":"14 hours",
+		"description":"See the sun rise over the desert on an unforgettable visit to the place where Moses received the 10 Commandments. You'll travel in air-conditioned comfort with your own personal Egyptologist guide, who will accompany you up Moses' Mountain and take you on a tour of St. Catherine's Monastery.",
+		"imageURL":"https://lpviator.imgix.net/graphicslib/thumbs674x446/3124/SITours/private-tour-st-catherine-s-monastery-and-moses-mountain-at-sunrise-in-sharm-el-sheikh-140636.jpg?auto=enhance&crop=entropy&fit=crop&h=160&q=50&w=128"
+	},
+		{
+		"title":"Private Tour: Hurghada City Sightseeing",
+		"price":"£20",
+		"duration":"3 hours",
+		"description":"The best way to find your bearings when arriving in a new city is to take a city tour. This three-hour trip with your own private guide is the perfect way to see the sights of Hurghada including the Big Mosque, St Mary Church, the port area and of course free time for shopping in the bazaars.",
+		"imageURL":"https://lpviator.imgix.net/graphicslib/thumbs674x446/3124/SITours/private-tour-hurghada-city-sightseeing-in-hurghada-147356.jpg?fit=crop&w=960&h=416"
+	},
+		{
+		"title":"River Nile Felucca Sunset Sail 1-Hour Evening Tour in Cairo",
+		"price":"£16",
+		"duration":"1 hour",
+		"description":"Your driver will pick you up from your hotel at 4pm to take you to the Cairo pier. Get on a traditional Egyptian boat known as Felucca and enjoy a relaxing one-hour sail along the River Nile. Let the evening sun shine in your face and enjoy the fantastic views of the city while having soft drinks and snacks. Your driver will wait at the pier to take you back to your hotel after the cruise has finished.",
+		"imageURL":"https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6a/d4/96.jpg?fit=crop&w=960&h=416"
+	},
+			{
+		"title":"Bedouin BBQ in the Egyptian Desert by 4x4",
+		"price":"£30",
+		"duration":"8 hours",
+		"description":"A one-hour drive by jeep through the desert brings you to the starting point of your tour. After an easy 30-minute walk up a small hill you will be met by your Bedouin hosts and introduced to their way of life.Settle in for the evening and gaze upon the spectacular desert sunset as you feast on a Bedouin BBQ dinner, before returning to your Hurghada hotel.",
+		"imageURL":"https://media.tacdn.com/media/attractions-splice-spp-674x446/06/d0/10/19.jpg?fit=crop&w=960&h=416"
+	},
+			{
+		"title":"Full Day Tour to East and West Banks of Luxor",
+		"price":"£44",
+		"duration":"8 hours",
+		"description":"Start your full day tour visiting the Highlights of Luxor City where you visit valley of the Kings, the Temple of Queen Hatshepsut, also known as El Dir El Bahari and Colossi Of Memnon. Lunch is included and then continue to the East Bank where you Visit Luxor and Karnak Temples. At the end of the tour you will be transferred back to your Hotel, Nile Cruise or to Luxor airport.",
+		"imageURL":"https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6b/7a/cf.jpg?fit=crop&w=960&h=416"
+	},
+			{
+		"title":"Camel Safari with Optional Bedouin Dinner",
+		"price":"£38",
+		"duration":"3.5 hours",
+		"description":"Can you truly say you have been to Egypt if you haven't ridden a camel? Find out for yourself on an afternoon Camel Safari through the desert, and finish the day with an authentic taste of Bedouin tea. You also have the option of dining on a Bedouin dinner including the unique bread.",
+		"imageURL":"https://lpviator.imgix.net/graphicslib/thumbs674x446/3124/SITours/camel-safari-with-optional-bedouin-dinner-in-sharm-el-sheikh-141067.jpg?fit=crop&w=960&h=416"
+	},
+			{
+		"title":"Cairo Half-Day Downtown Tour Including Egyptian Dinner",
+		"price":"£22",
+		"duration":"4 hours",
+		"description":"Immerse yourself in the bustle and beauty of downtown Cairo on this fascinating 4-hour walking tour. Set off in the late afternoon at Zamalek Island to see the off-the-beaten track gems and major landmarks along both old and modern streets of this captivating metropolis. Freshly painted graffiti provides colorful context to Liberation Square (Midan Tahrir), and the grand 19th-century buildings set a perfect backdrop for downtown street theater. Hear fascinating facts and stories from your guide as you walk, and finish with supper at an authentic Egyptian restaurant.",
+		"imageURL":"https://lpviator.imgix.net/graphicslib/thumbs674x446/6509/SITours/downtown-cairo-half-day-tour-with-egyptian-dinner-in-cairo-158909.jpg?fit=crop&w=960&h=416"
+	},
+			{
+		"title":"Sinbad Submarine Under The Red Sea",
+		"price":"£66",
+		"duration":"2 hours",
+		"description":"Experience the underwater world of the Red Sea without getting wet! Board the Sinbad Submarine for an unforgettable underwater adventure, diving below the Red Sea to enjoy the tranquility of life beneath the waves.",
+		"imageURL":"https://lpviator.imgix.net/graphicslib/thumbs674x446/3124/SITours/sinbad-submarine-under-the-red-sea-in-hurghada-147366.jpg?fit=crop&w=960&h=416"
+	},
+
+			{
+		"title":"Day Trip from Cairo to El Mokkatm Mountain Cave Church",
+		"price":"£46",
+		"duration":"3 hours",
+		"description":"Visit the famous church of Saint Simon the Tanner, the cave church. The largest church in Cairo located inside El mokkatam mountain in a small village named by zableen means garbage collectors. Inside the church Virgin Mary appeared in carved statue in ceiling without any human effort.",
+		"imageURL":"https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6a/cf/da.jpg?fit=crop&w=960&h=416"
+	},
+			{
+		"title":"Tour to Luxor from Hurghada",
+		"price":"£93",
+		"duration":"15 hours",
+		"description":"If you remember reading about the city of Thebes, an ancient Egyptian city, then you will want to go on Tour to Luxor from Hurghada because Luxor is modern day Thebes and is filled with history dating back hundreds and thousands of years!",
+		"imageURL":"https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6f/4e/a9.jpg?fit=crop&w=960&h=416"
+	},
+			{
+		"title":"Private Tour: Pharaonic Village",
+		"price":"£28",
+		"duration":"3 hours",
+		"description":"Experience ancient Egypt like never before at the Pharaonic Village in Cairo. A great family-friendly activity during your Egyptian vacation, the Pharaonic Village is a living museum of ancient Egyptian life.",
+		"imageURL":"https://lpviator.imgix.net/graphicslib/thumbs674x446/3124/SITours/private-tour-pharaonic-village-in-cairo-140740.jpg?fit=crop&w=960&h=416"
+	},
+			{
+		"title":"Private Tour: Dendara from Luxor",
+		"price":"£28",
+		"duration":"12 hours",
+		"description":"Travel from Luxor to Dendara either by road in an air conditioned vehicle or by boat along the Nile River to see the well preserved Temple of Hathor, Temple of Isis and Coptic Basilica. Your qualified Egyptologist guide will introduce you to the main features of the complex before allowing you additional free time to explore at leisure.",
+		"imageURL":"https://lpviator.imgix.net/graphicslib/thumbs674x446/3124/SITours/private-tour-dendara-from-luxor-in-luxor-147353.jpg?fit=crop&w=960&h=416"
+	},
+	{
+		"title":"Hurghada Daily Scuba Dive Trip",
+		"price":"£43",
+		"duration":"8 hours",
+		"description":"Egypt's Red Sea is home to some of the world's most famous dive sites and Hurghada, on the Red Sea coast, offers some stunning coral gardens just off-shore. This 1-day, 2-dive trip, suitable both for absolute beginners and qualified divers, visits different sites depending on availability, weather conditions, and guests' experience level: lunch is included.",
+		"imageURL":"https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6f/6a/d3.jpg?fit=crop&w=960&h=416"
+	},
+	{
+		"title":"Nile River Dinner Cruise with Cultural Show, Private Transfers",
+		"price":"£8",
+		"duration":"4 hours",
+		"description":"The Nile River is considered the longest river in the world. Enjoy one of the most unique experiences on the Nile in Cairo by joining a dinner cruise.From the top-deck take unforgettable pictures of Cairo illuminated sights and land marks, smell the fresh breeze of the Nile that inspired so many writers, poets and lovers in history. The dinner cruise takes you on a journey for 2 hours through Cairo while serving a buffet dinner and offering a live show of exquisite oriental belly dance and mystical whirling Dervish, Sufi dance or Tannoura",
+		"imageURL":"https://media.tacdn.com/media/attractions-splice-spp-674x446/06/e7/18/c8.jpg?fit=crop&w=960&h=416"
+	},
+
+
+]
