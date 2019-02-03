@@ -38,10 +38,33 @@ users.post('/register' , function (req , res , next ) {
                })
                res.json ({token : token});
           })
-   })
+     })
+});
 
 });
 
+users.post('/login' , function (req , res , next ) {
+    const email = req.body.email;
+    const password = req.body.password;
+
+  db.query("SELECT ID , email , password FROM users WHERE email = ?",  [email] , function (error , results , fields){
+
+      if (error) throw error;
+
+      if (results.length === 0)
+        {
+          return res.json({error : "User doesnot exist!"})
+        }
+      else
+        {
+          if (bcrypt.compare(password , results[0].password)){
+          let token = jwt.sign({email : email , userId : results[0].ID} , 'secret' , {
+            expiresIn : '1h'
+          })
+          res.json ({token : token});
+          }
+        }
+    })
 });
 
 module.exports = users;
