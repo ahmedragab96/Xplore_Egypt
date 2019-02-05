@@ -23,6 +23,8 @@ export class TripPlannerComponent implements OnInit {
 
   ];
 
+userLoadedTrips=[
+];
 
   ngOnInit() {
 
@@ -40,7 +42,12 @@ export class TripPlannerComponent implements OnInit {
     let angularthis = this;
     $('#calendar1').fullCalendar(
     {
-      
+        events: [
+    {
+      title  : 'userloadedEvent-Trial',
+      start  : '2019-02-12'
+    }
+  ],
       header: {
         left: 'prev,next today',
         center: 'title',
@@ -53,13 +60,20 @@ export class TripPlannerComponent implements OnInit {
       eventLimit: true, // allow "more" link when too many events
       
       drop: function (date, jsEvent, ui) {
+        console.log("date:",date);
+        angularthis.userLoadedTrips.push({
+          "date":date,
+          "jsEvent":jsEvent,
+          "ui":ui
+        })
+        console.log(angularthis.userLoadedTrips);
         //event drop fist time
         let evId =+this.id.split(",")[1];
         console.log('calendar 1 Drop');
         $(this).attr("hidden", true);
         angularthis.trips[evId]['addedCal'] = true;
         angularthis.calendarTrips.push(angularthis.trips[evId])
-        console.log(angularthis.calendarTrips);
+        //console.log(angularthis.calendarTrips);
       },
 
       eventDragStop: function (event, jsEvent, ui, view) {
