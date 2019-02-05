@@ -22,7 +22,8 @@ export class TripPlannerComponent implements OnInit {
   calendarTrips = [
 
   ];
-  
+
+
   ngOnInit() {
 
     var isEventOverDiv = function (x) {
@@ -58,7 +59,7 @@ export class TripPlannerComponent implements OnInit {
         $(this).attr("hidden", true);
         angularthis.trips[evId]['addedCal'] = true;
         angularthis.calendarTrips.push(angularthis.trips[evId])
-        // console.log(date);
+        console.log(angularthis.calendarTrips);
       },
 
       eventDragStop: function (event, jsEvent, ui, view) {
