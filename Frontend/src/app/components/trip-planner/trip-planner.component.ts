@@ -22,7 +22,10 @@ export class TripPlannerComponent implements OnInit {
   calendarTrips = [
 
   ];
-  
+
+userLoadedTrips=[
+];
+
   ngOnInit() {
 
     var isEventOverDiv = function (x) {
@@ -37,7 +40,14 @@ export class TripPlannerComponent implements OnInit {
     }
 
     let angularthis = this;
-    $('#calendar1').fullCalendar({
+    $('#calendar1').fullCalendar(
+    {
+        events: [
+    {
+      title  : 'userloadedEvent-Trial',
+      start  : '2019-02-12'
+    }
+  ],
       header: {
         left: 'prev,next today',
         center: 'title',
@@ -48,17 +58,25 @@ export class TripPlannerComponent implements OnInit {
       droppable: true, // this allows things to be dropped onto the calendar
       dragRevertDuration: 0,
       eventLimit: true, // allow "more" link when too many events
+      
       drop: function (date, jsEvent, ui) {
+        console.log("date:",date);
+        angularthis.userLoadedTrips.push({
+          "date":date,
+          "jsEvent":jsEvent,
+          "ui":ui
+        })
+        console.log(angularthis.userLoadedTrips);
         //event drop fist time
-        let evId = +this.id.split(",")[1];
+        let evId =+this.id.split(",")[1];
         console.log('calendar 1 Drop');
         $(this).attr("hidden", true);
         angularthis.trips[evId]['addedCal'] = true;
         angularthis.calendarTrips.push(angularthis.trips[evId])
-        // console.log(date);
+        //console.log(angularthis.calendarTrips);
       },
-      eventDragStop: function (event, jsEvent, ui, view) {
 
+      eventDragStop: function (event, jsEvent, ui, view) {
         if (isEventOverDiv(jsEvent.clientX)) {
           console.log('calendar 1 remove');
           let evId = +event.elementS.id.split(",")[1];
@@ -68,10 +86,10 @@ export class TripPlannerComponent implements OnInit {
           angularthis.trips[evId]['addedCal'] = false; 
           angularthis.cd.detectChanges();        
           angularthis.calendarTrips = angularthis.calendarTrips.filter(item => item.id !== angularthis.trips[evId].id);
-          console.log(angularthis.calendarTrips)
+          //console.log(angularthis.calendarTrips)
         }
       },
-      eventDrop: function (event, delta, revertFunc, jsEvent, ui, view) {
+     /* eventDrop: function (event, delta, revertFunc, jsEvent, ui, view) {
         // event change it location
         // console.log(angularthis.trips[+event.elementS.id.split(",")[1]])
         console.log(new Date(event.start._d));
@@ -83,12 +101,13 @@ export class TripPlannerComponent implements OnInit {
         // console.log(event);
         console.log(new Date(event.start._d));
         console.log(new Date(event.end == null ? null: event.end._d));
-      },
+      },*/
     });
 
     $(document).ready(function () {
       $('#external-events .fc-event').each(function () {
-
+      	console.log($(this));
+      	console.log(this);
         // store data so the calendar knows to render an event upon drop
         $(this).data('event', {
           element: $(this),
