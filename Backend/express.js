@@ -10,6 +10,18 @@ var TripsRoutes = require('./routes/trips')
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json()); // parse form data client
 
+app.use((req , res ,next) => {
+  res.setHeader("Access-Control-Allow-Origin", "*");
+  res.setHeader(
+    "Access-Control-Allow-Headers",
+    "Origin, X-Requested-With, Content-Type, Accept"
+  );
+  res.setHeader(
+    "Access-Control-Allow-Methods",
+     "GET, POST, PATCH, DELETE, OPTIONS"
+   );
+  next();
+});
 
 app.use('/users', UserRoutes);
 app.use('/trips',  TripsRoutes);
