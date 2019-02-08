@@ -13,6 +13,8 @@ import { HttpClientModule } from '@angular/common/http';
 import { AppRoutingMOdule } from './routing/app-routing.module';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
+// services 
+import {TripPlannerService} from './services/trip-planner/trip-planner.service';
 @NgModule({
   declarations: [
     AppComponent,
@@ -28,7 +30,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     MatInputModule,
     BrowserAnimationsModule
     ],
-  providers: [],
+  providers: [TripPlannerService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

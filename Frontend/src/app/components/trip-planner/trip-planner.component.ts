@@ -1,5 +1,5 @@
 import { Component, OnInit, ChangeDetectorRef } from '@angular/core';
-
+import {TripPlannerService} from '../../services/trip-planner/trip-planner.service'
 declare var $: any;
 
 @Component({
@@ -9,7 +9,7 @@ declare var $: any;
 })
 export class TripPlannerComponent implements OnInit {
   
-  constructor(private cd: ChangeDetectorRef) { }
+  constructor(private cd: ChangeDetectorRef , private service:TripPlannerService) { }
 
   trips =[
     { "name": "Trip 1", "id": 1, "selected": false, "addedCal": false, "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit," },
@@ -26,7 +26,20 @@ export class TripPlannerComponent implements OnInit {
 userLoadedTrips=[
 ];
 
+  tripsInfo:any
+getTripsFromService(){
+      this.service.GetAllTrips().subscribe((res) => {
+        this.tripsInfo = res;
+        console.log(res);
+      });
+    }
+
   ngOnInit() {
+
+// getting all trips
+this.getTripsFromService();
+
+
 
     var isEventOverDiv = function (x) {
       var external_events = $('#external-events');
