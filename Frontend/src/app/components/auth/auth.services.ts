@@ -17,11 +17,11 @@ export class AuthServices {
         });
     }
     register(fname: string , lname: string ,
-          email: string , password: string , 
+          email: string , password: string ,
           DOB: string , gender: string , nationality: string) {
 
             const userData: UserData = {fname: fname , lname: lname ,
-                                        email: email , password: password , 
+                                        email: email , password: password ,
                                         DOB: DOB , gender: gender , nationality: nationality};
 
             this.http.post('http://localhost:3000/users/register', userData)

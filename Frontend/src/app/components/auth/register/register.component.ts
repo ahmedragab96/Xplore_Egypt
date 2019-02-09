@@ -13,11 +13,9 @@ export class RegisterComponent {
 
     constructor(public authService: AuthServices) {}
 
-    onregister(form: NgForm){
+    onregister(form: NgForm) {
         console.log(form.value);
-        
         this.authService.register(form.value.fname , form.value.lname , form.value.email , form.value.password
             , form.value.DOB , form.value.gender , form.value.nationality );
     }
-    
 }

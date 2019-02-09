@@ -13,10 +13,8 @@ export class LoginComponent {
 
     constructor(public authService: AuthServices) {}
 
-    onlogin(form: NgForm){
+    onlogin(form: NgForm) {
         console.log(form.value);
-        
         this.authService.login(form.value.username , form.value.pass);
     }
-    
 }

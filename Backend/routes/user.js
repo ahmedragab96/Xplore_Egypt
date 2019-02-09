@@ -8,18 +8,7 @@ const jwt = require('jsonwebtoken');
 //var LocalStrategy = require('passport-local').Strategy;
 const saltRounds = 10;
 
-// app.use((req , res ,next) => {
-//   res.setHeader("Access-Control-Allow-Origin", "*");
-//   res.setHeader(
-//     "Access-Control-Allow-Headers",
-//     "Origin, X-Requested-With, Content-Type, Accept"
-//   );
-//   res.setHeader(
-//     "Access-Control-Allow-Methods",
-//      "GET, POST, PATCH, DELETE, OPTIONS"
-//    );
-//   next();
-// });
+
 
 //REGISTER
 
@@ -28,7 +17,7 @@ users.post('/register' , function (req , res , next ) {
    const lname = req.body.lname;
    const email = req.body.email;
    const password = req.body.password;
-   const DoB = req.body.dob;
+   const DoB = req.body.DOB;
    const gender = req.body.gender;
    const nationality = req.body.nationality;
 
