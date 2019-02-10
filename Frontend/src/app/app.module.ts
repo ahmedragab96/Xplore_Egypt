@@ -15,12 +15,16 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 // services 
 import {TripPlannerService} from './services/trip-planner/trip-planner.service';
+import { HomeComponent } from './components/home/home.component';
+import { NavbarComponent } from './components/navbar/navbar.component';
 @NgModule({
   declarations: [
     AppComponent,
     TripPlannerComponent,
     LoginComponent,
-    RegisterComponent
+    RegisterComponent,
+    HomeComponent,
+    NavbarComponent
   ],
   imports: [
     BrowserModule,
