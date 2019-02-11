@@ -58,12 +58,19 @@ users.post('/login' , function (req , res , next ) {
         }
       else
         {
-          if (bcrypt.compare(password , results[0].password)){
-          let token = jwt.sign({email : email , userId : results[0].ID} , 'secret' , {
+          console.log(results[0].password);
+          bcrypt.compare(password , results[0].password , (err, respond) => {
+            
+            if (!respond){
+              return res.json({error: "Password is incorrect!"});
+            }
+            if(respond){
+            let token = jwt.sign({email : email , userId : results[0].ID} , 'secret' , {
             expiresIn : '1h'
+            })
+            res.json({token : token});
+            }
           })
-          res.json({token : token});
-          }
         }
     })
 });

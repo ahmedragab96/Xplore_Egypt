@@ -24,11 +24,17 @@ export class AuthServices {
     login( email: string , password: string) {
         const authData: AuthData = {email: email , password: password};
 
-        this.http.post<{token: string}>('http://localhost:3000/users/login', authData)
+        this.http.post<{token: string , error: string}>('http://localhost:3000/users/login', authData)
         .subscribe( Response => {
-             const token = Response.token;
-             this.private_token = token ;
-             this.authStatusListener.next(true);
+            if (Response.token)
+                {
+                const token = Response.token;
+                this.private_token = token ;
+                this.authStatusListener.next(true);
+                }
+            else {
+                console.log(Response.error);
+            }
         });
     }
     register(fname: string , lname: string ,
