@@ -7,6 +7,6 @@ export class TripPlannerService {
 
   constructor(private http:HttpClient) { }
     GetAllTrips() {
- 		return this.http.get("http://localhost:3000/trips/getall")
+    return this.http.get("http://localhost:3000/trips/getall")
   }
 }

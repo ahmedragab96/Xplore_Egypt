@@ -4,12 +4,13 @@ import { LoginComponent } from './../components/auth/login/login.component';
 import { RegisterComponent } from './../components/auth/register/register.component';
 import { TripPlannerComponent } from './../components/trip-planner/trip-planner.component';
 import { HomeComponent } from './../components/home/home.component';
+import { AuthGuard } from '../components/auth/auth.guard';
 
 
 const routes: Routes = [
   { path: 'login', component: LoginComponent},
   { path: 'register', component: RegisterComponent},
-  { path: 'planner', component: TripPlannerComponent },
+  { path: 'planner', component: TripPlannerComponent , canActivate: [AuthGuard]},
   { path: 'home', component: HomeComponent },
   { path: '', redirectTo: '/home', pathMatch: 'full'},
   { path: '**', redirectTo: '/home', pathMatch: 'full'}
@@ -18,7 +19,8 @@ const routes: Routes = [
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
-  exports: [RouterModule]
+  exports: [RouterModule],
+  providers: [AuthGuard]
 })
 
 

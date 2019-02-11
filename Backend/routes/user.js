@@ -58,7 +58,6 @@ users.post('/login' , function (req , res , next ) {
         }
       else
         {
-          console.log(results[0].password);
           bcrypt.compare(password , results[0].password , (err, respond) => {
             
             if (!respond){
