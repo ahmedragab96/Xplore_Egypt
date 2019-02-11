@@ -4,6 +4,7 @@ body {
     font-size: 14px;
     font-family: "Lucida Grande", Helvetica, Arial, Verdana, sans-serif;
 }
+.ca
 
 .card {
     margin-top: 15px;
@@ -21,6 +22,12 @@ body {
 
 #wrap {
     width: 50%;
+}
+
+.card-text{
+ max-height: 120px;
+  position: relative;
+  overflow: hidden;
 }
 
 #external-events {

@@ -11,13 +11,13 @@ export class TripPlannerComponent implements OnInit {
   
   constructor(private cd: ChangeDetectorRef , private service:TripPlannerService) { }
 
-  trips =[
+  /*trips =[
     { "name": "Trip 1", "id": 1, "selected": false, "addedCal": false, "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit," },
     { "name": "Trip 2", "id": 2, "selected": false, "addedCal": false, "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit." },
     { "name": "Trip 3", "id": 3, "selected": false, "addedCal": false, "description": "Sed ut perspiciatis unde omnis iste natus error sit vol?" },
     { "name": "Trip 4", "id": 4, "selected": false, "addedCal": false, "description": "On the other hand, we denounce with righteous indignati pains to avoid worse pains." },
     { "name": "Trip 5", "id": 5, "selected": false, "addedCal": false, "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit dui, a pretium elit lobortis pretium." }
-  ];
+  ];*/
   
   calendarTrips = [
 
@@ -38,7 +38,6 @@ getTripsFromService(){
 
 // getting all trips
 this.getTripsFromService();
-
 
 
     var isEventOverDiv = function (x) {
@@ -69,7 +68,7 @@ this.getTripsFromService();
       // now: new Date('2014-09-01'),  // expliciting setting today date
       editable: true,
       droppable: true, // this allows things to be dropped onto the calendar
-      dragRevertDuration: 0,
+      dragRevertDuration:0,
       eventLimit: true, // allow "more" link when too many events
       
       drop: function (date, jsEvent, ui) {
@@ -84,8 +83,8 @@ this.getTripsFromService();
         let evId =+this.id.split(",")[1];
         console.log('calendar 1 Drop');
         $(this).attr("hidden", true);
-        angularthis.trips[evId]['addedCal'] = true;
-        angularthis.calendarTrips.push(angularthis.trips[evId])
+        angularthis.tripsInfo[evId]['addedCal'] = true;
+        angularthis.calendarTrips.push(angularthis.tripsInfo[evId])
         //console.log(angularthis.calendarTrips);
       },
 
@@ -96,7 +95,7 @@ this.getTripsFromService();
           $('#calendar1').fullCalendar('removeEvents', event._id);
           var el = event.element;
           el.attr("hidden", false);
-          angularthis.trips[evId]['addedCal'] = false; 
+          angularthis.tripsInfo[evId]['addedCal'] = false; 
           angularthis.cd.detectChanges();        
           angularthis.calendarTrips = angularthis.calendarTrips.filter(item => item.id !== angularthis.trips[evId].id);
           //console.log(angularthis.calendarTrips)

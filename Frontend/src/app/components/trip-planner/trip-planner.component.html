@@ -1,14 +1,17 @@
 <app-navbar></app-navbar>
 <div class="container">
     <div class="row">
-        <ng-container *ngFor="let trip of trips">
+        <ng-container *ngFor="let trip of tripsInfo">
             <div class="col d-flex align-items-stretch">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">{{trip['name']}}</h5>
-                        <p class="card-text">{{trip['description']}}</p>
-                        <button class="btn btn-primary cardBtn" *ngIf="!trip['selected']" (click)="trip['selected']=true">ADD</button>
-                        <button class="btn btn-danger cardBtn" *ngIf="trip['selected']" [disabled]="trip['addedCal']" (click)="trip['selected']=false">REMOVE</button>
+                        <img class="card-img-top" src="{{trip['imageURL']}}" alt="Card image cap">
+                        <h5 class="card-title">{{trip['title']}}</h5>
+                        <div class="card-text">
+                        <p>{{trip['description']}}</p>
+                        </div>
+                        <button class="btn btn-primary cardBtn" *ngIf="!trip['selected']" (click)="trip['selected']=1">ADD</button>
+                        <button class="btn btn-danger cardBtn" *ngIf="trip['selected']" [disabled]="trip['addedCal']" (click)="trip['selected']=0">REMOVE</button>
                     </div>
                 </div>
             </div>
@@ -22,7 +25,7 @@
             <div id='external-events'>
                 <div id='external-events-listing'>
                     <h4>Draggable Events</h4>
-                    <div *ngFor="let trip of trips; let i = index" [id]="trip['name'] +','+ i" class="fc-event" [hidden]="!trip['selected']">{{trip['name']}}</div>
+                    <div *ngFor="let trip of tripsInfo; let i = index" [id]="trip['title'] +','+ i" class="fc-event" [hidden]="!trip['selected']">{{trip['title']}}</div>
                 </div>
                 <p>
                     <input hidden type='checkbox' id='drop-remove' checked='!checked' />
