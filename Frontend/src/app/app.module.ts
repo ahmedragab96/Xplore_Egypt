@@ -9,14 +9,15 @@ import { TripPlannerComponent } from './components/trip-planner/trip-planner.com
 import { LoginComponent } from './/components/auth/login/login.component';
 import { RegisterComponent } from './/components/auth/register/register.component';
 import { FormsModule } from '@angular/forms';
-import { HttpClientModule } from '@angular/common/http';
+import { HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
 import { AppRoutingMOdule } from './routing/app-routing.module';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
-// services 
+// services
 import {TripPlannerService} from './services/trip-planner/trip-planner.service';
 import { HomeComponent } from './components/home/home.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
+import { AuthInterceptor } from './components/auth/auth-interceptor';
 @NgModule({
   declarations: [
     AppComponent,
@@ -34,7 +35,9 @@ import { NavbarComponent } from './components/navbar/navbar.component';
     MatInputModule,
     BrowserAnimationsModule
     ],
-  providers: [TripPlannerService],
+  providers: [TripPlannerService,
+      {provide: HTTP_INTERCEPTORS, useClass: AuthInterceptor, multi: true}
+    ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

@@ -8,8 +8,8 @@ const mysql = require('mysql');
 //   })
 const db = mysql.createConnection ({
   host: 'localhost',
-  user: 'root',
-  password: '',
+  user: 'ragab',
+  password: '1A2S3D!a',
   database: 'XploreEgypt'
 });
 

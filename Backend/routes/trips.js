@@ -1,6 +1,7 @@
 var express = require('express');
 var trips = express.Router();
 const db = require('../app/config/db');
+const AuthCheck = require("../middleware/check-auth")
 
 trips.get('/getall', (req , res , next) => {
     
