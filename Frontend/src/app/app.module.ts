@@ -39,5 +39,6 @@ import { AuthInterceptor } from './components/auth/auth-interceptor';
       {provide: HTTP_INTERCEPTORS, useClass: AuthInterceptor, multi: true}
     ],
   bootstrap: [AppComponent]
+  
 })
 export class AppModule { }
