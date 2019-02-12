@@ -1,2 +1,0 @@
-// <div _ngcontent-c1="" class="fc-event ui-draggable ui-draggable-handle" id="Trip 1,0" hidden="">Trip 1</div>
-// <div _ngcontent-c1="" class="fc-event ui-draggable ui-draggable-handle" id="9-Hour Dolphin Snorkeling Tour from Hurghada,0">9-Hour Dolphin Snorkeling Tour from Hurghada</div>

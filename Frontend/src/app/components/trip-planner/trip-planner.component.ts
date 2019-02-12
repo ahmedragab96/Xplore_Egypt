@@ -112,7 +112,7 @@ getTripsFromService(){
           el.attr("hidden", false);
           angularthis.trips[evId]['addedCal'] = 0; 
           angularthis.cd.detectChanges();        
-          angularthis.calendarTrips = angularthis.calendarTrips.filter(item => item.id !== angularthis.trips[evId].id);
+          angularthis.calendarTrips = angularthis.calendarTrips.filter(item => item.id !== angularthis.tripsInfo[evId].id);
           //console.log(angularthis.calendarTrips)
         }
       },
