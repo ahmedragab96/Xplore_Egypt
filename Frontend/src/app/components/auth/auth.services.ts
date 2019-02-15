@@ -59,6 +59,9 @@ export class AuthServices {
     logout() {
         this.private_token = null;
         this.authStatusListener.next(false);
+        this.isAuth=false;
+        this.router.navigate(['/login']);
+
     }
 
 }
