@@ -18,6 +18,9 @@ import {TripPlannerService} from './services/trip-planner/trip-planner.service';
 import { HomeComponent } from './components/home/home.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { AuthInterceptor } from './components/auth/auth-interceptor';
+//new
+import { Ng2CarouselamosModule } from 'ng2-carouselamos';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -33,7 +36,8 @@ import { AuthInterceptor } from './components/auth/auth-interceptor';
     FormsModule,
     HttpClientModule,
     MatInputModule,
-    BrowserAnimationsModule
+    BrowserAnimationsModule,
+    Ng2CarouselamosModule
     ],
   providers: [TripPlannerService,
       {provide: HTTP_INTERCEPTORS, useClass: AuthInterceptor, multi: true}
