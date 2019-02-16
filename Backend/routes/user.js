@@ -67,7 +67,10 @@ users.post('/login' , function (req , res , next ) {
             let token = jwt.sign({email : email , userId : results[0].ID} , 'secret' , {
             expiresIn : '1h'
             })
-            res.json({token : token});
+            res.json({
+              token : token,
+              expireIn: 3600
+            });
             }
           })
         }
