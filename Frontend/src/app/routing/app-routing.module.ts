@@ -4,6 +4,7 @@ import { LoginComponent } from './../components/auth/login/login.component';
 import { RegisterComponent } from './../components/auth/register/register.component';
 import { TripPlannerComponent } from './../components/trip-planner/trip-planner.component';
 import { HomeComponent } from './../components/home/home.component';
+import { TripsComponent } from './../components/trips/trips.component';
 import { AuthGuard } from '../components/auth/auth.guard';
 
 
@@ -12,6 +13,7 @@ const routes: Routes = [
   { path: 'register', component: RegisterComponent},
   { path: 'planner', component: TripPlannerComponent , canActivate: [AuthGuard]},
   { path: 'home', component: HomeComponent },
+  { path: 'trips', component: TripsComponent },
   { path: '', redirectTo: '/home', pathMatch: 'full'},
   { path: '**', redirectTo: '/home', pathMatch: 'full'}
 ];

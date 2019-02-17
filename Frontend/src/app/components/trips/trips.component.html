@@ -1,0 +1,82 @@
+<app-navbar></app-navbar>
+
+<h2 class="top">Recommended For You</h2>
+<!-- slider -->
+<div id="container">
+    <div
+      ng2-carouselamos
+      class="slides-wrapper"
+      [items]="trips"
+      [width]="850"
+      [$prev]="prev"
+      [$next]="next"
+      [$item]="item"
+    >
+    </div>
+    <ng-template #prev>
+      <img src="assets/images/left.png" id="left" />
+    </ng-template>
+    <ng-template #next>
+      <img src="assets/images/right.png" id="right" />
+    </ng-template>
+    <ng-template #item let-item let-i="index">
+   
+    <div class="slide-items">
+                        <img src="{{item.imageURL}}">
+                   <p> {{item.name}} </p>
+                   <p> {{item.price}} </p>
+                   <p> {{item.duration}} </p>
+        <button class="btn btn-primary cardBtn">Read More</button>
+
+        <button class="btn btn-primary cardBtn" *ngIf="!item.selected" (click)="item.selected=1">ADD</button>
+        <button class="btn btn-danger cardBtn" *ngIf="item.selected" [disabled]="item.addedCal" (click)="item.selected=0">REMOVE</button>
+    </div>
+  </ng-template>
+
+<!-- All Trips -->
+<h2>All Trips</h2>
+<div class="container">
+    <input class="search" name="search" [(ngModel)]="search">
+    <button class="btn btn-primary cardBtn">Search</button>
+    <div class="col-4" style="margin-right:auto">
+        <span style="display:in-line;">Filter By Region</span>
+        <select id="region" [(ngModel)]="region" class="custom-select">
+            <option value="Cairo">Cairo</option>
+            <option value="Ras Mohammed">Ras Mohammed</option>
+            <option value="Hurghada">Hurghada</option>
+        </select>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-4 col-md-6 col-12" *ngFor="let trip of trips | filter : search : ['name'] | filter : region : ['region'] | paginate: { itemsPerPage: itemsPerPage, currentPage: p }">
+        <div class="col d-flex align-items-stretch">
+            <div class="card">
+                <div class="card-body">
+                    <img class="card-img-top" src="{{trip['imageURL']}}" alt="Card image cap">
+                    <h5 class="card-title">{{trip['name']}}</h5>
+                    <div class="card-text">
+                        <p>{{trip['price']}}</p>
+                        <p>{{trip['duration']}}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+<select [(ngModel)]="itemsPerPage" class="custom-select" id="items">
+    <option value=1> 1 </option>
+    <option value=2> 2 </option>
+    <option value=5> 5 </option>
+</select>
+<p style="margin-top:0.5%; ">items</p>
+
+<pagination-controls (pageChange)="p = $event"></pagination-controls>
+</div>
+
+</div>
+
+
+<app-footer></app-footer>
