@@ -20,6 +20,12 @@ import { NavbarComponent } from './components/navbar/navbar.component';
 import { AuthInterceptor } from './components/auth/auth-interceptor';
 // new
 import { Ng2CarouselamosModule } from 'ng2-carouselamos';
+import { TripsComponent } from './components/trips/trips.component';
+import { FooterComponent } from './components/footer/footer.component';
+import {NgxPaginationModule} from 'ngx-pagination';
+
+//pipes
+import { FilterPipe } from './pipes/custom-pipes.pipe';
 
 import {
   SocialLoginModule,
@@ -57,7 +63,10 @@ export function getAuthServiceConfigs() {
     LoginComponent,
     RegisterComponent,
     HomeComponent,
-    NavbarComponent
+    NavbarComponent,
+    TripsComponent,
+    FooterComponent,
+    FilterPipe
   ],
   imports: [
     BrowserModule,
@@ -67,9 +76,11 @@ export function getAuthServiceConfigs() {
     MatInputModule,
     BrowserAnimationsModule,
     Ng2CarouselamosModule,
+    NgxPaginationModule,
     SocialLoginModule
     ],
   providers: [TripPlannerService,
+    FilterPipe,
       {provide: HTTP_INTERCEPTORS, useClass: AuthInterceptor, multi: true},
       {
         provide: AuthServiceConfig,
