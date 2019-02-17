@@ -69,6 +69,12 @@ export class AuthServices {
             });
     }
 
+    socialSignUp(body) {
+        // console.log(body)
+        // calling the post function
+        return this.http.post('http://localhost:3000/users/socialSignUp', body);
+    }
+
     logout() {
         this.private_token = null;
         this.authStatusListener.next(false);

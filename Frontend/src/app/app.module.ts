@@ -18,8 +18,37 @@ import {TripPlannerService} from './services/trip-planner/trip-planner.service';
 import { HomeComponent } from './components/home/home.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { AuthInterceptor } from './components/auth/auth-interceptor';
-//new
+// new
 import { Ng2CarouselamosModule } from 'ng2-carouselamos';
+
+import {
+  SocialLoginModule,
+  AuthServiceConfig,
+  GoogleLoginProvider,
+  FacebookLoginProvider,
+  LinkedInLoginProvider
+} from 'angularx-social-login';
+
+// Configs
+export function getAuthServiceConfigs() {
+  let config = new AuthServiceConfig(
+      [
+          {
+            id: FacebookLoginProvider.PROVIDER_ID,
+            provider: new FacebookLoginProvider('Your-Facebook-app-id')
+          },
+          {
+            id: GoogleLoginProvider.PROVIDER_ID,
+            provider: new GoogleLoginProvider('Your-Google-Client-Id')
+          },
+          {
+            id: LinkedInLoginProvider.PROVIDER_ID,
+            provider: new LinkedInLoginProvider('1098828800522-m2ig6bieilc3tpqvmlcpdvrpvn86q4ks.apps.googleusercontent.com')
+          },
+      ]
+  );
+  return config;
+}
 
 @NgModule({
   declarations: [
@@ -37,12 +66,17 @@ import { Ng2CarouselamosModule } from 'ng2-carouselamos';
     HttpClientModule,
     MatInputModule,
     BrowserAnimationsModule,
-    Ng2CarouselamosModule
+    Ng2CarouselamosModule,
+    SocialLoginModule
     ],
   providers: [TripPlannerService,
-      {provide: HTTP_INTERCEPTORS, useClass: AuthInterceptor, multi: true}
+      {provide: HTTP_INTERCEPTORS, useClass: AuthInterceptor, multi: true},
+      {
+        provide: AuthServiceConfig,
+        useFactory: getAuthServiceConfigs
+      }
     ],
   bootstrap: [AppComponent]
-  
+
 })
 export class AppModule { }
