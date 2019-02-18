@@ -77,4 +77,17 @@ users.post('/login' , function (req , res , next ) {
     })
 });
 
+users.get('/getdata' , function(req , res , next ){
+  
+  const userid = req.query.id ;
+  
+  db.query("SELECT * FROM users WHERE ID = ?",  [userid] , function (error , results , fields){
+
+      res.json({
+        result: results
+      });
+    })
+    
+});
+
 module.exports = users;

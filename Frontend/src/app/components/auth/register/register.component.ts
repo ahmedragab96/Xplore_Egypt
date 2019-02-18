@@ -14,9 +14,9 @@ import {
 })
 
 export class RegisterComponent  {
-    
+
     isLoading = false ;
-    
+
     constructor(public authService: AuthServices, private socialAuthService: AuthService) {}
 
     onregister(form: NgForm) {
@@ -26,20 +26,17 @@ export class RegisterComponent  {
     }
 
     public socialSignIn(socialPlatform: string) {
-
         let socialPlatformProvider;
         if (socialPlatform === 'facebook') {
           socialPlatformProvider = FacebookLoginProvider.PROVIDER_ID;
         } else if (socialPlatform === 'google') {
           socialPlatformProvider = GoogleLoginProvider.PROVIDER_ID;
         }
-        this.socialAuthService.signIn(socialPlatformProvider).then(
-            (userData) => {
-                console.log(socialPlatform + ' sign in data : ' , userData);
 
-              }
-            );
-
+        console.log(socialPlatformProvider);
+        this.socialAuthService.signIn(socialPlatformProvider).then(userData => {
+            console.log(userData);
+         });
 
         }
 }
