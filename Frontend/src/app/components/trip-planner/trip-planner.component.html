@@ -22,9 +22,9 @@
    
     <div class="slide-items">
                         <img src="{{item.imageURL}}">
-                   <p> {{item.name}} </p>
-                   <p> {{item.price}} </p>
-                   <p> {{item.duration}} </p>
+                   <p> {{item.title}} </p>
+                   <p> price :{{item.price}} </p>
+                   <p> Duration : {{item.duration}} </p>
         <button class="btn btn-primary cardBtn">Read More</button>
 
         <button class="btn btn-primary cardBtn" *ngIf="!item.selected" (click)="item.selected=1">ADD</button>
@@ -60,7 +60,7 @@
             <div id="external-events">
                 <div id='external-events-listing'>
                     <h4>Draggable Events</h4>
-                    <div class="fc-event" *ngFor="let trip of trips; let i= index" [id]="trip['name'] +','+ i"  [hidden]="!trip['selected']">{{trip['name']}}</div>
+                    <div class="fc-event" *ngFor="let trip of trips; let i= index" [id]="trip['name'] +','+ i"  [hidden]="!trip['selected']">{{trip['title']}}</div>
                 </div>
                 <p>
                     <input hidden type='checkbox' id='drop-remove' checked='!checked' />
@@ -71,4 +71,5 @@
             <div id='calendar1'></div>
         </div>
     </div>
+    <button class="btn btn-primary" (click)="save()">save</button>
 </div>

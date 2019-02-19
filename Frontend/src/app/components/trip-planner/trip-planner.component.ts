@@ -9,12 +9,29 @@ declare var $: any;
 })
 export class TripPlannerComponent implements OnInit {
   constructor(private cd: ChangeDetectorRef , private service:TripPlannerService) { }
-  
   calendarTrips = [
 
   ];
+  // trial for saving user trips
+      //   trial=[
+      //   {title  : 'trip1',
+      //    start  : '2019-02-12'},
+      //   {title  : 'trip2',
+      //    start  : '2019-02-15'}
+
+      // ];
 
 trips:any
+  m:String;
+  // usertrips:string="{'title':'trip1', 'start':'2019-02-18'}";
+  // jsontrips=JSON.parse(this.usertrips);
+  save(){
+    console.log(this.calendarTrips);
+    this.m=JSON.stringify(this.calendarTrips);
+    console.log(this.m)
+    var jsonObj = $.parseJSON('[' + this.m + ']');
+    console.log(jsonObj)
+  }
 getTripsFromService(){
       this.service.GetAllTrips().subscribe((res) => {
         this.trips = res;
@@ -47,7 +64,7 @@ getTripsFromService(){
     
 
   ngOnInit() {
-
+    //console.log(this.jsontrips)
     // getting all trips
    this.getTripsFromService();
 
@@ -61,16 +78,16 @@ getTripsFromService(){
       return false;
 
     }
-
     let angularthis = this;
     $('#calendar1').fullCalendar(
-    {
-        events: [
-    {
-      title  : 'userloadedEvent-Trial',
-      start  : '2019-02-12'
-    }
-  ],
+    { // saving events  
+      //events: this.trial ,
+  //       events: [
+  //   {
+  //     title  : 'userloadedEvent-Trial',
+  //     start  : '2019-02-12',
+  //   }
+  // ],
       header: {
         left: 'prev,next today',
         center: 'title',
@@ -84,10 +101,22 @@ getTripsFromService(){
       
       drop: function (date, jsEvent, ui) {
         //event drop fist time
+        console.log(date._d)
         let evId =+this.id.split(",")[1];
         console.log('calendar 1 Drop');
         $(this).attr("hidden", true);
         angularthis.trips[evId]['addedCal'] = true;
+        angularthis.trips[evId]['start']=date._d;
+        // deleting unnecessary data
+        delete angularthis.trips[evId].description;
+        delete angularthis.trips[evId].price;
+        delete angularthis.trips[evId].duration;
+        delete angularthis.trips[evId].imageURL;
+        delete angularthis.trips[evId].selected;
+        delete angularthis.trips[evId].addedCal;
+        delete angularthis.trips[evId].region;
+        delete angularthis.trips[evId].id;
+        //pushing to calendar trips
         angularthis.calendarTrips.push(angularthis.trips[evId])
         //console.log(angularthis.calendarTrips);
       },

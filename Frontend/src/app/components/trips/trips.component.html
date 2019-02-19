@@ -24,12 +24,9 @@
     <div class="slide-items">
                         <img src="{{item.imageURL}}">
                    <p> {{item.name}} </p>
-                   <p> {{item.price}} </p>
-                   <p> {{item.duration}} </p>
+                   <p> price :{{item.price}} </p>
+                   <p> Duration : {{item.duration}} </p>
         <button class="btn btn-primary cardBtn">Read More</button>
-
-        <button class="btn btn-primary cardBtn" *ngIf="!item.selected" (click)="item.selected=1">ADD</button>
-        <button class="btn btn-danger cardBtn" *ngIf="item.selected" [disabled]="item.addedCal" (click)="item.selected=0">REMOVE</button>
     </div>
   </ng-template>
 
