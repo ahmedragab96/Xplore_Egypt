@@ -32,7 +32,7 @@
           <a class="nav-link" routerLink="/register">Register</a>
         </li>
         <li class="nav-item" *ngIf="userIsAuthenticated">
-          <button class="btn btn-outline-danger my-2 my-lg-0" type="logout" (click)="onlogout()">Logout</button>
+          <a class="nav-link" type="logout" (click)="onlogout()">Logout</a>        
         </li>
       </ul>
     <!-- </div> -->
