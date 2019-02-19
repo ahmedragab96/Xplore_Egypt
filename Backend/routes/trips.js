@@ -14,5 +14,16 @@ trips.get('/getall', (req , res , next) => {
     });
 });
 
+////it returns an array with the trip's object including all its details
+trips.get('/getById',(req,res,next)=>{
+   let tripID=req.query.id;
+   let query="SELECT * from trips WHERE tripID = ?";
+   db.query(query, [tripID],(error, results, fields) => {
+    if (error) {
+      return console.error(error.message);
+     }
+     res.json(results);
+    });
+});
 
 module.exports = trips;
