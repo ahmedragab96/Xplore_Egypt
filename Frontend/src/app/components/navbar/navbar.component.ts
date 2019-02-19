@@ -20,11 +20,11 @@ export class NavbarComponent implements OnInit , OnDestroy{
       this.userIsAuthenticated = isAuthenticated;
     });
   }
-  
+
   onlogout() {
     this.authService.logout();
   }
-  
+
   ngOnDestroy() {
     this.authlistenerSubs.unsubscribe();
   }

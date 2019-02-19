@@ -18,7 +18,7 @@ import {TripPlannerService} from './services/trip-planner/trip-planner.service';
 import { HomeComponent } from './components/home/home.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { AuthInterceptor } from './components/auth/auth-interceptor';
-//new
+// new
 import { Ng2CarouselamosModule } from 'ng2-carouselamos';
 import { TripsComponent } from './components/trips/trips.component';
 import { FooterComponent } from './components/footer/footer.component';
@@ -26,6 +26,35 @@ import {NgxPaginationModule} from 'ngx-pagination';
 
 //pipes
 import { FilterPipe } from './pipes/custom-pipes.pipe';
+
+import {
+  SocialLoginModule,
+  AuthServiceConfig,
+  GoogleLoginProvider,
+  FacebookLoginProvider,
+  LinkedInLoginProvider
+} from 'angularx-social-login';
+
+// Configs
+export function getAuthServiceConfigs() {
+  let config = new AuthServiceConfig(
+      [
+          {
+            id: FacebookLoginProvider.PROVIDER_ID,
+            provider: new FacebookLoginProvider('2175496632489213')
+          },
+          {
+            id: GoogleLoginProvider.PROVIDER_ID,
+            provider: new GoogleLoginProvider('1045766967034-9n474onuhsnn1liva7eom59tn3fe0c0n.apps.googleusercontent.com')
+          },
+          {
+            id: LinkedInLoginProvider.PROVIDER_ID,
+            provider: new LinkedInLoginProvider('1098828800522-m2ig6bieilc3tpqvmlcpdvrpvn86q4ks.apps.googleusercontent.com')
+          },
+      ]
+  );
+  return config;
+}
 
 @NgModule({
   declarations: [
@@ -47,13 +76,18 @@ import { FilterPipe } from './pipes/custom-pipes.pipe';
     MatInputModule,
     BrowserAnimationsModule,
     Ng2CarouselamosModule,
-    NgxPaginationModule
+    NgxPaginationModule,
+    SocialLoginModule
     ],
   providers: [TripPlannerService,
     FilterPipe,
-      {provide: HTTP_INTERCEPTORS, useClass: AuthInterceptor, multi: true}
+      {provide: HTTP_INTERCEPTORS, useClass: AuthInterceptor, multi: true},
+      {
+        provide: AuthServiceConfig,
+        useFactory: getAuthServiceConfigs
+      }
     ],
   bootstrap: [AppComponent]
-  
+
 })
 export class AppModule { }

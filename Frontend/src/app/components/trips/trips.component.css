@@ -1,3 +1,8 @@
+
+@import url(https://fonts.googleapis.com/css?family=Over+the+Rainbow);
+@import url(https://fonts.googleapis.com/css?family=Bigshot+One);
+@import url(https://fonts.googleapis.com/css?family=Tangerine);
+
 /* slider part*/
 #container {
     width: 100%;
@@ -53,10 +58,53 @@ h2{
 .search {
     margin-left: 5%;
 }
-.top {
-    margin-top: 5%;
-}
 #items{
     width: 5%;
     margin-left: 5%;
+}
+#pic{
+    width: 100%;
+    height: 500px;
+}
+#h{
+    /* font-family: 'Over the Rainbow', serif;
+    font-size: 48px;
+    color: #0077BE; */
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+    color:  rgb(12, 13, 31);
+    font-size: 75px;
+}
+.diff{
+    background-color: rgb(234, 243, 249);
+}
+
+/* Gradient color1 - color2 - color1 */ 
+hr.style-one { 
+    margin-top: 50px;
+    width: 600px;
+    border: 0; 
+    height: 1px; 
+    background: #333; 
+    background-image: linear-gradient(to right, #ccc, rgb(8, 5, 5), #ccc); }    
+    
+h2{
+    text-align: center;
+}
+
+.inCard{
+    font-size: 20px;
+    color: rgb(17, 45, 89);
+}
+select {
+    color:#999;
+}
+option:first {
+    color: #999;
+}
+#paging{
+    margin-top: 50px;
+    /* margin-left: 300px; */
+    /* align-content: center; */
+    margin-bottom: 50px;
 }
