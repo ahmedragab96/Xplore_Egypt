@@ -108,4 +108,22 @@ users.post('/addplan' , function(req , res , next ){
     
 });
 
+users.post('/getplan' , function(req , res , next ){
+  
+  const userid = req.query.id;
+  
+  db.query("SELECT trips FROM users WHERE ID = ?", [userid] , function (error , results , fields){
+
+    if (error) throw err ;
+    
+    const plan = JSON.parse(results[0].trips);
+    
+    res.status(200).json({
+      plan
+    })
+    
+  });
+    
+});
+
 module.exports = users;
