@@ -5,7 +5,9 @@ var bodyParser = require('body-parser');
 const app = express();
 
 var UserRoutes = require('./routes/user');
-var TripsRoutes = require('./routes/trips')
+var TripsRoutes = require('./routes/trips');
+var RestaurantsRoutes=require('./routes/restaurants');
+var hotelsRoutes=require('./routes/hotels');
 
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json()); // parse form data client
@@ -25,7 +27,8 @@ app.use((req , res ,next) => {
 
 app.use('/users', UserRoutes);
 app.use('/trips',  TripsRoutes);
-
+app.use('/restaurants',RestaurantsRoutes);
+app.use('/hotels',hotelsRoutes);
 
 app.use('/css', express.static(__dirname + '/node_modules/bootstrap/dist/css'));
 app.use('/js', express.static(__dirname + '/node_modules/bootstrap/dist/js'));
