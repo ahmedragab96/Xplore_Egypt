@@ -109,7 +109,7 @@ users.post('/addplan' , function(req , res , next ){
     
 });
 
-users.post('/getplan' , function(req , res , next ){
+users.get('/getplan' , function(req , res , next ){
   
   const userid = req.query.id;
   

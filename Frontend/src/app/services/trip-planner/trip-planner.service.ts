@@ -31,7 +31,8 @@ export class TripPlannerService {
 
 
   loadPlannedTrips(){
-  	
+    let id=this.decodeToken();
+  	return this.http.get("http://localhost:3000/users/getplan?id="+id);
   }
 
 

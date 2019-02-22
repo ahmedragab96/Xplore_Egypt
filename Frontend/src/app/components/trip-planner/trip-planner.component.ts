@@ -22,7 +22,8 @@ export class TripPlannerComponent implements OnInit {
       // ];
 
 trips:any
-  m:String;
+loadedTrips:any
+trial=[];
   // usertrips:string="{'title':'trip1', 'start':'2019-02-18'}";
   // jsontrips=JSON.parse(this.usertrips);
   save(){
@@ -33,46 +34,14 @@ trips:any
     //console.log(jsonObj)
     this.service.savePlannedTrips(this.calendarTrips);
   }
-  load(){
+  loadTrips(){
 
-  }
-
-getTripsFromService(){
-      this.service.GetAllTrips().subscribe((res) => {
-        this.trips = res;
-        console.log(res);
-
-        setTimeout(() => {
-          $('#external-events .fc-event').each(function(){
-            console.log($(this));
-            console.log(this);
-            // store data so the calendar knows to render an event upon drop
-            $(this).data('event', {
-              element: $(this),
-              elementS: this,
-              title: $.trim($(this).text()), // use the element's text as the event title
-              stick: true // maintain when user navigates (see docs on the renderEvent method)
-            });
-    
-            // make the event draggable using jQuery UI
-            $(this).draggable({
-              zIndex: 999,
-              revert: true, // will cause the event to go back to its
-              revertDuration: 0 //  original position after the drag
-            });
-          });
-        }, 1);
-
-      });
-    }
-
-    
-
-  ngOnInit() {
-    // getting all trips
-   this.getTripsFromService();
-   // check if it's droppable on calendar area
-    var isEventOverDiv = function (x) {
+     this.service.loadPlannedTrips().subscribe((res) => {
+      this.loadedTrips= res;
+      this.trial=this.loadedTrips.plan;
+     console.log(this.trial);
+    });
+         var isEventOverDiv = function (x) {
       var external_events = $('#external-events');
       var offset = external_events.offset();
       offset.right = external_events.width() + offset.left;
@@ -82,14 +51,13 @@ getTripsFromService(){
     }
     //Full Calendar customization 
     let angularthis = this;
-    $('#calendar1').fullCalendar(
+   setTimeout(() => { $('#calendar1').fullCalendar(
     { // saving events  
-      events:this.service.loadPlannedTrips(),
-      //events: this.trial ,
+      events:this.trial,
   //       events: [
   //   {
-  //     title  : 'userloadedEvent-Trial',
-  //     start  : '2019-02-12',
+  //     title  : this.trial[0].title,
+  //     start  : this.trial[0].start,
   //   }
   // ],
       header: {
@@ -149,11 +117,51 @@ getTripsFromService(){
         console.log(new Date(event.start._d));
         console.log(new Date(event.end == null ? null: event.end._d));
       },*/
-    });
+    });},1000)
     
 
-    $(document).ready(function(){
+  }
 
+getTripsFromService(){
+      this.service.GetAllTrips().subscribe((res) => {
+        this.trips = res;
+        console.log(res);
+
+        setTimeout(() => {
+          $('#external-events .fc-event').each(function(){
+            console.log($(this));
+            console.log(this);
+            // store data so the calendar knows to render an event upon drop
+            $(this).data('event', {
+              element: $(this),
+              elementS: this,
+              title: $.trim($(this).text()), // use the element's text as the event title
+              stick: true // maintain when user navigates (see docs on the renderEvent method)
+            });
+    
+            // make the event draggable using jQuery UI
+            $(this).draggable({
+              zIndex: 999,
+              revert: true, // will cause the event to go back to its
+              revertDuration: 0 //  original position after the drag
+            });
+          });
+        }, 1);
+
+      });
+    }
+
+    
+
+  ngOnInit() {
+    // getting all trips
+      this.getTripsFromService();
+    this.loadTrips();
+     setTimeout(() => {console.log(this.loadedTrips);},100000);
+
+   // check if it's droppable on calendar area
+
+    $(document).ready(function(){
     });
     
   }
