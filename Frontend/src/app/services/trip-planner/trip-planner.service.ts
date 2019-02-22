@@ -6,6 +6,7 @@ import * as jwt_decode from "jwt-decode";
 })
 export class TripPlannerService {
   constructor(private http:HttpClient) { }
+  sentBody:any;
     GetAllTrips() {
     return this.http.get("http://localhost:3000/trips/getall")
   }
@@ -18,10 +19,14 @@ export class TripPlannerService {
   return userId;
   }
 
-  savePlannedTrips(body){
-  	body["userId"]=this.decodeToken();
+  savePlannedTrips(trips){
+    let body:any={};
+    body["id"]=this.decodeToken();
+    body["plan"]=trips;
   	console.log(body);
-
+    return this.http.post("http://localhost:3000/users/addplan",body).subscribe(data  => {
+    console.log("POST Request is successful ", data); },
+        error  => { console.log("Error", error);});
   }
 
 

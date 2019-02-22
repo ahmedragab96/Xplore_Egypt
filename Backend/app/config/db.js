@@ -8,7 +8,12 @@ const db = mysql.createConnection ({
   password: process.env.DB_PASSWORD,
   database: process.env.DB_NAME
 });
-
+// const db = mysql.createConnection ({
+//   host: 'localhost',
+//   user: 'root',
+//   password: '',
+//   database: 'XploreEgypt'
+// });
 db.connect((err) => {
   if (err) {
       throw err;
