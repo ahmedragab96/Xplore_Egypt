@@ -27,11 +27,16 @@ trips:any
   // jsontrips=JSON.parse(this.usertrips);
   save(){
     console.log(this.calendarTrips);
-    this.m=JSON.stringify(this.calendarTrips);
-    console.log(this.m)
-    var jsonObj = $.parseJSON('[' + this.m + ']');
-    console.log(jsonObj)
+    //this.m=JSON.stringify(this.calendarTrips);
+    //console.log(this.m)
+    //var jsonObj = $.parseJSON('[' + this.m + ']');
+    //console.log(jsonObj)
+    this.service.savePlannedTrips(this.calendarTrips);
   }
+  load(){
+
+  }
+
 getTripsFromService(){
       this.service.GetAllTrips().subscribe((res) => {
         this.trips = res;
@@ -64,23 +69,22 @@ getTripsFromService(){
     
 
   ngOnInit() {
-    //console.log(this.jsontrips)
     // getting all trips
    this.getTripsFromService();
-
+   // check if it's droppable on calendar area
     var isEventOverDiv = function (x) {
       var external_events = $('#external-events');
       var offset = external_events.offset();
       offset.right = external_events.width() + offset.left;
-
       if (x >= offset.left &&
         x <= offset.right) { return true; }
       return false;
-
     }
+    //Full Calendar customization 
     let angularthis = this;
     $('#calendar1').fullCalendar(
     { // saving events  
+      events:this.service.loadPlannedTrips(),
       //events: this.trial ,
   //       events: [
   //   {
@@ -118,7 +122,6 @@ getTripsFromService(){
         delete angularthis.trips[evId].id;
         //pushing to calendar trips
         angularthis.calendarTrips.push(angularthis.trips[evId])
-        //console.log(angularthis.calendarTrips);
       },
 
       eventDragStop: function (event, jsEvent, ui, view) {
@@ -131,7 +134,6 @@ getTripsFromService(){
           angularthis.trips[evId]['addedCal'] = 0; 
           angularthis.cd.detectChanges();        
           angularthis.calendarTrips = angularthis.calendarTrips.filter(item => item.id !== angularthis.trips[evId].id);
-          //console.log(angularthis.calendarTrips)
         }
       },
      /* eventDrop: function (event, delta, revertFunc, jsEvent, ui, view) {
@@ -151,24 +153,7 @@ getTripsFromService(){
     
 
     $(document).ready(function(){
-      // $('#external-events .fc-event').each(function(){
-      //   console.log($(this));
-      //   console.log(this);
-      //   // store data so the calendar knows to render an event upon drop
-      //   $(this).data('event', {
-      //     element: $(this),
-      //     elementS: this,
-      //     title: $.trim($(this).text()), // use the element's text as the event title
-      //     stick: true // maintain when user navigates (see docs on the renderEvent method)
-      //   });
 
-      //   // make the event draggable using jQuery UI
-      //   $(this).draggable({
-      //     zIndex: 999,
-      //     revert: true, // will cause the event to go back to its
-      //     revertDuration: 0 //  original position after the drag
-      //   });
-      // });
     });
     
   }
