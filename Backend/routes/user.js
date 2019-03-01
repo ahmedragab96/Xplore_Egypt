@@ -92,16 +92,9 @@ users.get('/getdata' , function(req , res , next ){
 
 // Function needs 2 parameters as body request (id , plan)
 users.post('/addplan' , function(req , res , next ){
-<<<<<<< HEAD
-  console.log(req);
-  
-  const userid = req.body.id;
-  console.log(userid);
-=======
   const userid = req.body.id;
   console.log(userid);
   
->>>>>>> 51d33bc2bc83552b29fe0619bfa3fa7f7f839a0f
   const plan = JSON.stringify(req.body.plan);
   console.log(plan);
   
