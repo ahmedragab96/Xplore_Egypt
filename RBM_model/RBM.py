@@ -12,7 +12,6 @@ save_path_full = os.path.join(save_path, model_name)
 class RBM():
 
     def __init__(self, visibleDimensions, epochs=20, hiddenDimensions=50, ratingValues=10, learningRate=0.001, batchSize=100):
-        #AlgoBase.__init__(self)
         self.visibleDimensions = visibleDimensions
         self.epochs = epochs
         self.hiddenDimensions = hiddenDimensions
