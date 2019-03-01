@@ -1,0 +1,2005 @@
+itemid,title,genres,rating,region
+1,9-Hour Dolphin Snorkeling Tour from Hurghada,trip|moderate-price|snorkling|short,3,Hurghada
+2,3-Hour Desert Safari by Quad Bike,trip|moderate-price|safari|short,3.5,Hurghada
+3,Ras Mohammed National Park: Snorkelling Trip,trip|moderate-price|snorkling|short,4,Ras Mohammed 
+4,Dinner Cruise on the Nile River,trip|low-price|cruise|short,3,Cairo
+5,"Day Trip to Valley of the Kings, Luxor",trip|moderate-price|ancientEgypt|short,3.5,Luxor
+6,Sea Scope Submarine Trip,trip|moderate-price|submarine|short,4,Sharm
+7,"Safari Quad Biking, Bedouin Village and BBC Dinner",trip|moderate-price|safari|short,3,Fayoum
+8,Hot Air Balloon Ride Over Luxor,trip|moderate-price|ride|short,3.5,Luxor
+9,Giftun Island National Park Full-day Snorkeling Trip,trip|low-price|snorkling|short,4,Hurghada
+10,Dive Trip with Two Dive Sites,trip|moderate-price|diving|short,3,Dahab
+11,Cairo and Giza Full-Day Highlights Tour from Hurghada,trip|high-price|ancientEgypt|fullDay,3.5,Hurghada
+12,"Full-Day Tour of Historical Alexandria from Cairo, Egypt",trip|moderate-price|ancientEgypt|fullDay,3,Cairo
+13,From Luxor: Full-Day Tour of the East and West Banks,trip|high-price|ancientEgypt|fullDay,3.5,Luxor
+14,"Cairo: Giza Pyramid, Sakkara & Memphis Full Day Private Tour",trip|moderate-price|ancientEgypt|fullDay,4,Cairo
+15,Desert Quad Bike Safari in Hurghada to Bedouin Village,trip|moderate-price|safari|short,3,Hurghada
+16,"Giza Pyramids, Sphinx and Sakkara - Private Full Day Tour",trip|moderate-price|ancientEgypt|fullDay,3.5,Cairo
+17,Morning Quad Bike Adventure from Hurghada,trip|low-price|ride|safari|short,4,Hurghada
+18,Giftun Island National Park Snorkel Trip from Hurghada,trip|low-price|ride|snorkling|short,3.5,Hurghada
+19,Cairo: Giza Pyramids Sound and Light Show with Dinner,trip|moderate-price|ancientEgypt|short,4.5,Cairo
+20,Hurghada: Full-Day Trip to Cairo and Giza Highlights,trip|high-price|ancientEgypt|fullDay,3,Hurghada
+21,Hurghada: Day Trip to Cairo by Plane with Transfers,trip|high-price|ancientEgypt|fullDay,2.5,Hurghada
+22,Luxor Guided Tour with Overnight 1st Class Train from Cairo,trip|high-price|ancientEgypt|long,4,Luxor
+23,Hurghada: Parasailing Adventure,trip|moderate-price|Parasailing|short,4.5,Hurghada
+24,Hurghada Horse Ride: Sea and Desert Tour,trip|high-price|safari|ride|sea|short,3.5,Hurghada
+25,"Giza Pyramids & Sphinx, Saqqara & Dahshur Full-Day Tour",trip|moderate-price|ancientEgypt|fullDay,4,Cairo
+26,Magawish and Giftun Islands Full-Day Snorkeling Trip,trip|moderate-price|snorkling|short,2.5,Hurghada
+27,"Hurghada Jeep Safari, Camel Ride and Bedouin Village Tour",trip|moderate-price|safari|short,3,Hurghada
+28,"Cairo: Giza Pyramids, Egyptian Museum & Bazaar Full-Day Tour",trip|low-price|ancientEgypt|short,3.5,Cairo
+29,Hurghada: 5-Hour Private City Tour,trip|moderate-price|ancientEgypt|sea|short,2,Hurghada
+30,From Hurghada Trip to Luxor and Valley of the Kings,trip|high-price|ancientEgypt|short,2.5,Hurghada
+31,"Aswan: Tour to High Dam, The Obelisk & Philae Temple by Boat",trip|high-price|ancientEgypt|short,3,Aswan
+32,Hurghada Sindbad Submarine: 3-Hour Tour,trip|high-price|diving|submarine|short,4.5,Hurghada
+33,Ismaelia day tour ,trip|low-price|sea,4,Cairo
+34,Great Pyramids and Sphinx Adventure,trip|low-price|ancientEgypt|short,5,Cairo
+35,From Cairo: Full-Day Tour to Alexandria with Lunch,trip|high-price|ride|sea|fullDay,3,Cairo
+36,Cairo: Quad Bike Desert Safari around Giza Pyramids,trip|moderate-price|ancientEgypt|safari|fullDay,5,Cairo
+37,Hurghada Quad Bike Safari: Full-Day Trip to Sahara Park,trip|moderate-price|ride|safari|fullDay,4,Hurghada
+38,Sunrise Hot Air Balloon Tour from Luxor,trip|high-price|ride|parsailing|short,3.5,Luxor
+39,From Hurghada: Dolphin Watching Cruise and Massage,trip|moderate-price|cruise|short,2.5,Hurghada
+40,Luxor Full-Day Sightseeing Tour from Hurghada,trip|high-price|ancientEgypt|fullDay,3.5,Luxor
+41,Cairo: Sound & Light Show Giza Pyramids,trip|high-price|ancientEgypt|short,4,Cairo
+42,Quad Bike Tour with Camel Ride,trip|low-price|ancientEgypt|short,4.5,Cairo
+43,Sunset Desert Safari Trip by Quad Runner from Hurghada,trip|moderate-price|ride|safari|short,3,Hurghada
+44,Giza Pyramids and Sphinx: Half-Day Private Tour,trip|low-price|ancientEgypt|short,3.5,Cairo
+45,1-Hour Felucca Ride on the Nile,trip|low-price|ride|cruise|short,5,Cairo
+46,From Hurghada: Giftun Island Snorkeling Day Trip,trip|low-price|snorkling|ride|short,3,Hurghada
+47,Cairo: Egyptian Museum & Khan El-Khalili,trip|low-price|ancientEgypt|short,4.5,Cairo
+48,Cairo Day Tour with Entry Fees and Lunch,trip|moderate-price|ancientEgypt|short,3.5,Cairo
+49,Hurghada: 5-Hour Quad Bike Desert Safari and Barbecue,trip|moderate-price|safari|short,2.5,Hurghada
+50,Cairo: Nile River Dinner Cruise with Entertainment,trip|moderate-price|cruise|short,3,Cairo
+52,Cairo 4-Hour Guided Tour of the Egyptian Museum,trip|high-price|ancientEgypt|short,2.5,Cairo
+53,One-Way Transfer: Hurghada Airport to Makadi Bay,trip|moderate-price|ride|short,2,Hurghada
+54,Giza Pyramids and Egyptian Museum Full-Day Tour,trip|low-price|ancientEgypt|short,3,Cairo
+55,From Hurghada: Full-Day Trip to Cairo by Plane,trip|high-price|ancientEgypt|fullDay,3.5,Hurghada
+57,Sharm el-Sheikh: Evening Desert Tour with Bedouin Dinner,trip|moderate-price|ride|safari|short,4,Sharm
+58,From Hurghada: Full-Day Tour of Luxor,trip|high-price|ancientEgypt|short,4.5,Hurghada
+59,Quad Runner Bike Adventure: Sharm el Sheikh,trip|moderate-price|ride|safari|short,4.5,Sharm
+60,Half-Day Red Sea Dive from Hurghada or El Gouna,trip|moderate-price|submarine|diving|short,2.5,Hurghada
+61,From Hurghada: Full-Day Tour to East & West Banks in Luxor,trip|moderate-price|ride|cruise|ancientEgypt|short,3,Hurghada
+62,Half-Day Tour of Old Cairo & Khan El Khalili Bazaar,trip|high-price|ancientEgypt|short,3,Cairo
+63,Hurghada Grand Aquarium Entry Ticket and Tour,trip|moderate-price|sea|submarine|short,4,Hurghada
+64,Cairo Day Tour from Sharm El Sheikh by Air,trip|high-price|ancientEgypt|fullDay,2.5,Cairo
+65,Sound and Light Show at the Karnak Temple Complex,trip|moderate-price|ancientEgypt|short,3,Cairo
+66,All-Inclusive Guided Tour of Luxor from Cairo by Plane,trip|high-price|ancientEgypt|cruise|short,4,Luxor
+68,From Marsa Alam: Full-Day Tour of Cairo with Flights,trip|high-price|ancientEgypt|fullDay,4.5,Marsa Alam
+69,"Cairo, Giza Pyramids, Memphis & Sakkara Day Tour",trip|high-price|ancientEgypt|fullDay,3.5,Cairo
+70,Hurghada: Sunset Desert Safari by Dune Buggy,trip|high-price|ride|safari|short,3,Hurghada
+71,From Aswan: Private Tour to Abu Simbel,trip|high-price|cruise|ancientEgypt|short,3.5,Aswan
+72,Paradise Island : Full–Day Snorkeling and Island Tour,trip|moderate-price|cruise|sea|snorkling|fullDay,5,Sharm
+73,Hurghada: Private City Tour,trip|moderate-price|cruise|sea|ride|ancientEgypt|fullDay,4,Hurghada
+74,Cairo: Day Tour from Sharm el Sheikh,trip|high-price|cruise|ancientEgypt|fullDay,3.5,Sharm
+76,Cairo: 2-Day Bahariya Oasis Camp with White & Black Deserts,trip|high-price|safari|ride|long,5,Cairo
+77,"Hurghada: 6-Hour 4WD Desert Safari, Dinner, and Show",trip|moderate-price|safari|ride|short,4,Hurghada
+78,"Giza Pyramids, Sakkara and Memphis Museum Guided Tour",trip|moderate-price|ancientEgypt|short,3.5,Cairo
+79,Cairo: Camel or Horse Ride By the Pyramids,trip|high-price|ancientEgypt|safari|ride|short,4,Cairo
+80,Half-Day Cairo Sightseeing Tour to Pyramids of Giza & Sphinx,trip|moderate-price|ancientEgypt|ride|short,4,Cairo
+81,Full-Day Snorkeling Trip to Utopia Island from Hurghada,trip|moderate-price|diving|snorkling|sea|submarine|short,4.5,Hurghada
+82,From Cairo: Full-Day Tour of Giza Pyramids & Simon Cave,trip|high-price|ancientEgypt|fullDay,3.5,Cairo
+83,Full-Day Scuba Diving Tour with Lunch & Pick-Up,trip|moderate-price|diving|sea|cruise|fullDay,4,Sharm
+84,From Hurghada: Pirates Premier Sailing Boat Trip,trip|high-price|diving|sea|submarine|snorkling|short,3.5,Hurghada
+85,From Sharm: Introduction to Scuba Diving with Lunch,trip|moderate-price|diving|sea|submarine|snorkling|short,4,Sharm
+86,From Sharm el-Sheikh: Mount Sinai Sunrise Climb,trip|high-price|ride|safari|climb|short,3.5,Sharm
+87,"""Cairo Citadel, Old Cairo & Khan El Khalili Full-Day Tour",trip|high-price|ancientEgypt|fullDay,4,Cairo
+88,Sharm el-Sheikh: Panoramic Submarine Adventure,trip|high-price|submarine|diving|sea|short,4.5,Sharm
+89,"Hurghada Jungle Aqua Park Tickets, Transfer, and Lunch",trip|high-price|diving|sea|short,4,Hurghada
+92,Full-Day Snorkeling Tour to Utopia Island with Pick-Up,trip|moderate-price|snorkling|submarine|diving|sea|fullDay,5,Hurghada
+93,Snorkeling Adventure: Ras Mohammed National Park by Boat,trip|moderate-price|snorkling|submarine|diving|sea|short,5,Ras Mohammed 
+94,From Marsa Alam: Day Trip to Luxor by Bus,trip|high-price|ancientEgypt|fullDay,4.5,Luxor
+95,Cairo Food Tour,trip|high-price|vegetarianFriendly|seaFood|short,2,Cairo
+96,Desert Safari by Quad Bike Around Pyramids,trip|high-price|safari|ancientEgypt|ride|short,3,Cairo
+97,Day Trip to Old Cairo and 3-Hour Dinner Cruise,trip|high-price|safari|ancientEgypt|cruise|short,3,Cairo
+98,Giza Pyramids & Egyptian Museum from Hurghada by Bus,trip|high-price|safari|ancientEgypt|cruise|fullDay,3.5,Hurghada
+99,Hurghada: 3-Hour Morning Quad Safari,trip|moderate-price|safari|ride|short,3.5,Hurghada
+100,Hurghada: Full-Day Scuba Diving Adventure Tour with Lunch,trip|moderate-price|diving|snorkling|sea|submarine|short,4,Hurghada
+101,From Cairo: Alexandria Day Tour,trip|moderate-price|diving|sea|ancientEgypt|short,4,Cairo
+102,Cairo: Tahrir Square Tour & Egyptian Museum,trip|moderate-price|ancientEgypt|short,3.5,Cairo
+103,Dolphin Red Sea Clear Water Snorkeling,trip|low-price|snorkling|sea|short,4,Dahab
+104,Sharm: Tiran Island Snorkeling Day Trip with Lunch,trip|moderate-price|snorkling|sea|climb|short,4.5,Sharm
+105,From Hurghada: Cairo Full-Day Tour including Flights,trip|moderate-price|ancientEgypt|short,3.5,Hurghada
+107,From Cairo: Overnight Trip to Alexandria,trip|moderate-price|ancientEgypt|sea|short,4,Cairo
+108,From Makadi Bay: Day Trip to Cairo by Bus,trip|high-price|ancientEgypt|fullDay,2,Cairo
+110,Sharm : Quad Bike Safari Adventure with Transfers,trip|low-price|safari|ride|climb|short,5,Sharm
+111,Hurghada Dolphin Show Tickets and Transfer,trip|moderate-price|short,5,Hurghada
+112,From Marsa Alam: All-in-One Super Desert Safari,trip|high-price|safari|ride|climb|short,4.5,Marsa Alam
+113,Cairo: 2-Hour Felucca Ride on the Nile,trip|high-price|ride|cruise|short,3,Cairo
+114,Marsa Alam: Sunset Desert Safari Excursion By Quad Bike,trip|high-price|safari|ride|short,2.5,Marsa Alam
+116,"""Hurghada: 6-Hour Evening Experience with Show & Dinner",trip|high-price|short|ride|safari,2.5,Hurghada
+117,From Hurghada: Sharm El Naga Full-Day Snorkeling Tour,trip|high-price|sea|ride|snorkling|short,3,Hurghada
+118,Hurghada: Classic Family Red Sea Cruise,trip|high-price|sea|cruise|snorkling|short,4,Hurghada
+119,7-Hour Desert Safari from Sharm el-Sheikh,trip|high-price|ride|safari|short,4,Sharm
+121,Cario: Pyramids Viewpoints Tour,trip|high-price|ancientEgypt|short,3.5,Cairo
+122,Cairo Day Trip with Egyptian Museum Tickets: From El Gouna,trip|high-price|ancientEgypt|fullDay,4,Hurghada
+123,Cairo: Best Kept Secrets Tour,trip|high-price|ancientEgypt|short,2,Cairo
+124,Aswan to Luxor: 3-Day Guided Tour with Transfers,trip|high-price|ancientEgypt|long,4.5,Aswan
+125,"""Hurghada: Day Trip to Pyramids, Memphis & Sakkara by Flight",trip|high-price|ancientEgypt|fullDay,3,Hurghada
+126,Mahmya Island Full-Day Snorkel Tour from Hurghada,trip|high-price|sea|submarine|diving|snorkling|short,4,Hurghada
+129,Aswan 4-Day Nile Cruise to Luxor,trip|high-price|ancientEgypt|cruise|long,4,Aswan
+130,Sharm el-Sheikh Day Tiran Island ,trip|high-price|sea|snorkling|fullDay,2.5,Sharm
+131,Ras Mohamed Park Snorkel,trip|high-price|sea|snorkling|fullDay,4.5,Ras Mohammed 
+132,From Makadi Bay: Desert Jeep Safari,trip|high-price|safari|ride|short,4,Dahab
+135,Sharm el-Sheikh: Snorkel & Camel Safari at Blue Hole,trip|high-price|safari|ride|diving|snorkling|short,5,Sharm
+137,3-Hour Sinbad Submarine Red Sea Tour from Hurghada,trip|high-price|sea|submarine|short,4,Hurghada
+140,"Hurghada: Super Safari Quad Bike, Camel Ride & Bedouin BBQ",trip|moderate-price|safari|ride|short,4.5,Hurghada
+141,Marsa Alam: diving trip,trip|moderate-price|diving|snorkling|fullDay,4,Marsa Alam
+144,Great Pyramid Inside - Sphinx and Solar Boat Trip,trip|high-price|cruise|ancientEgypt|fullDay,3.5,Cairo
+145,Wadi El Natrun: Full-Day Monasteries Tour from Alexandria,trip|high-price|ride|ancientEgypt|short,2.5,Alexandria
+146,Sound and Light Show at Philae Temple,trip|moderate-price|ancientEgypt|short,3.5,Aswan
+147,From Marsa Alam: Beach and Snorkelling With Sea Turtles,trip|high-price|snorkling|sea|fullDay,3,Marsa Alam
+148,Carnival Super Snorkeling Spot Day Trip from Hurghada,trip|moderate-price|snorkling|sea|short,3.5,Hurghada
+149,porto sohkna travel from cairo,trip|moderate-price|snorkling|sea|parsailing|ride|long,5,Cairo
+150,Wadi El Natrun Tour from Alexandria,trip|high-price|ancientEgypt|fullDay,4.5,Alexandria
+151,"Aswan Philae Temple, Obelisk and High Dam Tour",trip|high-price|ancientEgypt|cruise|short,4.5,Aswan
+152,"Discover Mosque, Church and Harbor with Local Guide",trip|moderate-price|ancientEgypt|cruise|sea|submarine|short,4,Hurghada
+153,4-Day Nile Cruise from Aswan to Luxor,trip|high-price|cruise|ancientEgypt|long,4.5,Aswan
+154,Cheops Pyramids with Transfer and Options,trip|moderate-price|ancientEgypt|short,3.5,Cairo
+155,Egyptian Museum of Antiquities Entrance Ticket,trip|low-price|ancientEgypt|fullDay,3,Cairo
+156,Budget Egypt Nile Cruise from Aswan to Luxor,trip|high-price|cruise|ancientEgypt|long,3.5,Aswan
+157,Sharm El Sheikh Bedouin Village and Dinner Tour,trip|high-price|safari|ride|short,4.5,Sharm
+158,From Alexandria: El Alamein Day Tour,trip|high-price|sea|ancientEgypt|fullDay,4,Alexandria
+159,Cairo: Half-Day Mummies & Pyramids Tour,trip|high-price|ancientEgypt|fullDay,2.5,Cairo
+160,From Luxor to Aswan 5 Day 5 Star Nile Cruise Guided Tour,trip|high-price|cruise|ancientEgypt|long,4.5,Luxor
+161,Sharm: Overnight Moses Mountain Climb & Sunrise Breakfast,trip|moderate-price|climb|ancientEgypt|fullDay,4,Sharm
+162,Aswan 4-Day Nile Cruise with Cairo & Luxor Night Train,trip|high-price|cruise|ancientEgypt|long,4.5,Aswan
+163,Aswan: Full-Day Private Tour to Abu Simbel Temples,trip|high-price|cruise|ancientEgypt|fullDay,3.5,Aswan
+164,Cairo: Private Two-Day Tour,trip|high-price|cruise|ancientEgypt|long,3,Cairo
+165,The Grand Egyptian Museum and Giza Pyramids with Transfer,trip|moderate-price|ancientEgypt|short,3,Cairo
+166,"Transfer to Giza Pyramids, Memphis and Sakkara",trip|high-price|ancientEgypt|short,2.5,Cairo
+167,Cairo: Pyramid of Djoser & Dahshur Tour,trip|high-price|ancientEgypt|short,3.5,Cairo
+168,"""Hurghada: Private Fishing Boat Full-Day Trip with Lunch",trip|high-price|snorkling|sea|diving|fullDay,3,Hurghada
+169,Cairo at Night: 4-Hour City Tour & Nile Felucca Cruise,trip|high-price|cruise|short,3,Cairo
+170,Aswan Sound Light Show: Philae Temple,trip|moderate-price|cruise|ancientEgypt|short,3.5,Aswan
+171,Mini Egypt Park Tickets with Transfer from Hurghada,trip|moderate-price|ancientEgypt|short,3.5,Hurghada
+172,"""Marsa Alam: Ancient Cairo & Giza Pyramids Day Trip by Plane",trip|high-price|ancientEgypt|fullDay,4,Marsa Alam
+173,Hurghada: Red Sea Royal Cruise Tour with Snorkeling,trip|high-price|sea|snorkling|diving|fullDay,3,Hurghada
+174,Marsa Alam: Wadi El Gemal National Park,trip|high-price|safari|ride|short,3.5,Marsa Alam
+175,Dahab trip,trip|moderate-price|safari|sea|snorkling|parsailing|ride|long,5,Dahab
+176,"""Hurghada: Day Tour Super Giftun Island Snorkeling with Lunch",trip|moderate-price|safari|sea|snorkling|submarine|short,4,Hurghada
+177,"From Cairo: Pyramids, Memphis, and Sakkara Visit",trip|high-price|ancientEgypt|short,4,Cairo
+178,Cairo: Full-Day Islamic and Coptic Cairo Excursion,trip|high-price|ancientEgypt|fullDay,2.5,Cairo
+179,Alexandria: Archeological Day Tour,trip|low-price|sea|ancientEgypt|fullDay,3,Cairo
+180,One Day Jeep Safari From Dahab,trip|moderate-price|safari|ride|fullDay,3.5,Dahab
+181,Sharm El-Sheikh Full-Day Scuba Diving Tour,trip|high-price|diving|sea|submarine|short,4.5,Sharm
+183,Glass Bottom Boat,trip|low-price|snorkling|sea|submarine|short,5,Sharm
+184,from cairo : porto sokhna peach,trip|low-price|snorkling|sea|parsailing|fullDay,4.5,Cairo
+185,Best of Cairo: Day Trip from Alexandria,trip|high-price|ancientEgypt|fullDay,3.5,Alexandria
+186,know Cairo: Day Trip from Alexandria,trip|low-price|ancientEgypt|fullDay,5,Alexandria
+187,"Rosetta: Day Tour""",trip|high-price|ancientEgypt|cruise|fullDay,4,Alexandria
+188,Cairo Stopover from Airport,trip|high-price|ancientEgypt|fullDay,2.5,Cairo
+189,Marsa Alam: Semi Submarine,trip|low-price|sea|submarine|short,4.5,Marsa Alam
+190,From El Gouna: Sahara Dune Buggy Adventure,trip|high-price|safari|ride|short,3,Hurghada
+191,Hurghada: 2-Hour Speedboat with Snorkelling Tour,trip|high-price|snorkling|submarine|short,3,Hurghada
+193,Cairo Full-Day Bus Tour from Hurghada,trip|moderate-price|ancientEgypt|cruise|fullDay,3.5,Hurghada
+194,Marsa Alam: Snorkeling at Abu Dabab Beach,trip|moderate-price|snorkling|sea|short,4,Marsa Alam
+195,From Hurghada: Paradise Island Full-Day Snorkeling Tour,trip|high-price|snorkling|sea|short,4,Hurghada
+196,From Hurghada: Cairo 2-Day Tour incl. Flights and Hotel,trip|high-price|ancientEgypt|cruise|long,3.5,Hurghada
+198,From Makadi Bay: Full-Day Tour of Luxor by Bus,trip|high-price|ancientEgypt|cruise|fullDay,4,Luxor
+199,Hurghada: Makadi Water World Entrance Ticket,trip|moderate-price|sea|ride|short,2.5,Hurghada
+200,Cairo: Private 2-Day Tour,trip|moderate-price|ancientEgypt|cruise|long,4,Cairo
+201,From Marsa Alam: Habu Temple & Valley of the Queens Day Trip,trip|high-price|ancientEgypt|fullDay,3.5,Marsa Alam
+202,Cairo: Giza Pyramids and River Nile Tour,trip|high-price|ancientEgypt|cruise|short,4,Cairo
+203,Cairo: Full-Day Pyramid Tour and Egyptian Museum,trip|moderate-price|ancientEgypt|fullDay,3.5,Cairo
+204,Alexandria: Day Tour,trip|moderate-price|ancientEgypt|sea|fullDay,5,Alexandria
+205,Bedouin Dinner and Camel Ride,trip|moderate-price|ride|safari|fullDay,4.5,Cairo
+206,Aswan Trip by Nile Felluca,trip|low-price|cruise|short,5,Aswan
+207,Felucca Ride on the Nile in Aswan,trip|low-price|cruise|short,4.5,Aswan
+208,Tell El Amarna: Full Day Tour,trip|moderate-price|ancientEgypt|fullDay,5,Luxor
+209,From El Gouna: Dry Canyon Quad Bike Tour,trip|high-price|ancientEgypt|safari|ride|fullDay,4,Hurghada
+211,Ras Mohammed National Park: Snorkelling Trip,trip|moderate-price|ancientEgypt|snorkling|sea|short,4.5,Sharm
+213,Pyramids of Giza and Great Sphinx Half-Day Tour,trip|moderate-price|ancientEgypt|safari|short,4,Cairo
+214,Great Pyramids of Giza Half-Day Adventure,trip|low-price|ancientEgypt|short,3.5,Cairo
+215,Egyptian Pyramid Tour,trip|high-price|ancientEgypt|safari|ride|short,3.5,Cairo
+216,Sofitel Cairo El Gezirah,Hotel|high-price|Pool|BabySitting,4.5,Cairo
+217,Le Meridien Cairo Airport,Hotel|moderate-price|Pool,4.5,Cairo
+218,Conrad Cairo,Hotel|moderate-price|Pool|Family,4.5,Cairo
+219,Le Passage Cairo,Hotel|moderate-price|Pool|BabySitting,4.5,Cairo
+220,Fairmont Nile City,Hotel|moderate-price|Pool|BabySitting|Family,4.5,Cairo
+222,Kempinski Nile Hotel Cairo,Hotel|moderate-price|Nile,4.5,Cairo
+223,Windsor Hotel Cairo,Hotel|low-price|Pool|Family,4,Cairo
+224,City View Hotel,Hotel|low-price|Pool,4,Cairo
+225,Renaissance Cairo Mirage City Hotel,Hotel|moderate-price|Pool|Family,4.5,Cairo
+227,Cairo Marriott Hotel & Omar Khayyam Casino,Hotel|moderate-price|Pool|Luxury|Family,4.5,Cairo
+228,Royal Maxim Palace Kempinski,Hotel|high-price|Pool|Luxury|Family|Trendy,4.5,Cairo
+229,Freedom Hostel,Hotel|low-price,4.5,Cairo
+230,Hilton Cairo Heliopolis,Hotel|high-price|Pool|BabySitting,4,Cairo
+231,Osiris Hotel,Hotel|moderate-price|Pool,4.5,Cairo
+232,JW Marriott Hotel Cairo,Hotel|moderate-price|Pool|Family|Trendy,4,Cairo
+233,Concorde El Salam Hotel Cairo by Royal Tulip,Hotel|moderate-price|Pool|Family,4,Cairo
+234,InterContinental Cairo Semiramis,Hotel|moderate-price|Pool,4.5,Cairo
+235,InterContinental Cairo Citystars,Hotel|moderate-price|Pool|Pets,4.5,Cairo
+236,Holiday Inn Cairo – Citystars,Hotel|moderate-price|Pool|Pets|BabySitting,4,Cairo
+237,Heliopolis Towers Hotel,Hotel|moderate-price|Pool|BabySitting,4.5,Cairo
+238,Staybridge Suites Cairo-Citystars,Hotel|high-price|Luxury|Nile,4.5,Cairo
+239,Novotel Cairo Airport,Hotel|high-price|Pets|Nile,3.5,Cairo
+240,Ramses Hilton,Hotel|moderate-price|Pool|Nile,4,Cairo
+241,Novotel Cairo El Borg,Hotel|moderate-price|Pool|Family,4,Cairo
+242,Hilton Cairo Zamalek Residences,Hotel|moderate-price|Pool|Family,4,Cairo
+243,Four Seasons Hotel Cairo at Nile Plaza,Hotel|high-price|Pool|Trendy,4.5,Cairo
+244,"The Nile Ritz-Carlton, Cairo",Hotel|high-price|Pool|BabySitting|Family,4.5,Cairo
+245,"Sonesta Hotel, Tower & Casino Cairo",Hotel|moderate-price|Pool|Trendy,4,Cairo
+246,Grand Nile Tower,Hotel|high-price|Luxury|Nile,3.5,Cairo
+247,Hotel Grand Royal,Hotel|low-price|Pool|Pets|Trendy,4,Cairo
+248,Al Masa Hotel,Hotel|moderate-price|Family|Trendy,4.5,Cairo
+249,"The Westin Cairo Golf Resort & Spa, Katameya Dunes",Hotel|high-price|Family|Luxury,4,Cairo
+250,Baron Hotel Heliopolis Cairo,Hotel|moderate-price|Pool|Luxury,4,Cairo
+251,One Season Hostel,Hotel|low-price|Pool|Luxury,4.5,Cairo
+252,Cairo International Hostel,Hotel|low-price|Family|Luxury,4.5,Cairo
+253,Le Meridien Heliopolis,Hotel|moderate-price|Pool|Luxury|Family,3.5,Cairo
+254,Paradise Boutique Hotel,Hotel|low-price|Trendy,4,Cairo
+255,Holiday Inn Cairo Maadi,Hotel|high-price|Pool|BabySitting|Family,4,Cairo
+256,Novotel Cairo 6th Of October,Hotel|high-price|Pool|Family,3.5,Cairo
+257,Cecilia Hotel,Hotel|low-price|Trendy|Family,4,Cairo
+258,The Gabriel Hotel,Hotel|low-price|Pool|Family|Luxury,4,Cairo
+259,Cairo Paradise Hotel,Hotel|low-price|Pool,4.5,Cairo
+260,Hostgram Hostel,Hotel|low-price|Pool|Family,5,Cairo
+261,Cairo Moon Hotel,Hotel|low-price|PoolFamily,4.5,Cairo
+262,Tahrir Square Hostel,Hotel|low-price|Trendy,5,Cairo
+263,New Minerva,Hotel|low-price|Trendy,5,Cairo
+264,Paris Hotel,Hotel|low-price|Trendy,4.5,Cairo
+265,Meramees Hostel,Hotel|low-price|Pool,4,Cairo
+266,Bella Luna,Hotel|low-price|Pool,4.5,Cairo
+267,The Australian Hostel,Hotel|low-price|Pool|Family,4,Cairo
+268,My Hotel,Hotel|low-price|Pool|Trendy,4,Cairo
+269,Wake UP Cairo Hostel,Hotel|low-price|Pool|Trendy,4.5,Cairo
+270,Havana Hotel Cairo,Hotel|moderate-price|Pool,4,Cairo
+271,Talisman Hotel de Charme,Hotel|moderate-price|Pool,4,Cairo
+272,Miami Cairo Hostel,Hotel|low-price|Pool|family,4.5,Cairo
+273,Pension Roma,Hotel|low-price|Pool,4,Cairo
+274,Hotel Royal,Hotel|low-price|BabySitting|family,4,Cairo
+275,"Radisson Blu Hotel, Cairo Heliopolis",Hotel|moderate-price|Pool,3.5,Cairo
+276,Midtown Hostel,Hotel|moderate-price|Family,3.5,Cairo
+277,Invitation Hotel,Hotel|low-price|Pool,3.5,Cairo
+278,African House Hotel,Hotel|low-price|Pool,3.5,Cairo
+279,Azar Hotel,Hotel|low-price,4,Cairo
+280,Arabesque Hotel,Hotel|low-price|Pool,3.5,Cairo
+281,The Karvin Hotel,Hotel|moderate-price|Pool|Trendy,3.5,Cairo
+282,Museum House Hostel,Hotel|low-price|Pool,4,Cairo
+283,Tolip Golden Plaza Hotel,Hotel|moderate-price|Pool|Luxury,3.5,Cairo
+285,Mesho Inn Hostel,Hotel|low-price|Trendy,4,Cairo
+287,Sakkara Inn Hotel,Hotel|low-price|Trendy,4.5,Cairo
+288,Swiss Inn Hotel Cairo,Hotel|moderate-price|Pool|Trendy,3.5,Cairo
+289,Horus House Hotel,Hotel|moderate-price|Pool|Pets,3.5,Cairo
+290,Glorious Hotel,Hotel|moderate-price,4,Cairo
+291,Amin Hotel,Hotel|moderate-price|Trendy,4,Cairo
+292,Cheops Pyramids Inn,Hotel|low-price|Trendy,3,Cairo
+293,Capital Hotel,Hotel|low-price,3.5,Cairo
+294,King Tut Hostel,Hotel|low-price|Trendy,4,Cairo
+295,Pyramids Loft Guesthouse,Hotel|low-price,5,Cairo
+296,Sun Hotel,Hotel|low-price|Pool,4,Cairo
+299,Family Palace Hotel,Hotel|low-price|Pool,4.5,Cairo
+300,Isis Hotel 2,Hotel|low-price,4.5,Cairo
+301,Voyage Hotel,Hotel|low-price,3,Cairo
+302,Ramses Palace Hotel,Hotel|low-price|Trendy,4,Cairo
+303,Almasa Royal Palace,Hotel|moderate-price|Pool|Family|Luxury,4.5,Cairo
+304,Arabia Hotel,Hotel|moderate-price|Trendy,4,Cairo
+305,Tolip EL Narges,Hotel|moderate-price|Pool|Luxury,3.5,Cairo
+306,Grand Hotel,Hotel|moderate-price|Pool|Luxury|Family,3.5,Cairo
+307,Eco Inn,Hotel|moderate-price|Trendy,4.5,Cairo
+308,Safari Hotel,Hotel|low-price|Trendy,4,Cairo
+309,African House Hotel,Hotel|low-price|Trendy|Pool,3.5,Cairo
+312,Midtown Hostel,Hotel|low-price|Trendy|Family,3.5,Cairo
+313,Invitation Hotel,Hotel|low-price|Trendy|Pool,3.5,Cairo
+314,Almasa Royal Palace,Hotel|high-price|Family|Pool|Luxury,4.5,Cairo
+315,Miramar Downtown Hotel,Hotel|moderate-price|Trendy,4,Cairo
+316,Tolip Golden Plaza Hotel,Hotel|moderate-price|Trendy|Pool,3.5,Cairo
+317,President Hotel,Hotel|moderate-price|Pool,3,Cairo
+318,Golden Park Hotel,Hotel|moderate-price|Family,3,Cairo
+319,Eco Inn,Hotel|low-price|Trendy,4.5,Cairo
+320,Capital Hotel,Hotel|low-price,3.5,Cairo
+321,Azar Hotel,Hotel|low-price|Historic,4,Cairo
+322,Glorious Hotel,Hotel|moderate-price|Luxury,4,Cairo
+324,Sufi House,Hotel|low-price|Trendy,4.5,Cairo
+325,New City Suites & Apartments,Hotel|low-price|Trendy,3,Cairo
+326,Arabia Hotel,Hotel|moderate-price,4,Cairo
+327,Swiss Inn Hotel Cairo,Hotel|moderate-price|Pool,3.5,Cairo
+328,Mesho Inn Hostel,Hotel|moderate-price|Family,4,Cairo
+329,Oasis Hotel,Hotel|low-price,5,Cairo
+330,Grand Hotel,Hotel|moderate-price|Family|Pool,4.5,Cairo
+331,Grand Hotel,Hotel|moderate-price|Pool,3.5,Cairo
+332,King Tut Hostel,Hotel|low-price|Pool,4,Cairo
+333,Sakan 275,Hotel|low-price|Trendy,4.5,Cairo
+334,Cairo Inn,Hotel|moderate-price|Pool,3.5,Cairo
+335,Arabesque Hotel,Hotel|low-price|Pool|family,3.5,Cairo
+336,Om Kolthoom Hotel & Tower,Hotel|moderate-price|Pool|Luxury,3,Cairo
+337,New Marina Hostel,Hotel|low-price,3,Cairo
+338,Tolip Family Park Hotel,Hotel|moderate-price|Pool|Luxury|Family,3,Cairo
+339,Pharaohs Palace Hostel,Hotel|low-price|Pool,3.5,Cairo
+340,El Tonsy Hotel,Hotel|moderate-price|Pool,3.5,Cairo
+341,Atlas Hotel,Hotel|moderate-price,3,Cairo
+342,Nile Boutique,Hotel|moderate-price|Nile,3,Cairo
+343,Colour Holidays,Hotel|low-price|Family ,4,Cairo
+344,Nile Hunters Suites & Apt,Hotel|moderate-price|Nile,4,Cairo
+345,New President Hotel Zamalek,Hotel|moderate-price,3.5,Cairo
+346,Travelholic Hostel,Hotel|low-price,3,Cairo
+347,Beirut Hotel,Hotel|low-price|Family|BabySitting,3,Cairo
+348,Kirotel,Hotel|low-price,3,Cairo
+349,Magy Hotel,Hotel|low-price,4,Cairo
+350,Rehana Plaza Hotel,Hotel|moderate-price,3,Cairo
+351,Maadi Hotel,Hotel|moderate-price|Pool,3,Cairo
+352,Happy City Hotel,Hotel|moderate-price|Pool|Family,3,Cairo
+353,Hostel Vienna,Hotel|low-price|Family|Pits ,3.5,Cairo
+354,Monte Cairo Suites,Hotel|low-price|Family|Pool|BabySitting|Pits,3.5,Cairo
+355,Milano Hostel,Hotel|low-price|Pool,3.5,Cairo
+356,Ciao Cairo Hotel,Hotel|low-price,3,Cairo
+357,Cairo Stars Hotel,Hotel|low-price,3,Cairo
+358,Holidays Express,Hotel|moderate-price|Family|BabySitting|Luxury,3,Cairo
+360,Caesar's Palace Hotel,Hotel|moderate-price|Family,3,Cairo
+361,Chateau Lafayette,Hotel|moderate-price|Pool|Nile,3.5,Cairo
+362,Triumph Hotel,Hotel|high-price|Luxury,3,Cairo
+363,Mayorca Hotel,Hotel|low-price|Pool|Pits,3,Cairo
+364,Santana Hotel,Hotel|low-price|Family ,3,Cairo
+365,Dina's Hostel,Hotel|low-price|Pool,3,Cairo
+366,King Hotel,Hotel|moderate-price|Pool,3,Cairo
+367,Helnan Landmark Hotel,Hotel|moderate-price|Pool,3,Cairo
+368,Town View Hotel,Hotel|low-price,3,Cairo
+369,Concord Hotel,Hotel|low-price|Pool,3,Cairo
+370,Cairo Khan Suites Hotel,Hotel|high-price|Pool,3,Cairo
+371,Pharaoh Egypt Hotel,Hotel|moderate-price|Pool|BabySitting|Family,3,Cairo
+372,Hotel Velvet 1928,Hotel|low-price,3,Cairo
+373,Nile Plaza Hostel,Hotel|low-price|Family ,1.5,Cairo
+374,Cairo View Hotel,Hotel|low-price|Trendy,3,Cairo
+375,Sara Inn Hostel,Hotel|low-price|Family |Pool,4,Cairo
+376,Dahab Hostel,Hotel|low-price,3,Cairo
+377,Tolip El Galaa Hotel Cairo,Hotel|moderate-price|Pool|Luxury,3,Cairo
+378,Kanzy Hotel,Hotel|low-price|Pool,2.5,Cairo
+379,Nitocrisse,Hotel|low-price|Pool|family,3,Cairo
+380,Royal Marshal Hotel,Hotel|moderate-price|Pool,3,Cairo
+381,Louris Inn,Hotel|low-price,3,Cairo
+382,Desert Moon,Hotel|moderate-price,2.5,Cairo
+383,Grand Palace Hotel,Hotel|moderate-price,2.5,Cairo
+384,Tolip Inn Maadi,Hotel|moderate-price|Pool|Luxury,2.5,Cairo
+387,"Cairo Heart Hotel""",Hotel|low-price|Family|BabySitting,3,Cairo
+388,Richmond House Hostel,Hotel|low-price|Pets,2.5,Cairo
+389,Nile Zamalek Hotel,Hotel|low-price|Nile,3,Cairo
+390,Hor Moheb Hotel,Hotel|low-price|Pool,2,Cairo
+391,Garden View Hostel,Hotel|low-price|Family|BabySitting|Pits,2,Cairo
+392,Golden Carven Hotel,Hotel|moderate-price|Trendy,3,Cairo
+393,Grand Lyly Hotel,Hotel|low-price,1.5,Cairo
+394,Bedouin Hostel,Hotel|low-price,2.5,Cairo
+395,Oriental Hoste,Hotel|low-price|Trendy,3,Cairo
+396,Cairo Hotel,Hotel|low-price,2.5,Cairo
+397,Jamaica Hostel,Hotel|low-price|BabySitting|Pets|Family,2.5,Cairo
+398,Regent House Hostel,Hotel|low-price|Pool,3,Cairo
+399,Arabella,Hotel|moderate-price,2,Cairo
+51,City Hostel,Hotel|low-price|Trendy,4,Cairo
+56,Downtown inn,Hotel|low-price|Family ,3,Cairo
+67,Dream Apartment,Hotel|high-price|Luxury,3,Cairo
+75,Nasrcity Club House,Hotel|low-price ,2,Cairo
+90,Nefertary Hostel,Hotel|high-price|Historic|Trendy,3,Cairo
+91,Nour Elsabah Hotel,Hotel|low-price |Family,2.5,Cairo
+109,Osiris House,Hotel|moderate-price|Historic|Trendy,4.5,Cairo
+115,Panorama Hostel,Hotel|low-price,2.5,Cairo
+120,Panorama Palace Hotel,Hotel|low-price,3,Cairo
+127,"Prime Residence New Cairo""",Hotel|moderate-price,3,Cairo
+128,The Square Boutique Hotel,Hotel|low-price,3.5,Cairo
+134,Veltvet 1915,Hotel|low-price,3,Cairo
+136,Wasatalbalad Inn,Hotel|low-price,3,Cairo
+138,Welcome Arabesque,Hotel|low-price,2.5,Cairo
+139,Nourhan’s hotel,Hotel|moderate-price|Family|Luxury|Pets,5,Cairo
+142,yomna’s hotel,Hotel|moderate-price|Family|Trendy|BabySitting,5,Cairo
+143,mariam’s hotel,Hotel|high-price|Historic|Trendy,5,Cairo
+182,Zamalek Luxurious Apartments,Hotel|moderate-price|luxury,4,Cairo
+192,4Ever,Hotel|high-price|luxury|Historic,4,Cairo
+197,Alexandria Independent Adventure,trip|high-price|sea|long,4,Alexandria
+210,"Private Tour: Giza Pyramids, Sphinx, Memphis, Sakkara",trip|moderate-price|ancientEgypt|ride|short,4,Cairo
+212,Private Tour: Giza Pyramids and Sphinx,trip|low-price|ancientEgypt|ride|short,3.5,Cairo
+221,"Luxor West Bank Private Valley of the Kings, Hatshepsut Temple",trip|moderate-price|ancientEgypt|short,4,Luxor
+226,Nile River Dinner Cruise in Cairo,trip|moderate-price|cruise|short,3,Cairo
+284,Pyramids Sound and Light Show with Private Transport,trip|low-price|ancientEgypt|short,3.5,Cairo
+286,Private Tour: Egyptian Museum,trip|low-price|ancientEgypt|short,3,Cairo
+297,"Full-Day Tour to Giza Pyramids, Memphis, and Sakkara",trip|low-price|ancientEgupt|fullDay,4,Cairo
+298,"Private Tour: Alabaster Mosque, Sultan Hassan, Khan el-Khalili",trip|low-price|ancientEgypt|fullDay,3,Cairo
+310,Private Tour: Alexandria Day Trip from Cairo,trip|high-price|sea|fullDay,4.5,Cairo
+311,Private Tour: Abu Simbel by Minibus from Aswan,trip|high-price|cruise|ancientEgypt|fullDay,4,Aswan
+323,Quad Biking in the Egyptian Desert from Sharm el Sheikh,trip|low-price|ride|short,2.5,Sharm
+359,Day Trip to Cairo by Bus,trip|moderate-price|ancientEgypt|fullDay,3.5,Cairo
+385,Red Sea Snorkeling,trip|low-price|snorkling|fullDay,4,Hurghada
+386,"Giza, Saqqara, Dahshur, Cairo 2-Day All-Inclusive Private Tour",trip|high-price|ancientEgypt|long,4.5,Cairo
+400,Private Tour: Memphis and Sakkara,trip|moderate-price|ancientEgypt|ride|short,3.5,Cairo
+401,"Coptic Cairo Private Tour: Hanging Church, Abu Serga, Ben Ezra",trip|moderate-price|ancientEgypt|short,4,Cairo
+402,Tiran Island Cruise and Snorkeling,trip|moderate-price|snorkling|cruise|fullDay,5,Sharm
+403,Morning Alexandria Day Tour from Cairo,trip|low-price|sea|fullDay,3,Alexandria
+404,Nile River 3-Hour Buffet Dinner Cruise with Tanoura Sufi Show,trip|low-price|cruise|short,3.5,Cairo
+405,Cairo Sightseeing by Night Private Guided Tour,trip|low-price|ancientEgypt|short,4,Cairo
+406,Ras Mohamed Red Sea Cruise and Snorkeling,trip|moderate-price|ancientEgypt|fullDay,4.5,Ras Mohamed
+407,Hot Air Balloon Flight Over Luxor West Bank and Nile River,trip|high-price|parsailing|short,4,Luxor
+408,Quad Bike Safari in Hurghada,trip|low-price|ride|safari|short,4.5,Hurghada
+409,"Giza, Dahshur, Saqqara and Memphis Pyramids Private Day Trip",trip|low-price|ancientEgypt|short,4,Cairo
+410,Private Tour: Abu Simbel Flight and Tour from Aswan,trip|high-price|ancientEgypt|short,3,Aswan
+412,Glass Bottom Boat Cruise and Coral Reef Viewing,trip|low-price|cruise|snorkling|short,4.5,Sharm
+413,Nile Dinner Cruise with Belly Dancing and Hotel Transfer,trip|low-price|cruise|short,2.5,Cairo
+414,Day Trip to Luxor from Hurghada with Hotel Pickup and Lunch,trip|moderate-price|ancientEgypt|fullDay,3.5,Hurghada
+415,Cairo with Egyptian Museum and Khan Khalili Bazaar Day Tour,trip|moderate-price|ancientEgypt|fullDay,4,Cairo
+416,Quad Biking in the Egyptian Desert from Hurghada,trip|low-price|ride|safari|short,5,Hurghada
+417,Private Tour: Dendara and Abydos,trip|moderate-price|ancientEgypt|fullDay,4.5,Luxor
+418,Day Trip to Luxor from Cairo by Plane with Lunch,trip|high-price|ancientEgypt|fullDay,4.2,Cairo
+419,"Mt Sinai, St Catherine's Monastery Private with Sunrise Hike",trip|moderate-price|climb|fullDay,3.4,Sharm
+420,Private Tour: Hurghada City Sightseeing,trip|low-price|sea|short,3.2,Hurghada
+421,River Nile Felucca Sunset Sail 1-Hour Evening Tour in Cairo,trip|low-price|cruise|short,3,Cairo
+422,Bedouin BBQ in the Egyptian Desert by 4x4,trip|low-price|safari|fullDay,3.5,Hurghada
+423,Full Day Tour to East and West Banks of Luxor,trip|moderate-price|ancienEgypt|fullDay,2.7,Luxor
+424,Camel Safari with Optional Bedouin Dinner,trip|moderate-price|ride|safari|short,4,Sharm
+425,Cairo Half-Day Downtown Tour Including Egyptian Dinner,trip|low-price|ancientEgypt|short,2.8,Cairo
+426,Sinbad Submarine Under The Red Sea,trip|moderate-price|submarine|snorkling|short,4.2,Hurghada
+427,Tour to Luxor from Hurghada,trip|moderate-price|ancientEgypt|fullDay,5,Hurghada
+428,Private Tour: Pharaonic Village,trip|low-price|ancientEgypt|short,4.5,Cairo
+429,Private Tour: Dendara from Luxor,trip|low-price|fullDay|ancientEgypt,5,Luxor
+431,Hurghada Daily Scuba Dive Trip,trip|moderate-price|diving|sea|fullDay,4.3,Hurghada
+432,"Nile River Dinner Cruise with Cultural Show, Private Transfers",trip|cruise|short|low-price,4.6,Cairo
+433,3 Days nile cruise ,trip|cruise|ancientEgypt|high-price|long,4,Luxor
+434,from Hurghada full day tour to Alex,trip|sea|short|low-price,5,Hurghada
+435,Dahab full day ,trip|moderate-price|ride|safari|fullDay,4.5,Dahab
+436,maadi cruise day ,trip|low-price|cruise|fullDay,4,Cairo
+437,pyramids and museums trip,trip|low-price|ancientEgypt|safari|fullDay,5,Cairo
+438,Hurghada desert safari,trip|low-price|ride|safari|short,4.5,Hurghada
+439,snorkling marsa allam,trip|low-price|snorkling|short,4,Marsa Alam
+440,Dolphin Spotting Cruise from El Gouna,trip|moderate-price|cruise|short,4,Hurghada
+441,Private Tour to Abu Simbel Temples by Vehicle from Aswan,trip|low-price|ride|ancientEgypt|short,4.5,Aswan
+442, salah eldeen citadelle,trip|low-price|ancientEgypt|fullDay,4,Cairo
+443,elmoez street and ancient masjids,trip|low-price|ancientEgypt|fullDay,5,Cairo
+444,Temples of King Ramses and flight from Aswan,trip|high-price|ancientEgypt|long,4.5,Aswan
+445,Private Guided Half-Day Tour to Dahshur from Cairo,trip|moderate-price|ancientEgypt|short,4.5,Cairo
+446,Dendera and Abydos Temples Private Full-Day Tour from Luxor,trip|moderate-price|ancientEgypt|fullDay,4,Luxor
+447,Private Day Tour to Aswan ,trip|high-price|ancientEgypt|fullDay,4,Luxor
+448,Day tour to St Catherine Day Tour from Taba in Egypt,trip|moderate-price|climb|fullDay,4.5,Cairo
+449,Day tour to Edfu from luxor,trip|high-price|ancientEgypt|fullDay,3,Luxor
+450,Lake Nasser Fishing Safari Trip,trip|high-price|safari|ride|fullDay,3.5,Luxor
+451,Egypt Highlights from Marsa alam,trip|high-price|safari|ancientEgypt|long,3.5,Marsa Alam
+452,Trip to Abu Simbel & Aswan ,trip|high-price|ancientEgypt|fullDay,4,Aswan
+453,Alex archeological day tour,trip|low-price|ancientEgypt|fullDay,4,Alexandria
+454,Ras shetan day camp,trip|moderate-price|diving|ride|fullDay,4,Dahab
+455,Aswan 3 days,trip|high-price|cruise|ancientEgypt|long,3.5,Cairo
+456,Luxor  tour,trip|short-price|cruise|ancientEgypt|fullDay,3.5,Luxor
+457,luxor 3 days,trip|high-price|cruise|ancientEgypt|long,4,Cairo
+458,saint catherine trip,trip|high-price|cruise|ancientEgypt|long,3,Dahab
+459,Nourhan�s trip,trip|moderate-price|climb|safari|fullDay,5,Dahab
+460,yomna�s trip,trip|moderate-price|diving|parsailing|fullDay,5,Cairo
+461,Mariam�s trip,trip|high-price|ancientEgypt|cruise|fullDay,5,Cairo
+430,from Hurghada full day tour to dahab,trip|sea|diving|snorkling|moderate-price|fulDay,4.5,Hurghada
+411,Dahab half day  trip,trip|low-price|safari|short,4.5,Dahab
+462,zamalek cruise day ,trip|low-price|cruise|fullDay,4,Cairo
+463,ancient Egypt  day,trip|low-price|ancientEgypt|fullDay,5,Cairo
+464,fayoum desert safari,trip|moderate-price|ride|safari|short,4.5,Fayoum
+465,snorkling day,trip|moderate-price|snorkling|short,4,Cairo
+466,Nile  Cruise from El Gouna,trip|moderate-price|cruise|fullDay,4,Hurghada
+467,Private Tour to Abu Simbel Temples ,trip|moderate-price|ride|ancientEgypt|fullDay,4.5,Aswan
+468,egyptian museums ,trip|low-price|ancientEgypt|fullDay,4,Cairo
+469,wadi elrayan  trip,trip|low-price|safari|parsailing|ride|fullDay,5,Fayoum
+470,fahd temple and nile cruise,trip|moderate-price|ancientEgypt|cruise|short,4.5,Luxor
+471,camal ride and safari in pyramids,trip|moderate-price|ancientEgypt|safari|short,4.5,Cairo
+472,Dahab 3 days trip,trip|moderate-price|sea|snorkling|long,4,Cairo
+473,Private Day Tour to Aswan ,trip|low-price|ancientEgypt|fullDay,4,Aswan
+474,faloka nile trip,trip|low-price|short,4,Cairo
+475,Wadi el natron and pyramids full day trip,trip|moderate-price|ancientEgypt|fullDay,3.5,Cairo
+476,maspero�s hotel,Hotel|high-price|Nile,2.5,Cairo
+477,four seasons resort sharm elsheikh,Hotel|high-price|Family|Luxury,4,Sharm
+478,the operoi sahl hasheesh,Hotel|high-price|Family|BabySitting|Luxury,5,Hurghada
+479,Albatros white beach,Hotel|moderate-price|Family|Trendy,5,Hurghada
+480,Kempiniski hotel,Hotel|high-price|Family|Luxury,5,Hurghada
+481,ElNile Ritz carliton,Hotel|high-price|Family|Nile|Luxury,5,Cairo
+482,Steigenberger,Hotel|high-price|Nile|Luxury,5,Hurghada
+483,Mariot mena house,Hotel|high-price|Luxury|Trendy,5,Hurghada
+484,Jaz maadi star and spa,Hotel|high-price|Luxury|Family,5,Hurghada
+485,Nubian village aqua hotel,Hotel|high-price|Luxury|Family,5,Sharm
+486,mashweyat abo tarek ,Restaurant|Egyptian,3,Cairo
+487,nimo restaurant,Restaurant|Seafood|Vegetarian Friendly,3.5,Dahab
+488,itskebda,Restaurant|Egyptian,4,Cairo
+489,Elmarakbi,Restaurant|Seafood,4,Alexandria
+490,sea foods,Restaurant|Seafood,4,Cairo
+491,American dinner,Restaurant|Cafe|American,3.5,Cairo
+492,Bekia�s restaurant and cafe,Restaurant|Cafe,4,Dahab
+493,Yomna�s restaurnat,Restaurant|Seafood|Vegetarian Friendly|Cafe,5,Cairo
+494,Mariam�s restaurant,Restaurant|Seafood|Vegetarian Friendly,5,Cairo
+495,Nourhan�s restaurant,Restaurant|Cafe|Mediterranean|Vegetarian Friendly,5,Cairo
+496,pizza master,Restaurant|Seafood|Egyptian,4,Cairo
+497,pizza king,Restaurant|Pizza|Egyptian,4.5,Cairo
+498,Mazag,Restaurant|Nile|Egyptian,4,Cairo
+499,Bab rezk,Restaurant|Egyptian,4,Cairo
+500,Roberto's Italian Restaurant,Restaurant|Egyptian,5,Alexandria
+501,Balbaa Village,Restaurant|Seafood,4,Alexandria
+502,Fish Market,Restaurant|Seafood,4,Alexandria
+503,White and Blue Restaurant,Restaurant|Seafood,4,Alexandria
+504,Santorini Greek Restaurant,Restaurant|Seafood,5,Alexandria
+505,wadi el hitan adventurous trip,trip|safari|ride|diving,4,Fayoum
+506,Ginger,Restaurant|Asian,4.5,Alexandria
+507,Sea Gull,Restaurant|Seafood,4.5,Alexandria
+508,Chez Gaby,Restaurant|Italian,4,Alexandria
+509,Fresca| Four Seasons Alexandria at San Stefano,Restaurant|Italian,4.5,Alexandria
+510,Roastery coffee,Restaurant|Cafe|Vegetarian Friendly,4,Alexandria
+511,Zephere Sea Food,Restaurant|Seafood,4.5,Alexandria
+512,Abd El Wahab Village,Restaurant|Mediterranean,4.5,Alexandria
+513,Alban Swissra,Restaurant|Egyptian,4.5,Alexandria
+514,Tejano's Mexican Grill,Restaurant|Mexican|Vegetarian Friendly,5,Alexandria
+515,Fish Market,Restaurant|Seafood|Mediterranean,4,Alexandria
+516,Byblos Restaurant,Restaurant|Mediterranean,4.5,Alexandria
+517,Hosny,Restaurant|Egyptian,4,Alexandria
+518,Tamara Lebanese Bistro,Restaurant|Vegetarian Friendly,4.5,Alexandria
+519,Farag Fish,Restaurant|Seafood|Mediterranean|Egyptian,4.5,Alexandria
+520,Tikka Grill,Restaurant|Egyptian,4,Alexandria
+521,Arous El Bahr Fish Restaurant,Restaurant|Seafood|Mediterranean|Egyptian,4,Alexandria
+522,Latino,Restaurant|Cafe|Mediterranean|Vegetarian Friendly,4,Alexandria
+523,Santa Lucia Restaurant,Restaurant|Mediterranean,4,Alexandria
+524,Samakmak,Restaurant|Seafood|Mediterranean|Egyptian,4,Alexandria
+525,Balady gourmet,Restaurant|Mediterranean|Egyptian,5,Alexandria
+526,Gad Restaurants,Restaurant|Egyptian,4.5,Alexandria
+527,7 Seas Fish Restaurant,Restaurant|Seafood|Mediterranean|Egyptian,4.5,Alexandria
+528,Gad,Restaurant|Egyptian,4,Alexandria
+529,Ole Cafe Espaniol,Restaurant|Cafe|Vegetarian Friendly,4.5,Alexandria
+530,Minouche Pizza,Restaurant|Italian|Vegetarian Friendly|Pizza,4,Alexandria
+531,NEO Lounge Alexandria,Restaurant|Mediterranean|Asian,5,Alexandria
+532,Bruxie's EGYPT,Restaurant|Vegetarian Friendly,4.5,Alexandria
+532,Jars & Jazz,Restaurant|Vegetarian Friendly,4.5,Alexandria
+533,Stefano's Restaurant,Restaurant|Mediterranean| Italian,4.5,Alexandria
+534,Jungle,Restaurant|Mediterranean| Egyptian,4,Alexandria
+535,Spitfire Bar,Restaurant|Cafe,4.5,Alexandria
+536,Kadoura Restaurant,Restaurant|Seafood|Mediterranean,4,Alexandria
+537,Hosny For B.B.Q & Seafood,Restaurant|Seafood,4,Alexandria
+538,Ibn Hamido,Restaurant|Seafood|Mediterranean|Egyptian ,4,Alexandria
+539,China House,Restaurant|Asian,4,Alexandria
+540,El Fallah Restaurant,Restaurant|Mediterranean,4.5,Alexandria
+541,Fish Island,Restaurant|Seafood|Mediterranean,4.5,Alexandria
+542,Potasta,Restaurant|Vegetarian Friendly,5,Alexandria
+543,Holmes Burgers,Restaurant|Mediterranean,4.5,Alexandria
+544,San Giovanni restaurant,Restaurant|Seafood| Mediterranean,4,Alexandria
+545,Starbucks,Restaurant|Cafe|Vegetarian Friendly,4.5,Alexandria
+546,Karam Beirut,Restaurant|Mediterranean,4.5,Alexandria
+547,Fish Market,Restaurant|Seafood|Mediterranean,4,Alexandria
+548,Kadoura,Restaurant|Seafood|Mediterranean|Egyptian,4,Alexandria
+549,Zephyrion Fish,Restaurant|Seafood|Mediterranean,4,Alexandria
+550,Carlos Cafe,Restaurant|Cafe,4.5,Alexandria
+551,Abou El Sid Restaurant,Restaurant|Egyptian|Mediterranean,4,Alexandria
+552,La Veranda,Restaurant|Egyptian,4.5,Alexandria
+553,Zanilli's Cafe & Restaurant Montazah,Restaurant|Mediterranean|Cafe|Vegetarian Friendly,3.5,Alexandria
+554,Gad Restaurants,Restaurant|Vegetarian Friendly,4,Alexandria
+555,Calithea Restaurant,Restaurant|Mediterranean,4.5,Alexandria
+556,China House,Restaurant|Asian,4,Alexandria
+557,Grand Cafe',Restaurant| Cafe|Mediterranean|Middle Eastern,4,Alexandria
+558,Nutellopia,Restaurant|Cafe|Mediterranean|Egyptian,4.5,Alexandria
+559,Atheneos,Restaurant|Cafe|Mediterranean|Egyptian,4,Alexandria
+560,Flying Carpet,Restaurant|Vegetarian Friendly,4.5,Taba
+561,Nelson Restaurant & Bar,Restaurant|Seafood,5,Taba
+562,Castle Zaman,Restaurant|Mediterranean,4.5,Taba
+563,El Fuego,Restaurant|Mexican,4.5,Taba
+564,Casa Taba Restaurant,Restaurant|Italian|Vegetarian Friendly,4.5,Taba
+565,Chez Pascal,Restaurant|French,4.5,Taba
+566,Sea Shells,Restaurant|Seafood|Mediterranean,4.5,Taba
+567,Marhaba Restaurant,Restaurant|Mediterranean,4.5,Taba
+568,Shahrazad,Restaurant|Mediterranean,5,Taba
+569,L'Asiatique,Restaurant|Asian,4.5,Taba
+570,Regatta Club,Restaurant|Mediterranean,4,Taba
+571,Lagoon Restaurant,Restaurant|Mediterranean,5,Taba
+572,Olive Branch Restaurant,Restaurant|Mediterranean,5,Taba
+573,Retro Cafe,Restaurant|Italian|Cafe,5,Taba
+574,Crepiano Restaurant,Restaurant|Mediterranean,4,Taba
+575,Mandarin Bistro,Restaurant|Asian|Vegetarian Friendly,5,Sharm
+576,El Kababgy,Restaurant|Egyptian|Vegetarian Friendly,5,Sharm
+577,House of Spice,Restaurant|Asian|Vegetarian Friendly,5,Sharm
+578,The Queen Vic,Restaurant|Bar|Vegetarian Friendly,4.5,Sharm
+579,Luxor,Restaurant|Mediterranean|Egyptian|Vegetarian Friendly,5,Sharm
+580,Boharat Restaurant,Restaurant|Mediterranean|Egyptian|Vegetarian Friendly,5,Sharm
+581,Bombay,Restaurant|Asian|Vegetarian Friendly,4.5,Sharm
+582,Sushi Lounge,Restaurant| Asian|vegetarian Friendly,4.5,Sharm
+583,Rangoli,Restaurant|Asian|Vegetarian Friendly,5,Sharm
+584,Fusion 21,Restaurant|Mediterranean|Vegetarian Friendly,4.5,Sharm
+585,"Da Mauro ""Solo Pasta&Pizza""",Restaurant|Italian|Mediterranean|Vegetarian Friendly|Pizza,5,Sharm
+586,The Blue Fountain,Restaurant|vegetarian Friendly ,5,Sharm
+587,Cafe Chino,Restaurant|Mediterranean|Cafe|Vegetarian Friendly,4.5,Sharm
+588,L'entrecote Steak House,Restaurant|Mediterranean,4.5,Sharm
+589,Mai Thai,Restaurant|Asian|Vegetarian Friendly,4.5,Sharm
+590,Casa Mia,Restaurant|Italian|Mediterranean|Vegetarian Friendly,4.5,Sharm
+591,Farsha Cafe,Restaurant|Bar|Cafe|Egyptian|Vegetarian Friendly,4.5,Sharm
+592,Zen Chinese Restaurant - SOHO Square Sharm El Sheikh,Restaurant|Asian|Vegetarian Friendly,4.5,Sharm
+593,Il Vizietto Italian Restaurant - Pizza,Restaurant|Italian|Mediterranean|Vegetarian Friendly|Pizza,4.5,Sharm
+594,Camel Bar & Roof,Restaurant| Bar|Vegetarian Friendly,4.5,Sharm
+595,Alhambra Cafe & Restaurant,Restaurant|Italian|Mediterranean|Vegetarian Friendly|Cafe,5,Sharm
+596,Hard Rock Cafe Nabq ,Restaurant|American|Bar|Vegetarian Friendly,4.5,Sharm
+597,Fish Market,Restaurant|Seafood |Mediterranean|Egyptian,4.5,Sharm
+598,Fairuz,Restaurant|Mediterranean|Vegetarian Friendly,4.5,Sharm
+599,Jive 1 Bar,Restaurant|Bar,4.5,Sharm
+600,Union Jack Bar and Restaurant,Restaurant|Bar,4.5,Sharm
+601,Sala Thai Restaurant,Restaurant|Asian|Vegetarian Friendly,4.5,Sharm
+602,Nino's Italian Restaurant ,Restaurant|Italian,4.5,Sharm
+603,Tandoori,Restaurant|Asian,4.5,Sharm
+604,Arab Bucks,Restaurant|Italian|Cafe|Seafood|Mediterranean,5,Sharm
+605,Hard Rock Cafe Sharm El Sheikh,Restaurant|American|Bar|Vegetarian Friendly,4,Sharm
+606,Teppanyaki,Restaurant|Asian ,4.5,Sharm
+607,Fares Seafood - IL Mercato,Restaurant|Mediterranean|Seafood|Egyptian,4.5,Sharm
+608,Bus Stop Lounge ,Restaurant|Bar,4.5,Sharm
+609,Dananeer,Restaurant|Mediterranean|Seafood|Egyptian,4.5,Sharm
+610,El Fanar,Restaurant|Mediterranean|Seafood|Vegetarian Friendly,4.5,Sharm
+611,Fares Seafood,Restaurant|Mediterranean|Seafood |Vegetarian Friendly,4.5,Sharm
+612,El Masrien Grill Restaurant,Restaurant|Mediterranean|Vegetarian Friendly,4,Sharm
+613,McDonald's ,Restaurant|American|Fast Food,4,Sharm
+614,Little Buddha,Restaurant|vegetarian Friendly|Asian,4,Sharm
+615,Fleur De Lis,Restaurant|French,4.5,Sharm
+616,Natraj Indian Restaurant & Lounge,Restaurant|Asian,4.5,Sharm
+617,Akuna Matata,Restaurant|Mediterranean|Seafood|Vegetarian Friendly,4.5,Sharm
+618,McDonald's Naama Bay,Restaurant|American ,4,Sharm
+619,The Lounge,Restaurant|Bar,4.5,Sharm
+620,Makai Tukai ,Restaurant|Asian,5,Sharm
+621,La Fleur,Restaurant|European,5,Sharm
+622,Onions,Restaurant|Italian|Seafood|Mediterranean|Egyptian,4,Sharm
+623,White Elephant Thai Restaurant and Sushi Bar ,Restaurant|Asian|Vegetarian Friendly,,Sharm
+624,Pharaoh Cafe,Restaurant|Cafe|Bar,4.5,Sharm
+625,Sadiki Cafe,Restaurant|Cafe|Vegetarian Friendly,4.5,Sharm
+626,Caligula Hot Rock,Restaurant|Mediterranean,4.5,Sharm
+627,La Pentolaccia,Restaurant|Italian|Mediterranean|Vegetarian Friendly,4.5,Sharm
+628,Palm Lounge Cafe,Restaurant|Cafe|Bar,4.5,Sharm
+629,Bar1 ,Restaurant|Mediterranean,4.5,Sharm
+630,La Rose Restaurant Oriental & Seafood,Restaurant|Mediterranean|Seafood,4.5,Sharm
+631,Fares Seafood Restaurant,Restaurant|Seafood|Egyptian|Mediterranean,4.5,Sharm
+632,Rosmarino,Restaurant|Italian|Mediterranean|Vegetarian Friendly,4.5,Sharm
+633,View Lounge,Restaurant|Bar,5,Sharm
+634,Mandarin Bistro,Restaurant|Asian,5,Sharm
+635,House of Spice,Restaurant|Asian|Vegetarian Friendly,5,Sharm
+636,El Kababgy,Restaurant|Egyptian,5,Sharm
+637,The Queen Vic,Restaurant|Bar,4.5,Sharm
+638,Boharat Restaurant,Restaurant|Mediterranean|Egyptian ,5,Sharm
+639,Luxor,Restaurant|Mediterranean|Egyptian,5,Sharm
+640,Bombay,Restaurant|Asian,4.5,Sharm
+641,Rangoli,Restaurant|Asian|Vegetarian Friendly,5,Sharm
+642,Sushi Lounge,Restaurant|Asian,4.5,Sharm
+643,Fusion 21,Restaurant|Mediterranean|Vegetarian Friendly,4.5,Sharm
+644,Cafe Chino,Restaurant|Mediterranean|Cafe,4.5,Sharm
+645,"Da Mauro ""Solo Pasta&Pizza""",Restaurant|Mediterranean|Italian|Pizza,5,Sharm
+646,The Blue Fountain,Restaurant|Mediterranean,5,Sharm
+647,Zen Chinese Restaurant - SOHO Square Sharm El Sheikh,Restaurant|Asian|Vegetarian Friendly,4.5,Sharm
+648,Mai Thai,Restaurant|Asian|Vegetarian Friendly,4.5,Sharm
+649,L'entrecote Steak House,Restaurant|Mediterranean,4.5,Sharm
+650,Casa Mia,Restaurant|Italian|Mediterranean,4.5,Sharm
+651,Farsha Cafe,Restaurant|Bar|Cafe|Egyptian,4.5,Sharm
+652,Il Vizietto Italian Restaurant - Pizza,Restaurant|Mediterranean|Italian,4.5,Sharm
+653,Hard Rock Cafe Nabq ,Restaurant|American|Bar,4.5,Sharm
+654,Camel Bar & Roof,Restaurant|Bar|Vegetarian Friendly,4.5,Sharm
+655,Alhambra Cafe & Restaurant,Restaurant|Italian|Cafe,5,Sharm
+656,Fish Market,Restaurant|Seafood|Mediterranean|Egyptian,4.5,Sharm
+657,Arab Bucks,Restaurant|Italian|Cafe|Seafood,5,Sharm
+658,Union Jack Bar and Restaurant,Restaurant|Bar,4.5,Sharm
+659,Jive 1 Bar,Restaurant|Bar,4.5,Sharm
+660,Sala Thai Restaurant,Restaurant|Asian|Vegetarian Friendly,4.5,Sharm
+661,Fairuz,Restaurant|Mediterranean,4.5,Sharm
+662,Nino's Italian Restaurant ,Restaurant|Italian,4.5,Sharm
+663,Pomodoro,Restaurant|Italian|Mediterranean,4.5,Sharm
+664,Miramar Cafe & Restaurant,Restaurant|Italian,4.5,Sharm
+665,Reef Beach Restaurant Managed by Egyptian Vacation Club,Restaurant|Italian|Seafood,4.5,Sharm
+666,Kokai Restaurant,Restaurant|Asian,4,Sharm
+667,TGI Friday's,Restaurant|American,3.5,Sharm
+668,Kona Kai Sushi Bar & Restaurant,Restaurant|Seafood | Asian,4.5,Sharm
+669,KFC,Restaurant|American|Fast Food,3.5,Sharm
+670,Cheers Bar & Grill ,Restaurant|American|Bar,4.5,Sharm
+671,El Panorama Lounge & Restaurant,Restaurant|American|Bar,5,Sharm
+672,Made in Sud,Restaurant|Italian|Seafood,4,Sharm
+673,McDonald's,Restaurant|American|Fast Food,4,Sharm
+674,Charleston,Restaurant|Mediterranean|Italian,4.5,Sharm
+675,Mughal Mahal,Restaurant|vegetarian Friendly ,4.5,Sharm
+676,Sharks Bay Umbi Restaurant,Restaurant|Mediterranean|Seafood,4.5,Sharm
+677,Calamari Seafood Market Restaurant,Restaurant|Mediterranean|Seafood,4.5,Sharm
+678,Pirate's Bar,Restaurant|Bar,4.5,Sharm
+679,Bella Vista Italian Restaurant,Restaurant|Italian,4,Sharm
+680,La Gazelle Restaurant,Restaurant|Seafood,4,Sharm
+681,Luna Lounge,Restaurant|Italian,4.5,Sharm
+682,The Stonegrill ,Restaurant|Mediterranean,4.5,Sharm
+683,Fisherman,Restaurant|Mediterranean|Egyptian|Seafood,4.5,Sharm
+684,Old Town Restaurant,Restaurant|Mediterranean,4,Sharm
+685,Ristorante El Wadi,Restaurant|Italian,4.5,Sharm
+686,Oasis Bar,Restaurant|Mediterranean,4.5,Sharm
+687,Halo Eat & Drink,Restaurant|Cafe ,5,Sharm
+688,Fifty Sports Bar,Restaurant|Mediterranean,4.5,Sharm
+689,Sofra ,Restaurant|Mediterranean,4.5,Sharm
+690,Ristorante La Casa Pizza & Pasta,Restaurant|Mediterranean | Italian|Pizza,4.5,Sharm
+691,Emy Cafe,Restaurant|Mediterranean|Cafe|Bar,5,Sharm
+692,WHY NOT Risto Cafe',Restaurant|Cafe|Italian,5,Sharm
+693,Shish Bish Restaurant,Restaurant|Mediterranean|Egyptian,4.5,Sharm
+694,Mandarin Bistro,Restaurant|Asian,5,Sharm
+695,House of Spice,Restaurant|Asian|Vegetarian Friendly,5,Sharm
+696,El Kababgy,Restaurant|Egyptian,5,Sharm
+697,The Queen Vic,Restaurant|Bar,4.5,Sharm
+698,Boharat Restaurant,Restaurant|Mediterranean|Egyptian,5,Sharm
+699,Luxor,Restaurant|Mediterranean|Egyptian,5,Sharm
+700,Bombay,Restaurant|Asian,4.5,Sharm
+701,Rangoli,Restaurant|Asian|Vegetarian Friendly,5,Sharm
+702,Sushi Lounge,Restaurant|Asian,4.5,Sharm
+703,Fusion 21,Restaurant|Mediterranean|Vegetarian Friendly,4.5,Sharm
+704,Cafe Chino,Restaurant|Mediterranean|Cafe,4.5,Sharm
+705,"Da Mauro ""Solo Pasta&Pizza""",Restaurant|Mediterranean|Italian|Pizza,5,Sharm
+706,The Blue Fountain,Restaurant|Mediterranean,5,Sharm
+707,Zen Chinese Restaurant - SOHO Square Sharm El Sheikh,Restaurant|vegetarian Friendly|Asian,4.5,Sharm
+708,Mai Thai,Restaurant|vegetarian Friendly|Asian,4.5,Sharm
+709,L'entrecote Steak House,Restaurant|Mediterranean,4.5,Sharm
+710,Casa Mia,Restaurant|Italian| Mediterranean,4.5,Sharm
+711,Farsha Cafe,Restaurant|Bar|Cafe|Egyptian,4.5,Sharm
+712,Il Vizietto Italian Restaurant - Pizza,Restaurant|Italian|Mediterranean,4.5,Sharm
+713,Hard Rock Cafe Nabq ,Restaurant|Bar,4.5,Sharm
+714,Camel Bar & Roof,Restaurant|Bar|Vegetarian Friendly,4.5,Sharm
+715,Alhambra Cafe & Restaurant,Restaurant|Italian|Cafe,5,Sharm
+716,Fish Market,Restaurant|Seafood|Mediterranean|Egyptian,4.5,Sharm
+717,Arab Bucks,Restaurant|Italian|Cafe|Seafood,5,Sharm
+718,Union Jack Bar and Restaurant,Restaurant|Bar,4.5,Sharm
+719,Jive 1 Bar,Restaurant|Bar,4.5,Sharm
+720,Sala Thai Restaurant,Restaurant|Asian|Vegetarian Friendly,4.5,Sharm
+721,Fairuz,Restaurant|Mediterranean,4.5,Sharm
+722,Nino's Italian Restaurant ,Restaurant|Italian,4.5,Sharm
+723,Corallo - Sea Food - Almaza Bay,Restaurant|Seafood|Mediterranean,4.5,Marsa Matruh
+724,Kamona,Restaurant|Egyptian,4,Marsa Matruh
+725,Morgana - Mediterranean Cusine –Almaza Bay,Restaurant|Mediterranean,4.5,Marsa Matruh
+726,Makai Tukai - Asian Fusion -Almaza Bay,Restaurant|Mediterranean,5,Marsa Matruh
+727,Sofra - Middle East Cusine - Almaza Bay,Restaurant|Mediterranean,4.5,Marsa Matruh
+728,Hosny For B.B.Q & Seafood S. A. E.,Restaurant|Mediterranean|Seafood,3.5,Marsa Matruh
+729,McDonald's,Restaurant|Fast Food,4,Marsa Matruh
+730,Sahar Restaurant,Restaurant|Mediterranean,3.5,Marsa Matruh
+731,Khaled & His Brothers For Fish,Restaurant|Seafood,4,Marsa Matruh
+732,Abou Sultan,Restaurant|Mediterranean,3.5,Marsa Matruh
+733,El Mansoura Pastry,Restaurant|Mediterranean,4,Marsa Matruh
+734,Ana maria cafe &restaurant ,Restaurant|Mediterranean,3.5,Marsa Matruh
+735,Hardee's,Restaurant|American,3,Marsa Matruh
+736,Abo sha2ra ,Restaurant|Mediterranean,3,Marsa Matruh
+737,Pizza King,Restaurant|Mediterranean,3,Marsa Matruh
+738,Potato & Zalabya,Restaurant|Mediterranean|Fast Food|Egyptian,4.5,Marsa Matruh
+739,Pizza & Feteer El Mansoura,Restaurant|Mediterranean|Pizza,3,Marsa Matruh
+740,El Negm El Araby Restaurant,Restaurant|Mediterranean,4,Marsa Matruh
+741,El Zaeem Restaurant,Restaurant|Mediterranean,4,Marsa Matruh
+742,Wenkie's German Ice Cream & Iced Coffee Parlour,Restaurant|Dessert,5,Luxor
+743,Gerda's Garden,Restaurant|Mediterranean,4.5,Luxor
+744,The Lantern Room Restaurant,Restaurant|Mediterranean,4.5,Luxor
+745,Pizza Roma-it,Restaurant|Italian|Pizza,4.5,Luxor
+746,Sofra Restaurant & Cafe,Restaurant|Mediterranean,4.5,Luxor
+747,Aisha Restaurant,Restaurant|Mediterranean,4.5,Luxor
+748,Al-Sahaby Lane Restaurant,Restaurant|Mediterranean,4.5,Luxor
+749,Jewel of the Nile,Restaurant|Mediterranean,4.5,Luxor
+750,A Taste of India & Arabia International Restaurant Plus Bar,Restaurant|Mediterranean,4.5,Luxor
+751,The Kings Head Pub and Restaurant,Restaurant|Mediterranean,4.5,Luxor
+752,Sunflower Restaurant West bank,Restaurant|Vegetarian Friendly,4.5,Luxor
+753,SunRise Bar & Restaurant,Restaurant|Italian,4.5,Luxor
+754,Africa Restaurant,Restaurant|Mediterranean,4.5,Luxor
+755,Steigenberger Nile Palace Luxor Hotel,Restaurant|Mediterranean,4.5,Luxor
+756,Tutankhamon,Restaurant|Mediterranean,4.5,Luxor
+757,Snobs,Restaurant|Vegetarian Friendly,4.5,Luxor
+758,Oasis Palace,Restaurant|Mediterranean,4.5,Luxor
+759,Aboudi Coffee Break,Restaurant|Cafe,4.5,Luxor
+760,Esquire Restaurant and Bar,Restaurant|Mediterranean,5,Luxor
+761,1886 Restaurant,Restaurant|Mediterranean,4,Luxor
+762,Secret Garden Cafe,Restaurant|Cafe,4.5,Luxor
+763,Deans Bistro,Restaurant|Mediterranean,4,Luxor
+764,Kam Thai Takeaway,Restaurant|Asian,4.5,Luxor
+765,Quick Pizza Luxor,Restaurant|Italian,4.5,Luxor
+766,Sonesta St. George Hotel Restaurant,Restaurant|Mediterranean,4,Luxor
+767,La Fleur,Restaurant|French,4.5,Luxor
+768,Cafe Latte,Restaurant|Cafe,4.5,Luxor
+769,Silk Road,Restaurant|Asian,4.5,Luxor
+770,Snack Time,Restaurant|Fast Food,4,Luxor
+771,Oasis Cafe,Restaurant|Cafe,4.5,Luxor
+772,Fayrouz,Restaurant|Mediterranean,4.5,Luxor
+773,Zigolini Restaurant,Restaurant|Italian,4.5,Luxor
+774,Oum Hashim Restaurant,Restaurant|Mediterranean,4,Luxor
+775,Maxime Restaurant,Restaurant|Mediterranean,4,Luxor
+776,Rosetta,Restaurant|Mediterranean,5,Luxor
+777,McDonald's Luxor,Restaurant|Mediterranean,4,Luxor
+778,Moon Valley Restaurant,Restaurant|Mediterranean,4.5,Luxor
+779,Jana,Restaurant|Mediterranean,4.5,Luxor
+780,El Hussein Restaurant,Restaurant|Mediterranean,3.5,Luxor
+781,Nile View Restaurant,Restaurant|Mediterranean,4.5,Luxor
+782,JJ's Bar and Restaurant,Restaurant|Mediterranean,5,Luxor
+783,Blue Sky Restaurant,Restaurant|Mediterranean,4.5,Luxor
+784,El Tarboush,Restaurant|Mediterranean,4,Luxor
+785,Jamboree Restaurant Luxor,Restaurant|Mediterranean,4,Luxor
+786,Restaurant Mohammed,Restaurant|Mediterranean,4.5,Luxor
+787,Marsam,Restaurant|Mediterranean,4.5,Luxor
+788,Wolf Restaurant,Restaurant|Mediterranean,5,Luxor
+789,Ramesseum Rest House,Restaurant|Mediterranean,4.5,Luxor
+790,"Victoria Room, Winter Palace",Restaurant|Mediterranean,4.5,Luxor
+791,L'Oasis,Restaurant|Mediterranean,4,Luxor
+792,AL Hoot,Restaurant|Seafood,5,Luxor
+793,Nero Caffe,Restaurant|Cafe,4.5,Luxor
+794,Al Hareef Restaurant,Restaurant|Mediterranean,4.5,Luxor
+795,Nour El Gourna,Restaurant|Mediterranean,4.5,Luxor
+796,Corniche Restaurant,Restaurant|French,4,Luxor
+797,Elnakhil,Restaurant|Mediterranean,4.5,Luxor
+798,Hotel El Mesala & Restaurant,Restaurant|Mediterranean,4.5,Luxor
+799,Nile Valley Restaurant,Restaurant|Mediterranean,4,Luxor
+800,El Gazira Gardens Hotel & Restaurant,Restaurant|Mediterranean,4.5,Luxor
+801,The Roof,Restaurant|Mediterranean,4,Luxor
+802,Mr.Greek Bar & Restaurant,Restaurant|Italian,5,Hurghada
+803,Sofra,Restaurant|Mediterranean|Egyptian,5,Hurghada
+804,Makai Tukai Restaurant,Restaurant|Asian,5,Hurghada
+805,Moby Dick,Restaurant|Egyptian,5,Hurghada
+806,Nino's Restaurant,Restaurant|Italian|Mediterranean,5,Hurghada
+807,Waves Restaurant & lounge Bar,Restaurant|Italian,5,Hurghada
+808,Sofra Middle Eastern Cuisine - Hurghada,Restaurant|Mediterranean ,5,Hurghada
+809,Makai Tukai,Restaurant|Asian,5,Hurghada
+810,Kahramana,Restaurant|Asian|Italian,5,Hurghada
+811,Grill & Chill Restaurant,Restaurant|Egyptian,5,Hurghada
+812,Chuchichaschtli - swiss house ,Restaurant|Mediterranean ,5,Hurghada
+813,Pasta e Basta ,Restaurant|Mediterranean|Italian,5,Hurghada
+814,Alex Beach Club & Restaurant,Restaurant|French|Vegetarian Friendly,5,Hurghada
+815,Breeze Restaurant & Bar - El Gouna ,Restaurant|Mediterranean ,5,Hurghada
+816,Amaya Restaurant Madinat Makadi,Restaurant|Vegetarian Friendly,5,Hurghada
+817,The Grill Restaurant,Restaurant|Vegetarian Friendly,5,Hurghada
+818,The Heaven Restaurant,Restaurant|Asian | Seafood,4.5,Hurghada
+819,Malu's Deli ,Restaurant|Vegetarian Friendly,4.5,Hurghada
+820,Le Garage - Gourmet Burger ,Restaurant|Mediterranean ,4.5,Hurghada
+821,MazaGouna ,Restaurant|Mediterranean ,4.5,Hurghada
+822,Puddleduck Bar & Restaurant ,Restaurant|Bar,4.5,Hurghada
+823,The Snack Shack ,Restaurant|Cafe|Fast Food,4.5,Hurghada
+824,Retro Bar & Pub,Restaurant|Bar,4.5,Hurghada
+825,The Grill ,Restaurant|Mediterranean ,4.5,Hurghada
+826,The Lodge Restaurant,Restaurant|Seafood,4.5,Hurghada
+827,Upstairs Restaurant ,Restaurant|Vegetarian Friendly,4.5,Hurghada
+828,L'Imperatore Marina,Restaurant|Mediterranean|Italian,4.5,Hurghada
+829,Granada,Restaurant|Italian|Seafood,4.5,Hurghada
+830,Thai Garden,Restaurant|Asian|Vegetarian Friendly,4.5,Hurghada
+831,Caribbean Bar,Restaurant|Bar|Seafood|Mediterranean,4.5,Hurghada
+832,White Elephant Thai Restaurant,Restaurant|Asian|Vegetarian Friendly,4.5,Hurghada
+833,Town House ,Restaurant|Vegetarian Friendly,4.5,Hurghada
+834,Jobo's Sports Bar & Restaurant ,Restaurant|Bar,4.5,Hurghada
+835,Maritim Restaurant ,Restaurant|Seafood|Mediterranean,4.5,Hurghada
+836,El Halaka,Restaurant|Seafood|Mediterranean,4.5,Hurghada
+837,Bordiehn`s Villa Kunterbunt,Restaurant|Egyptian|Vegetarian Friendly,4.5,Hurghada
+838,"Ali Pacha Resort, Tandoor Restaurant ",Restauran|Vegetarian Friendly,4.5,Hurghada
+839,Captain's Steakhouse ,Restaurant|Vegetarian Friendly,4.5,Hurghada
+840,The Purrfect Cuppa English Tea Room,Restaurant|Vegetarian Friendly,5,Hurghada
+841,Grasshopper Cafe Restaurant ,Restaurant|Mediterranean ,5,Hurghada
+842,Nubian Cafe & Restaurant,Restaurant|Mediterranean|Egyptian,4.5,Hurghada
+843,Hard Rock Cafe,Restaurant|Vegetarian Friendly,4,Hurghada
+844,Kan Zaman Restaurant ,Restaurant|Mediterranean|Egyptian,4.5,Hurghada
+845,Star Fish Restaurant,Restaurant|Mediterranean|Seafood,4,Hurghada
+846,Moods Restaurant & Beach Club ,Restaurant|Mediterranean|Bar ,4,Hurghada
+847,White Elephant Thai Resturant ,Restaurant|Asian,4,Hurghada
+848,The Three Corners Rihanna Restaurant ,Restaurant|Vegetarian Friendly|Egyptian,4.5,Hurghada
+849,Gad Restaurants,Restaurant|Fast Food|Egyptian,4,Hurghada
+850,El Dar Darak Restaurant,Restaurant|Egyptian,4.5,Hurghada
+851,Dunes Restaurant and Bar ,Restaurant|Bar,4.5,Hurghada
+852,The Turkish House ,Restaurant|Mediterranean ,4.5,Hurghada
+853,Lagoonie Restaurant & Bar ,Restaurant|Mediterranean ,4.5,Hurghada
+854,Little Buddha,Restaurant|Bar,4,Hurghada
+855,samos,Restaurant|Mediterranean|Egyptian,4.5,Hurghada
+856,Gaucho Steakhouse,Restaurant|Mediterranean ,4.5,Hurghada
+857,Athena Greek Taverna ,Restaurant|Mediterranean|Vegetarian Friendly,4,Hurghada
+858,El Mina Restaurant,Restaurant|Seafood|Egyptian,4,Hurghada
+859,The Grill Restaurant & Lounge ,Restaurant|Mediterranean|French,5,Giza
+860,Birdcage ,Restaurant|Asian|Vegetarian Friendly,4.5,Giza
+861,MIRAI ,Restaurant|Asian,4.5,Giza
+862,Sabaya ,Restaurant|Mediterranean,4.5,Giza
+863,O's Pasta ,Restaurant|Mediterranean |Italian,4.5,Giza
+864,Kamala at Conrad Cairo ,Restaurant|Asian,5,Giza
+865,Maharaja Indian Restaurant at Ramses Hilton ,Restaurant|Asian|Vegetarian Friendly,4.5,Giza
+866,Saigon Restaurant & Lounge ,Restaurant |Asian,4.5,Giza
+867,Restaurant El Dar Darak,Restaurant|Mediterranean|Egyptian,4.5,Giza
+868,Night & Day ,Restaurant|Mediterranean|Egyptian,4.5,Giza
+869,Osmanly Restaurant ,Restaurant|Mediterranean,4.5,Giza
+870,Koshary Abou Tarek ,Restaurant|Mediterranean|Egyptian Fast Food,4.5,Giza
+871,Sequoia ,Restaurant|Mediterranean,4.5,Giza
+872,Sushiramis ,Restaurant|Asian,5,Giza
+873,Carlo's - Le Pacha 1901 ,Restaurant|Egyptian|Vegetarian Friendly,4.5,Giza
+874,Taboula Lebanese Restaurant ,Restaurant|Mediterranean,4.5,Giza
+875,Pane Vino Restaurant ,Restaurant|Mediterranean|Italian,4.5,Giza
+876,Naguib Mahfouz Cafe ,Restaurant|Cafe|Egyptian,4.5,Giza
+877,Andrea Mariouteya,Restaurant|Mediterranean,4.5,Giza
+878,Le Deck By Laurent Peugeot ,Restaurant|French|Vegetarian Friendly,4.5,Giza
+879,India along the Nile ,Restaurant|Vegetarian Friendly,5,Giza
+880,Zitouni ,Restaurant|Mediterranean|Egyptian,4.5,Giza
+881,Kazaz Restaurant ,Restaurant|Egyptian|Fast Food,4,Giza
+882,8 Chinese Restaurant ,Restaurant|Vegetarian Friendly,4.5,Giza
+883,Felfela,Restaurant|Mediterranean|Egyptian,4,Giza
+884,Nagib Mafouz ,Restaurant|Cafe|Egyptian,4.5,Giza
+885,L'Uliveto Restaurant ,Restaurant|Italian,5,Giza
+886,Alfredo Restaurant ,Restaurant|Egyptian|Vegetarian Friendly,4.5,Giza
+887,Aura ,Restaurant|Mediterranean,4.5,Giza
+888,JW's Steakhouse . Cairo Marriott Hotel & Omar Khayyam Casino ,Restaurant|Mediterranean,4.5,Giza
+889,Koshary El Tahrir ,Restaurant|Vegetarian Friendly|Fast Food,4.5,Giza
+890,La Bodega Aperitivo ,Restaurant|Italian,4,Giza
+891,Mahraja Resturant ,Restaurant|vegetarian Friendly|Asian,4,Giza
+892,The White Owl ,Restaurant|Italian,4.5,Giza
+893,Cake cafe ,Restaurant|Cafe,4.5,Giza
+894,Nile Maxim ,Restaurant|Mediterranean|Egyptian,3.5,Giza
+895,U Bistro & Bar ,Restaurant|Vegetarian Friendly|French,4,Giza
+896,Estoril ,Restaurant|Mediterranean|Egyptian,4,Giza
+897,Beanos ,Restaurant|Vegetarian Friendly|Cafe,4,Giza
+898,Garden Promenade Cafe ,Restaurant|Cafe,4,Giza
+899,CaiRoma ,Restaurant|Italian|Egyptian,4.5,Giza
+900,Five Bells ,Restaurant|Egyptian,4,Giza
+901,Omar s Cafe ,Restaurant|Mediterranean|Cafe,4.5,Giza
+902,Mermaid Restaurant ,Restaurant|Italian,4.5,Giza
+903,Arigato ,Restaurant|Italian,5,Giza
+904,Kaber Sobhy Restaurant ,Restaurant|Mediterranean|Egyptian,4,Giza
+905,Burger Factory 2012 ,Restaurant|American,4,Giza
+906,Fasahet Somaya ,Restaurant|Mediterranean|Egyptian,4.5,Giza
+907,Upper Deck Lounge ,Restaurant|Bar,4.5,Giza
+908,Torii The Gateway To Sushi And Teppanyaki ,Restaurant|Asian,4,Giza
+909,Makino ,Restaurant|Asian,4,Giza
+910,La Gourmandise,Restaurant|American|French,4.5,Giza
+911,El Malky ,Restaurant|Mediterranean,4.5,Giza
+912,Fuddruckers ,Restaurant|American,4,Giza
+913,Blue Nile ,Restaurant|Mediterranean|Egyptian,3.5,Giza
+914,Tea Garden ,Restaurant|Vegetarian Friendly|Cafe,4.5,Giza
+915,Gaya Restaurant ,Restaurant|vegetarian Friendly|Asian,4.5,Giza
+916,El Dahan Restaurant ,Restaurant|Egyptian,4,Giza
+917,Ovio ,Restaurant|Vegetarian Friendly|Cafe,4,Giza
+918,Semsema,Restaurant|Egyptian|Fast Food,4,Giza
+919,Shams Restaurant,Restaurant|Mediterranean|Egyptian,4.5,Dahab
+920,Red Cat,Restaurant|Mediterranean,4.5,Dahab
+921,Shark Restaurant,Restaurant|Mediterranean|Seafood,4.5,Dahab
+922,Yum Yum,Restaurant|Mediterranean|Fast Food,4.5,Dahab
+923,Athanor Cafe-Pizzeria,Restaurant|Mediterranean|Italian,4.5,Dahab
+924,Meya Meya,Restaurant|Mediterranean|Egyptian,4.5,Dahab
+925,Ralph's German Bakery,Restaurant|Cafe,4.5,Dahab
+926,Ali Baba Restaurant,Restaurant|Seafood,4.5,Dahab
+927,Ramez & Paola Restaurant,Restaurant|Mediterranean|Italian,4.5,Dahab
+928,Hell's Kitchen,Restaurant|Mediterranean,4.5,Dahab
+929,Everyday Cafe & Restaurant,Restaurant|Cafe|Egyptian|Vegetarian Friendly,4.5,Dahab
+930,Eel Garden View Restaurant,Restaurant|Mediterranean|Egyptian,5,Dahab
+931,King Chicken,Restaurant|Mediterranean|Egyptian,4.5,Dahab
+932,Baba Ali,Restauran|Mediterranean,4.5,Dahab
+933,BoxMeal,Restaurant|French|Asian,4.5,Dahab
+934,Friends,Restaurant|Mediterranean|Seafood|Egyptian,4.5,Dahab
+935,Yalla Bar,Restaurant|Egyptian|Vegetarian Friendly|Bar,4,Dahab
+936,Blue House Thai Restaurant,Restaurant|Asian,4.5,Dahab
+937,Nemo Restaurant,Restaurant|Seafood,4,Dahab
+938,Namaste Indian Cuisine,Restaurant|Asian|Vegetarian Friendly ,4.5,Dahab
+939,Zanooba Slow Cooking,Restaurant|Mediterranean,5,Dahab
+940,Lindy's Dahab Restaurant,Restaurant|Seafood,5,Dahab
+941,South North - Tea Garden & Culture Cafe,Restaurant|Cafe,5,Dahab
+942,Carm Inn Restaurant,Restaurant|Mediterranean,4.5,Dahab
+943,El Fanar,Restaurant|Mediterranean|Seafood,4.5,Dahab
+944,Food Urge,Restaurant|Mediterranean,5,Dahab
+945,eldorado,Restaurant|Mediterranean|Italian,4.5,Dahab
+946,The Kitchen Restaurant,Restaurant|Asian,4.5,Dahab
+947,Planet Cafe,Restaurant|Cafe,4.5,Dahab
+948,Dai Pescatori,Restaurant|Mediterranean|Italian,4.5,Dahab
+949,Nirvana,Restaurant|Italian|Vegetarian Friendly,4.5,Dahab
+950,Jackie's,Restaurant|Vegetarian Friendly,4.5,Dahab
+951,Yambo Cafe,Restaurant|Egyptian|Cafe,5,Dahab
+952,Aladdin Resturant,Restaurant|Mediterranean|Seafood,4,Dahab
+953,Penguin Restaurant,Restaurant|Mediterranean|Egyptian,4.5,Dahab
+954,Mona Mama,Restaurant|Mediterranean|Egyptian|Vegetarian Friendly,4.5,Dahab
+955,El Primo Restaurant,Restaurant |Mediterranean |Vegetarian Friendly,4.5,Dahab
+956,Sea Bride,Restaurant|Mediterranean|Seafood|Egyptian,4,Dahab
+957,Shells,Restaurant|Vegetarian Friendly|Egyptian,4,Dahab
+958,Jasmine,Restaurant|Mediterranean,4.5,Dahab
+959,Churchill Pub Dahab Egypt,Restaurant|Italian|Fast Food,4.5,Dahab
+960,Shahrazad Restaurant and Cafe,Restaurant|Cafe,5,Dahab
+961,Seaduction,Restaurant|Mediterranean,4.5,Dahab
+962,The Caves,Restaurant|Seafood|Fast Food,5,Dahab
+963,Coffee Wheel,Restaurant|Cafe,5,Dahab
+964,Sababa Hotel Restaurant,Restaurant|Mediterranean,4,Dahab
+965,Timoja Restaurant & Lounge,Restaurant|Mediterranean|Egyptian,5,Dahab
+966,Sun Restaurant,Restaurant|Asian,4.5,Dahab
+967,El Dorado Restaurant,Restaurant|Mediterranean|Italian,4.5,Dahab
+968,Same Same But Different Restaurant,Restaurant | Mediterranean | Egyptian,4.5,Dahab
+969,El Mundo,Restaurant | Mediterranean | Egyptian,4,Dahab
+970,Mojo CoWork Cafe,Restaurant|American,5,Dahab
+971,I Don't Care,Restaurant|Mediterranean,4.5,Dahab
+972,Kung Fu Pasta,Restaurant|Italian|Cafe,5,Dahab
+973,Fresh Fish,Restaurant|Seafood|Egyptian,4,Dahab
+974,Waffle House Dahab,Restaurant|French|Fast Food,5,Dahab
+975,The Grill Restaurant & Lounge,Restaurant|Mediterranean|Vegetarian Friendly|French,5,Cairo
+976,Bab Al Qasr,Restaurant|Mediterranean|Vegetarian Friendly|French,5,Cairo
+977,Fayruz Lebanese Restaurant,Restaurant|Mediterranean|Vegetarian Friendly,5,Cairo
+978,Birdcage,Restaurant|vegetarian Friendly|Asian,4.5,Cairo
+979,Maestro Italian Restaurant,Restaurant|Mediterranean|Vegetarian Friendly|Italian,4.5,Cairo
+980,MIRAI,Restaurant|vegetarian Friendly|Asian,5,Cairo
+981,Esplanade Cafe Restaurant,Restaurant|Mediterranean|Vegetarian Friendly|Egyptian,5,Cairo
+982,Shogun Japanese Restaurant,Restaurant|vegetarian Friendly|Asian,4.5,Cairo
+983,Sabaya,Restaurant|Mediterranean|Vegetarian Friendly,4.5,Cairo
+984,Al Khal Egyptian Restaurant,Restaurant|Mediterranean|Vegetarian Friendly|Egyptian,4.5,Cairo
+985,Night & Day,Restaurant|Vegetarian Friendly|Egyptian,4.5,Cairo
+986,Kazoku,Restaurant|vegetarian Friendly|Asian,4.5,Cairo
+987,Windows Restaurant,Restaurant|Mediterranean|Vegetarian Friendly|Egyptian,4.5,Cairo
+988,O's Pasta,Restaurant|Mediterranean|Vegetarian Friendly|Italian,4.5,Cairo
+989,Maharaja Indian Restaurant at Ramses Hilton,Restaurant|vegetarian Friendly|Asian,4.5,Cairo
+990,Kamala at Conrad Cairo,Restaurant|vegetarian Friendly|Asian,4.5,Cairo
+991,Saigon Restaurant & Lounge,Restaurant|vegetarian Friendly|Asian,4.5,Cairo
+992,Sachi Restaurant,Restaurant|Mediterranean|Vegetarian Friendly|Asian,4.5,Cairo
+993,Osmanly Restaurant,Restaurant|Mediterranean|Vegetarian Friendly,4.5,Cairo
+994,Indira Indian Restaurant,Restaurant|vegetarian Friendly|Asian,5,Cairo
+995,Koshary Abou Tarek,Restaurant|Vegetarian Friendly|Fast Food,4.5,Cairo
+996,Sequoia,Restaurant|Mediterranean|Vegetarian Friendly|Egyptian,4.5,Cairo
+997,Pane Vino Restaurant,Restaurant|Mediterranean|Vegetarian Friendly,4.5,Cairo
+998,Carlo's - Le Pacha 1901,Restaurant|Vegetarian Friendly|Egyptian,4.5,Cairo
+999,The Smokery,Restaurant|Vegetarian Friendly|French,4.5,Cairo
+1000,Naguib Mahfouz Cafe,Restaurant|Mediterranean|Vegetarian Friendly|Cafe,4.5,Cairo
+1001,Maria's,Restaurant|Vegetarian Friendly,5,Cairo
+1002,Taboula Lebanese Restaurant,Restaurant|Mediterranean|Vegetarian Friendly,4.5,Cairo
+1003,Alfredo Restaurant,Restaurant|Vegetarian Friendly|Egyptian,4.5,Cairo
+1004,Sushiramis,Restaurant|vegetarian Friendly|Asian,4.5,Cairo
+1005,Zooba,Restaurant|Vegetarian Friendly|Egyptian,4,Cairo
+1006,Le Deck,Restaurant|Vegetarian Friendly| French,4.5,Cairo
+1007,Zitouni,Restaurant|Mediterranean|Vegetarian Friendly,4.5,Cairo
+1008,Tao,Restaurant|vegetarian Friendly|Asian,5,Cairo
+1009,Stavolta,Restaurant|Mediterranean|Vegetarian Friendly,4.5,Cairo
+1010,8 Chinese Restaurant,Restaurant|vegetarian Friendly|Asian,4.5,Cairo
+1011,India along the Nile,Restaurant|Vegetarian Friendly,4.5,Cairo
+1012,Lucca,Restaurant|Vegetarian Friendly|Italian | Bar,4.5,Cairo
+1012,Bellini Cocktail Lounge,Restaurant|Vegetarian Friendly|Bar,4.5,Cairo
+1013,Kazaz Restaurant,Restaurant|Vegetarian Friendly|Fast Food|Egyptain,4,Cairo
+1014,Nagib Mafouz,Restaurant|Vegetarian Friendly|Egyptian|Cafe,4.5,Cairo
+1015,Aqua e Luce,Restaurant|Mediterranean|Vegetarian Friendly|Seafood,5,Cairo
+1016,Felfela,Restaurant|Mediterranean|Vegetarian Friendly|Seafood,4,Cairo
+1017,Abou el-Sid,Restaurant|Mediterranean|Vegetarian Friendly|Seafood,4,Cairo
+1018,Cairo Kitchen,Restaurant|Mediterranean|Vegetarian Friendly|Seafood,4,Cairo
+1019,Bab El Nil Restaurant,Restaurant|Mediterranean|Vegetarian Friendly|Seafood,4.5,Cairo
+1020,JW's Steakhouse . Cairo Marriott Hotel & Omar Khayyam Casino,Restaurant|Mediterranean,4.5,Cairo
+1021,Bella,Restaurant|Vegetarian Friendly|Italian,4.5,Cairo
+1022,Aura,Restaurant|Mediterranean|Vegetarian Friendly,4.5,Cairo
+1023,The Blue Restaurant & Grill,Restaurant|Mediterranean|Vegetarian Friendly|Italian,4.5,Cairo
+1024,Asmak,Restaurant|Mediterranean|Seafood|Egyptian,4.5,Cairo
+1025,Fuego Grill And Sushi Bar,Restaurant|Vegetarian Friendly,4.5,Cairo
+1026,Koshari al-Tahrir,Restaurant|Vegetarian Friendly|Fast Food|Egyptain,4,Cairo
+1027,Tamara,Restaurant|Mediterranean|Vegetarian Friendly,4,Cairo
+1028,Kebabgy Oriental Grill,Restaurant|Mediterranean|Egyptian,4,Cairo
+1029,Crave,Restaurant|Vegetarian Friendly,4,Cairo
+1030,Tabla Luna,Restaurant|Vegetarian Friendly,4,Cairo
+1031,Fish Market,Restaurant|Mediterranean|Seafood|Egyptian,4,Cairo
+1032,Spectra Restaurant & Cafe,Restaurant|Vegetarian Friendly|Italian,4,Cairo
+1033,Eatery,Restaurant|Mediterranean|Vegetarian Friendly|Italian,4,Cairo
+1034,The Grill Restaurant & Lounge,Restaurant|Mediterranean|French,5,Cairo
+1035,Fayruz Lebanese Restaurant,Restaurant|Mediterranean|Vegetarian Friendly,5,Cairo
+1036,Bab Al Qasr,Restaurant|Mediterranean|Vegetarian Friendly,5,Cairo
+1037,Birdcage,Restaurant|vegetarian Friendly|Asian,4.5,Cairo
+1038,Maestro Italian Restaurant,Restaurant|Mediterranean|Vegetarian Friendly|Italian,4.5,Cairo
+1039,Sabaya,Restaurant|Mediterranean|Vegetarian Friendly,4.5,Cairo
+1040,Al Khal Egyptian Restaurant,Restaurant|Mediterranean,4.5,Cairo
+1041,Shogun Japanese Restaurant,Restaurant|vegetarian Friendly|Asian,4.5,Cairo
+1042,Kazoku,Restaurant|vegetarian Friendly|Asian,4.5,Cairo
+1043,O's Pasta,Restaurant|Mediterranean|Vegetarian Friendly,4.5,Cairo
+1044,Windows Restaurant,Restaurant|Mediterranean|Egyptian,4.5,Cairo
+1045,Kamala at Conrad Cairo,Restaurant|Asian,5,Cairo
+1046,Sachi Restaurant,Restaurant|Mediterranean|Vegetarian Friendly,4.5,Cairo
+1047,Saigon Restaurant & Lounge,Restaurant|vegetarian Friendly|Asian,4.5,Cairo
+1048,Night & Day,Restaurant|Vegetarian Friendly|Egyptian,4.5,Cairo
+1049,Indira Indian Restaurant,Restaurant|vegetarian Friendly|Asian,5,Cairo
+1050,Osmanly Restaurant,Restaurant|Mediterranean|Vegetarian Friendly,4.5,Cairo
+1051,Pane Vino Restaurant,Restaurant|Mediterranean|Vegetarian Friendly|Italian,4.5,Cairo
+1052,Koshary Abou Tarek,Restaurant|Fast Food |Egyptian,4.5,Cairo
+1053,Sequoia,Restaurant|Mediterranean|Egyptian,4.5,Cairo
+1054,Sushiramis,Restaurant|Asian,5,Cairo
+1055,The Smokery,Restaurant|Vegetarian Friendly|French|Seafood,4.5,Cairo
+1056,Carlo's - Le Pacha 1901,Restaurant|Vegetarian Friendly|Egyptian,4.5,Cairo
+1057,Taboula Lebanese Restaurant,Restaurant|Mediterranean,4.5,Cairo
+1058,Naguib Mahfouz Cafe,Restaurant|Egyptian|Cafe,4.5,Cairo
+1059,Maria's,Restaurant|Vegetarian Friendly,5,Cairo
+1060,Tao,Restaurant|vegetarian Friendly|Asian,5,Cairo
+1061,Oak Grill,Restaurant|Vegetarian Friendly,4.5,Cairo
+1062,Crave Cairo Festival City,Restaurant|Mediterranean|Vegetarian Friendly,4,Cairo
+1063,Ayadina Lebanese restaurant,Restaurant|Mediterranean|Vegetarian Friendly,4,Cairo
+1064,Pepenero,Restaurant|Mediterranean|Vegetarian Friendly|Italian,4.5,Cairo
+1065,Bua Khao,Restaurant|vegetarian Friendly|Asian,4,Cairo
+1066,Pomodoro,Restaurant|Mediterranean|Egyptian|Seafood,4,Cairo
+1067,City Stars' foodcourt,Restaurant|Fast Food,4,Cairo
+1068,Pool Lounge & Grill,Restaurant|Mediterranean,5,Cairo
+1069,Saraya Gallery,Restaurant|French,4.5,Cairo
+1070,Kaber Sobhy Restaurant,Restaurant|Egyptian,4,Cairo
+1071,Nile Terrace,Restaurant|Bar,4.5,Cairo
+1072,Abou el Sid,Restaurant|Mediterranean|Egyptian,4,Cairo
+1073,The View Restaurant,Restaurant|Mediterranean,4.5,Cairo
+1074,Hard Rock Cafe,Restaurant|American|Bar,4.5,Cairo
+1075,Crimson Bar & Grill,Restaurant|Mediterranean|Vegetarian Friendly|American|Bar,4,Cairo
+1076,Egyptian Pancake House,Restaurant|Mediterranean|Egyptian,4.5,Cairo
+1077,Mercado,Restaurant|Mediterranean,4.5,Cairo
+1078,Ristorante Tuscany,Restaurant|Mediterranean|Italian,4.5,Cairo
+1079,Oldish,Restaurant|Vegetarian Friendly|Egyptian,4,Cairo
+1080,The White Owl,Restaurant|Vegetarian Friendly|Italian,4.5,Cairo
+1081,Khan El Khalili Restaurant,Restaurant|Mediterranean|Egyptian,4,Cairo
+1082,LEXIE'S,Restaurant|Italian,5,Cairo
+1083,Cortigiano,Restaurant|Mediterranean|Vegetarian Friendly|Italian,4,Cairo
+1084,Manipuri,Restaurant|Vegetarian Friendly,4.5,Cairo
+1085,TBS- The Bakery Shop,Restaurant|Mediterranean,4,Cairo
+1086,O.Liv.O Pizzeria & Bar,Restaurant|Vegetarian Friendly|Italian,4,Cairo
+1087,Scores Sports Bar & Restaurant,Restaurant|American|Bar,5,Cairo
+1088,The Grill Restaurant & Lounge,Restaurant|Mediterranean|French,5,Cairo
+1089,Fayruz Lebanese Restaurant,Restaurant|Mediterranean|Vegetarian Friendly,5,Cairo
+1090,Bab Al Qasr,Restaurant|Vegetarian Friendly|Egyptian,5,Cairo
+1091,Birdcage,Restaurant|vegetarian Friendly|Asian,4.5,Cairo
+1092,Maestro Italian Restaurant,Restaurant|Mediterranean|Vegetarian Friendly|Italian,4.5,Cairo
+1093,MIRAI,Restaurant|vegetarian Friendly|Asian,4.5,Cairo
+1094,Esplanade Cafe Restaurant,Restaurant|Mediterranean|Egyptian,5,Cairo
+1095,Sabaya,Restaurant|Mediterranean|Vegetarian Friendly,4.5,Cairo
+1096,Al Khal Egyptian Restaurant,Restaurant|Egyptian,4.5,Cairo
+1097,Shogun Japanese Restaurant,Restaurant|vegetarian Friendly|Asian,4.5,Cairo
+1098,Kazoku,Restaurant|vegetarian Friendly|Asian,4.5,Cairo
+1099,O's Pasta,Restaurant|Mediterranean|Vegetarian Friendly|Italian,4.5,Cairo
+1100,Windows Restaurant,Restaurant|Mediterranean|Egyptian,4.5,Cairo
+1101,Kamala at Conrad Cairo,Restaurant|Asian,5,Cairo
+1102,Maharaja Indian Restaurant at Ramses Hilton,Restaurant|vegetarian Friendly|Asian,4.5,Cairo
+1103,Sachi Restaurant,Restaurant|Mediterranean|Vegetarian Friendly,4.5,Cairo
+1104,Saigon Restaurant & Lounge,Restaurant|vegetarian Friendly|Asian,4.5,Cairo
+1105,Night & Day,Restaurant|Vegetarian Friendly|Egyptian,4.5,Cairo
+1106,Indira Indian Restaurant,Restaurant|vegetarian Friendly|Asian,5,Cairo
+1107,Osmanly Restaurant,Restaurant|Mediterranean|Vegetarian Friendly,4.5,Cairo
+1108,Pane Vino Restaurant,Restaurant|Mediterranean|Vegetarian Friendly|Italian,4.5,Cairo
+1109,Koshary Abou Tarek,Restaurant|Egyptian|Fast Food,4.5,Cairo
+1110,Sequoia,Restaurant|Mediterranean|Egyptian,4.5,Cairo
+1111,Sushiramis,Restaurant|Asian,5,Cairo
+1112,The Smokery,Restaurant|Vegetarian Friendly|Seafood,4.5,Cairo
+1113,Carlo's - Le Pacha 1901,Restaurant|Vegetarian Friendly|Egyptian,4.5,Cairo
+1114,Taboula Lebanese Restaurant,Restaurant|Mediterranean,4.5,Cairo
+1115,Naguib Mahfouz Cafe,Restaurant|Egyptian|Cafe,4.5,Cairo
+1116,Maria's,Restaurant|Vegetarian Friendly,5,Cairo
+1117,Tao,Restaurant|vegetarian Friendly|Asian,5,Cairo
+1118,Little Swiss Restaurant,Restaurant|Mediterranean,4.5,Cairo
+1119,Ovio,Restaurant|Vegetarian Friendly|Cafe,4,Cairo
+1120,Gaya Restaurant,Restaurant|vegetarian Friendly|Asian,4.5,Cairo
+1121,Koshary El Tahrir,Restaurant|Mediterranean|Vegetarian Friendly,4,Cairo
+1122,Upper Deck Lounge,Restaurant|Bar,4.5,Cairo
+1123,Torii The Gateway To Sushi And Teppanyaki,Restaurant|vegetarian Friendly|Asian,4,Cairo
+1124,Al Dabke,Restaurant|Mediterranean,4,Cairo
+1125,Makino,Restaurant|vegetarian Friendly|Asian,4,Cairo
+1126,Ted's,Restaurant|Vegetarian Friendly,4,Cairo
+1127,El Malky,Restaurant|Mediterranean,4.5,Cairo
+1128,Fuddruckers,Restaurant|American,4,Cairo
+1129,Blue Nile,Restaurant|Mediterranean|Egyptian,3.5,Cairo
+1130,Tea Garden,Restaurant|Vegetarian Friendly|Cafe,4.5,Cairo
+1131,Mezzeh Restaurant,Restaurant|Vegetarian Friendly,4.5,Cairo
+1132,Tutti Matti,Restaurant|Mediterranean|Italian,4,Cairo
+1133,Italiano restaurant at Concorde El Salam Hotel Cairo,Restaurant|Mediterranean|Italian,4.5,Cairo
+1134,Asmak Bahary,Restaurant|Mediterranean|Egyptian|Seafood,4.5,Cairo
+1135,Yokal,Restaurant|Egyptian|Fast Food,4,Cairo
+1136,Ahlein,Restaurant|Mediterranean,4,Cairo
+1137,Blackstone Bistro,Restaurant|American,4.5,Cairo
+1138,El Borg Restaurants For Sea Food,Restaurant|Mediterranean|Egyptian|Seafood,4,Cairo
+1139,El Dahan Restaurant,Restaurant|Egyptian,4,Cairo
+1140,JW's Steakhouse,Restaurant|American,4,Cairo
+1141,The Tap East,Restaurant|Vegetarian Friendly|Bar,4,Cairo
+1142,Crave,Restaurant|Vegetarian Friendly,4,Cairo
+1143,La Brioche Doree,Restaurant|French|Cafe,4,Cairo
+1144,The Lounge Restaurant,Restaurant|Vegetarian Friendly,4.5,Cairo
+1145,Cilantro,Restaurant|Cafe,4,Cairo
+1146,The Grill Restaurant & Lounge,Restaurant|Mediterranean|French,5,Cairo
+1147,Fayruz Lebanese Restaurant,Restaurant|Mediterranean,5,Cairo
+1148,Bab Al Qasr,Restaurant|Egyptian,5,Cairo
+1149,Birdcage,Restaurant|vegetarian Friendly|Asian,4.5,Cairo
+1150,Maestro Italian Restaurant,Restaurant|Mediterranean|Italian,4.5,Cairo
+1151,MIRAI,Restaurant|Asian,4.5,Cairo
+1152,Esplanade Cafe Restaurant,Restaurant|Mediterranean,5,Cairo
+1153,Sabaya,Restaurant|Mediterranean,4.5,Cairo
+1154,Al Khal Egyptian Restaurant,Restaurant|Egyptian,4.5,Cairo
+1155,Shogun Japanese Restaurant,Restaurant|Asian,4.5,Cairo
+1156,Kazoku,Restaurant|Asian,4.5,Cairo
+1157,O's Pasta,Restaurant|Mediterranean|Italian,4.5,Cairo
+1158,Windows Restaurant,Restaurant|Mediterranean|Egyptian,4.5,Cairo
+1159,Kamala at Conrad Cairo,Restaurant|Asian,5,Cairo
+1160,Maharaja Indian Restaurant at Ramses Hilton,Restaurant|vegetarian Friendly|Asian,4.5,Cairo
+1161,Sachi Restaurant,Restaurant|Mediterranean|Asian,4.5,Cairo
+1162,Saigon Restaurant & Lounge,Restaurant|Asian,4.5,Cairo
+1163,Night & Day,Restaurant|Egyptian,4.5,Cairo
+1164,Indira Indian Restaurant,Restaurant|vegetarian Friendly|Asian,5,Cairo
+1165,Osmanly Restaurant,Restaurant|Mediterranean,4.5,Cairo
+1166,Pane Vino Restaurant,Restaurant|Mediterranean|Italian,4.5,Cairo
+1167,Koshary Abou Tarek,Restaurant|Egyptian|Fast Food,4.5,Cairo
+1168,Sequoia,Restaurant| Mediterranean,4.5,Cairo
+1169,Sushiramis,Restaurant|Asian,5,Cairo
+1170,The Smokery,Restaurant|French|Asian,4.5,Cairo
+1171,Carlo's - Le Pacha 1901,Restaurant|Vegetarian Friendly|Egyptian,4.5,Cairo
+1172,Taboula Lebanese Restaurant,Restaurant|Mediterranean,4.5,Cairo
+1173,Naguib Mahfouz Cafe,Restaurant|Egyptian|Cafe,4.5,Cairo
+1174,Maria's,Restaurant|Vegetarian Friendly,5,Cairo
+1175,Tao,Restaurant|Asian,5,Cairo
+1176,The Grill Restaurant & Lounge,Restaurant|Mediterranean|French,5,Cairo
+1177,Fayruz Lebanese Restaurant,Restaurant|Mediterranean,5,Cairo
+1178,Bab Al Qasr,Restaurant|Egyptian,5,Cairo
+1179,Birdcage,Restaurant|vegetarian Friendly|Asian,4.5,Cairo
+1180,Maestro Italian Restaurant,Restaurant|Mediterranean|Italian,4.5,Cairo
+1181,MIRAI,Restaurant|Asian,4.5,Cairo
+1182,Esplanade Cafe Restaurant,Restaurant|Mediterranean,5,Cairo
+1183,Sabaya,Restaurant|Mediterranean,4.5,Cairo
+1184,Al Khal Egyptian Restaurant,Restaurant|Egyptian,4.5,Cairo
+1185,Shogun Japanese Restaurant,Restaurant|Asian,4.5,Cairo
+1186,Kazoku,Restaurant|Asian,4.5,Cairo
+1187,O's Pasta,Restaurant|Mediterranean|Italian,4.5,Cairo
+1188,Windows Restaurant,Restaurant|Mediterranean,4.5,Cairo
+1189,Kamala at Conrad Cairo,Restaurant|Asian,5,Cairo
+1190,Maharaja Indian Restaurant at Ramses Hilton,Restaurant|vegetarian Friendly|Asian,4.5,Cairo
+1191,Sachi Restaurant,Restaurant|Mediterranean|Asian,4.5,Cairo
+1192,Saigon Restaurant & Lounge,Restaurant|Asian,4.5,Cairo
+1193,Night & Day,Restaurant|Egyptian,4.5,Cairo
+1194,Indira Indian Restaurant,Restaurant|vegetarian Friendly|Asian,5,Cairo
+1195,Osmanly Restaurant,Restaurant|Mediterranean,4.5,Cairo
+1196,Pane Vino Restaurant,Restaurant|Mediterranean|Italian,4.5,Cairo
+1197,Koshary Abou Tarek,Restaurant|Egyptian|Fast Food,4.5,Cairo
+1198,Sequoia,Restaurant|Mediterranean,4.5,Cairo
+1199,Sushiramis,Restaurant|Asian,5,Cairo
+1200,The Smokery,Restaurant|Asian|French,4.5,Cairo
+1201,Carlo's - Le Pacha 1901,Restaurant|Vegetarian Friendly|Egyptian,4.5,Cairo
+1202,Taboula Lebanese Restaurant,Restaurant|Mediterranean,4.5,Cairo
+1203,Restaurant|Italian|Fast Food |Mediterranean,Restaurant|Egyptian|Cafe,4.5,Cairo
+1204,Private Half-Day Tour: Saqqara and Memphis from Cairo,trip|low-price|short|ancientEgypt,4,Cairo
+1205,"Layover Day Tour of Giza Pyramids, Cairo, Egyptian Museum and Bazaar from Cairo Airport",trip|moderate-price|short|ancientEgypt,3.5,Giza
+1206,Luxor Airport Private Arrival Transfer,trip|low-price|fullday,2,Luxor
+1207,Full Day Tour Visiting Coptic and Islamic Cairo,trip|low-price|short|ancientEgypt,4,Luxor
+1208,"Private Tour: Luxor Day trip from Hurghada, Including Valley of the Kings, Hatshepsut Temple, and Karnak Temple",trip|moderate-price|short|ancientEgypt,3,Hurghada
+1209,Private Guided Day Tour to Tanis Bubastis and the Suez Canal from Cairo,trip|moderate-price|short|safari,3.5,Taba
+1210,Luxor Karnak Sound and Light Show,trip|low-price|short|ancientEgypt,4,Giza
+1211,Private Tour: Hurghada City Sightseeing in submarine,trip|low-price|short|submarine,4.5,Hurghada
+1212,"Luxor by bus guided group tour Valley of the kings,Karnak and Hatshepsut Temples",trip|moderate-price|short|ancientEgypt,4,Luxor
+1213,Tiran Island Cruise and Snorkeling,trip|low-price|short|snorkling|cruise,4.5,Cairo
+1214,Transfer from Luxor To Hurghada,trip|moderate-price|short,2,Luxor
+1215,Private Full-Day Fayoum Oasis and Waterfalls of Wadi El-Rayan Tour from Cairo,trip|low-price|fullDay|safari|ride,3.5,Fayoum
+1216,Scuba diving 2 dives from the boat in Sharm El Sheikh,trip|moderate-price|short|diving,3,Sharm
+1217,Tour to Alexandria from Cairo by Car,trip|moderate-price|short|sea,5,Alexandria
+1218,Private Departure Transfer from Hotels in Cairo or Giza to Cairo International Airport,trip|low-price|short,2,Giza
+1219,Sea Scope semi Submarine,trip|low-price|short|submarine,4.5,Dahab
+1220,Cairo shopping tour,trip|low-price|short,2,Cairo
+1221,Transfer from Cairo airport to hotel,trip|low-price|short,2,Cairo
+1222,Dolphin House Snorkeling- Banana fun-Hurghada,trip|low-price|short|snorkling|sea,4,Hurghada
+1223,private pick up transfer from Cairo airport to hotels in cairo or giza,trip|low-price|short,2,Cairo
+1224,Day tour to Luxor from Safaga port,trip|moderate-price|short|ancientEgypt,3.5,Hurghada
+1225,Private Tour to Luxor west bank tombs,trip|moderate-price|short|ancientEgypt|cruise,4,Luxor
+1226,2 Private days in Giza and Cairo including airport transfers,trip|low-price|long|ancientEgypt,3,Giza
+1227,Private Day Tour in Dahshur and Quad Bike Adventure,trip|low-price|short|ride,3.5,Dahab
+1228,Private Transfer from Cairo Airport to Hotel in Giza,trip|low-price|long,2.5,Cairo
+1229,Private Half-Day trip to Giza Pyramids sphinx with Camel-Riding,trip|low-price|short|ancientEgypt|safari,4,Cairo
+1230,"Islamic Cairo Walking Tour: Khan el Khalili, Al-Azhar Mosque",trip|low-price|short|ancientEgypt,3.5,Cairo
+1231,Two-Day Private Guided City Tour of Cairo Giza and Saqqara,trip|low-price|long|ancientEgypt,4,Giza
+1232,2-Hour Camel or Horse Ride Excursion Around the Pyramids,trip|low-price|short|safari|ride,4,Giza
+1233,offers safari in fayoum,trip|high-price|long|safari|ride,4,Fayoum
+1234,Giftun Island Budget Snorkeling trip from Hurghada,trip|low-price|short|snorkling,4.5,Hurghada
+1235,Sharm El Sheikh City Tour,trip|moderate-price|short,4,Sharm
+1236,"2-Day Private Tour: Luxor West and East Bank, Karnak Temple Valley of the Kings and Hatshepsut Temple Colossi of Memnon",trip|moderate-price|long|ancientEgypt,4.5,Luxor
+1237,Hot Air Balloon Ride in Luxor,trip|moderate-price|short|parsailing,4,Luxor
+1238,Paradise Class Semi Submarine,trip|low-price|short|submarine,3.5,Dahab
+1239,Tour to Dendera and Abydos Temples,trip|moderate-price|short|ancientEgypt,4,Aswan
+1240,Half Day Guided Tour To Memphis City for diving  and Dahshur,trip|low-price|short|diving,4,Dahab
+1241,One-Day Private Tour to Luxor from Hurghada by Vehicle or Car,trip|low-price|short|ancientEgypt,3.5,Hurghada
+1242,Camel or horse riding at the Pyramids from Cairo,trip|low-price|short|safari|ride,4.5,Cairo
+1243,Private Arrival Transfer from Luxor Airport,trip|low-price|short,2,Luxor
+1244,Private Half Day Tour to Giza Pyramids and Sphinx from Cairo,trip|low-price|short|ancientEgypt,3.5,Cairo
+1245,Cairo airport private transfer to Cairo and Giza hotels,trip|low-price|short,2,Cairo
+1246,"Boat trip to Orange bay with lunch , snorkeling and water sports",trip|low-price|short|snorkling|cruise,4.5,Cairo
+1247,Private Tour: Luxor Flight and Tour from Sharm el Sheikh,trip|high-price|short,2,Sharm
+1248,Half-Day Tour from Cairo: Dahshur Pyramids Sakkara and Memphis City,trip|low-price|short|ancientEgypt,3.5,Cairo
+1249,Day trip from Cairo to El Mokkatm Mountain Cave Church,trip|moderate-price|short|climb,4,Cairo
+1250,Private Felucca in the River Nile,trip|low-price|short|cruise,4,Cairo
+1251,"Private tour of Giza Pyramids,Saqqara Pyramid& Dahshour Pyramids (All inclusive)",trip|moderate-price|short|ancientEgypt,3.5,Cairo
+1252,private tour to Karnak and Luxor Temples Day tour in Luxor,trip|low-price|short|ancientEgypt,4,Luxor
+1253,"Day Tour to Ramesseum Temple, Habu Temple, and Valley of the Nobles",trip|low-price|short|ancientEgypt,3.5,Aswan
+1254,4 Days 3 Nights Aswan & Luxor Nile cruise,trip|moderate-price|long|ancientEgypt|cruise,4,Aswan
+1255,Nubian Village Excursion from Aswan,trip|low-price|short|ancientEgypt|cruise,4,Luxor
+1256,Day tour to Luxor from Marsa Alam,trip|moderate-price|short|ancientEgypt,4.5,Marsa Alam
+1257,Private Full-Day Walking Tour through Islamic Cairo,trip|low-price|short,3.5,Cairo
+1258,Full-Day East and West Luxor Private Tour,trip|low-price|short|ancientEgypt,4,Alexandria
+1259,Alexandria Day trip from Cairo,trip|moderate-price|short|sea,3,Alexandria
+1260,6-Hour Private Layover Tour to the Pyramids and the Sphinx,trip|low-price|short|ancientEgypt,4,Cairo
+1261,"Dolphin Habitat Snorkeling Tour from Hurghada, Makadi or El Gouna",trip|low-price|short|snorkling,4.5,Hurghada
+1262,Full private day tour in Aswan to visit Phelae temple and Nubian Village with lunch included,trip|moderate-price|fullday|ancientEgypt,3.5,Aswan
+1263,Full-Day Private Tour: Historic Alexandria From Cairo,trip|moderate-price|fullDay|sea,3,Alexandria
+1264,Nile Maxim dinner cruise on the Nile,trip|low-price|short|cruise,4,Cairo
+1265,Islamic Cairo Tour,trip|low-price|short,5,Cairo
+1266,DAY trip TO BAHARIYA OASIS VISIT BLACK AND WHITE DESERT FROM CAIRO,trip|moderate-price|short|safari,4,Fayoum
+1267,Private Transfer - Cairo Airport Arrivals Hall to Hotel,trip|low-price|long,2.5,Cairo
+1268,Full-Day Alexandria Private Tour with Tour Guide from Cairo,trip|moderate-price|short|sea,4.5,Alexandria
+1269,Dolphin House and Banana Boat Fun from Hurghada,trip|low-price|short|snorkling|submarine|sea,3.5,Hurghada
+1270,Private Tour: Abu Simbel by Minibus from Aswan,trip|moderate-price|short|ancientEgypt,4,Aswan
+1271,Tour to Luxor from Hurghada,trip|moderate-price|short|ancientEgypt,4.5,Hurghada
+1272,3-Hour Nile River Buffet Dinner Cruise,trip|low-price|short|cruise,3.5,Cairo
+1273,"Private Full Day Tour: Giza Pyramids, Sphinx, Sakkara and City of Memphis",trip|moderate-price|short|ancientEgypt|safari,4,Giza
+1274,2-Hour Nile River Lunch Cruise in Cairo,trip|low-price|short|cruise,3.5,Cairo
+1275,"Private Tour: Coptic Cairo, The Hanging Church, Abu Serga, Ben Ezra",trip|low-price|short|ancientEgypt,4.5,Cairo
+1276,"Cairo Stopover Tour To Giza Pyramids Egyptian Museum, Citadel & Bazaar",trip|moderate-price|short,3.5,Cairo
+1277,"Luxor Day Tour from Hurghada, El Gouna, or Makadi",trip|moderate-price|short|ride|sea|snorkling,4,Hurghada
+1278,2 DAYS 1 NIGHT TRAVEL PACKAGE TO ASWAN & LUXOR FROM CAIRO,trip|high-price|long|ancientEgypt,3.5,Cairo
+1279,Discover Egypt and Jordan Tour 14 Days-Cairo and Nile Cruise- Petra and Dead Sea,trip|high-price|long|ancientEgypt|cruise|sea,4,Cairo
+1280,Nile Cruise Holiday from Luxor to Aswan: 5 Days including Abu Simbel,trip|high-price|long|cruise,4.5,Luxor
+1281,Coptic Cairo- Islamic Cairo - Khan El Khaliliy Bazar and The Egyptian Museum,trip|moderate-price|short|ancientEgypt,3.5,Cairo
+1282,maistro italian food,Restaurant|Mediterranean|Italian,4,Cairo
+1283,koshary abo tarek,Restaurant|Fast Food|Egyptian,4.5,Cairo
+1284,the arcas restaurant ,Restauran|American|Pizza,4.5,Cairo
+1285,Alfredo restaurant,Restaurant|Egyptian|Mediterranean,4,Cairo
+1286,Bistro,Restaurant|Cafe|Egyptian,3.5,Cairo
+1287,pizzakanga,Restaurant|Pizza|Egyptian,4,Alexandria
+1288,sauchi restaurant,Restauran|Mediterranean|Vegetarian Friendly,3.5,Dahab
+1289,camanda restaurant,Restauran|Egyptian|Fast Food,4.5,Sharm
+1290,day and night,Restauran|Egyptian|Vegetarian Friendly,4,Sharm
+1291,the smokery,Restauran|American|Seafood|Vegetarian Friendly,3.5,Cairo
+1292,Task hotel alex,Hotel|moderate-price|Pool|Trendy|Pets,4,Alexandria
+1293,stanley apartment ,Hotel|low-price|Pets|Family,4.5,Alexandria
+1294,Helton Alex,Hotel|high-price|Luxury|Family,5,Alexandria
+1295,Royal karawan,Hotel|moderate-price|Pool|Family,3,Alexandria
+1296,Tirana dahab resort,Hotel|high-price|Luxury|Pool,5,Dahab
+1297,Golden Europe hotel,Hotel|moderate-price|Trendy|Pool,3,Dahab
+1298,seven heaven ,Hotel|moderate-price|Trendy|Pool|Family,4,Sharm
+1299,octopus hotel,Hotel|moderate-price|Trendy|Family|Pets,4,Marsa Alam
+1300,primo dahab,Hotel|moderate-price|Trendy,4.5,Dahab
+1301,oscar life,Hotel|low-price|Family,3.5,Cairo
+1302,Alf lela wa lela,Hotel|moderate-price|Trendy|Pool,2.5,Hurghada
+1303,ezis peramaza ,Hotel|high-price|Luxury|Pool,5,Dahab
+1304,new pola,Hotel|moderate-price|Trendy|Pool|Family,3,Luxor
+1304,Maria's,Restaurant|Vegetarian Friendly,5,Cairo
+1305,Tao,Restaurant|Asian,5,Cairo
+1306,Hakuna matata cafe,Restaurant|Italian|American,4.5,Marsa Alam
+1307,Costa Coffee,Restaurant|Cafe,4,Marsa Alam
+1308,Sofra,Restaurant|Mediterranean,4.5,Marsa Alam
+1309,Sharme El Luli,Restaurant|Mediterranean,4.5,Marsa Alam
+1310,Gorgonia Beach Resort Pizzeria,Restaurant|Mediterranean,4,Marsa Alam
+1311,Stella del Mare,Restaurant|Seafood|Vegetarian Friendly,5,Marsa Alam
+1312,Nino’s Italian cuisine,Restaurant|Italian,4.5,Marsa Alam
+1313,"Ristorante ""La Mia Africa""",Restaurant|Mediterranean,3.5,Marsa Alam
+1314,Non Solo Pasta,Restaurant|Italian,4,Marsa Alam
+1315,Mashrabia Restaurant Marsa Alam,Restaurant|Mediterranean|Egyptian,5,Marsa Alam
+1316,Pamboty Seafood Restaurant,Restaurant|Seafood ,4,Marsa Alam
+1317,4 corners coffeeshop,Restaurant|Mediterranean|Egyptian,4,Marsa Alam
+1318,Turtles Restaurant,Restaurant|Italian|Fast Food |Mediterranean,5,Marsa Alam
+1319,Romance Alexandria Corniche Hotel,Hotel|moderate-price,4.5,Alexandria
+1320,Hilton Alexandria Corniche,Hotel|high-price|Pool,4.5,Alexandria
+1321,Steigenberger Cecil Hotel,Hotel|high-price|Historic,4,Alexandria
+1323,Helnan Palestine Hotel,Hotel|high-price|Pool,4,Alexandria
+1324,Four Seasons Hotel Alexandria,Hotel|high-price|Pool,4.5,Alexandria
+1325,"Radisson Blu Hotel, Alexandria",Hotel|moderate-price|Pool|Trendy,4.5,Alexandria
+1326,Hilton Alexandria King's Ranch,Hotel|moderate-price|Pool|Trendy|Luxury,4.5,Alexandria
+1327,TOLIP Hotel Alexandria,Hotel|moderate-price|Pool,3.5,Alexandria
+1328,Alexander the Great Hotel,Hotel|low-price|Family,3.5,Alexandria
+1329,Cherry Maryski Hotel,Hotel|low-price|Pool|Trendy,3.5,Alexandria
+1330,Sheraton Montazah Hotel,Hotel|moderate-price|Pool|BabySitting,3.5,Alexandria
+1331,Green Plaza Inn Hotel,Hotel|low-price|BabySitting|Trendy,4,Alexandria
+1332,Hotel Transit Alexandria,Hotel|low-price,3.5,Alexandria
+1334,The Grand Plaza Hotel Smouha,Hotel|low-price,4.5,Alexandria
+1335,Paradise Inn Le Metropole Hotel,Hotel|moderate-price|Historic,3.5,Alexandria
+1336,Triomphe Hotel,Hotel|low-price,3,Alexandria
+1337,Plaza Hotel,Hotel|moderate-price,3.5,Alexandria
+1338,Alexandria Mediterranean Suites,Hotel|low-price|Family,4,Alexandria
+1339,Paradise Inn Windsor Palace Hotel,Hotel|low-price|Historic, ,Alexandria
+1340,Mediterranean Azur Hotel,Hotel|moderate-price|Pool,3,Alexandria
+1341,Africana Hotel,Hotel|moderate-price|Pool|Family,4,Alexandria
+1342,Al Maghraby Hotel,Hotel|low-price,4,Alexandria
+1343,Tolip Sports City Borg El Arab,Hotel|moderate-price|Pool,4,Alexandria
+1343,Adham Compound Hotel,Hotel|low-price|Pool|Family,3.5,Alexandria
+1344,Eastern Al Montazah Hotel,Hotel|moderate-price|Trendy,3.5,Alexandria
+1345,Kaoud Sporting Hotel,Hotel|low-price|Family,2,Alexandria
+1346,Romance Alexandria Corniche Hotel,Hotel|moderate-price,4.5,Alexandria
+1347,Hilton Alexandria Corniche,Hotel|moderate-price|Pool,4.5,Alexandria
+1348,Steigenberger Cecil Hotel,Hotel|high-price|Historic,4,Alexandria
+1349,Helnan Palestine Hotel,Hotel|high-price|Pool,4,Alexandria
+1350,Four Seasons Hotel Alexandria,Hotel|high-price|Pool,4.5,Alexandria
+1351,"Radisson Blu Hotel, Alexandria",Hotel|moderate-price|Pool|Trendy,4.5,Alexandria
+1352,Hilton Alexandria King's Ranch,Hotel|moderate-price|Pool|Luxury|Trendy,4.5,Alexandria
+1353,TOLIP Hotel Alexandria,Hotel|moderate-price|Pool,3.5,Alexandria
+1354,Alexander the Great Hotel,Hotel|low-price|Family,3.5,Alexandria
+1355,Amoun Hotel,Hotel|low-price|Family,3.5,Alexandria
+1356,Cherry Maryski Hotel,Hotel|low-price|Pool|Trendy,3.5,Alexandria
+1357,Sheraton Montazah Hotel,Hotel|moderate-price|Pool,3.5,Alexandria
+1358,Green Plaza Inn Hotel,Hotel|low-price|BabySitting|Trendy,4,Alexandria
+1359,Hotel Transit Alexandria,Hotel|low-price,3.5,Alexandria
+1360,The Grand Plaza Hotel Smouha,Hotel|low-price,4.5,Alexandria
+1361,Paradise Inn Le Metropole Hotel,Hotel|moderate-price|Historic,3.5,Alexandria
+1362,Triomphe Hotel,Hotel|low-price,3,Alexandria
+1363,Plaza Hotel,Hotel|moderate-price,3.5,Alexandria
+1364,Alexandria Mediterranean Suites,Hotel|low-price|Family,4,Alexandria
+1365,Paradise Inn Windsor Palace Hotel,Hotel|low-price|Historic,3,Alexandria
+1366,Mediterranean Azur Hotel,Hotel|moderate-price|Pool,3,Alexandria
+1367,Africana Hotel,Hotel|moderate-price|Pool|Family,4,Alexandria
+1368,Al Maghraby Hotel,Hotel|low-price,4,Alexandria
+1369,Tolip Sports City Borg El Arab,Hotel|moderate-price|Pool,4,Alexandria
+1370,Adham Compound Hotel,Hotel|low-price|Pool|Family,3.5,Alexandria
+1371,Eastern Al Montazah Hotel,Hotel|moderate-price|Trendy,3.5,Alexandria
+1372,Royal NJ Hotel,Hotel|low-price,,Alexandria
+1373,Mandara Armed Forces Apartments,Hotel|low-price,,Alexandria
+1374,Kaoud Sporting Hotel,Hotel|low-price|Family,2,Alexandria
+1375,Movenpick Resort Aswan,Hotel|moderate-price|Pool,4.5,Aswan
+1376,Sofitel Legend Old Cataract Aswan,Hotel|high-price|Pool,4.5,Aswan
+1377,AnaKato,Hotel|moderate-price,4.5,Aswan
+1378,Philae Hotel,Hotel|moderate-price,4.5,Aswan
+1379,Bet el Kerem,Hotel|low-price,4.5,Aswan
+1380,Pyramisa Isis Island Resort & Spa,Hotel|moderate-price|Pool,4,Aswan
+1381,Pyramisa Isis Corniche Hotel,Hotel|moderate-price,3.5,Aswan
+1382,Basma Hotel,Hotel|moderate-price|Pool,3.5,Aswan
+1383,Hadouta Masreya - Nubian Guest House,Hotel|moderate-price|Trendy,4.5,Aswan
+1384,Kato Dool Nubian House,Hotel|moderate-price|Trendy,4.5,Aswan
+1385,Nubian Oasis Hotel,Hotel|moderate-price|Trendy,2.5,Aswan
+1386,Ounaty Ka,Hotel|moderate-price|Trendy,5,Aswan
+1387,Batota House,Hotel|moderate-price|Trendy,4,Aswan
+1388,Memnon Hotel,Hotel|low-price|Pool,3.5,Aswan
+1389,Movenpick Resort Aswan,Hotel|moderate-price|Pool,4.5,Aswan
+1390,Sofitel Legend Old Cataract Aswan,Hotel|high-price,4.5,Aswan
+1391,AnaKato,Hotel|moderate-price|BabySitting,4.5,Aswan
+1392,Philae Hotel,Hotel|moderate-price,4.5,Aswan
+1393,Bet el Kerem,Hotel|low-price|Trendy,4.5,Aswan
+1394,Pyramisa Isis Island Resort & Spa,Hotel|moderate-price|Pool,4,Aswan
+1395,Pyramisa Isis Corniche Hotel,Hotel|moderate-price|Pool|Family,3.5,Aswan
+1396,Basma Hotel,Hotel|moderate-price|Pool,3.5,Aswan
+1397,Keylany Hotel,Hotel|low-price|Pool,3.5,Aswan
+1398,Nubian Holiday House Aswan,Hotel|low-price,4.5,Aswan
+1399,Happi Hotel,Hotel|moderate-price|family,3.5,Aswan
+1400,Helnan Aswan Hotel,Hotel|moderate-price|Pool,3.5,Aswan
+1401,Hadouta Masreya - Nubian Guest House,Hotel|moderate-price,4.5,Aswan
+1402,Kato Dool Nubian House,Hotel|moderate-price|family,4.5,Aswan
+1403,Nubian Oasis Hotel,Hotel|moderate-price|family,2.5,Aswan
+1404,Ounaty Ka,Hotel|moderate-price|family,5,Aswan
+1405,Batota House,Hotel|moderate-price|Trendy,4,Aswan
+1406,Memnon Hotel,Hotel|low-price|Pool,3.5,Aswan
+1407,Best View Pyramids Hotel,Hotel|low-price|Pool,4.5,Giza
+1408,Pyramids View Inn,Hotel|low-price|Pool|Family,4.5,Giza
+1409,"Marriott Mena House, Cairo",Hotel|moderate-price|Pool|BabySitting|Family|Luxury,4.5,Giza
+1410,Great Pyramid Inn,Hotel|low-price|Trendy,4.5,Giza
+1411,Le Meridien Pyramids Hotel & Spa,Hotel|moderate-price|Pool|Family|Luxury,4,Giza
+1412,Marvel Stone Hotel,Hotel|moderate-price,4,Giza
+1413,Hayat Pyramids View Hotel,Hotel|moderate-price|Luxury,4,Giza
+1414,Aracan Pyramids Hotel,Hotel|low-price|Pool|Luxury,3.5,Giza
+1415,Barcelo Cairo Pyramids,Hotel|moderate-price|Pool|Luxury,4,Giza
+1416,Pyramisa Suites Hotel Cairo,Hotel|moderate-price|Pool,3.5,Giza
+1417,Cairo Pyramids Hotel,Hotel|moderate-price|Pool,3.5,Giza
+1418,Pyramids Valley,Hotel|moderate-price,4.5,Giza
+1419,Movenpick Hotel & Casino Cairo-Media City,Hotel|moderate-price|Pool|Family,4,Giza
+1420,3 Pyramids View Inn,Hotel|moderate-price|Family,5,Giza
+1421,Ramosa Guest House,Hotel|low-price,4.5,Giza
+1422,Horus Guest House Pyramids View,Hotel|low-price,4.5,Giza
+1423,Best View Pyramids Hotel,Hotel|low-price|Pool,4.5,Giza
+1424,Pyramids View Inn,Hotel|low-price,4.5,Giza
+1425,"Marriott Mena House, Cairo",Hotel|high-price|Pool|BabySitting|Luxury|Family,4.5,Giza
+1426,Great Pyramid Inn,Hotel|moderate-price,4.5,Giza
+1427,Mercure Cairo Le Sphinx,Hotel|moderate-price|Pool|Luxury,4,Giza
+1428,Giza Pyramids Inn,Hotel|moderate-price,5,Giza
+1429,Safir Hotel Cairo,Hotel|moderate-price|Pool|Luxury,4.5,Giza
+1430,Sheraton Cairo Hotel & Casino,Hotel|moderate-price|Pool|Luxury,4,Giza
+1431,Four Seasons Hotel Cairo at the First Residence,Hotel|high-price|Pool|BabySitting|Family|Luxury,4.5,Giza
+1432,Swiss Inn Pyramids Golf Resort & Swiss Inn Plaza,Hotel|moderate-price|Pool|Luxury,4,Giza
+1433,Pyramids Loft Homestay,Hotel|low-price,4.5,Giza
+1434,Hilton Pyramids Golf,Hotel|moderate-price|Pool|Family,4,Giza
+1435,Le Meridien Pyramids Hotel & Spa,Hotel|moderate-price|Family|Luxury,4,Giza
+1436,Marvel Stone Hotel,Hotel|moderate-price,4,Giza
+1437,Hayat Pyramids View Hotel,Hotel|moderate-price|Luxury,4,Giza
+1438,Aracan Pyramids Hotel,Hotel|moderate-price|Pool|Luxury,3.5,Giza
+1439,Barcelo Cairo Pyramids,Hotel|moderate-price|Pool|Luxury,4,Giza
+1440,Pyramisa Suites Hotel Cairo,Hotel|moderate-price|Pool|Luxury,3.5,Giza
+1441,Cairo Pyramids Hotel,Hotel|moderate-price|Pool|Luxury,3.5,Giza
+1442,Pyramids Valley,Hotel|moderate-price,4.5,Giza
+1443,Panorama Pyramids Inn,Hotel|moderate-price,4.5,Giza
+1444,Grand Pyramids Hotel,Hotel|low-price|Pool|Luxury,3.5,Giza
+1445,Movenpick Hotel & Casino Cairo-Media City,Hotel|moderate-price|Pool|Family|Luxury,4,Giza
+1446,3 Pyramids View Inn,Hotel|moderate-price,5,Giza
+1447,Pyramids Overlook Inn,Hotel|moderate-price,5,Giza
+1448,Helnan Dreamland Hotel,Hotel|high-price|Pool|Family|Luxury,4,Giza
+1449,Pyramids Guest House,Hotel|low-price,5,Giza
+1450,Sphinx Guest House,Hotel|low-price|Pool,4,Giza
+1451,Ramosa Guest House,Hotel|low-price,4.5,Giza
+1452,Horus Guest House Pyramids View,Hotel|low-price,4.5,Giza
+1453,Indiana Hotel,Hotel|low-price|Pool,4,Giza
+1454,Pyramid view,Hotel|moderate-price|Trendy,4,Giza
+1455,Best View Pyramids Hotel,Hotel|moderate-price|Trendy,5,Giza
+1456,Guardian hotel,Hotel|moderate-price|Trendy,4,Giza
+1457,Amoun Hotel,Hotel|moderate-price|Trendy,4,Giza
+1458,Three Pyramids,Hotel|moderate-price|Trendy,4,Giza
+1459,Desert Rose Ecolodge Hotel,Hotel|moderate-price|Trendy,4,Giza
+1460,Kinow Hotel,Hotel|moderate-price|Trendy,4,Giza
+1461,Solaimaneyah Golf Resort & Spa,Hotel|moderate-price|Pool,4,Giza
+1462,Al Saraya Hotel,Hotel|moderate-price,4,Giza
+1463,Nile King Hotel,Hotel|moderate-price,4,Giza
+1464,Atlas Zamalek Hotel,Hotel|moderate-price|Luxury,5,Giza
+1465,Abou El Houl Palace Hotel,Hotel|moderate-price|Trendy,4,Giza
+1466,Daas Holiday Suites,Hotel|moderate-price|Trendy,4,Giza
+1467,El Samah Hotel,Hotel|moderate-price|Trendy,4,Giza
+1468,Guesthouse Cairo,Hotel|moderate-price|Trendy,4.5,Giza
+1469,Gulf House,Hotel|moderate-price|Trendy,5,Giza
+1470,Hady Hotel,Hotel|moderate-price|Trendy,4,Giza
+1471,Moon Light Hotel,Hotel|moderate-price|Trendy,4,Giza
+1472,The Pharaoh's House,Hotel|low-price,5,Giza
+1473,Pyramids View rooms Guest House,Hotel|moderate-price,5,Giza
+1474,The View Hotel,Hotel|moderate-price,4,Giza
+1475,Guardian Guest House,Hotel|low-price,3.5,Giza
+1476,Oasis Hotel,Hotel|moderate-price|Pool|Family|Luxury,4,Giza
+1477,Bonne Vie Hotel,Hotel|low-price,4,Giza
+1478,Egypt Pyramids Inn,Hotel|low-price,5,Giza
+1479,Middle East Hotel,Hotel|low-price,4,Giza
+1480,Golden Tulip Narmer Pyramids,Hotel|low-price|Pool|BabySitting|Luxury,4,Giza
+1481,Siag Pyramids Hotel,Hotel|low-price|Pool,4,Giza
+1482,SUNRISE Royal Makadi Aqua Resort -Select-,Hotel|moderate-price|Family|Luxury|Pool,4.5,Hurghada
+1483,Serenity Fun City,Hotel|moderate-price|Family|Luxury|Pool,4.5,Hurghada
+1484,Desert Rose Resort,Hotel|moderate-price|Family|Luxury|BabySitting,4.5,Hurghada
+1485,MinaMark Beach Resort,Hotel|moderate-price|Family|Luxury|Pool,4,Hurghada
+1486,Movenpick Resort & Spa El Gouna,Hotel|high-price|Family|Luxury|Pool|BabySitting,4.5,Hurghada
+1487,SUNRISE Crystal Bay - Grand Select-,Hotel|moderate-price|Family|Luxury|Pool|BabySitting,4.5,Hurghada
+1488,Titanic Resort & Aqua Park,Hotel|high-price|Luxury|Pool,4.5,Hurghada
+1489,The Oberoi Sahl Hasheesh,Hotel|high-price|Family|Luxury|Pool,5,Hurghada
+1490,Sheraton Miramar Resort El Gouna,Hotel|moderate-price|Family|Luxury|Pool|BabySitting,4.5,Hurghada
+1491,SUNRISE Holidays Resort,Hotel|moderate-price|Family|Luxury|Pool,4.5,Hurghada
+1492,Steigenberger ALDAU Beach Hotel,Hotel|moderate-price|Family|Luxury|Pool|BabySitting,5,Hurghada
+1493,Meraki Resort,Hotel|moderate-price|Pool,4.5,Hurghada
+1494,Nubia Aqua Beach Resort,Hotel|moderate-price|Pool,4.5,Hurghada
+1495,Albatros Aqua Park Resort,Hotel|high-price|Luxury|Pool|BabySitting,4.5,Hurghada
+1496,SUNRISE Garden Beach Resort -Select-,Hotel|high-price|Family|Luxury|Pool|BabySitting,4.5,Hurghada
+1497,Royal Star Beach Resort,Hotel|high-price|Luxury|Pool|BabySitting,4.5,Hurghada
+1498,White Beach Resort,Hotel|high-price|Pool,4.5,Hurghada
+1499,SUNRISE Royal Makadi Aqua Resort -Select-,Hotel|moderate-price|Pool|BabySitting,4.5,Hurghada
+1500,Serenity Fun City,Hotel|moderate-price|Pool|BabySitting,4.5,Hurghada
+1501,Desert Rose Resort,Hotel|moderate-price|Pool|BabySitting,4.5,Hurghada
+1502,Serenity Makadi Beach,Hotel|moderate-price|Luxury|Pool|BabySitting,4.5,Hurghada
+1503,Hilton Hurghada Resort,Hotel|moderate-price|Family|Luxury|BabySitting,4.5,Hurghada
+1504,Hurghada Marriott Beach Resort,Hotel|moderate-price|Family|Luxury|Pool,4.5,Hurghada
+1505,Baron Palace Sahl Hasheesh,Hotel|high-price|Luxury|BabySitting,5,Hurghada
+1506,MinaMark Beach Resort,Hotel|moderate-price|Luxury|Pool,4,Hurghada
+1507,Mercure Hurghada Hotel,Hotel|moderate-price|Family|Luxury|BabySitting|Pool,4.5,Hurghada
+1508,SUNRISE Romance Resort Sahl Hasheesh,Hotel|moderate-price|Pool,4.5,Hurghada
+1509,Movenpick Resort & Spa El Gouna,Hotel|high-price|Pool|BabySitting,4.5,Hurghada
+1510,Tropitel Sahl Hasheesh,Hotel|moderate-price|Family|Luxury|BabySitting|Pool,4.5,Hurghada
+1511,SUNRISE Crystal Bay - Grand Select-,Hotel|high-price|Family|Luxury|Pool|BabySitting,4.5,Hurghada
+1512,Titanic Resort & Aqua Park,Hotel|high-price|Luxury|BabySitting|Pool,4.5,Hurghada
+1513,Jungle Aqua Park,Hotel|high-price|Family|Luxury|Pool|BabySitting,4.5,Hurghada
+1514,The Oberoi Sahl Hasheesh,Hotel|high-price|Family|Pool,5,Hurghada
+1515,"Fort Arabesque Resort, Spa & Villas",Hotel|high-price|Family|Luxury,4,Hurghada
+1516,Three Corners Ocean View Hotel,Hotel|moderate-price|Luxury|Pool,4.5,Hurghada
+1517,Sheraton Miramar Resort El Gouna,Hotel|high-price|Family|Luxury|Pool,4.5,Hurghada
+1518,SUNRISE Holidays Resort,Hotel|moderate-price|Luxury|Pool,4.5,Hurghada
+1519,Steigenberger ALDAU Beach Hotel,Hotel|high-price|Family|Luxury|Pool,5,Hurghada
+1520,Meraki Resort,Hotel|moderate-price|Pool,4.5,Hurghada
+1521,Nubia Aqua Beach Resort,Hotel|moderate-price|Luxury|Pool,4.5,Hurghada
+1522,Albatros Aqua Park Resort,Hotel|moderate-price|Luxury|Pool|BabySitting,4.5,Hurghada
+1523,SUNRISE Garden Beach Resort -Select-,Hotel|high-price|Family|Luxury|Pool|BabySitting,4.5,Hurghada
+1524,Royal Star Beach Resort,Hotel|moderate-price|Luxury|Pool,4.5,Hurghada
+1525,Panorama Bungalows Resort El Gouna,Hotel|moderate-price|Family|Pool,4,Hurghada
+1526,Arabia Azur Resort,Hotel|moderate-price|Luxury|Family|Pool|BabySitting,4.5,Hurghada
+1527,Mosaique Hotel,Hotel|moderate-price|Luxury|Family|Pool,4.5,Hurghada
+1528,The Three Corners Rihana Inn,Hotel|moderate-price|Family|Luxury|Pool,4,Hurghada
+1529,Aqua Vista Resort & Spa,Hotel|moderate-price|Pool,4.5,Hurghada
+1530,The Captain's Inn,Hotel|moderate-price|Family,4.5,Hurghada
+1531,Sea Star Beau Rivage,Hotel|moderate-price|Luxury|Pool|BabySitting,4,Hurghada
+1532,Jaz Makadi Saraya Palms,Hotel|moderate-price|Pool,4.5,Hurghada
+1533,LABRANDA Club Makadi,Hotel|moderate-price|Luxury|Pool,4.5,Hurghada
+1534,Dawar El Omda Boutique Hotel,Hotel|moderate-price|Pool,4.5,Hurghada
+1535,SeaGull Beach Resort,Hotel|moderate-price|Luxury|Pool,4,Hurghada
+1536,Jasmine Palace Resort & Spa,Hotel|moderate-price|Luxury|Pool,4,Hurghada
+1537,Al Nabila Grand Bay Makadi,Hotel|moderate-price|Luxury|Pool,3.5,Hurghada
+1538,Hawaii Riviera Aqua Park Resort,Hotel|moderate-price|Luxury|Pool,4,Hurghada
+1539,Sindbad Club,Hotel|moderate-price|Luxury|Pool|BabySitting,4.5,Hurghada
+1540,Pyramisa Resort Sahl Hasheesh,Hotel|moderate-price|Luxury|Pool,4,Hurghada
+1541,Royal Lagoons Aqua Park Resort and Spa,Hotel|moderate-price|Luxury|Pool,4,Hurghada
+1542,Marlin Inn Azur Resort,Hotel|moderate-price|Pool,4,Hurghada
+1543,Sunny Days El Palacio Resort & Spa,Hotel|moderate-price|Luxury|Pool|BabySitting,4,Hurghada
+1544,Giftun Azur Resort,Hotel|moderate-price|Pool,4,Hurghada
+1545,Pharaoh Azur Resort,Hotel|moderate-price|Pool,4,Hurghada
+1546,Mirage Bay Resort & Aquapark Lilly Land,Hotel|moderate-price|Luxury|Pool,3.5,Hurghada
+1547,Titanic Beach Spa & Aqua Park,Hotel|moderate-price|Luxury|Pool,3.5,Hurghada
+1548,Regina Swiss Inn Beach Resort & Aqua Park,Hotel|moderate-price|Luxury|Pool,3.5,Hurghada
+1549,Continental Hotel Hurghada,Hotel|moderate-price|Luxury|Pool|BabySitting,4,Hurghada
+1550,Sphinx Aqua Park Beach Resort,Hotel|moderate-price|Pool,3.5,Hurghada
+1551,Lilly Apartments,Hotel|moderate-price|Pool,4.5,Hurghada
+1552,Mirage Aqua Park & SPA,Hotel|moderate-price|Pool,4,Hurghada
+1553,LABRANDA Garden Makadi,Hotel|moderate-price|Pool,4,Hurghada
+1554,Empire Hotel,Hotel|moderate-price|Family|Pool,4,Hurghada
+1555,Green Garden Resort,Hotel|moderate-price|Pool,4.5,Hurghada
+1556,Azzurra Sahl Hasheesh Suite,Hotel|moderate-price|Pool,4,Hurghada
+1557,La Maison Bleue El Gouna,Hotel|moderate-price|Pool,4.5,Hurghada
+1558,Jewels Sahara Boutique Resort,Hotel|moderate-price|Pool,3.5,Hurghada
+1559,Zahabia Hotel And Beach Resort,Hotel|moderate-price|Pool|BabySitting,3.5,Hurghada
+1560,Oasis Resort,Hotel|moderate-price,4.5,Hurghada
+1561,The View Villa,Hotel|moderate-price|Pool|Pets,4.5,Hurghada
+1562,Sky View Suites Hotel,Hotel|moderate-price,4.5,Hurghada
+1563,Sea View Hotel,Hotel|moderate-price,3,Hurghada
+1564,Hilton Luxor Resort & Spa,Hotel|moderate-price|Pool|BabySitting|Family|Luxury,5,Luxor
+1565,Steigenberger Nile Palace Luxor,Hotel|moderate-price|Pool|Family|Luxury,4.5,Luxor
+1566,Cleopatra Hotel Luxor,Hotel|low-price|Pets|Pool,4.5,Luxor
+1567,Pavillon Winter Luxor,Hotel|moderate-price|Pool|BabySitting|Luxury,4.5,Luxor
+1568,Sonesta St. George Hotel Luxor,Hotel|moderate-price|Pool|Family|Luxury,4.5,Luxor
+1569,Nefertiti Hotel,Hotel|low-price|Pool,4.5,Luxor
+1570,ACHTI Resort Luxor,Hotel|moderate-price|Pool|Family|Luxury,4,Luxor
+1571,Sofitel Winter Palace Luxor,Hotel|high-price|Pool|BabySitting|Family|Luxury,4.5,Luxor
+1572,"Jolie Ville Hotel & Spa - Kings Island, Luxor",Hotel|moderate-price|Pool|BabySitting|Family|Luxury,4.5,Luxor
+1573,Al Moudira Hotel,Hotel|high-price|Pool|Family|Luxury,4.5,Luxor
+1574,Venus Hotel,Hotel|low-price|Pets|Pool,4.5,Luxor
+1575,Amon Hotel Luxor,Hotel|low-price|Pool|Family,4.5,Luxor
+1576,Hotel Sheherazade,Hotel|moderate-price,4,Luxor
+1577,Pyramids Luxor Hotel,Hotel|low-price|Pets|Pool,5,Luxor
+1578,Nile Valley Hotel Restaurant,Hotel|low-price|Pool|Family,4.5,Luxor
+1579,El Mesala Hotel,Hotel|moderate-price,4,Luxor
+1580,El Nakhil Hotel & Restaurant,Hotel|moderate-price,4,Luxor
+1581,Flats in Luxor,Hotel|moderate-price,4,Luxor
+1582,Mercure Luxor Karnak,Hotel|moderate-price,4,Luxor
+1583,Iberotel Luxor,Hotel|moderate-price,4,Luxor
+1584,Eatabe Luxor Hotel,Hotel|low-price|Pool|Luxury,4,Luxor
+1585,Happy Land Hotel,Hotel|low-price,4,Luxor
+1586,Al Hambra Hotel,Hotel|low-price|Pool,4.5,Luxor
+1587,Villa Nile House,Hotel|low-price|Pets|Pool,5,Luxor
+1588,Al Baeirat Hotel,Hotel|moderate-price|Pool|Pets,4.5,Luxor
+1589,El Gezira Hotel,Hotel|low-price|Pool,4.5,Luxor
+1590,Bob Marley Peace Hotel,Hotel|low-price|Pool,5,Luxor
+1591,Desert Paradise Lodge,Hotel|low-price|Pool,5,Luxor
+1592,New Memnon Hotel,Hotel|low-price,5,Luxor
+1593,El Fayrouz,Hotel|low-price|Pool,4.5,Luxor
+1594,We compared the lowest prices from 2 websites,Hotel|low-price,4.5,Luxor
+1595,Hilton Luxor Resort & Spa,Hotel|moderate-price|Pool,5,Luxor
+1596,Steigenberger Nile Palace Luxor,Hotel|moderate-price|Pool|Family|Luxury,4.5,Luxor
+1597,Cleopatra Hotel Luxor,Hotel|low-price|Pets,4.5,Luxor
+1598,Pavillon Winter Luxor,Hotel|moderate-price|Pool|BabySitting,4.5,Luxor
+1599,Sonesta St. George Hotel Luxor,Hotel|moderate-price|Pool|Family|Luxury,4.5,Luxor
+1600,Nefertiti Hotel,Hotel|low-price,4.5,Luxor
+1601,ACHTI Resort Luxor,Hotel|moderate-price|Family|Luxury,4,Luxor
+1602,Sofitel Winter Palace Luxor,Hotel|high-price|Pool|Luxury|Family,4.5,Luxor
+1603,"Jolie Ville Hotel & Spa - Kings Island, Luxor",Hotel|moderate-price|Pool|Family|Luxury,4.5,Luxor
+1604,Al Moudira Hotel,Hotel|high-price|Pool|Family|Luxury,4.5,Luxor
+1605,Venus Hotel,Hotel|low-price|Pets,4.5,Luxor
+1606,Amon Hotel Luxor,Hotel|low-price|Pool|Family,4.5,Luxor
+1607,Hotel Sheherazade,Hotel|low-price|Pool|Pets,4.5,Luxor
+1608,Pyramids Luxor Hotel,Hotel|low-price,5,Luxor
+1609,Nile Valley Hotel Restaurant,Hotel|low-price|Pool|Family,4.5,Luxor
+1610,El Mesala Hotel,Hotel|low-price,4.5,Luxor
+1611,El Nakhil Hotel & Restaurant,Hotel|low-price,4.5,Luxor
+1612,Flats in Luxor,Hotel|low-price|Pets|Pool,5,Luxor
+1613,Mercure Luxor Karnak,Hotel|low-price,4,Luxor
+1614,Iberotel Luxor,Hotel|low-price|Pool,4,Luxor
+1615,Eatabe Luxor Hotel,Hotel|low-price|Pool|Luxury,4,Luxor
+1616,Happy Land Hotel,Hotel|low-price,4.5,Luxor
+1617,Al Hambra Hotel,Hotel|low-price|Pool,4.5,Luxor
+1618,Villa Nile House,Hotel|low-price|Pool,5,Luxor
+1619,Al Baeirat Hotel,Hotel|moderate-price|Pool,4.5,Luxor
+1620,El Gezira Hotel,Hotel|low-price|Pool,4.5,Luxor
+1621,Bob Marley Peace Hotel,Hotel|low-price|Pool,5,Luxor
+1623,Desert Paradise Lodge,Hotel|low-price|Pool,5,Luxor
+1624,New Memnon Hotel,Hotel|low-price,5,Luxor
+1625,El Fayrouz,Hotel|low-price|Pool,4.5,Luxor
+1626,Embrace Hotel,Hotel|moderate-price,4,Luxor
+1627,Royal House Hotel,Hotel|low-price|Pool,3.5,Luxor
+1628,Karnak Hotel,Hotel|low-price|Pool,4,Luxor
+1629,Fontana Luxor Hotel,Hotel|low-price|Pets,3.5,Luxor
+1630,Queens Valley Hotel Luxor,Hotel|low-price|Pool,2.5,Luxor
+1631,Shady Hotel,Hotel|low-price|Pool,2.5,Luxor
+1632,Al Gezera Apartments,Hotel|moderate-price|Pool,2.5,Luxor
+1633,Irie BnB,Hotel|low-price,3,Luxor
+1634,Jo View,Hotel|moderate-price,3,Luxor
+1635,Queen Palace Hotel Luxor,Hotel|low-price,3,Luxor
+1636,555 Studios & Flats,Hotel|low-price,3,Luxor
+1637,Sunny Guest House,Hotel|low-price,3,Luxor
+1638,Mara House,Hotel|low-price,5,Luxor
+1639,Marsam Hotel,Hotel|low-price,5,Luxor
+1640,Boomerang Hotel,Hotel|low-price,5,Luxor
+1641,Villa Lostris Holiday Apartments,Hotel|low-price|Pool,5,Luxor
+1642,La Maison de Pythagore,Hotel|low-price,4.5,Luxor
+1643,Gite Hotel Gezira,Hotel|low-price|Pets|Pool,5,Luxor
+1644,Little Garden Hotel,Hotel|low-price|Pool,4,Luxor
+1645,New Everest Hotel,Hotel|low-price,4,Luxor
+1646,Merit Dahabya,Hotel|low-price,5,Luxor
+1647,Eye Of Horus House,Hotel|low-price,4.5,Luxor
+1648,Villa al-diwan,Hotel|low-price,5,Luxor
+1649,Amarante Osiris,Hotel|low-price,4.5,Luxor
+1650,Nur el-Gurna Hotel,Hotel|low-price,4,Luxor
+1651,Club Marmara Decouverte du Nil,Hotel|low-price|Pool,4.5,Luxor
+1652,Flower of Light Centre,Hotel|low-price|Pool,5,Luxor
+1653,Отель Эль Гезира,Hotel|low-price,4.5,Luxor
+1654,Egyptian Experience Resort Luxor,Hotel|low-price|Pool,4,Luxor
+1655,Madina Heights,Hotel|moderate-price,5,Luxor
+1656,Amarante Isis,Hotel|low-price,4,Luxor
+1657,Morris Hotel,Hotel|low-price|Pool,3.5,Luxor
+1658,Luxor-Hotel,Hotel|low-price,4,Luxor
+1659,Anglo Hotel,Hotel|low-price,5,Luxor
+1660,Merryland Hotel,Hotel|low-price,3.5,Luxor
+1661,Novotel Coralia Luxor,Hotel|low-price,4,Luxor
+1662,Paradise Luxor Hostel,Hotel|low-price,4,Luxor
+1663,Everest Hotel,Hotel|low-price,4,Luxor
+1664,Princess Hotel,Hotel|low-price,3.5,Luxor
+1665,El Salam Hotel,Hotel|low-price,4,Luxor
+1666,Nile Towers Apartments,Hotel|low-price,4,Luxor
+1667,Teacher Hotel and Club,Hotel|low-price,4,Luxor
+1668,Horus Hotel,Hotel|low-price,2.5,Luxor
+1669,Pharaon,Hotel|low-price,3,Luxor
+1670,Alraml nile street ,Hotel|moderate-price|Trendy,4,Luxor
+1671,nile hotel,Hotel|moderate-price|BabySitting|Nile|Family,4,Cairo
+1672,kilopatra,Hotel|low-price|BabySitting|Family,3.5,Luxor
+1673,Nile compound,Hotel|moderate-price|Nile|Family,4,Aswan
+1674,Marhaba guest house,Hotel|moderate-price|Family,3.5,Aswan
+1675,Gifton Azon beach,Hotel|moderate-price|Pool,4,Hurghada
+1676,continental house,Hotel|high-price|Pool|Luxury,5,Hurghada
+1677,Hawai le jardan,Hotel|moderate-price|Pool|Luxury,4,Sharm
+1678,Golden Rose,Hotel|moderate-price|Pool,3,Sharm
+1679,huge hotel,Hotel|moderate-price|Pool|Family,4,Marsa Alam
+1680,marasi hotel,Hotel|moderate-price|Pool|Luxury,4.5,Ras Mohamed
+1681,sheraton Al Gona,Hotel|high-price|Pool|Luxury,5,Hurghada
+1682,visita,Hotel|low-price|Trendy,4,Hurghada
+1683,Ecotay dahab,Hotel|high-price|Pool|Luxury|Family,5,Dahab
+1684,Dahab blaza,Hotel|moderate-price|Pool|Luxury,3.5,Dahab
+1685,coral cost,Hotel|low-price|Trendy|Family|BabySitting,3,Dahab
+1686,Trmobil neema,Hotel|high-price|Pool|Luxury,5,Sharm
+1687,Helto sharks resort,Hotel|moderate-price|Pool|Luxury,4,Sharm
+1688,Ebrotes palace,Hotel|moderate-price|Pool|Trendy|Family|Pets,4,Sharm
+1689,Labranda tower bay,Hotel|moderate-price|Pool|Trendy,4,Sharm
+1690,Safoi sharm el sheikh,Hotel|high-price|Pool|Luxury,5,Sharm
+1691,Grand Nile Tower,Hotel|moderate-price|Pool|Trendy|Nile,4.5,Cairo
+1692,Novotil el matar cairo,Hotel|moderate-price|Pool|Trendy,4,Cairo
+1693,Barcelo Cairo pyramid hotel,Hotel|high-price|Pool|Luxury|Pets,4,Cairo
+1694,kazablanka alex,Hotel|moderate-price|Pool|Pets,3.5,Alexandria
+1695,Cleopatra hotel cairo,Hotel|moderate-price,3,Cairo
+1696,Royal pyramids inn,Hotel|moderate-price|Luxury,4,Cairo
+1697,City max hotel Aswan,Hotel|high-price|Luxury|Pool,5,Aswan
+1698,Feyala hotel,Hotel|moderate-price|Luxury|Family|Pool,4.5,Aswan
+1699,Marhaban palace,Hotel|moderate-price|Family,3,Aswan
+1700,New Grand Hotel,Hotel|low-price|Pool|Pets,3,Luxor
+1701,Partner Tutotoel,Hotel|low-price,3,Luxor
+1702,Saint Mina Hotel,Hotel|low-price,3,Luxor
+1703,Tutotel Hotel,Hotel|low-price|Pool,2.5,Luxor
+1704,Orient Star Hotel,Hotel|low-price,3,Luxor
+1705,Achti Resort,Hotel|low-price,5,Luxor
+1706,Akhnaton,Hotel|low-price,3,Luxor
+1707,Amer House,Hotel|low-price,3,Luxor
+1708,Club Mediterranee Bella Donna,Hotel|low-price,3,Luxor
+1709,Grand Memphis hotel,Hotel|low-price,3.5,Luxor
+1710,Mostafa Hotel,Hotel|low-price,4,Luxor
+1711,Nubian House,Hotel|low-price,4,Luxor
+1712,Stella Di Mare Beach Hotel & Spa,Hotel|moderate-price,5,Sharm
+1713,Concorde El Salam Front Hotel,Hotel|moderate-price|Historic,4.5,Sharm
+1714,Renaissance Sharm El Sheikh Golden View Beach Resort,Hotel|moderate-price,4.5,Sharm
+1715,Xperience St. George Homestay,Hotel|moderate-price,4.5,Sharm
+1716,Parrotel Beach Resort,Hotel|moderate-price,4.5,Sharm
+1717,Baron Palms Resort Sharm El Sheikh,Hotel|moderate-price,4.5,Sharm
+1718,Sharm El Sheikh Marriott Resort,Hotel|moderate-price,4,Sharm
+1719,SUNRISE Arabian Beach Resort -Grand Select-,Hotel|high-price|Family|Pool,4.5,Sharm
+1720,Cleopatra Luxury Resort Sharm El Sheikh,Hotel|moderate-price,4.5,Sharm
+1721,Baron Resort Sharm El Sheikh,Hotel|high-price,4.5,Sharm
+1722,Barcelo Tiran Sharm,Hotel|moderate-price,4.5,Sharm
+1723,SUNRISE Montemare Resort -Grand Select- (Adults Only),Hotel|moderate-price|Pool,4.5,Sharm
+1724,Hilton Sharks Bay Resort,Hotel|moderate-price|Pool,4.5,Sharm
+1725,Naama Blue Hotel,Hotel|low-price|Pool,4.5,Sharm
+1726,Rixos Sharm El Sheikh,Hotel|high-price|Pool,4.5,Sharm
+1727,Grand Rotana Resort & Spa,Hotel|high-price|Pool,4.5,Sharm
+1728,Aurora Oriental Resort Sharm El Sheikh,Hotel|moderate-price,4.5,Sharm
+1729,Il Mercato Hotel & Spa,Hotel|moderate-price,4.5,Sharm
+1730,Falcon Naama Star,Hotel|low-price|Pool,4,Sharm
+1731,Coral Sea Waterworld Resort,Hotel|moderate-price|Pool,4.5,Sharm
+1732,Xperience Kiroseiz Parkland,Hotel|moderate-price,4.5,Sharm
+1733,Stella Di Mare Beach Hotel & Spa,Hotel|moderate-price|Pool,5,Sharm
+1734,Concorde El Salam Front Hotel,Hotel|moderate-price|Historic|Pool,4.5,Sharm
+1735,Renaissance Sharm El Sheikh Golden View Beach Resort,Hotel|moderate-price|Pool,4.5,Sharm
+1736,Xperience St. George Homestay,Hotel|moderate-price|Pool,4.5,Sharm
+1737,Parrotel Beach Resort,Hotel|moderate-price,4.5,Sharm
+1738,Barcelo Tiran Sharm,Hotel|moderate-price|Pool,4.5,Sharm
+1739,SUNRISE Montemare Resort -Grand Select- (Adults Only),Hotel|moderate-price|Pool,4.5,Sharm
+1740,Hilton Sharks Bay Resort,Hotel|moderate-price|Pool,4.5,Sharm
+1741,Naama Blue Hotel,Hotel|low-price,4.5,Sharm
+1742,Savoy Sharm El Sheikh,Hotel|high-price,4.5,Sharm
+1743,Movenpick Resort Sharm El Sheikh Naama Bay,Hotel|high-price,4.5,Sharm
+1744,Rixos Premium Seagate,Hotel|high-price,5,Sharm
+1745,Grand Rotana Resort & Spa,Hotel|high-price|Pool,4.5,Sharm
+1746,Aurora Oriental Resort Sharm El Sheikh,Hotel|moderate-price,4.5,Sharm
+1747,Il Mercato Hotel & Spa,Hotel|moderate-price,4.5,Sharm
+1748,Coral Sea Waterworld Resort,Hotel|moderate-price,4.5,Sharm
+1749,Xperience Kiroseiz Parkland,Hotel|moderate-price,4.5,Sharm
+1750,Regency Plaza Aqua Park & Spa Resort,Hotel|moderate-price|Pool,4,Sharm
+1751,Sharm Grand Plaza,Hotel|moderate-price|Family|Pool,4,Sharm
+1752,Parrotel Aqua Park,Hotel|moderate-price|Pool,4,Sharm
+1753,Jaz Belvedere,Hotel|moderate-price|Pool,4.5,Sharm
+1754,Island View Resort,Hotel|moderate-price|Family|Pool,4.5,Sharm
+1755,Domina Hotel & Resort Harem,Hotel|moderate-price|Pool,4.5,Sharm
+1756,Rehana Sharm Resort - Aquapark & Spa,Hotel|moderate-price|Pool,4,Sharm
+1757,Coral Beach Resort Tiran,Hotel|moderate-price|Pool,4,Sharm
+1758,Tamra Beach,Hotel|moderate-price|Pool,4.5,Sharm
+1759,Jaz Fanara Resort,Hotel|moderate-price|Pool,4.5,Sharm
+1760,Gafy Resort,Hotel|moderate-price|Family|Pool,4,Sharm
+1761,Camel Dive Club & Hotel,Hotel|moderate-price|Pool,4.5,Sharm
+1762,Domina Elisir Thalasso & Spa,Hotel|high-price|Pool,4.5,Sharm
+1763,Le Royale Luxury Collection Resort Sharm EI Sheikh,Hotel|moderate-price|Luxury|Pool,4.5,Sharm
+1764,Rehana Royal Beach Resort - Aquapark & Spa,Hotel|moderate-price|Pool,4.5,Sharm
+1765,Amwaj Oyoun Hotel & Resort,Hotel|moderate-price|Family|Pool,4,Sharm
+1766,Maritim Jolie Ville Resort & Casino Sharm El-Sheikh,Hotel|moderate-price|Family|Pool,4,Sharm
+1767,Sharm Dreams Resort,Hotel|moderate-price|Family|Pool,4,Sharm
+1768,Coral Beach Resort Montazah,Hotel|moderate-price|Family|Pool,3.5,Sharm
+1769,Domina Coral Bay Prestige Hotel,Hotel|moderate-price|Pool,4.5,Sharm
+1770,Tropitel Naama Bay,Hotel|moderate-price|Pool,4,Sharm
+1771,Delta Sharm Resort,Hotel|low-price,3.5,Sharm
+1772,Kahramana Hotel,Hotel|high-price|Pool,3.5,Sharm
+1773,Sharm Holiday Resort Hotel,Hotel|moderate-price|Family|Pool,3.5,Sharm
+1774,Viva Sharm Hotel,Hotel|low-price|Family|Pool,3.5,Sharm
+1775,Aida 2 Hotel Naama Bay,Hotel|low-price|Family|Pool,4,Sharm
+1776,Amar Sina Village,Hotel|low-price|Pool,3.5,Sharm
+1777,Tivoli Hotel,Hotel|low-price|Pool,3.5,Sharm
+1778,Shark's Bay Oasis Hotel,Hotel|moderate-price|Family|Pool,3.5,Sharm
+1779,Laguna Vista Beach Resort,Hotel|moderate-price|Pool,4,Sharm
+1780,Turquoise Beach Hotel,Hotel|moderate-price|Pool,3.5,Sharm
+1781,El Hayat Sharm Resort,Hotel|moderate-price|Pool|BabySitting,3.5,Sharm
+1782,Naama Inn,Hotel|low-price|Family|Pool,4,Sharm
+1783,Sinai Old Spices,Hotel|low-price|Pets,4.5,Sharm
+1784,Verginia Sharm Resort,Hotel|low-price|Pool,3.5,Sharm
+1785,Eden Rock Hotel,Hotel|low-price|Pool,3.5,Sharm
+1786,Royal Holiday Beach Resort & Casino Sharm El Sheikh,Hotel|moderate-price|Pool,4,Sharm
+1787,Dreams Vacation Resort,Hotel|moderate-price|Pool,4,Sharm
+1788,Domina Coral Bay Oasis,Hotel|moderate-price|Pool,4,Sharm
+1789,Cyrene Island Hotel,Hotel|moderate-price|Family,4,Sharm
+1790,Oriental Rivoli Hotel & SPA,Hotel|moderate-price|Pool,4,Sharm
+1791,Mexicana Sharm Resort,Hotel|moderate-price|Pool,3.5,Sharm
+1792,ROYAL Monte Carlo Sharm Villas & Suites,Hotel|high-price|Pool,5,Sharm
+1793,Royal Naama Bay resort,Hotel|low-price|Family|Pool,3.5,Sharm
+1794,Melton Beach Resort,Hotel|moderate-price|Pool,3,Sharm
+1795,Kanabesh Hotel Naama Bay,Hotel|moderate-price|Pool,3,Sharm
+1796,Logaina Sharm Resort,Hotel|low-price|Pool,3,Sharm
+1797,Aqua Hotel Resort & Spa,Hotel|low-price|Family|Pool,3,Sharm
+1798,Le Mirage New Tiran,Hotel|moderate-price|Pool,3,Sharm
+1799,Helnan Marina Sharm,Hotel|moderate-price|Pool,4,Sharm
+1800,Paradise Inn Group for Hotels & Resorts,Hotel|moderate-price|Pool,3,Sharm
+1801,Jaz Mirabel Park,Hotel|high-price|Pool,4.5,Sharm
+1802,Jaz Mirabel Club,Hotel|moderate-price|Trendy|Pool,4.5,Sharm
+1803,Sunshine Divers Club - Sharks Bay,Hotel|moderate-price,5,Sharm
+1804,Ghazala Gardens Hotel,Hotel|moderate-price|Family|Pool,4,Sharm
+1805,Villaggio Bravo Sharm,Hotel|moderate-price|Trendy|Pool,4,Sharm
+1806,Aurora Sharm Resort,Hotel|moderate-price|Trendy|Pool,4,Sharm
+1807,Ghazala Beach Hotel,Hotel|moderate-price|Pool,4,Sharm
+1808,Sonesta Club Sharm El Sheikh,Hotel|moderate-price|Pool,4,Sharm
+1809,Melia Sinai,Hotel|moderate-price|Pool,4,Sharm
+1810,Palmyra Resort,Hotel|moderate-price|Family|Pool,4,Sharm
+1811,Dessole Seti Sharm Resort,Hotel|moderate-price|Family|Pool,4,Sharm
+1812,Sea Club Royal Nubian Island,Hotel|high-price|Pool,4,Sharm
+1813,Continental Garden Reef Resort,Hotel|moderate-price|Pool,3.5,Sharm
+1814,Dessole Nesco Joyous,Hotel|moderate-price|Pool,4,Sharm
+1322,green land,Restauran|Mediterranean,4,Cairo
+1333,english restaurant,Restauran|American,3.5,Sharm
+1815,4-Day 3-Night Nile Cruise from Aswan to Luxor,trip|high-price|long|cruise,4,Aswan
+1816,"8-Hour Private Tour of the Pyramids, Sphinx, Egyptian Museum and Bazaar including Camel Ride and Lunch from Cairo",trip|low-price|short|ancientEgypt,3.5,Cairo
+1817,Private Tour: 8 Days 7 Nights Pyramids and Nile Cruise by Air from Cairo,trip|high-price|long|cruise|ancientEgypt,4.5,Cairo
+1818,4-Day 3-Night Nile Cruise from Aswan to Luxor - Private Tour,trip|high-price|longcruise|ancientEgypt,4,Luxor
+1819,Day trip to Cairo by Bus,trip|moderate-price|fullday|ancientEgypt,3,Cairo
+1820,"8-Day Best of Egypt Tour: Cairo, Nile Cruise, Abu Simbel",trip|high-price|long|cruise|ancientEgypt,3.5,Luxor
+1821,"Private 7-Night Cairo, Aswan, and Nile Cruise with Flights",trip|high-price|long|cruise|ancientEgypt,3,Aswan
+1822,"Private Tour: Giza Pyramids, Sphinx, Memphis, Sakkara",trip|moderate-price|short|cruise|ancientEgypt,3.5,Cairo
+1823,"4-Day, 3-Night Nile cruise from Aswan",trip|high-price|long|cruise,3,Aswan
+1824,Private Tour: Abu Simbel Flight and Tour from Aswan,trip|high-price|short|ancientEgypt,3,Aswan
+1825,"2-Day Private Guided Tour to Giza, Saqqara, Dahshur and Cairo including Camel Ride, Felucca Sailing, Dinner Cruise and Sound and Light Show",trip|moderate-price|long|safari|ancientEgypt,4.5,Cairo
+1826,Full-Day Guided Private Tour to Pyramids of Giza Dahshur Sakkara and Memphis,trip|low-price|short|ancientEgypt,3.5,Cairo
+1827,NILE CRUISE LUXOR ASWAN 5 DAYS,trip|high-price|long|cruise|ancientEgypt,3,Luxor
+1828,Full-Day Luxor Tour from Cairo by Plane,trip|high-price|short|ancientEgypt,2.5,Cairo
+1829,2-Day Ancient Egypt and Old Cairo Highlights Tour,trip|moderate-price|long|ancientEgypt,3,Cairo
+1830,"Full-Day Tour from Cairo: Giza Pyramids, Sphinx, Memphis, and Saqqara",trip|moderate-price|fullday|ancientEgypt,3.5,Cairo
+1831,10-Day Ancient Egypt Tour with Nile Cruise,trip|high-price|long|cruise|ancientEgypt,4,Cairo
+1832,Egypt 9 Days- Cairo Pyramids and Nile Cruise from Luxor to Aswan and Abu Simbel,trip|high-price|long|cruise|ancientEgypt,4.5,Luxor
+1833,4 days in Cairo Giza Luxor and Alexandria,trip|high-price|long|cruise|sea|safari|ancientEgypt,3.5,Cairo
+1834,"Dinner Cruise on the Nile River with Buffet, Cultural Show and Private Transfer in Cairo",trip|low-price|short|cruise,3,Cairo
+1835,Private Guided Full-Day Tour to Alexandria from Cairo,trip|low-price|short|sea,4,Cairo
+1836,2 days 1 night Luxor and Aswan and abu simple by Round flight from Cairo,trip|high-price|long|ancientEgypt,3,Cairo
+1837,Best 2 Days 1 Night Travel Package to Aswan & Luxor from Cairo by Flights,trip|high-price|long|ancientEgypt|cruise,3.5,Cairo
+1838,"4-Day Tour: Cairo, Luxor, Alexandria, Sound and Light Show, Dinner cruise",trip|high-price|long|ancientEgypt|cruise|sea|safari,3,Cairo
+1839,Cairo Airport Private Arrival Transfer,trip|low-price|short|ride,2.5,Dahab
+1840,Private Guided Day trip to Luxor from Cairo by Plane,trip|high-price|short|ancientEgypt,3,Cairo
+1841,4-Day Nile River Cruise from Aswan to Luxor with Optional Private Guide,trip|high-price|long|ancientEgypt|cruise,3,Aswan
+1842,Day trip to Luxor from Hurghada with Hotel Pickup and Lunch,trip|moderate-price|short|cruise|ancientEgypt,3.5,Hurghada
+1843,"tripHot Air Balloon Ride in Luxor, Egypt - VIP",trip|moderate-price|short|ride|parsailing,4,Luxor
+1844,Lake Nasser Fishing Safari trip with Lunch Included,trip|high-price|short|safari|ride,3.5,Cairo
+1845,Private Guided Night Tour of Cairo,trip|low-price|short|cruise,4,Cairo
+1846,Book 2 days 1 night Luxor and Aswan and Abu Simble by round flight from Cairo,trip|high-price|long|ancientEgypt,3.5,Cairo
+1847,Egypt 8 Days 7 Nights Cairo with Nile cruise from Aswan to Luxor With flight,trip|high-price|long|ancientEgypt|cruise,3,Aswan
+1848,"3-Day, 2-Night Private Desert Safari Tour to Baharya Oasis from Cairo",trip|moderate-price|long|safari|ride,3.5,Cairo
+1849,"Group tour 9-Day Nile Jewel, Nile Cruise & Hurghada Red Sea",trip|high-price|long|sea|cruise|snorkling|diving,3,Hurghada
+1850,"Private Tour: Luxor West Bank, Valley of the Kings and Hatshepsut Temple",trip|moderate-price|short|ancientEgypt,3,Luxor
+1851,Private Day Tour to Abu Simbel Temples from Aswan,trip|moderate-price|short|ancientEgypt,4.5,Aswan
+1852,"Private Tour: Luxor East Bank, Karnak and Luxor Temples",trip|moderate-price|short|ancientEgypt,4,Luxor
+1853,"Full-Day Luxor Tour: Valley of the Kings, Temple of Hatshepsut, Karnak Temple",trip|moderate-price|fullday|ancientEgypt,3.5,Luxor
+1854,Half Day Tour to Giza Pyramids with Camel Ride,trip|low-price|short|ancientEgypt|safari,4,Cairo
+1855,"Private Tour: Egyptian Museum, Alabaster Mosque, Khan el-Khalili",trip|moderate-price|short|ancientEgypt,3.5,Cairo
+1856,Private Full-Day Tour: Alexandria Historical Sites from Cairo,trip|moderate-price|short|sea,3,Alexandria
+1857,3-Day Tour around Cairo and to Alexandria from Cairo,trip|moderate-price|long|sea,3,Cairo
+1858,Day Tour to Cairo from Hurghada By Bus,trip|moderate-price|short|ancientEgypt,3.5,Hurghada
+1859,Private Full Day Tour to Cairo From Hurghada,trip|moderate-price|short|ancientEgypt|safari,4,Hurghada
+1860,Tour to Abu Simbel Temples from Aswan,trip|moderate-price|short|ancientEgypt,3.5,Aswan
+1861,"Full-Day Tour to Giza Pyramids, Memphis, and Sakkara",trip|high-price|fullDay|ancientEgypt,3,Cairo
+1862,"8-Night Israel, Jordan and Egypt Tour from Tel Aviv",trip|high-price|long|ancientEgypt|safari,2,Cairo
+1863,5-Hour Quad Bike Safari in Hurghada,trip|low-price|short|safari|ride,3,Hurghada
+1864,3-Day Private Bahariya Oasis Tour and Desert Safari from Cairo,trip|high-price|long|safari|ride,3.5,Cairo
+1865,Private Half-Day trip to Giza Pyramids with Camel-Riding,trip|low-price|short|ride|safari|ancientEgypt,3,Cairo
+1866,Alexandria Day Tour from Cairo,trip|moderate-price|short|sea,3.5,Cairo
+1867,Morning Alexandria Day Tour from Cairo,trip|low-price|short|sea,3,Cairo
+1868,"Private Guided Day trip to Dahshur, Memphis and Saqqara from Cairo",trip|low-price|short|ancientEgypt,3,Cairo
+1869,Full Day Tour to East and West Banks of Luxor,trip|moderate-price|short|ancientEgypt,3.5,Luxor
+1870,Abu Simbel Temples from Aswan by Flight,trip|high-price|short|ancientEgypt,3.5,Aswan
+1871,Private Tour: Giza Pyramids and Sphinx,trip|low-price|short|ancientEgypt|safari,2.5,Cairo
+1872,Half-Day Islamic Coptic Cairo,trip|low-price|short,3,Cairo
+1873,Day trip to Luxor from Cairo by Plane including Lunch,trip|high-price|short|ancientEgypt|cruise,2.5,Cairo
+1874,Private day tour to Alexandria From Cairo,trip|moderate-price|short|sea,3,Cairo
+1875,Private Tour: St Catherine's Monastery and Moses' Mountain at Sunrise,trip|moderate-price|short|climb,4,Dahab
+1876,3 Days Cairo and Alexandria Tour Package with Felucca Ride,trip|moderate-price|long|cruise|sea|ride,,Cairo
+1877,Tour To Luxor From Hurghada By Bus,trip|low-price|short|ancientEgypt,3,Hurghada
+1878,Luxor Day Tour From Cairo by Flight,trip|high-price|short|ancientEgypt|cruise,3,Cairo
+1879,private Tour Giza Pyramids & Memphis & Saqqara & Camel ride From Cairo,trip|moderate-price|short|safari|ancientEgypt,4,Cairo
+1880,sound and light show at Giza Pyramids with Dinner,trip|low-price|short|ancientEgypt,3.5,Cairo
+1881,Day tour to Luxor from Cairo,trip|high-price|short|ancientEgypt,3,Cairo
+1882,04 Nights Nile Cruise from Luxor to Aswan by flight from Cairo,trip|high-price|long|ancientEgypt|cruise,3.5,Cairo
+1883,Best of Egypt 9-Day Tour From Cairo,trip|high-price|long|ancientEgypt|safari|snorkling|diving,3,Cairo
+1884,Nile Dinner Cruise in Cairo with Belly Dancing and Hotel Transfer,trip|moderate-price|short|cruise,2.5,Cairo
+1885,5-Day 5-Star Nile Cruise from Luxor to Aswan,trip|high-price|long|ancientEgypt|cruise,3,Luxor
+1886,5-Day Luxury 5-Star Nile Cruise from Luxor to Aswan,trip|moderate-price|long|ancientEgypt|cruise,4,Luxor
+1887,Giza Pyramids and Egyptian Museum with Dinner at Nile Cruise,trip|moderate-price|short|ancientEgypt|cruise,3,Cairo
+1888,"Great Pyramids of Giza, Saqqara and Memphis Private Day Tour",trip|low-price|fullDay|ancientEgypt,2.5,Cairo
+1889,Sailing Nile cruise from Luxor for 2 nights,trip|moderate-price|long|ancientEgypt|cruise,4,Luxor
+1890,Private Day trip to Luxor Highlights from Safaga Port,trip|moderate-price|fullday|ancientEgypt,3,Sharm
+1891,"3-Day Private Tour: Giza, Cairo, and Alexandria with Airport Transfers",trip|low-price|long|ancientEgypt|safari|sea|snorkling|diving,4,Alexandria
+1892,Full day to Luxor by Round flight From Cairo to visit East and West Bank,trip|high-price|short|ancientEgypt,3,Cairo
+1893,Overnight Snorkeling trip At Satayh Dolphin Reef From Marsa alam,trip|high-price|long|snorkling|diving,4.5,Marsa Alam
+1894,Private Tour: Egyptian Museum,trip|moderate-price|short|ancientEgypt,3,Cairo
+1895,Cairo Airport Private Departure Transfer,trip|low-price|short|ride,2.5,Cairo
+1896,Sunrise Hot Air Balloon Tour from Luxor,trip|moderate-price|short|ride|parsailing,4,Luxor
+1897,Guided Day Tour to Abu Simbel Temples from Aswan by Flight,trip|high-price|short|ancientEgypt,3.5,Aswan
+1898,Luxor Shore Excursion Tour From Safaga Port,trip|high-price|short|cruise|ancientEgypt,3,Cairo
+1899,4-Hour Quad Bike Tour around Giza Pyramids from Cairo,trip|moderate-price|short|safari|ride,3,Cairo
+1900,White Desert and Bahariya Oasis overnight,trip|moderate-price|long|safari|ride,3.5,Fayoum
+1901,Nile River Dinner Cruise in Cairo,trip|moderate-price|short|cruise,3,Cairo
+1902,One Week CAIRO Combined With Nile Cruise 4 Stars Accommodation,trip|high-price|long|cruise|ancientEgypt,4,Cairo
+1903,Private tour to Abu Simbel from Aswan by Car or Minibus,trip|low-price|short|ancientEgypt|cruise,3.5,Aswan
+1904,Four Nights Nile Cruise from Luxor to Aswan,trip|high-price|long|cruise,3,Luxor
+1905,Guided tour to Alexandria from Cairo,trip|low-price|short|sea,4.5,Cairo
+1906,"2-Days Tour to Giza pyramids, Saqqara, Egyptian Museum, Felucca Sailing, Dinner Cruise, Sound and Light Show, Khan El Khalili, old cairo",trip|moderate-price|long|ancientEgypt,4,Cairo
+1907,Private Tour: Memphis and Sakkara,trip|moderate-price|short|ancientEgypt,3.5,Luxor
+1908,Red Sea Snorkeling,trip|low-price|short|snorkling,4,Sharm
+1909,Archaeological Alexandria Experience,trip|moderate-price|short|sea,4,Alexandria
+1910,Private Nile Cruise with Dinner and Folk Show from Cairo,trip|low-price|short|cruise,3.5,Cairo
+1911,Over day to Alexandria from Cairo ( private Tour ),trip|moderate-price|short|sea,4,Cairo
+1912,sufi dance in Islamic Cairo,trip|low-price|short,3.5,Cairo
+1913,Swim with Dolphins Tour Hurghada,trip|moderate-price|short|diving|snorkling,4,Hurghada
+1914,"Cairo Day Tour Egyptian Museum, Citadel, and Khan al-Khalil Bazaar with Lunch",trip|low-price|short|ancientEgypt,4,Cairo
+1915,Luxor full day tour,trip|moderate-price|fullday|ancientEgypt,3.5,Luxor
+1916,"Day Tour of Egyptian Museum, Old Cairo and Khan El Khalili Bazaar in Cairo",trip|moderate-price|long|ancientEgypt,4,Cairo
+1917,"4-Night, 5-Star Nile Cruise from Luxor to Aswan",trip|high-price|long|cruise,4,Luxor
+1918,From Luxor to Aswan 5 Day 5 Star Nile Cruise Guided Tours,trip|high-price|long|cruise,3.5,Luxor
+1919,Overnight Desert Safari Dubai- Experience Magical Arabian Night in Dubai Sahara,trip|moderate-price|short|safari|ride,4.5,Dahab
+1920,Shore Excursion Private Tour: Hurghada City Sightseeing from Safaga Port,trip|moderate-price|fullday|snorkling,3,Hurghada
+1921,Private Day Tour in Cairo (Pyramids & Museum & Khan el khalili),trip|moderate-price|short|ancientEgypt,4,Cairo
+1922,Sharm El Sheikh to Taba Private Transfer,trip|moderate-price|short|ride,2,Sharm
+1923,2 guided days In Cairo Giza Sakkara and Memphis,trip|low-price|long|ancientEgypt,3,Cairo
+1924,Luxor Museum and Mummification Museum Private Half-Day Tour,trip|low-price|short|ancientEgypt,2.5,Luxor
+1925,Private Day Tour: East and West Banks of Luxor,trip|low-price|short|cruise,2.5,Luxor
+1926,Full Day Tour to Luxor Monuments King Tut's Tomb Valley of the Kings Karnak and Luxor Temples Queen Hatshepsut Temple,trip|moderate-price|short|ancientEgypt,4,Luxor
+1927,Luxury Hot Air Balloon Ridding in Luxor,trip|low-price|short|ride|parsailing,4,Luxor
+1928,Snorkeling at Mahmya Island from Hurghada in Egypt,trip|moderate-price|short|snorkling,4.5,Hurghada
+1929,"Private Tour: Valley of the Kings, Queen Hatshepsut Temple, Luxor and Karnak Temples from Luxor Airport",trip|moderate-price|short|ancientEgypt,4,Luxor
+1930,Luxury Aswan to Luxor Nile cruise 4 days,trip|high-price|long|cruise,3.5,Cairo
+1931,Old Cairo Highlights Private Tour with Lunch,trip|moderate-price|short,3,Cairo
+1932,04 Days Nile Cruise from Aswan to Luxor,trip|high-price|long|cruise,3.5,Aswan
+1933,Sinbad Submarine Under The Red Sea,trip|moderate-price|short|submarine,3.5,Sharm
+1934,Hurghada: Full-Day Scuba Diving Adventure Tour with Lunch,trip|low-price|fullday|diving,4,Hurghada
+1935,"Private Tour: Valley of the Kings, Queen Hatshepsut, Luxor and Karnak Temples",trip|moderate-price|short|ancientEgypt,3.5,Luxor
+1936,half-day Saint Simon monastery and miracle of Moqqatam mountain with Coptic Cairo,trip|low-price|short|climb,4,Dahab
+1937,Snorkeling day trip in Red Sea by boat from Hurghada,trip|low-price|short|snorkling,5,Hurghada
+1938,Discover Alexandria With a Private Guide,trip|moderate-price|short|sea,4,Alexandria
+1939,Cairo Highlights in One Day,trip|low-price|short,3.5,Cairo
+1940,"Half-day Churches of Cairo Tour with Cave Church, Coptic Cairo, Hanging Church",trip|low-price|short|ancientEgypt,3,Cairo
+1941,Camel or Horse Sunset Safari from Giza with Dinner,trip|low-price|short|safari|ride,4,Cairo
+1942,"Half-Day trip to Giza Pyramids, Sphinx, Valley Temple with Camel Ride",trip|low-price|short|ancientEgypt,3.5,Cairo
+1943,"Cairo Private Day Tour: Egyptian Museum, Citadel, and Khan al-Khalil Bazaar with Lunch on Nile Island",trip|low-price|short|ancientEgypt,3,Cairo
+1944,Hot air Balloon The life trip in Luxor Egypt,trip|moderate-price|short|ride|parsailing,3.5,Luxor
+1945,"Private Full Day Tour to Giza Pyramids, Sphinx, Citadel and Old Cairo",trip|low-price|fullDay|ancientEgypt,4,Cairo
+1946,Private Guided Half-Day Tour: Egyptian Museum in Cairo,trip|low-price|short|ancientEgypt,4,Cairo
+1947,"Private Tour: Giza Pyramids, Sphinx and Valley Temple with Lunch from Cairo",trip|low-price|short|safari|ride,4.5,Cairo
+1948,Desert Safari by Quad Bike Around Pyramids,trip|low-price|short|safari|ride,4,Cairo
+1949,Cairo: Old Coptic City Tour,trip|low-price|short|ancientEgypt,3.5,Cairo
+1950,Day-Tour to the Red Sea from Cairo,trip|moderate-price|short|sea|snorkling,3,Cairo
+1951,5-Day Nile River Cruise from Luxor to Aswan with Optional Private Guide,trip|high-price|long|cruise,4,Luxor
+1952,Luxor Nile River Private Felucca Ride at Sunset,trip|low-price|short|cruise,4.5,Luxor
+1953,A Day Tour to Cairo group price,trip|moderate-price|short,3,Cairo
+1954,Transfer from Cairo Airport to Hotel in cairo or Giza,trip|low-price|fullday|ride,2.5,Cairo
+1955,Tour To Abu Simbel Temple From Aswan,trip|low-price|short|ancientEgypt,3,Aswan
+1956,Private Guided Tour to Valley of the Kings,trip|low-price|short|ancientEgypt,2.5,Luxor
+1957,Full Day Tour of Luxor West Bank,trip|moderate-price|short|ancientEgypt,2,Luxor
+1958,Hurghada Daily Scuba Dive trip,trip|low-price|short|diving,4,Hurghada
+1959,Luxor Archaeology Tour-Visit Valley of the Kings & Karank & Luxor Temples & More,trip|moderate-price|short|ancientEgypt,3,Luxor
+1960,Tour to Wadi El Natroun Monastery from Cairo,trip|moderate-price|short|ancientEgypt,3,Cairo
+1961,abu simbel tour from luxor hotel or cruise,trip|moderate-price|short|ancientEgypt|cruise,3.5,Luxor
+1962,Luxor Day Tour from Cairo by Flight,trip|high-price|short|ancientEgypt,3,Luxor
+1963,8-Hour Private Guided City Tour of Cairo,trip|low-price|short,2.5,Cairo
+1964,"Dolphin House Boat trip includes snorkeling, lunch and transfers.",trip|low-price|short|snorkling|sea|ride,4,Dahab
+1965,Private Arrival Transfer: Cairo International Airport to Giza or Cairo Hotel,trip|low-price|short,2,Cairo
+1966,Private Customizable Day Tour to Alexandria from Cairo,trip|moderate-price|short|sea,4.5,Alexandria
+1967,private day tour TO SAKKARA MEMPHIS DAHSHUR,trip|low-price|short|ancientEgypt,3.5,Cairo
+1968,"Full day tour to Giza pyramids,Sakkara pyramids&Memphis,Include Lunch&Camel ride",trip|low-price|short|ancientEgypt,4,Cairo
+1969,Quad Biking in sharm Desert,trip|low-price|short|ride|safari,5,Sharm
+1970,Day trip to Aswan from Luxor passing by Kom Ombo and Edfu Temples,trip|low-price|short|ancientEgypt,4.5,Luxor
+1971,Private Full-Day Tour of Luxor From Hurghada,trip|moderate-price|short|ancientEgypt|cruise,3.5,Hurghada
+1972,Grand Safari including Snorkeling at the Blue Hole and a Camel Ride along the Gulf of Aqaba,trip|low-price|short|snorkling|ride,4,Dahab
+1973,Day-Tour to Giza pyramids with Camel riding Plus Egyptian Museum From Cairo,trip|low-price|short|ancientEgypt|safari,4.5,Cairo
+1974,Private Alexandria Day Tour from Cairo,trip|low-price|short|sea,4,Cairo
+1975,6 Hours half day tour to Sakkara Memphis Dahshur with private tour guide,trip|low-price|short|ancientEgypt,3.5,Cairo
+1976,Pyramid Highlights: private Day Tour to Giza Sakkara and Dahshur from Cairo,trip|low-price|short|ancientEgypt,3,Cairo
+1977,Luxor Private Full-Day Tour: Discover the East and West Banks of the Nile,trip|low-price|short|ancientEgypt|cruise,4,Luxor
+1978,Sand board at Fayoum Oasis,trip|moderate-price|short|safari|ride,3.5,Luxor
+1979,Hurghada Desert Safari - Sunset ATV trip with Camel Ride and BBQ Meal,trip|moderate-price|short|safari|ride,4.5,Hurghada
+1980,Private Tour to explore Giza Pyramids - Saqqara -Memphis,trip|low-price|short|ancientEgypt,4,Cairo
+1981,Giza Pyramids Day trip include enter inside the Great Pyramid and Solar boat,trip|moderate-price|short|ancientEgypt,4.5,Cairo
+1982,8-Hour Private Tour to the Pyramids of Giza and Saqqara including Lunch from Cairo,trip|low-price|short|ancientEgypt,5,Cairo
+1983,half day tour to Giza Pyramids & Sphinx,trip|low-price|short|ancientEgypt,4,Cairo
+1984,Day trip to Alexandria from Giza,trip|low-price|short|sea,5,Giza
+1985,Luxor - Karnak Sound and Light At Night,trip|low-price|short|ancientEgypt,4.5,Giza
+1986,snorkling campaign,trip|low-price|short|snorkling,4,Cairo
+1987,Islamic and Coptic Cairo day tour from cairo or giza,trip|low-price|short|ancientEgypt,4,Giza
+1988,Luxor Airport Private Departure Transfer,trip|low-price|short,2,Luxor
+1989,full day private tour to Luxor East and west Banks Day Tour in Luxor,trip|low-price|short|ancientEgypt,3.5,Cairo
+1990,Pyramids Sound and Light Show with Private Transport,trip|low-price|short|ancientEgypt,3,Cairo
+1991,One-Way Transfer in Cairo and Giza from or to Airport,trip|low-price|short,2,Giza
+1992,Sound and Light Show at Giza Pyramids including Private Transfer from Cairo,trip|low-price|short|ancientEgypt,3,Cairo
+1993,Private Day Tour to the Temple of Hathor at Dendera,trip|low-price|short|ancientEgypt,4,Luxor
+1994,Private Nile Felucca Ride from Cairo,trip|low-price|short|cruise,4,Cairo
+1995,4 Day Sightseeing Cruise Along the Nile from Aswan,trip|high-price|long|cruise,4.5,Aswan
+1996,"Private Tour: 6-Hour Quad Bike Safari trip to Sahara with Dinner, Show, and Star-Gazing",trip|low-price|short|ride|safari,4,Sharm
+1997,Book online Private transfer from Luxor to Aswan,trip|low-price|short,4,Luxor
+1998,Guided Day trip to Cairo from Hurghada By Bus,trip|low-price|short,3.5,Hurghada
+1999,Private Alexandria Highlights Guided Day Tour,trip|moderate-price|short,2,Alexandria
+2000,LUXOR HOT AIR BALLOON,trip|low-price|short|ride|parsailing,3,Luxor
+2001,"Layover Tour to Pyramids of Giza, Sakkara and Memphis with Lunch",trip|low-price|short|ancientEgypt,4,Cairo
+2002,Pasta factory,Restaurant|Seafood|Vegetarian Friendly|Pizza,4,Cairo
+2003,Cazino Bar,Restaurant|Cafe|Vegetarian Friendly,3.5,Cairo
