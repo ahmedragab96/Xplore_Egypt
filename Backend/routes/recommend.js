@@ -11,8 +11,8 @@ model.get('/',(req,res,next)=>{
         if (error) {
           return console.error(error.message);
         }
-        fs.writeFileSync("../../RBM_model/userRatings.json",JSON.stringify(results));
-        res.json(results);
+        fs.writeFileSync("../RBM_model/userRatings.json",JSON.stringify(results));
+        //res.json(results);
       });
     request('http://127.0.0.1:5000/recommend', { json: true }, (err, resp, body) => {
         if (err) { return console.log(err); }
