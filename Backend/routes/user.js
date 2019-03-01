@@ -92,9 +92,11 @@ users.get('/getdata' , function(req , res , next ){
 
 // Function needs 2 parameters as body request (id , plan)
 users.post('/addplan' , function(req , res , next ){
-  const userid = req.body.data.id;
+  console.log(req);
+  
+  const userid = req.body.id;
   console.log(userid);
-  const plan = JSON.stringify(req.body.data.plan);
+  const plan = JSON.stringify(req.body.plan);
   console.log(plan);
   
   db.query("UPDATE users SET trips = ? WHERE ID = ?", [plan , userid] , function (error , results , fields){

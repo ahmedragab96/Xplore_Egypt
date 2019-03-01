@@ -1,5 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import * as $ from 'jquery';
+import { AngularFontAwesomeModule } from 'angular-font-awesome';
 
 import { NgDragDropModule } from 'ng-drag-drop';
 import { MatInputModule } from '@angular/material';
@@ -24,7 +26,7 @@ import { TripsComponent } from './components/trips/trips.component';
 import { FooterComponent } from './components/footer/footer.component';
 import {NgxPaginationModule} from 'ngx-pagination';
 
-//pipes
+// pipes
 import { FilterPipe } from './pipes/custom-pipes.pipe';
 
 import {
@@ -34,10 +36,11 @@ import {
   FacebookLoginProvider,
   LinkedInLoginProvider
 } from 'angularx-social-login';
-
+import { AdminComponent } from './components/AdminSection/admin/admin.component';
+import { ChartsModule } from 'ng2-charts';
 // Configs
 export function getAuthServiceConfigs() {
-  let config = new AuthServiceConfig(
+  const config = new AuthServiceConfig(
       [
           {
             id: FacebookLoginProvider.PROVIDER_ID,
@@ -66,7 +69,8 @@ export function getAuthServiceConfigs() {
     NavbarComponent,
     TripsComponent,
     FooterComponent,
-    FilterPipe
+    FilterPipe,
+    AdminComponent
   ],
   imports: [
     BrowserModule,
@@ -77,7 +81,9 @@ export function getAuthServiceConfigs() {
     BrowserAnimationsModule,
     Ng2CarouselamosModule,
     NgxPaginationModule,
-    SocialLoginModule
+    SocialLoginModule,
+    ChartsModule,
+    AngularFontAwesomeModule
     ],
   providers: [TripPlannerService,
     FilterPipe,
