@@ -3,16 +3,7 @@ var model = express.Router();
 const db = require('../app/config/db');
 const request = require('request');
 var fs = require('fs')
-model.get('/try',(req,res,next)=>{
-    recommendations='';
-    id=req.query.id;
-    request(' http://127.0.0.1:5000/recommend?id='+id, { json: true }, (err, resp, body) => {
-        if (err) { return console.log(err); }
-        recommendations=body.split("|");
-        res.send(recommendations);
-        });
-      
-    });
+
 model.get('/',(req,res,next)=>{
     id=req.query.id;
     let query = `SELECT itemID,rating FROM userRatings WHERE userID=?`;
@@ -23,6 +14,11 @@ model.get('/',(req,res,next)=>{
         fs.writeFileSync("../../RBM_model/userRatings.json",JSON.stringify(results));
         res.json(results);
       });
+    request('http://127.0.0.1:5000/recommend', { json: true }, (err, resp, body) => {
+        if (err) { return console.log(err); }
+        recommendations=body.split("|");
+        res.send(recommendations);
+        });
 
 })
         
