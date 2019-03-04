@@ -3,6 +3,7 @@ body {
     box-sizing:border-box;
     background:#354545;
 }
+
 .main_sidebar {
     padding-top: 75px;
     min-height:100vh;

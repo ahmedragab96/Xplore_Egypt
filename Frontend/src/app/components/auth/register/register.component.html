@@ -1,11 +1,11 @@
 <app-navbar></app-navbar>
 <div class="container">
-<form role="form" (submit)="onregister(registerForm)" #registerForm="ngForm" class="form-group">
+<form (submit)="onregister(registerForm)" #registerForm="ngForm" class="form-group">
 
         <div class="form-row mb-3">
                 <div class="col">
                   <input type="text" class="form-control" placeholder="First name" ngModel name="fname" #fname="ngModel" >
-                </div>
+                </div> 
                 <div class="col">
                   <input type="text" class="form-control" placeholder="Last name" ngModel name="lname" #lname="ngModel" >
                 </div>
@@ -32,7 +32,17 @@
                   <div *ngIf="password.errors.minlength">can't be less than 5 characters</div>
                 </div>
               </div>
-      
+              <!-- input-image -->
+              <!-- <div class="row mb-3">
+                <div class="col-md-12">
+                    <label for="image">Profile Image :</label><br>
+                    <input type="file" name="image" ngModel #image="ngModel" (change)= "onImagePicked($event)" required>
+                </div>
+              </div>
+              <div class="row mb-3 image-preview" *ngIf="imagepreview !== '' && imagepreview">
+                    <img [src] = "imagepreview" [alt] = "Image">
+              </div> -->
+              <!-- Gender -->
               <div class="row mb-3">
                       <legend class="col-form-label col-sm-2 pt-0">Gender:</legend>
                       <div class="col-sm-10">
@@ -50,12 +60,12 @@
                         </div>
                       </div>
               </div>
-      
+              <!-- Date-of-Birth -->
               <div class="mb-3">
                       <input type="date" name="DOB" class="form-control" ngModel
                               required placeholder="Birthday" #DOB="ngModel">
                   </div>
-      
+                  <!-- nationality -->
                   <div class="mb-3">
                       <input type="text" name="nationality" class="form-control" ngModel
                                   required placeholder="Nationality" #nationalityInput="ngModel">

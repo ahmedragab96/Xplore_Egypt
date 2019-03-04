@@ -26,9 +26,9 @@ export class AuthServices {
     getauthStatusListener() {
         return this.authStatusListener.asObservable();
     }
-    
+
     private setAuthTimer (duration: number) {
-        console.log( "Setting timer: " + duration);
+        console.log( 'Setting timer: ' + duration);
         this.Timer =  setTimeout(() => {
             this.logout();
         } , duration * 1000 );
@@ -57,11 +57,21 @@ export class AuthServices {
     }
     register(fname: string , lname: string ,
           email: string , password: string ,
-          DOB: string , gender: string , nationality: string) {
+          /*image: File ,*/ DOB: string , gender: string , nationality: string) {
+              console.log("in auth");
 
-            const userData: UserData = {fname: fname , lname: lname ,
-                                        email: email , password: password ,
-                                        DOB: DOB , gender: gender , nationality: nationality};
+            const userData = new FormData();
+            userData.append('fname', fname);
+            userData.append('lname', lname);
+            userData.append('email', email);
+            userData.append('password', password);
+            userData.append('DOB', DOB);
+            //userData.append('image', image , fname);
+            userData.append('gender', gender);
+            userData.append('nationality', nationality);
+            // const userData: UserData = {fname: fname , lname: lname ,
+            //                             email: email , password: password ,
+            //                             DOB: DOB , image: image , gender: gender , : nationality};
 
             this.http.post('http://localhost:3000/users/register', userData)
             .subscribe( Response => {
@@ -89,13 +99,13 @@ export class AuthServices {
         localStorage.setItem('token', token);
         localStorage.setItem('expiration', expirationDate.toISOString() );
     }
-    
+
     private clearAuthData () {
         localStorage.removeItem('token');
         localStorage.removeItem('expiration');
 
     }
-    
+
     private getAuthData () {
         const token = localStorage.getItem('token');
         const expirationDate = localStorage.getItem('expiration');
@@ -110,18 +120,16 @@ export class AuthServices {
         };
 
     }
-    
+
     autoAuthUser() {
         const Authinfo =  this.getAuthData();
-        if ( ! Authinfo)
-        {
+        if ( ! Authinfo) {
             return;
         }
         const now = new Date() ;
         const expiresIn = Authinfo.expirationDate.getTime() - now.getTime() ;
 
-        if (expiresIn > 0)
-        {
+        if (expiresIn > 0) {
             this.private_token = Authinfo.token ;
             this.isAuth = true ;
             this.setAuthTimer(expiresIn / 1000);

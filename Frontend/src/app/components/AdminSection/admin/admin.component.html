@@ -6,40 +6,35 @@
             <li><i class="fa fa-bar-chart"></i><a href="#">Charts</a></li>
             <li class="active"><i class="fa fa-line-chart"></i><a href="#">Statistics</a></li>
             <li><i class="fa fa-database"></i><a href="#">DataBase</a></li>
-            <li><i class="fa fa-crosshairs"></i><a href="#">crosshairs</a></li>
-            <li><i class="fa fa-deaf"></i><a href="#">deaf</a></li>
-            <li><i class="fa fa-desktop"></i><a href="#">desktop</a></li>
-            <li><i class="fa fa-dot-circle-o"></i><a href="#">dot</a></li>
-            <li><i class="fa fa-folder"></i><a href="#">folder</a></li>
         </ul>
     </aside>
 </div>
 <div id="container">
-<div class="col-md-4" id="bar">
-        <div style="display: block;">
-            <canvas baseChart [datasets] = "barChartData" 
-                    [labels] = "barChartLabels"
-                    [options] = "barChartOptions"
-                    [legend] = "barChartLegend"
-                    [chartType] = "barChartType">
-                
-            </canvas>
+        <div id="row">
+                <div class="col-md-4" id="bar">
+                        <canvas baseChart [datasets] = "barChartData" 
+                                [labels] = "barChartLabels"
+                                [options] = "barChartOptions"
+                                [legend] = "barChartLegend"
+                                [chartType] = "barChartType">
+                                
+                        </canvas>
+                </div>
+                <div class="col-md-4" id="chart">
+                        <canvas baseChart
+                                [data]="pieChartData"
+                                [labels]="pieChartLabels"
+                                [chartType]="pieChartType">
+                        </canvas>
+                </div>
         </div>
-</div>
-<div class="col-md-4">
-<div style="display: block" id="chart">
-        <canvas baseChart
-                [data]="pieChartData"
-                [labels]="pieChartLabels"
-                [chartType]="pieChartType"></canvas>
-      </div>
-    </div>
     <div class="col-md-4">
     <div style="display: block" id="chart">
-    <canvas baseChart
+        <canvas baseChart
             [datasets]="radarChartData"
             [labels]="radarChartLabels"
-            [chartType]="radarChartType"></canvas>
+            [chartType]="radarChartType">
+        </canvas>
     </div>
     </div>
     <div class="col-md-4">
@@ -47,7 +42,8 @@
             <canvas baseChart
                     [data]="doughnutChartData"
                     [labels]="doughnutChartLabels"
-                    [chartType]="doughnutChartType"></canvas>
+                    [chartType]="doughnutChartType">
+                </canvas>
     </div>
 </div>
 </div>

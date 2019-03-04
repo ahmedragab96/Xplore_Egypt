@@ -7,12 +7,33 @@ const jwt = require('jsonwebtoken');
 //var passport = require ('passport');
 //var LocalStrategy = require('passport-local').Strategy;
 const saltRounds = 10;
+const multer = require('multer');
 
+const MIME_TYPE_MAP = {
+  'image/png': 'png',
+  'image/jpeg': 'jpeg',
+  'image/jpg': 'jpg'
+};
 
+const storage = multer.diskStorage({
+  destination: (req , file , cb) => {
+    const isValid = MIME_TYPE_MAP[file.mimetype];
+    let error = new Error ("Invalid image type");
+    if (isValid) {
+      error = null;
+    }
+    cb(null , "../images");
+  },
+  filename: (req, file , cb) => {
+    const name = file.originalname.toLowerCase().split(' ').join('-');
+    const ext = MIME_TYPE_MAP[file.mimetype];
+    cb(null , name + '-' + Date.now() + '.' + ext);
+  }
+});
 
 //REGISTER
 
-users.post('/register' , function (req , res , next ) {
+users.post('/register' , multer({storage: storage}).single("image") , function (req , res , next ) {
    const fname = req.body.fname;
    const lname = req.body.lname;
    const email = req.body.email;
