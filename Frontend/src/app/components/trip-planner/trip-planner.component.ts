@@ -41,7 +41,7 @@ trial=[];
       this.trial=this.loadedTrips.plan;
      console.log(this.trial);
     });
-         var isEventOverDiv = function (x) {
+      var isEventOverDiv = function (x) {
       var external_events = $('#external-events');
       var offset = external_events.offset();
       offset.right = external_events.width() + offset.left;

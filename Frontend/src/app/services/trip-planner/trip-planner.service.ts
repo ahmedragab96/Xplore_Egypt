@@ -6,7 +6,6 @@ import * as jwt_decode from "jwt-decode";
 })
 export class TripPlannerService {
   constructor(private http:HttpClient) { }
-  sentBody:any;
     GetAllTrips() {
     return this.http.get("http://localhost:3000/trips/getall")
   }
