@@ -24,6 +24,7 @@
     "@angular/platform-browser-dynamic": "^7.2.4",
     "@angular/router": "^7.2.4",
     "@fortawesome/fontawesome-free": "^5.7.2",
+    "@ng-bootstrap/ng-bootstrap": "^4.1.0",
     "@progress/kendo-angular-dateinputs": "^3.5.4",
     "@types/jquery": "^2.0.47",
     "angular-draggable-droppable": "^4.0.2",

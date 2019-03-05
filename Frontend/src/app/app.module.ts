@@ -17,6 +17,9 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 // services
 import {TripPlannerService} from './services/trip-planner/trip-planner.service';
+import {RestaurantsService} from './services/restaurants/restaurants.service';
+import {HotelsService} from './services/hotels/hotels.service';
+
 import { HomeComponent } from './components/home/home.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { TripDetailsComponent } from './components/trip-details/trip-details.component';
@@ -26,6 +29,7 @@ import { Ng2CarouselamosModule } from 'ng2-carouselamos';
 import { TripsComponent } from './components/trips/trips.component';
 import { FooterComponent } from './components/footer/footer.component';
 import {NgxPaginationModule} from 'ngx-pagination';
+import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 
 // pipes
 import { FilterPipe } from './pipes/custom-pipes.pipe';
@@ -39,6 +43,8 @@ import {
 } from 'angularx-social-login';
 import { AdminComponent } from './components/AdminSection/admin/admin.component';
 import { ChartsModule } from 'ng2-charts';
+import { RestaurantsComponent } from './components/restaurants/restaurants.component';
+import { HotelsComponent } from './components/hotels/hotels.component';
 // Configs
 export function getAuthServiceConfigs() {
   const config = new AuthServiceConfig(
@@ -72,7 +78,9 @@ export function getAuthServiceConfigs() {
     FooterComponent,
     FilterPipe,
     AdminComponent,
-    TripDetailsComponent
+    TripDetailsComponent,
+    RestaurantsComponent,
+    HotelsComponent
   ],
   imports: [
     BrowserModule,
@@ -85,9 +93,10 @@ export function getAuthServiceConfigs() {
     NgxPaginationModule,
     SocialLoginModule,
     ChartsModule,
-    AngularFontAwesomeModule
+    AngularFontAwesomeModule,
+    NgbModule
     ],
-  providers: [TripPlannerService,
+  providers: [TripPlannerService, RestaurantsService, HotelsService,
     FilterPipe,
       {provide: HTTP_INTERCEPTORS, useClass: AuthInterceptor, multi: true},
       {

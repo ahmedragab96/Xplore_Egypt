@@ -3,6 +3,8 @@
 @import url(https://fonts.googleapis.com/css?family=Bigshot+One);
 @import url(https://fonts.googleapis.com/css?family=Tangerine);
 
+
+
 /* slider part*/
 #container {
     width: 100%;
@@ -108,20 +110,3 @@ option:first {
     /* align-content: center; */
     margin-bottom: 50px;
 }
-
-
-/* rating stars */
-.star {
-    font-size: 1.5rem;
-    color: #b0c4de;
-  }
-  .filled {
-    color: #1e90ff;
-  }
-  .bad {
-    color: #deb0b0;
-  }
-  .filled.bad {
-    color: #ff1e1e;
-  }
-/* end of rating stars */
