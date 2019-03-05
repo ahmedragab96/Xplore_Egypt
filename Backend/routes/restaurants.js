@@ -16,7 +16,7 @@ restaurants.get('/getall', (req , res , next) => {
 //it returns an array with the restaurants's object including all its details
 restaurants.get('/getById',(req,res,next)=>{
    let restaurantID=req.query.id;
-   let query="SELECT * from Restaurants WHERE ID = ?";
+   let query="SELECT * from Restaurants WHERE restaurantID = ?";
    db.query(query, [restaurantID],(error, results, fields) => {
     if (error) {
       return console.error(error.message);

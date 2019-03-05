@@ -45,6 +45,8 @@ import { AdminComponent } from './components/AdminSection/admin/admin.component'
 import { ChartsModule } from 'ng2-charts';
 import { RestaurantsComponent } from './components/restaurants/restaurants.component';
 import { HotelsComponent } from './components/hotels/hotels.component';
+import { HotelDetailsComponent } from './components/hotel-details/hotel-details.component';
+import { RestaurantDetailsComponent } from './components/restaurant-details/restaurant-details.component';
 // Configs
 export function getAuthServiceConfigs() {
   const config = new AuthServiceConfig(
@@ -80,7 +82,9 @@ export function getAuthServiceConfigs() {
     AdminComponent,
     TripDetailsComponent,
     RestaurantsComponent,
-    HotelsComponent
+    HotelsComponent,
+    HotelDetailsComponent,
+    RestaurantDetailsComponent
   ],
   imports: [
     BrowserModule,

@@ -12,4 +12,8 @@ export class RestaurantsService {
   GetAllRestaurants() {
     return this.http.get("http://localhost:3000/restaurants/getall")
   }
+
+  getRestaurantByID(id){
+    return this.http.get("http://localhost:3000/restaurants/getById?id="+id);
+  }
 }

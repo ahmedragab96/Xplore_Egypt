@@ -12,4 +12,8 @@ export class HotelsService {
   GetAllHotels() {
     return this.http.get("http://localhost:3000/hotels/getall")
   }
+
+  getHotelByID(id){
+    return this.http.get("http://localhost:3000/hotels/getById?id="+id);
+  }
 }

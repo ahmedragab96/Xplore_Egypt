@@ -16,7 +16,7 @@ hotels.get('/getall', (req , res , next) => {
 //it returns an array with the hotel's object including all its details
 hotels.get('/getById',(req,res,next)=>{
    let hotelID=req.query.id;
-   let query="SELECT * from hotels WHERE ID = ?";
+   let query="SELECT * from hotels WHERE hotelID = ?";
    db.query(query, [hotelID],(error, results, fields) => {
     if (error) {
       return console.error(error.message);

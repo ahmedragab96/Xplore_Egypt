@@ -10,6 +10,8 @@ import { AdminComponent } from './../components/AdminSection/admin/admin.compone
 import {TripDetailsComponent} from './../components/trip-details/trip-details.component';
 import { RestaurantsComponent } from '../components/restaurants/restaurants.component';
 import { HotelsComponent } from '../components/hotels/hotels.component';
+import { RestaurantDetailsComponent } from '../components/restaurant-details/restaurant-details.component';
+import { HotelDetailsComponent } from '../components/hotel-details/hotel-details.component';
 
 
 const routes: Routes = [
@@ -19,8 +21,10 @@ const routes: Routes = [
   { path: 'home', component: HomeComponent },
   { path: 'trips', component: TripsComponent },
   { path: 'trips/:id', component:TripDetailsComponent },
-  { path:'restaurants', component: RestaurantsComponent },
-  { path:'hotels', component: HotelsComponent },
+  { path: 'restaurants', component: RestaurantsComponent },
+  { path: 'restaurants/:id', component: RestaurantDetailsComponent },
+  { path: 'hotels', component: HotelsComponent },
+  { path: 'hotels/:id', component: HotelDetailsComponent },
   { path: 'admin', component: AdminComponent},
   { path: '', redirectTo: '/home', pathMatch: 'full'},
   { path: '**', redirectTo: '/home', pathMatch: 'full'},
