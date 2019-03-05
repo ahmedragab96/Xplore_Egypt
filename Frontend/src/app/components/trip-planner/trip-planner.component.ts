@@ -117,12 +117,12 @@ trial=[];
         console.log(new Date(event.start._d));
         console.log(new Date(event.end == null ? null: event.end._d));
       },*/
-    });},1000)
+    });},1000);
     
 
   }
 
-getTripsFromService(){
+getTripsFromService() {
       this.service.GetAllTrips().subscribe((res) => {
         this.trips = res;
         console.log(res);
@@ -138,7 +138,7 @@ getTripsFromService(){
               title: $.trim($(this).text()), // use the element's text as the event title
               stick: true // maintain when user navigates (see docs on the renderEvent method)
             });
-    
+
             // make the event draggable using jQuery UI
             $(this).draggable({
               zIndex: 999,
