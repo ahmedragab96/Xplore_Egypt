@@ -66,7 +66,7 @@
                    <p><b> {{item.name}} </b></p>
                    <p><span class="inCard">Price:</span> {{item.price}} </p>
                    <p><span class="inCard">Duration:</span> {{item.duration}} </p>
-        <button class="btn btn-primary cardBtn">Read More</button>
+        <button [routerLink] = "['/trips',item.tripID]" class="btn btn-primary cardBtn">Xplore</button>
      </div>
   </ng-template>
 </div>
@@ -97,7 +97,7 @@
                         <p><span class="inCard">Price:</span>{{trip['price']}}</p>
                         <p><span class="inCard">Duration:</span>{{trip['duration']}}</p>
                     </div>
-                    <button class="btn btn-primary cardBtn">Read More</button>
+                    <button [routerLink] = "['/trips',trip.tripID]" class="btn btn-primary cardBtn">Xplore</button>
                 </div>
             </div>
         </div>

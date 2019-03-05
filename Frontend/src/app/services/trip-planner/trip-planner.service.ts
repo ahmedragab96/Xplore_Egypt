@@ -1,11 +1,15 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
+import {Router ,ActivatedRoute} from '@angular/router';
 import * as jwt_decode from "jwt-decode";
 @Injectable({
   providedIn: 'root'
 })
 export class TripPlannerService {
-  constructor(private http:HttpClient) { }
+  constructor(private http:HttpClient,
+              private route:ActivatedRoute,private router:Router) { }
+
+
     GetAllTrips() {
     return this.http.get("http://localhost:3000/trips/getall")
   }
@@ -18,6 +22,8 @@ export class TripPlannerService {
   return userId;
   }
 
+
+  // Trip Planner section 
   savePlannedTrips(trips){
     let body:any={};
     body["id"]=this.decodeToken();
@@ -34,5 +40,9 @@ export class TripPlannerService {
   	return this.http.get("http://localhost:3000/users/getplan?id="+id);
   }
 
+    // trips section 
 
+    getTripByID(id){
+      return this.http.get("http://localhost:3000/trips/getById?id="+id);
+    }
 }

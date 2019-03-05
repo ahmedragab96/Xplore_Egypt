@@ -19,6 +19,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import {TripPlannerService} from './services/trip-planner/trip-planner.service';
 import { HomeComponent } from './components/home/home.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
+import { TripDetailsComponent } from './components/trip-details/trip-details.component';
 import { AuthInterceptor } from './components/auth/auth-interceptor';
 // new
 import { Ng2CarouselamosModule } from 'ng2-carouselamos';
@@ -70,7 +71,8 @@ export function getAuthServiceConfigs() {
     TripsComponent,
     FooterComponent,
     FilterPipe,
-    AdminComponent
+    AdminComponent,
+    TripDetailsComponent
   ],
   imports: [
     BrowserModule,

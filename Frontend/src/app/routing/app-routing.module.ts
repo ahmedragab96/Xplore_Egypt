@@ -7,6 +7,7 @@ import { HomeComponent } from './../components/home/home.component';
 import { TripsComponent } from './../components/trips/trips.component';
 import { AuthGuard } from '../components/auth/auth.guard';
 import { AdminComponent } from './../components/AdminSection/admin/admin.component';
+import {TripDetailsComponent} from './../components/trip-details/trip-details.component'
 
 
 const routes: Routes = [
@@ -15,6 +16,7 @@ const routes: Routes = [
   { path: 'planner', component: TripPlannerComponent , canActivate: [AuthGuard]},
   { path: 'home', component: HomeComponent },
   { path: 'trips', component: TripsComponent },
+  { path: 'trips/:id', component:TripDetailsComponent },
   { path: 'admin', component: AdminComponent},
   { path: '', redirectTo: '/home', pathMatch: 'full'},
   { path: '**', redirectTo: '/home', pathMatch: 'full'},

@@ -22,7 +22,6 @@ export class TripsComponent implements OnInit {
     });
   }
 
-
   ngOnInit() {
     this.getTripsFromService();
   }
