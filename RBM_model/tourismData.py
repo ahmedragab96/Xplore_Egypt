@@ -1,12 +1,15 @@
 import os
 import csv
 import sys
-from surprise import Dataset
-from surprise import Reader
+#from surprise import Dataset
+#from surprise import Reader
 class tourismData:
 
     itemID_to_name = {}
     name_to_itemID = {}
+    ratings=[]
+    users=[]
+    num_items=0
     ratingsPath = os.path.expanduser('~')+'/Desktop/code/ml-latest-small/ratings.csv'
     itemsPath = os.path.expanduser('~')+'/Desktop/code/ml-latest-small/tourism.csv'
     
@@ -15,13 +18,25 @@ class tourismData:
         # Look for files relative to the directory we are running from
         os.chdir(os.path.dirname(sys.argv[0]))
 
-        ratingsDataset = 0
+        #ratingsDataset = 0
         self.itemID_to_name = {}
         self.itemID_to_genres = {}
         self.name_to_itemID = {}
 
-        reader = Reader(line_format='user item rating timestamp', sep=',', skip_lines=1)
-        ratingsDataset = Dataset.load_from_file(self.ratingsPath, reader=reader)
+        #reader = Reader(line_format='user item rating timestamp', sep=',', skip_lines=1)
+        #ratingsDataset = Dataset.load_from_file(self.ratingsPath, reader=reader)
+        
+        with open(self.ratingsPath, newline='', encoding='ISO-8859-1') as csvfile:
+                itemReader = csv.reader(csvfile)
+                next(itemReader)  #Skip header line
+                for row in itemReader:
+                    userID=int(row[0])
+                    itemID=int(row[1])
+                    rating=float(row[2])
+                    self. ratings.append((userID,itemID,rating))
+                    if(userID) not in self.users:
+                        self.users.append(userID)
+                    
        
         with open(self.itemsPath, newline='', encoding='ISO-8859-1') as csvfile:
                 itemReader = csv.reader(csvfile)
@@ -30,11 +45,12 @@ class tourismData:
                     itemID = int(row[0])
                     itemName = row[1]
                     itemGenres=row[2]
+                    self.num_items=self.num_items+1
                     self.itemID_to_name[itemID] = itemName
                     self.name_to_itemID[itemName] = itemID
                     self.itemID_to_genres[itemID]=itemGenres
                  
-        return ratingsDataset
+       # return ratingsDataset
     
 
     def getUserRatings(self, user):
@@ -53,7 +69,8 @@ class tourismData:
                 if (hitUser and (user != userID)):
                     break
         return userRatings
-
+    def all_ratings(self): 
+        return self.ratings
     
     def getItemName(self, itemID):
         if itemID in self.itemID_to_name:
@@ -65,7 +82,10 @@ class tourismData:
             return self.itemID_to_genres[itemID]
         else:
             return ""
-        
+    def getNumberItems(self):
+            return self.num_items
+    def getNumberUsers(self):
+            return max(self.users)
     def getItemID(self, itemName):
         if itemName in self.name_to_itemID:
             return self.name_to_itemID[itemName]
