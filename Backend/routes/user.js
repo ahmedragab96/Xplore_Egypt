@@ -110,7 +110,58 @@ users.get('/getdata' , function(req , res , next ){
     })
     
 });
+users.put('/edit/:id' ,(req , res , next )=>{
 
+  let id=req.params.id;
+  let fname = req.body.fname;
+  let lname = req.body.lname;
+  let email = req.body.email;
+  let DOB = req.body.DOB;
+  let gender = req.body.gender;
+  let nationality = req.body.nationality;
+
+  if(req.body.password != undefined)
+   {
+    let password = req.body.password;
+    bcrypt.hash(password, saltRounds, function(err, hash) {
+      let query = "UPDATE `users` SET `first_name` = '"+fname +"' , `last_name` ='"+lname+"' , `email` = '"+email+
+      "' , `password` = '"+password+"' , `DoB` = '"+DOB+"' , `gender` = '"+gender+"' , `nationality` ='"+nationality+"' WHERE ID = ?";
+      
+        db.query(query,[id], (err, result) => {
+            if (err) {
+                return res.status(500).send(err);
+            }
+            res.send("edited successfully ");
+          
+      })
+    });
+
+  }
+  else{
+    
+    let query = "UPDATE `users` SET `first_name` = '"+fname +"' , `last_name` ='"+lname+"' , `email` = '"+email+
+    "' , `DoB` = '"+DOB+"' , `gender` = '"+gender+"' , `nationality` ='"+nationality+"' WHERE ID = ?";
+    
+      db.query(query,[id], (err, result) => {
+          if (err) {
+              return res.status(500).send(err);
+          }
+          res.send("edited successfully without password");
+        
+    })
+  }
+});
+
+users.delete('/delete/:id',(req,res)=>{
+  let id=req.params.id;
+  let query ="DELETE FROM users WHERE ID = ?";
+  db.query(query, [id] , function (error , results , fields){
+
+    if (error) throw err ;
+    res.send("successfully deleted user "+id);
+    
+  });
+});
 // Function needs 2 parameters as body request (id , plan)
 users.post('/addplan' , function(req , res , next ){
   const userid = req.body.id;
