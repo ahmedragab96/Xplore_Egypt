@@ -1,0 +1,4934 @@
+[
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1",
+        "region": "Hurghada",
+        "title": "9-Hour Dolphin Snorkeling Tour from Hurghada",
+        "keywords": "[\"snorkling\", \"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "2",
+        "region": "Hurghada",
+        "title": "3-Hour Desert Safari by Quad Bike",
+        "keywords": "[\"safari\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "3",
+        "region": "Ras Mohammed ",
+        "title": "Ras Mohammed National Park: Snorkelling Trip",
+        "keywords": "[\"snorkling\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "4",
+        "region": "Cairo",
+        "title": "Dinner Cruise on the Nile River",
+        "keywords": "[\"cruise\", \"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "5",
+        "region": "Luxor",
+        "title": "Day Trip to Valley of the Kings, Luxor",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "6",
+        "region": "Sharm",
+        "title": "Sea Scope Submarine Trip",
+        "keywords": "[\"submarine\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "7",
+        "region": "Fayoum",
+        "title": "Safari Quad Biking, Bedouin Village and BBC Dinner",
+        "keywords": "[\"safari\", \"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "8",
+        "region": "Luxor",
+        "title": "Hot Air Balloon Ride Over Luxor",
+        "keywords": "[\"ride\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "9",
+        "region": "Hurghada",
+        "title": "Giftun Island National Park Full-day Snorkeling Trip",
+        "keywords": "[\"snorkling\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "10",
+        "region": "Dahab",
+        "title": "Dive Trip with Two Dive Sites",
+        "keywords": "[\"diving\", \"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "11",
+        "region": "Hurghada",
+        "title": "Cairo and Giza Full-Day Highlights Tour from Hurghada",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "12",
+        "region": "Cairo",
+        "title": "Full-Day Tour of Historical Alexandria from Cairo, Egypt",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "13",
+        "region": "Luxor",
+        "title": "From Luxor: Full-Day Tour of the East and West Banks",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "14",
+        "region": "Cairo",
+        "title": "Cairo: Giza Pyramid, Sakkara & Memphis Full Day Private Tour",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "15",
+        "region": "Hurghada",
+        "title": "Desert Quad Bike Safari in Hurghada to Bedouin Village",
+        "keywords": "[\"safari\", \"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "16",
+        "region": "Cairo",
+        "title": "Giza Pyramids, Sphinx and Sakkara - Private Full Day Tour",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "17",
+        "region": "Hurghada",
+        "title": "Morning Quad Bike Adventure from Hurghada",
+        "keywords": "[\"ride\", \"safari\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "18",
+        "region": "Hurghada",
+        "title": "Giftun Island National Park Snorkel Trip from Hurghada",
+        "keywords": "[\"ride\", \"snorkling\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "19",
+        "region": "Cairo",
+        "title": "Cairo: Giza Pyramids Sound and Light Show with Dinner",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "20",
+        "region": "Hurghada",
+        "title": "Hurghada: Full-Day Trip to Cairo and Giza Highlights",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "21",
+        "region": "Hurghada",
+        "title": "Hurghada: Day Trip to Cairo by Plane with Transfers",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "22",
+        "region": "Luxor",
+        "title": "Luxor Guided Tour with Overnight 1st Class Train from Cairo",
+        "keywords": "[\"ancientEgypt\", \"long\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "23",
+        "region": "Hurghada",
+        "title": "Hurghada: Parasailing Adventure",
+        "keywords": "[\"Parasailing\", \"short\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "24",
+        "region": "Hurghada",
+        "title": "Hurghada Horse Ride: Sea and Desert Tour",
+        "keywords": "[\"safari\", \"ride\", \"sea\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "25",
+        "region": "Cairo",
+        "title": "Giza Pyramids & Sphinx, Saqqara & Dahshur Full-Day Tour",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "26",
+        "region": "Hurghada",
+        "title": "Magawish and Giftun Islands Full-Day Snorkeling Trip",
+        "keywords": "[\"snorkling\", \"short\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "27",
+        "region": "Hurghada",
+        "title": "Hurghada Jeep Safari, Camel Ride and Bedouin Village Tour",
+        "keywords": "[\"safari\", \"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "28",
+        "region": "Cairo",
+        "title": "Cairo: Giza Pyramids, Egyptian Museum & Bazaar Full-Day Tour",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "29",
+        "region": "Hurghada",
+        "title": "Hurghada: 5-Hour Private City Tour",
+        "keywords": "[\"ancientEgypt\", \"sea\", \"short\"]",
+        "rating": "2",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "30",
+        "region": "Hurghada",
+        "title": "From Hurghada Trip to Luxor and Valley of the Kings",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "31",
+        "region": "Aswan",
+        "title": "Aswan: Tour to High Dam, The Obelisk & Philae Temple by Boat",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "32",
+        "region": "Hurghada",
+        "title": "Hurghada Sindbad Submarine: 3-Hour Tour",
+        "keywords": "[\"diving\", \"submarine\", \"short\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "33",
+        "region": "Cairo",
+        "title": "Ismaelia day tour ",
+        "keywords": "[\"sea\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "34",
+        "region": "Cairo",
+        "title": "Great Pyramids and Sphinx Adventure",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "35",
+        "region": "Cairo",
+        "title": "From Cairo: Full-Day Tour to Alexandria with Lunch",
+        "keywords": "[\"ride\", \"sea\", \"fullDay\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "36",
+        "region": "Cairo",
+        "title": "Cairo: Quad Bike Desert Safari around Giza Pyramids",
+        "keywords": "[\"ancientEgypt\", \"safari\", \"fullDay\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "37",
+        "region": "Hurghada",
+        "title": "Hurghada Quad Bike Safari: Full-Day Trip to Sahara Park",
+        "keywords": "[\"ride\", \"safari\", \"fullDay\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "38",
+        "region": "Luxor",
+        "title": "Sunrise Hot Air Balloon Tour from Luxor",
+        "keywords": "[\"ride\", \"parsailing\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "39",
+        "region": "Hurghada",
+        "title": "From Hurghada: Dolphin Watching Cruise and Massage",
+        "keywords": "[\"cruise\", \"short\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "40",
+        "region": "Luxor",
+        "title": "Luxor Full-Day Sightseeing Tour from Hurghada",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "41",
+        "region": "Cairo",
+        "title": "Cairo: Sound & Light Show Giza Pyramids",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "42",
+        "region": "Cairo",
+        "title": "Quad Bike Tour with Camel Ride",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "43",
+        "region": "Hurghada",
+        "title": "Sunset Desert Safari Trip by Quad Runner from Hurghada",
+        "keywords": "[\"ride\", \"safari\", \"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "44",
+        "region": "Cairo",
+        "title": "Giza Pyramids and Sphinx: Half-Day Private Tour",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "45",
+        "region": "Cairo",
+        "title": "1-Hour Felucca Ride on the Nile",
+        "keywords": "[\"ride\", \"cruise\", \"short\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "46",
+        "region": "Hurghada",
+        "title": "From Hurghada: Giftun Island Snorkeling Day Trip",
+        "keywords": "[\"snorkling\", \"ride\", \"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "47",
+        "region": "Cairo",
+        "title": "Cairo: Egyptian Museum & Khan El-Khalili",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "48",
+        "region": "Cairo",
+        "title": "Cairo Day Tour with Entry Fees and Lunch",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "49",
+        "region": "Hurghada",
+        "title": "Hurghada: 5-Hour Quad Bike Desert Safari and Barbecue",
+        "keywords": "[\"safari\", \"short\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "50",
+        "region": "Cairo",
+        "title": "Cairo: Nile River Dinner Cruise with Entertainment",
+        "keywords": "[\"cruise\", \"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "52",
+        "region": "Cairo",
+        "title": "Cairo 4-Hour Guided Tour of the Egyptian Museum",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "53",
+        "region": "Hurghada",
+        "title": "One-Way Transfer: Hurghada Airport to Makadi Bay",
+        "keywords": "[\"ride\", \"short\"]",
+        "rating": "2",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "54",
+        "region": "Cairo",
+        "title": "Giza Pyramids and Egyptian Museum Full-Day Tour",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "55",
+        "region": "Hurghada",
+        "title": "From Hurghada: Full-Day Trip to Cairo by Plane",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "57",
+        "region": "Sharm",
+        "title": "Sharm el-Sheikh: Evening Desert Tour with Bedouin Dinner",
+        "keywords": "[\"ride\", \"safari\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "58",
+        "region": "Hurghada",
+        "title": "From Hurghada: Full-Day Tour of Luxor",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "59",
+        "region": "Sharm",
+        "title": "Quad Runner Bike Adventure: Sharm el Sheikh",
+        "keywords": "[\"ride\", \"safari\", \"short\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "60",
+        "region": "Hurghada",
+        "title": "Half-Day Red Sea Dive from Hurghada or El Gouna",
+        "keywords": "[\"submarine\", \"diving\", \"short\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "61",
+        "region": "Hurghada",
+        "title": "From Hurghada: Full-Day Tour to East & West Banks in Luxor",
+        "keywords": "[\"ride\", \"cruise\", \"ancientEgypt\", \"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "62",
+        "region": "Cairo",
+        "title": "Half-Day Tour of Old Cairo & Khan El Khalili Bazaar",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "63",
+        "region": "Hurghada",
+        "title": "Hurghada Grand Aquarium Entry Ticket and Tour",
+        "keywords": "[\"sea\", \"submarine\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "64",
+        "region": "Cairo",
+        "title": "Cairo Day Tour from Sharm El Sheikh by Air",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "65",
+        "region": "Cairo",
+        "title": "Sound and Light Show at the Karnak Temple Complex",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "66",
+        "region": "Luxor",
+        "title": "All-Inclusive Guided Tour of Luxor from Cairo by Plane",
+        "keywords": "[\"ancientEgypt\", \"cruise\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "68",
+        "region": "Marsa Alam",
+        "title": "From Marsa Alam: Full-Day Tour of Cairo with Flights",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "69",
+        "region": "Cairo",
+        "title": "Cairo, Giza Pyramids, Memphis & Sakkara Day Tour",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "70",
+        "region": "Hurghada",
+        "title": "Hurghada: Sunset Desert Safari by Dune Buggy",
+        "keywords": "[\"ride\", \"safari\", \"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "71",
+        "region": "Aswan",
+        "title": "From Aswan: Private Tour to Abu Simbel",
+        "keywords": "[\"cruise\", \"ancientEgypt\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "72",
+        "region": "Sharm",
+        "title": "Paradise Island : Full\u00e2\u20ac\u201cDay Snorkeling and Island Tour",
+        "keywords": "[\"cruise\", \"sea\", \"snorkling\", \"fullDay\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "73",
+        "region": "Hurghada",
+        "title": "Hurghada: Private City Tour",
+        "keywords": "[\"cruise\", \"sea\", \"ride\", \"ancientEgypt\", \"fullDay\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "74",
+        "region": "Sharm",
+        "title": "Cairo: Day Tour from Sharm el Sheikh",
+        "keywords": "[\"cruise\", \"ancientEgypt\", \"fullDay\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "76",
+        "region": "Cairo",
+        "title": "Cairo: 2-Day Bahariya Oasis Camp with White & Black Deserts",
+        "keywords": "[\"safari\", \"ride\", \"long\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "77",
+        "region": "Hurghada",
+        "title": "Hurghada: 6-Hour 4WD Desert Safari, Dinner, and Show",
+        "keywords": "[\"safari\", \"ride\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "78",
+        "region": "Cairo",
+        "title": "Giza Pyramids, Sakkara and Memphis Museum Guided Tour",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "79",
+        "region": "Cairo",
+        "title": "Cairo: Camel or Horse Ride By the Pyramids",
+        "keywords": "[\"ancientEgypt\", \"safari\", \"ride\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "80",
+        "region": "Cairo",
+        "title": "Half-Day Cairo Sightseeing Tour to Pyramids of Giza & Sphinx",
+        "keywords": "[\"ancientEgypt\", \"ride\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "81",
+        "region": "Hurghada",
+        "title": "Full-Day Snorkeling Trip to Utopia Island from Hurghada",
+        "keywords": "[\"diving\", \"snorkling\", \"sea\", \"submarine\", \"short\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "82",
+        "region": "Cairo",
+        "title": "From Cairo: Full-Day Tour of Giza Pyramids & Simon Cave",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "83",
+        "region": "Sharm",
+        "title": "Full-Day Scuba Diving Tour with Lunch & Pick-Up",
+        "keywords": "[\"diving\", \"sea\", \"cruise\", \"fullDay\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "84",
+        "region": "Hurghada",
+        "title": "From Hurghada: Pirates Premier Sailing Boat Trip",
+        "keywords": "[\"diving\", \"sea\", \"submarine\", \"snorkling\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "85",
+        "region": "Sharm",
+        "title": "From Sharm: Introduction to Scuba Diving with Lunch",
+        "keywords": "[\"diving\", \"sea\", \"submarine\", \"snorkling\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "86",
+        "region": "Sharm",
+        "title": "From Sharm el-Sheikh: Mount Sinai Sunrise Climb",
+        "keywords": "[\"ride\", \"safari\", \"climb\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "87",
+        "region": "Cairo",
+        "title": "\"Cairo Citadel, Old Cairo & Khan El Khalili Full-Day Tour",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "88",
+        "region": "Sharm",
+        "title": "Sharm el-Sheikh: Panoramic Submarine Adventure",
+        "keywords": "[\"submarine\", \"diving\", \"sea\", \"short\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "89",
+        "region": "Hurghada",
+        "title": "Hurghada Jungle Aqua Park Tickets, Transfer, and Lunch",
+        "keywords": "[\"diving\", \"sea\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "92",
+        "region": "Hurghada",
+        "title": "Full-Day Snorkeling Tour to Utopia Island with Pick-Up",
+        "keywords": "[\"snorkling\", \"submarine\", \"diving\", \"sea\", \"fullDay\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "93",
+        "region": "Ras Mohammed ",
+        "title": "Snorkeling Adventure: Ras Mohammed National Park by Boat",
+        "keywords": "[\"snorkling\", \"submarine\", \"diving\", \"sea\", \"short\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "94",
+        "region": "Luxor",
+        "title": "From Marsa Alam: Day Trip to Luxor by Bus",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "95",
+        "region": "Cairo",
+        "title": "Cairo Food Tour",
+        "keywords": "[\"vegetarianFriendly\", \"seaFood\", \"short\"]",
+        "rating": "2",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "96",
+        "region": "Cairo",
+        "title": "Desert Safari by Quad Bike Around Pyramids",
+        "keywords": "[\"safari\", \"ancientEgypt\", \"ride\", \"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "97",
+        "region": "Cairo",
+        "title": "Day Trip to Old Cairo and 3-Hour Dinner Cruise",
+        "keywords": "[\"safari\", \"ancientEgypt\", \"cruise\", \"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "98",
+        "region": "Hurghada",
+        "title": "Giza Pyramids & Egyptian Museum from Hurghada by Bus",
+        "keywords": "[\"safari\", \"ancientEgypt\", \"cruise\", \"fullDay\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "99",
+        "region": "Hurghada",
+        "title": "Hurghada: 3-Hour Morning Quad Safari",
+        "keywords": "[\"safari\", \"ride\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "100",
+        "region": "Hurghada",
+        "title": "Hurghada: Full-Day Scuba Diving Adventure Tour with Lunch",
+        "keywords": "[\"diving\", \"snorkling\", \"sea\", \"submarine\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "101",
+        "region": "Cairo",
+        "title": "From Cairo: Alexandria Day Tour",
+        "keywords": "[\"diving\", \"sea\", \"ancientEgypt\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "102",
+        "region": "Cairo",
+        "title": "Cairo: Tahrir Square Tour & Egyptian Museum",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "103",
+        "region": "Dahab",
+        "title": "Dolphin Red Sea Clear Water Snorkeling",
+        "keywords": "[\"snorkling\", \"sea\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "104",
+        "region": "Sharm",
+        "title": "Sharm: Tiran Island Snorkeling Day Trip with Lunch",
+        "keywords": "[\"snorkling\", \"sea\", \"climb\", \"short\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "105",
+        "region": "Hurghada",
+        "title": "From Hurghada: Cairo Full-Day Tour including Flights",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "107",
+        "region": "Cairo",
+        "title": "From Cairo: Overnight Trip to Alexandria",
+        "keywords": "[\"ancientEgypt\", \"sea\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "108",
+        "region": "Cairo",
+        "title": "From Makadi Bay: Day Trip to Cairo by Bus",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "2",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "110",
+        "region": "Sharm",
+        "title": "Sharm : Quad Bike Safari Adventure with Transfers",
+        "keywords": "[\"safari\", \"ride\", \"climb\", \"short\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "111",
+        "region": "Hurghada",
+        "title": "Hurghada Dolphin Show Tickets and Transfer",
+        "keywords": "[\"short\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "112",
+        "region": "Marsa Alam",
+        "title": "From Marsa Alam: All-in-One Super Desert Safari",
+        "keywords": "[\"safari\", \"ride\", \"climb\", \"short\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "113",
+        "region": "Cairo",
+        "title": "Cairo: 2-Hour Felucca Ride on the Nile",
+        "keywords": "[\"ride\", \"cruise\", \"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "114",
+        "region": "Marsa Alam",
+        "title": "Marsa Alam: Sunset Desert Safari Excursion By Quad Bike",
+        "keywords": "[\"safari\", \"ride\", \"short\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "116",
+        "region": "Hurghada",
+        "title": "\"Hurghada: 6-Hour Evening Experience with Show & Dinner",
+        "keywords": "[\"short\", \"ride\", \"safari\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "117",
+        "region": "Hurghada",
+        "title": "From Hurghada: Sharm El Naga Full-Day Snorkeling Tour",
+        "keywords": "[\"sea\", \"ride\", \"snorkling\", \"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "118",
+        "region": "Hurghada",
+        "title": "Hurghada: Classic Family Red Sea Cruise",
+        "keywords": "[\"sea\", \"cruise\", \"snorkling\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "119",
+        "region": "Sharm",
+        "title": "7-Hour Desert Safari from Sharm el-Sheikh",
+        "keywords": "[\"ride\", \"safari\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "121",
+        "region": "Cairo",
+        "title": "Cario: Pyramids Viewpoints Tour",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "122",
+        "region": "Hurghada",
+        "title": "Cairo Day Trip with Egyptian Museum Tickets: From El Gouna",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "123",
+        "region": "Cairo",
+        "title": "Cairo: Best Kept Secrets Tour",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "2",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "124",
+        "region": "Aswan",
+        "title": "Aswan to Luxor: 3-Day Guided Tour with Transfers",
+        "keywords": "[\"ancientEgypt\", \"long\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "125",
+        "region": "Hurghada",
+        "title": "\"Hurghada: Day Trip to Pyramids, Memphis & Sakkara by Flight",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "126",
+        "region": "Hurghada",
+        "title": "Mahmya Island Full-Day Snorkel Tour from Hurghada",
+        "keywords": "[\"sea\", \"submarine\", \"diving\", \"snorkling\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "129",
+        "region": "Aswan",
+        "title": "Aswan 4-Day Nile Cruise to Luxor",
+        "keywords": "[\"ancientEgypt\", \"cruise\", \"long\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "130",
+        "region": "Sharm",
+        "title": "Sharm el-Sheikh Day Tiran Island ",
+        "keywords": "[\"sea\", \"snorkling\", \"fullDay\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "131",
+        "region": "Ras Mohammed ",
+        "title": "Ras Mohamed Park Snorkel",
+        "keywords": "[\"sea\", \"snorkling\", \"fullDay\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "132",
+        "region": "Dahab",
+        "title": "From Makadi Bay: Desert Jeep Safari",
+        "keywords": "[\"safari\", \"ride\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "135",
+        "region": "Sharm",
+        "title": "Sharm el-Sheikh: Snorkel & Camel Safari at Blue Hole",
+        "keywords": "[\"safari\", \"ride\", \"diving\", \"snorkling\", \"short\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "137",
+        "region": "Hurghada",
+        "title": "3-Hour Sinbad Submarine Red Sea Tour from Hurghada",
+        "keywords": "[\"sea\", \"submarine\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "140",
+        "region": "Hurghada",
+        "title": "Hurghada: Super Safari Quad Bike, Camel Ride & Bedouin BBQ",
+        "keywords": "[\"safari\", \"ride\", \"short\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "141",
+        "region": "Marsa Alam",
+        "title": "Marsa Alam: diving trip",
+        "keywords": "[\"diving\", \"snorkling\", \"fullDay\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "144",
+        "region": "Cairo",
+        "title": "Great Pyramid Inside - Sphinx and Solar Boat Trip",
+        "keywords": "[\"cruise\", \"ancientEgypt\", \"fullDay\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "145",
+        "region": "Alexandria",
+        "title": "Wadi El Natrun: Full-Day Monasteries Tour from Alexandria",
+        "keywords": "[\"ride\", \"ancientEgypt\", \"short\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "146",
+        "region": "Aswan",
+        "title": "Sound and Light Show at Philae Temple",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "147",
+        "region": "Marsa Alam",
+        "title": "From Marsa Alam: Beach and Snorkelling With Sea Turtles",
+        "keywords": "[\"snorkling\", \"sea\", \"fullDay\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "148",
+        "region": "Hurghada",
+        "title": "Carnival Super Snorkeling Spot Day Trip from Hurghada",
+        "keywords": "[\"snorkling\", \"sea\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "149",
+        "region": "Cairo",
+        "title": "porto sohkna travel from cairo",
+        "keywords": "[\"snorkling\", \"sea\", \"parsailing\", \"ride\", \"long\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "150",
+        "region": "Alexandria",
+        "title": "Wadi El Natrun Tour from Alexandria",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "151",
+        "region": "Aswan",
+        "title": "Aswan Philae Temple, Obelisk and High Dam Tour",
+        "keywords": "[\"ancientEgypt\", \"cruise\", \"short\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "152",
+        "region": "Hurghada",
+        "title": "Discover Mosque, Church and Harbor with Local Guide",
+        "keywords": "[\"ancientEgypt\", \"cruise\", \"sea\", \"submarine\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "153",
+        "region": "Aswan",
+        "title": "4-Day Nile Cruise from Aswan to Luxor",
+        "keywords": "[\"cruise\", \"ancientEgypt\", \"long\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "154",
+        "region": "Cairo",
+        "title": "Cheops Pyramids with Transfer and Options",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "155",
+        "region": "Cairo",
+        "title": "Egyptian Museum of Antiquities Entrance Ticket",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "156",
+        "region": "Aswan",
+        "title": "Budget Egypt Nile Cruise from Aswan to Luxor",
+        "keywords": "[\"cruise\", \"ancientEgypt\", \"long\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "157",
+        "region": "Sharm",
+        "title": "Sharm El Sheikh Bedouin Village and Dinner Tour",
+        "keywords": "[\"safari\", \"ride\", \"short\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "158",
+        "region": "Alexandria",
+        "title": "From Alexandria: El Alamein Day Tour",
+        "keywords": "[\"sea\", \"ancientEgypt\", \"fullDay\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "159",
+        "region": "Cairo",
+        "title": "Cairo: Half-Day Mummies & Pyramids Tour",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "160",
+        "region": "Luxor",
+        "title": "From Luxor to Aswan 5 Day 5 Star Nile Cruise Guided Tour",
+        "keywords": "[\"cruise\", \"ancientEgypt\", \"long\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "161",
+        "region": "Sharm",
+        "title": "Sharm: Overnight Moses Mountain Climb & Sunrise Breakfast",
+        "keywords": "[\"climb\", \"ancientEgypt\", \"fullDay\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "162",
+        "region": "Aswan",
+        "title": "Aswan 4-Day Nile Cruise with Cairo & Luxor Night Train",
+        "keywords": "[\"cruise\", \"ancientEgypt\", \"long\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "163",
+        "region": "Aswan",
+        "title": "Aswan: Full-Day Private Tour to Abu Simbel Temples",
+        "keywords": "[\"cruise\", \"ancientEgypt\", \"fullDay\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "164",
+        "region": "Cairo",
+        "title": "Cairo: Private Two-Day Tour",
+        "keywords": "[\"cruise\", \"ancientEgypt\", \"long\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "165",
+        "region": "Cairo",
+        "title": "The Grand Egyptian Museum and Giza Pyramids with Transfer",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "166",
+        "region": "Cairo",
+        "title": "Transfer to Giza Pyramids, Memphis and Sakkara",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "167",
+        "region": "Cairo",
+        "title": "Cairo: Pyramid of Djoser & Dahshur Tour",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "168",
+        "region": "Hurghada",
+        "title": "\"Hurghada: Private Fishing Boat Full-Day Trip with Lunch",
+        "keywords": "[\"snorkling\", \"sea\", \"diving\", \"fullDay\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "169",
+        "region": "Cairo",
+        "title": "Cairo at Night: 4-Hour City Tour & Nile Felucca Cruise",
+        "keywords": "[\"cruise\", \"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "170",
+        "region": "Aswan",
+        "title": "Aswan Sound Light Show: Philae Temple",
+        "keywords": "[\"cruise\", \"ancientEgypt\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "171",
+        "region": "Hurghada",
+        "title": "Mini Egypt Park Tickets with Transfer from Hurghada",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "172",
+        "region": "Marsa Alam",
+        "title": "\"Marsa Alam: Ancient Cairo & Giza Pyramids Day Trip by Plane",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "173",
+        "region": "Hurghada",
+        "title": "Hurghada: Red Sea Royal Cruise Tour with Snorkeling",
+        "keywords": "[\"sea\", \"snorkling\", \"diving\", \"fullDay\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "174",
+        "region": "Marsa Alam",
+        "title": "Marsa Alam: Wadi El Gemal National Park",
+        "keywords": "[\"safari\", \"ride\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "175",
+        "region": "Dahab",
+        "title": "Dahab trip",
+        "keywords": "[\"safari\", \"sea\", \"snorkling\", \"parsailing\", \"ride\", \"long\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "176",
+        "region": "Hurghada",
+        "title": "\"Hurghada: Day Tour Super Giftun Island Snorkeling with Lunch",
+        "keywords": "[\"safari\", \"sea\", \"snorkling\", \"submarine\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "177",
+        "region": "Cairo",
+        "title": "From Cairo: Pyramids, Memphis, and Sakkara Visit",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "178",
+        "region": "Cairo",
+        "title": "Cairo: Full-Day Islamic and Coptic Cairo Excursion",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "179",
+        "region": "Cairo",
+        "title": "Alexandria: Archeological Day Tour",
+        "keywords": "[\"sea\", \"ancientEgypt\", \"fullDay\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "180",
+        "region": "Dahab",
+        "title": "One Day Jeep Safari From Dahab",
+        "keywords": "[\"safari\", \"ride\", \"fullDay\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "181",
+        "region": "Sharm",
+        "title": "Sharm El-Sheikh Full-Day Scuba Diving Tour",
+        "keywords": "[\"diving\", \"sea\", \"submarine\", \"short\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "183",
+        "region": "Sharm",
+        "title": "Glass Bottom Boat",
+        "keywords": "[\"snorkling\", \"sea\", \"submarine\", \"short\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "184",
+        "region": "Cairo",
+        "title": "from cairo : porto sokhna peach",
+        "keywords": "[\"snorkling\", \"sea\", \"parsailing\", \"fullDay\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "185",
+        "region": "Alexandria",
+        "title": "Best of Cairo: Day Trip from Alexandria",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "186",
+        "region": "Alexandria",
+        "title": "know Cairo: Day Trip from Alexandria",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "187",
+        "region": "Alexandria",
+        "title": "Rosetta: Day Tour\"",
+        "keywords": "[\"ancientEgypt\", \"cruise\", \"fullDay\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "188",
+        "region": "Cairo",
+        "title": "Cairo Stopover from Airport",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "189",
+        "region": "Marsa Alam",
+        "title": "Marsa Alam: Semi Submarine",
+        "keywords": "[\"sea\", \"submarine\", \"short\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "190",
+        "region": "Hurghada",
+        "title": "From El Gouna: Sahara Dune Buggy Adventure",
+        "keywords": "[\"safari\", \"ride\", \"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "191",
+        "region": "Hurghada",
+        "title": "Hurghada: 2-Hour Speedboat with Snorkelling Tour",
+        "keywords": "[\"snorkling\", \"submarine\", \"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "193",
+        "region": "Hurghada",
+        "title": "Cairo Full-Day Bus Tour from Hurghada",
+        "keywords": "[\"ancientEgypt\", \"cruise\", \"fullDay\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "194",
+        "region": "Marsa Alam",
+        "title": "Marsa Alam: Snorkeling at Abu Dabab Beach",
+        "keywords": "[\"snorkling\", \"sea\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "195",
+        "region": "Hurghada",
+        "title": "From Hurghada: Paradise Island Full-Day Snorkeling Tour",
+        "keywords": "[\"snorkling\", \"sea\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "196",
+        "region": "Hurghada",
+        "title": "From Hurghada: Cairo 2-Day Tour incl. Flights and Hotel",
+        "keywords": "[\"ancientEgypt\", \"cruise\", \"long\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "198",
+        "region": "Luxor",
+        "title": "From Makadi Bay: Full-Day Tour of Luxor by Bus",
+        "keywords": "[\"ancientEgypt\", \"cruise\", \"fullDay\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "199",
+        "region": "Hurghada",
+        "title": "Hurghada: Makadi Water World Entrance Ticket",
+        "keywords": "[\"sea\", \"ride\", \"short\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "200",
+        "region": "Cairo",
+        "title": "Cairo: Private 2-Day Tour",
+        "keywords": "[\"ancientEgypt\", \"cruise\", \"long\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "201",
+        "region": "Marsa Alam",
+        "title": "From Marsa Alam: Habu Temple & Valley of the Queens Day Trip",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "202",
+        "region": "Cairo",
+        "title": "Cairo: Giza Pyramids and River Nile Tour",
+        "keywords": "[\"ancientEgypt\", \"cruise\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "203",
+        "region": "Cairo",
+        "title": "Cairo: Full-Day Pyramid Tour and Egyptian Museum",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "204",
+        "region": "Alexandria",
+        "title": "Alexandria: Day Tour",
+        "keywords": "[\"ancientEgypt\", \"sea\", \"fullDay\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "205",
+        "region": "Cairo",
+        "title": "Bedouin Dinner and Camel Ride",
+        "keywords": "[\"ride\", \"safari\", \"fullDay\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "206",
+        "region": "Aswan",
+        "title": "Aswan Trip by Nile Felluca",
+        "keywords": "[\"cruise\", \"short\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "207",
+        "region": "Aswan",
+        "title": "Felucca Ride on the Nile in Aswan",
+        "keywords": "[\"cruise\", \"short\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "208",
+        "region": "Luxor",
+        "title": "Tell El Amarna: Full Day Tour",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "209",
+        "region": "Hurghada",
+        "title": "From El Gouna: Dry Canyon Quad Bike Tour",
+        "keywords": "[\"ancientEgypt\", \"safari\", \"ride\", \"fullDay\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "211",
+        "region": "Sharm",
+        "title": "Ras Mohammed National Park: Snorkelling Trip",
+        "keywords": "[\"ancientEgypt\", \"snorkling\", \"sea\", \"short\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "213",
+        "region": "Cairo",
+        "title": "Pyramids of Giza and Great Sphinx Half-Day Tour",
+        "keywords": "[\"ancientEgypt\", \"safari\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "214",
+        "region": "Cairo",
+        "title": "Great Pyramids of Giza Half-Day Adventure",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "215",
+        "region": "Cairo",
+        "title": "Egyptian Pyramid Tour",
+        "keywords": "[\"ancientEgypt\", \"safari\", \"ride\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "197",
+        "region": "Alexandria",
+        "title": "Alexandria Independent Adventure",
+        "keywords": "[\"sea\", \"long\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "210",
+        "region": "Cairo",
+        "title": "Private Tour: Giza Pyramids, Sphinx, Memphis, Sakkara",
+        "keywords": "[\"ancientEgypt\", \"ride\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "212",
+        "region": "Cairo",
+        "title": "Private Tour: Giza Pyramids and Sphinx",
+        "keywords": "[\"ancientEgypt\", \"ride\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "221",
+        "region": "Luxor",
+        "title": "Luxor West Bank Private Valley of the Kings, Hatshepsut Temple",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "226",
+        "region": "Cairo",
+        "title": "Nile River Dinner Cruise in Cairo",
+        "keywords": "[\"cruise\", \"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "284",
+        "region": "Cairo",
+        "title": "Pyramids Sound and Light Show with Private Transport",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "286",
+        "region": "Cairo",
+        "title": "Private Tour: Egyptian Museum",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "297",
+        "region": "Cairo",
+        "title": "Full-Day Tour to Giza Pyramids, Memphis, and Sakkara",
+        "keywords": "[\"ancientEgupt\", \"fullDay\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "298",
+        "region": "Cairo",
+        "title": "Private Tour: Alabaster Mosque, Sultan Hassan, Khan el-Khalili",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "310",
+        "region": "Cairo",
+        "title": "Private Tour: Alexandria Day Trip from Cairo",
+        "keywords": "[\"sea\", \"fullDay\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "311",
+        "region": "Aswan",
+        "title": "Private Tour: Abu Simbel by Minibus from Aswan",
+        "keywords": "[\"cruise\", \"ancientEgypt\", \"fullDay\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "323",
+        "region": "Sharm",
+        "title": "Quad Biking in the Egyptian Desert from Sharm el Sheikh",
+        "keywords": "[\"ride\", \"short\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "359",
+        "region": "Cairo",
+        "title": "Day Trip to Cairo by Bus",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "385",
+        "region": "Hurghada",
+        "title": "Red Sea Snorkeling",
+        "keywords": "[\"snorkling\", \"fullDay\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "386",
+        "region": "Cairo",
+        "title": "Giza, Saqqara, Dahshur, Cairo 2-Day All-Inclusive Private Tour",
+        "keywords": "[\"ancientEgypt\", \"long\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "400",
+        "region": "Cairo",
+        "title": "Private Tour: Memphis and Sakkara",
+        "keywords": "[\"ancientEgypt\", \"ride\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "401",
+        "region": "Cairo",
+        "title": "Coptic Cairo Private Tour: Hanging Church, Abu Serga, Ben Ezra",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "402",
+        "region": "Sharm",
+        "title": "Tiran Island Cruise and Snorkeling",
+        "keywords": "[\"snorkling\", \"cruise\", \"fullDay\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "403",
+        "region": "Alexandria",
+        "title": "Morning Alexandria Day Tour from Cairo",
+        "keywords": "[\"sea\", \"fullDay\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "404",
+        "region": "Cairo",
+        "title": "Nile River 3-Hour Buffet Dinner Cruise with Tanoura Sufi Show",
+        "keywords": "[\"cruise\", \"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "405",
+        "region": "Cairo",
+        "title": "Cairo Sightseeing by Night Private Guided Tour",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "406",
+        "region": "Ras Mohamed",
+        "title": "Ras Mohamed Red Sea Cruise and Snorkeling",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "407",
+        "region": "Luxor",
+        "title": "Hot Air Balloon Flight Over Luxor West Bank and Nile River",
+        "keywords": "[\"parsailing\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "408",
+        "region": "Hurghada",
+        "title": "Quad Bike Safari in Hurghada",
+        "keywords": "[\"ride\", \"safari\", \"short\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "409",
+        "region": "Cairo",
+        "title": "Giza, Dahshur, Saqqara and Memphis Pyramids Private Day Trip",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "410",
+        "region": "Aswan",
+        "title": "Private Tour: Abu Simbel Flight and Tour from Aswan",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "412",
+        "region": "Sharm",
+        "title": "Glass Bottom Boat Cruise and Coral Reef Viewing",
+        "keywords": "[\"cruise\", \"snorkling\", \"short\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "413",
+        "region": "Cairo",
+        "title": "Nile Dinner Cruise with Belly Dancing and Hotel Transfer",
+        "keywords": "[\"cruise\", \"short\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "414",
+        "region": "Hurghada",
+        "title": "Day Trip to Luxor from Hurghada with Hotel Pickup and Lunch",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "415",
+        "region": "Cairo",
+        "title": "Cairo with Egyptian Museum and Khan Khalili Bazaar Day Tour",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "416",
+        "region": "Hurghada",
+        "title": "Quad Biking in the Egyptian Desert from Hurghada",
+        "keywords": "[\"ride\", \"safari\", \"short\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "417",
+        "region": "Luxor",
+        "title": "Private Tour: Dendara and Abydos",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "418",
+        "region": "Cairo",
+        "title": "Day Trip to Luxor from Cairo by Plane with Lunch",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "4.2",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "419",
+        "region": "Sharm",
+        "title": "Mt Sinai, St Catherine's Monastery Private with Sunrise Hike",
+        "keywords": "[\"climb\", \"fullDay\"]",
+        "rating": "3.4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "420",
+        "region": "Hurghada",
+        "title": "Private Tour: Hurghada City Sightseeing",
+        "keywords": "[\"sea\", \"short\"]",
+        "rating": "3.2",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "421",
+        "region": "Cairo",
+        "title": "River Nile Felucca Sunset Sail 1-Hour Evening Tour in Cairo",
+        "keywords": "[\"cruise\", \"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "422",
+        "region": "Hurghada",
+        "title": "Bedouin BBQ in the Egyptian Desert by 4x4",
+        "keywords": "[\"safari\", \"fullDay\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "423",
+        "region": "Luxor",
+        "title": "Full Day Tour to East and West Banks of Luxor",
+        "keywords": "[\"ancienEgypt\", \"fullDay\"]",
+        "rating": "2.7",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "424",
+        "region": "Sharm",
+        "title": "Camel Safari with Optional Bedouin Dinner",
+        "keywords": "[\"ride\", \"safari\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "425",
+        "region": "Cairo",
+        "title": "Cairo Half-Day Downtown Tour Including Egyptian Dinner",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "2.8",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "426",
+        "region": "Hurghada",
+        "title": "Sinbad Submarine Under The Red Sea",
+        "keywords": "[\"submarine\", \"snorkling\", \"short\"]",
+        "rating": "4.2",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "427",
+        "region": "Hurghada",
+        "title": "Tour to Luxor from Hurghada",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "428",
+        "region": "Cairo",
+        "title": "Private Tour: Pharaonic Village",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "429",
+        "region": "Luxor",
+        "title": "Private Tour: Dendara from Luxor",
+        "keywords": "[\"fullDay\", \"ancientEgypt\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "431",
+        "region": "Hurghada",
+        "title": "Hurghada Daily Scuba Dive Trip",
+        "keywords": "[\"diving\", \"sea\", \"fullDay\"]",
+        "rating": "4.3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "cruise",
+        "itemid": "432",
+        "region": "Cairo",
+        "title": "Nile River Dinner Cruise with Cultural Show, Private Transfers",
+        "keywords": "[\"short\", \"low-price\"]",
+        "rating": "4.6",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "cruise",
+        "itemid": "433",
+        "region": "Luxor",
+        "title": "3 Days nile cruise ",
+        "keywords": "[\"ancientEgypt\", \"high-price\", \"long\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "sea",
+        "itemid": "434",
+        "region": "Hurghada",
+        "title": "from Hurghada full day tour to Alex",
+        "keywords": "[\"short\", \"low-price\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "435",
+        "region": "Dahab",
+        "title": "Dahab full day ",
+        "keywords": "[\"ride\", \"safari\", \"fullDay\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "436",
+        "region": "Cairo",
+        "title": "maadi cruise day ",
+        "keywords": "[\"cruise\", \"fullDay\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "437",
+        "region": "Cairo",
+        "title": "pyramids and museums trip",
+        "keywords": "[\"ancientEgypt\", \"safari\", \"fullDay\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "438",
+        "region": "Hurghada",
+        "title": "Hurghada desert safari",
+        "keywords": "[\"ride\", \"safari\", \"short\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "439",
+        "region": "Marsa Alam",
+        "title": "snorkling marsa allam",
+        "keywords": "[\"snorkling\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "440",
+        "region": "Hurghada",
+        "title": "Dolphin Spotting Cruise from El Gouna",
+        "keywords": "[\"cruise\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "441",
+        "region": "Aswan",
+        "title": "Private Tour to Abu Simbel Temples by Vehicle from Aswan",
+        "keywords": "[\"ride\", \"ancientEgypt\", \"short\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "442",
+        "region": "Cairo",
+        "title": " salah eldeen citadelle",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "443",
+        "region": "Cairo",
+        "title": "elmoez street and ancient masjids",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "444",
+        "region": "Aswan",
+        "title": "Temples of King Ramses and flight from Aswan",
+        "keywords": "[\"ancientEgypt\", \"long\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "445",
+        "region": "Cairo",
+        "title": "Private Guided Half-Day Tour to Dahshur from Cairo",
+        "keywords": "[\"ancientEgypt\", \"short\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "446",
+        "region": "Luxor",
+        "title": "Dendera and Abydos Temples Private Full-Day Tour from Luxor",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "447",
+        "region": "Luxor",
+        "title": "Private Day Tour to Aswan ",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "448",
+        "region": "Cairo",
+        "title": "Day tour to St Catherine Day Tour from Taba in Egypt",
+        "keywords": "[\"climb\", \"fullDay\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "449",
+        "region": "Luxor",
+        "title": "Day tour to Edfu from luxor",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "450",
+        "region": "Luxor",
+        "title": "Lake Nasser Fishing Safari Trip",
+        "keywords": "[\"safari\", \"ride\", \"fullDay\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "451",
+        "region": "Marsa Alam",
+        "title": "Egypt Highlights from Marsa alam",
+        "keywords": "[\"safari\", \"ancientEgypt\", \"long\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "452",
+        "region": "Aswan",
+        "title": "Trip to Abu Simbel & Aswan ",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "453",
+        "region": "Alexandria",
+        "title": "Alex archeological day tour",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "454",
+        "region": "Dahab",
+        "title": "Ras shetan day camp",
+        "keywords": "[\"diving\", \"ride\", \"fullDay\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "455",
+        "region": "Cairo",
+        "title": "Aswan 3 days",
+        "keywords": "[\"cruise\", \"ancientEgypt\", \"long\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "short-price",
+        "itemid": "456",
+        "region": "Luxor",
+        "title": "Luxor  tour",
+        "keywords": "[\"cruise\", \"ancientEgypt\", \"fullDay\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "457",
+        "region": "Cairo",
+        "title": "luxor 3 days",
+        "keywords": "[\"cruise\", \"ancientEgypt\", \"long\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "458",
+        "region": "Dahab",
+        "title": "saint catherine trip",
+        "keywords": "[\"cruise\", \"ancientEgypt\", \"long\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "459",
+        "region": "Dahab",
+        "title": "Nourhan\u2019s trip",
+        "keywords": "[\"climb\", \"safari\", \"fullDay\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "460",
+        "region": "Cairo",
+        "title": "yomna\u2019s trip",
+        "keywords": "[\"diving\", \"parsailing\", \"fullDay\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "461",
+        "region": "Cairo",
+        "title": "Mariam\u2019s trip",
+        "keywords": "[\"ancientEgypt\", \"cruise\", \"fullDay\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "sea",
+        "itemid": "430",
+        "region": "Hurghada",
+        "title": "from Hurghada full day tour to dahab",
+        "keywords": "[\"diving\", \"snorkling\", \"moderate-price\", \"fulDay\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "411",
+        "region": "Dahab",
+        "title": "Dahab half day  trip",
+        "keywords": "[\"safari\", \"short\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "462",
+        "region": "Cairo",
+        "title": "zamalek cruise day ",
+        "keywords": "[\"cruise\", \"fullDay\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "463",
+        "region": "Cairo",
+        "title": "ancient Egypt  day",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "464",
+        "region": "Fayoum",
+        "title": "fayoum desert safari",
+        "keywords": "[\"ride\", \"safari\", \"short\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "465",
+        "region": "Cairo",
+        "title": "snorkling day",
+        "keywords": "[\"snorkling\", \"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "466",
+        "region": "Hurghada",
+        "title": "Nile  Cruise from El Gouna",
+        "keywords": "[\"cruise\", \"fullDay\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "467",
+        "region": "Aswan",
+        "title": "Private Tour to Abu Simbel Temples ",
+        "keywords": "[\"ride\", \"ancientEgypt\", \"fullDay\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "468",
+        "region": "Cairo",
+        "title": "egyptian museums ",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "469",
+        "region": "Fayoum",
+        "title": "wadi elrayan  trip",
+        "keywords": "[\"safari\", \"parsailing\", \"ride\", \"fullDay\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "470",
+        "region": "Luxor",
+        "title": "fahd temple and nile cruise",
+        "keywords": "[\"ancientEgypt\", \"cruise\", \"short\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "471",
+        "region": "Cairo",
+        "title": "camal ride and safari in pyramids",
+        "keywords": "[\"ancientEgypt\", \"safari\", \"short\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "472",
+        "region": "Cairo",
+        "title": "Dahab 3 days trip",
+        "keywords": "[\"sea\", \"snorkling\", \"long\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "473",
+        "region": "Aswan",
+        "title": "Private Day Tour to Aswan ",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "474",
+        "region": "Cairo",
+        "title": "faloka nile trip",
+        "keywords": "[\"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "475",
+        "region": "Cairo",
+        "title": "Wadi el natron and pyramids full day trip",
+        "keywords": "[\"ancientEgypt\", \"fullDay\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "safari",
+        "itemid": "505",
+        "region": "Fayoum",
+        "title": "wadi el hitan adventurous trip",
+        "keywords": "[\"ride\", \"diving\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1204",
+        "region": "Cairo",
+        "title": "Private Half-Day Tour: Saqqara and Memphis from Cairo",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1205",
+        "region": "Giza",
+        "title": "Layover Day Tour of Giza Pyramids, Cairo, Egyptian Museum and Bazaar from Cairo Airport",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1206",
+        "region": "Luxor",
+        "title": "Luxor Airport Private Arrival Transfer",
+        "keywords": "[\"fullday\"]",
+        "rating": "2",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1207",
+        "region": "Luxor",
+        "title": "Full Day Tour Visiting Coptic and Islamic Cairo",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1208",
+        "region": "Hurghada",
+        "title": "Private Tour: Luxor Day trip from Hurghada, Including Valley of the Kings, Hatshepsut Temple, and Karnak Temple",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1209",
+        "region": "Taba",
+        "title": "Private Guided Day Tour to Tanis Bubastis and the Suez Canal from Cairo",
+        "keywords": "[\"short\", \"safari\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1210",
+        "region": "Giza",
+        "title": "Luxor Karnak Sound and Light Show",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1211",
+        "region": "Hurghada",
+        "title": "Private Tour: Hurghada City Sightseeing in submarine",
+        "keywords": "[\"short\", \"submarine\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1212",
+        "region": "Luxor",
+        "title": "Luxor by bus guided group tour Valley of the kings,Karnak and Hatshepsut Temples",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1213",
+        "region": "Cairo",
+        "title": "Tiran Island Cruise and Snorkeling",
+        "keywords": "[\"short\", \"snorkling\", \"cruise\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1214",
+        "region": "Luxor",
+        "title": "Transfer from Luxor To Hurghada",
+        "keywords": "[\"short\"]",
+        "rating": "2",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1215",
+        "region": "Fayoum",
+        "title": "Private Full-Day Fayoum Oasis and Waterfalls of Wadi El-Rayan Tour from Cairo",
+        "keywords": "[\"fullDay\", \"safari\", \"ride\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1216",
+        "region": "Sharm",
+        "title": "Scuba diving 2 dives from the boat in Sharm El Sheikh",
+        "keywords": "[\"short\", \"diving\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1217",
+        "region": "Alexandria",
+        "title": "Tour to Alexandria from Cairo by Car",
+        "keywords": "[\"short\", \"sea\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1218",
+        "region": "Giza",
+        "title": "Private Departure Transfer from Hotels in Cairo or Giza to Cairo International Airport",
+        "keywords": "[\"short\"]",
+        "rating": "2",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1219",
+        "region": "Dahab",
+        "title": "Sea Scope semi Submarine",
+        "keywords": "[\"short\", \"submarine\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1220",
+        "region": "Cairo",
+        "title": "Cairo shopping tour",
+        "keywords": "[\"short\"]",
+        "rating": "2",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1221",
+        "region": "Cairo",
+        "title": "Transfer from Cairo airport to hotel",
+        "keywords": "[\"short\"]",
+        "rating": "2",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1222",
+        "region": "Hurghada",
+        "title": "Dolphin House Snorkeling- Banana fun-Hurghada",
+        "keywords": "[\"short\", \"snorkling\", \"sea\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1223",
+        "region": "Cairo",
+        "title": "private pick up transfer from Cairo airport to hotels in cairo or giza",
+        "keywords": "[\"short\"]",
+        "rating": "2",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1224",
+        "region": "Hurghada",
+        "title": "Day tour to Luxor from Safaga port",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1225",
+        "region": "Luxor",
+        "title": "Private Tour to Luxor west bank tombs",
+        "keywords": "[\"short\", \"ancientEgypt\", \"cruise\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1226",
+        "region": "Giza",
+        "title": "2 Private days in Giza and Cairo including airport transfers",
+        "keywords": "[\"long\", \"ancientEgypt\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1227",
+        "region": "Dahab",
+        "title": "Private Day Tour in Dahshur and Quad Bike Adventure",
+        "keywords": "[\"short\", \"ride\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1228",
+        "region": "Cairo",
+        "title": "Private Transfer from Cairo Airport to Hotel in Giza",
+        "keywords": "[\"long\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1229",
+        "region": "Cairo",
+        "title": "Private Half-Day trip to Giza Pyramids sphinx with Camel-Riding",
+        "keywords": "[\"short\", \"ancientEgypt\", \"safari\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1230",
+        "region": "Cairo",
+        "title": "Islamic Cairo Walking Tour: Khan el Khalili, Al-Azhar Mosque",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1231",
+        "region": "Giza",
+        "title": "Two-Day Private Guided City Tour of Cairo Giza and Saqqara",
+        "keywords": "[\"long\", \"ancientEgypt\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1232",
+        "region": "Giza",
+        "title": "2-Hour Camel or Horse Ride Excursion Around the Pyramids",
+        "keywords": "[\"short\", \"safari\", \"ride\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1233",
+        "region": "Fayoum",
+        "title": "offers safari in fayoum",
+        "keywords": "[\"long\", \"safari\", \"ride\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1234",
+        "region": "Hurghada",
+        "title": "Giftun Island Budget Snorkeling trip from Hurghada",
+        "keywords": "[\"short\", \"snorkling\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1235",
+        "region": "Sharm",
+        "title": "Sharm El Sheikh City Tour",
+        "keywords": "[\"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1236",
+        "region": "Luxor",
+        "title": "2-Day Private Tour: Luxor West and East Bank, Karnak Temple Valley of the Kings and Hatshepsut Temple Colossi of Memnon",
+        "keywords": "[\"long\", \"ancientEgypt\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1237",
+        "region": "Luxor",
+        "title": "Hot Air Balloon Ride in Luxor",
+        "keywords": "[\"short\", \"parsailing\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1238",
+        "region": "Dahab",
+        "title": "Paradise Class Semi Submarine",
+        "keywords": "[\"short\", \"submarine\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1239",
+        "region": "Aswan",
+        "title": "Tour to Dendera and Abydos Temples",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1240",
+        "region": "Dahab",
+        "title": "Half Day Guided Tour To Memphis City for diving  and Dahshur",
+        "keywords": "[\"short\", \"diving\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1241",
+        "region": "Hurghada",
+        "title": "One-Day Private Tour to Luxor from Hurghada by Vehicle or Car",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1242",
+        "region": "Cairo",
+        "title": "Camel or horse riding at the Pyramids from Cairo",
+        "keywords": "[\"short\", \"safari\", \"ride\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1243",
+        "region": "Luxor",
+        "title": "Private Arrival Transfer from Luxor Airport",
+        "keywords": "[\"short\"]",
+        "rating": "2",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1244",
+        "region": "Cairo",
+        "title": "Private Half Day Tour to Giza Pyramids and Sphinx from Cairo",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1245",
+        "region": "Cairo",
+        "title": "Cairo airport private transfer to Cairo and Giza hotels",
+        "keywords": "[\"short\"]",
+        "rating": "2",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1246",
+        "region": "Cairo",
+        "title": "Boat trip to Orange bay with lunch , snorkeling and water sports",
+        "keywords": "[\"short\", \"snorkling\", \"cruise\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1247",
+        "region": "Sharm",
+        "title": "Private Tour: Luxor Flight and Tour from Sharm el Sheikh",
+        "keywords": "[\"short\"]",
+        "rating": "2",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1248",
+        "region": "Cairo",
+        "title": "Half-Day Tour from Cairo: Dahshur Pyramids Sakkara and Memphis City",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1249",
+        "region": "Cairo",
+        "title": "Day trip from Cairo to El Mokkatm Mountain Cave Church",
+        "keywords": "[\"short\", \"climb\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1250",
+        "region": "Cairo",
+        "title": "Private Felucca in the River Nile",
+        "keywords": "[\"short\", \"cruise\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1251",
+        "region": "Cairo",
+        "title": "Private tour of Giza Pyramids,Saqqara Pyramid& Dahshour Pyramids (All inclusive)",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1252",
+        "region": "Luxor",
+        "title": "private tour to Karnak and Luxor Temples Day tour in Luxor",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1253",
+        "region": "Aswan",
+        "title": "Day Tour to Ramesseum Temple, Habu Temple, and Valley of the Nobles",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1254",
+        "region": "Aswan",
+        "title": "4 Days 3 Nights Aswan & Luxor Nile cruise",
+        "keywords": "[\"long\", \"ancientEgypt\", \"cruise\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1255",
+        "region": "Luxor",
+        "title": "Nubian Village Excursion from Aswan",
+        "keywords": "[\"short\", \"ancientEgypt\", \"cruise\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1256",
+        "region": "Marsa Alam",
+        "title": "Day tour to Luxor from Marsa Alam",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1257",
+        "region": "Cairo",
+        "title": "Private Full-Day Walking Tour through Islamic Cairo",
+        "keywords": "[\"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1258",
+        "region": "Alexandria",
+        "title": "Full-Day East and West Luxor Private Tour",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1259",
+        "region": "Alexandria",
+        "title": "Alexandria Day trip from Cairo",
+        "keywords": "[\"short\", \"sea\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1260",
+        "region": "Cairo",
+        "title": "6-Hour Private Layover Tour to the Pyramids and the Sphinx",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1261",
+        "region": "Hurghada",
+        "title": "Dolphin Habitat Snorkeling Tour from Hurghada, Makadi or El Gouna",
+        "keywords": "[\"short\", \"snorkling\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1262",
+        "region": "Aswan",
+        "title": "Full private day tour in Aswan to visit Phelae temple and Nubian Village with lunch included",
+        "keywords": "[\"fullday\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1263",
+        "region": "Alexandria",
+        "title": "Full-Day Private Tour: Historic Alexandria From Cairo",
+        "keywords": "[\"fullDay\", \"sea\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1264",
+        "region": "Cairo",
+        "title": "Nile Maxim dinner cruise on the Nile",
+        "keywords": "[\"short\", \"cruise\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1265",
+        "region": "Cairo",
+        "title": "Islamic Cairo Tour",
+        "keywords": "[\"short\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1266",
+        "region": "Fayoum",
+        "title": "DAY trip TO BAHARIYA OASIS VISIT BLACK AND WHITE DESERT FROM CAIRO",
+        "keywords": "[\"short\", \"safari\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1267",
+        "region": "Cairo",
+        "title": "Private Transfer - Cairo Airport Arrivals Hall to Hotel",
+        "keywords": "[\"long\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1268",
+        "region": "Alexandria",
+        "title": "Full-Day Alexandria Private Tour with Tour Guide from Cairo",
+        "keywords": "[\"short\", \"sea\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1269",
+        "region": "Hurghada",
+        "title": "Dolphin House and Banana Boat Fun from Hurghada",
+        "keywords": "[\"short\", \"snorkling\", \"submarine\", \"sea\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1270",
+        "region": "Aswan",
+        "title": "Private Tour: Abu Simbel by Minibus from Aswan",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1271",
+        "region": "Hurghada",
+        "title": "Tour to Luxor from Hurghada",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1272",
+        "region": "Cairo",
+        "title": "3-Hour Nile River Buffet Dinner Cruise",
+        "keywords": "[\"short\", \"cruise\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1273",
+        "region": "Giza",
+        "title": "Private Full Day Tour: Giza Pyramids, Sphinx, Sakkara and City of Memphis",
+        "keywords": "[\"short\", \"ancientEgypt\", \"safari\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1274",
+        "region": "Cairo",
+        "title": "2-Hour Nile River Lunch Cruise in Cairo",
+        "keywords": "[\"short\", \"cruise\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1275",
+        "region": "Cairo",
+        "title": "Private Tour: Coptic Cairo, The Hanging Church, Abu Serga, Ben Ezra",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1276",
+        "region": "Cairo",
+        "title": "Cairo Stopover Tour To Giza Pyramids Egyptian Museum, Citadel & Bazaar",
+        "keywords": "[\"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1277",
+        "region": "Hurghada",
+        "title": "Luxor Day Tour from Hurghada, El Gouna, or Makadi",
+        "keywords": "[\"short\", \"ride\", \"sea\", \"snorkling\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1278",
+        "region": "Cairo",
+        "title": "2 DAYS 1 NIGHT TRAVEL PACKAGE TO ASWAN & LUXOR FROM CAIRO",
+        "keywords": "[\"long\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1279",
+        "region": "Cairo",
+        "title": "Discover Egypt and Jordan Tour 14 Days-Cairo and Nile Cruise- Petra and Dead Sea",
+        "keywords": "[\"long\", \"ancientEgypt\", \"cruise\", \"sea\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1280",
+        "region": "Luxor",
+        "title": "Nile Cruise Holiday from Luxor to Aswan: 5 Days including Abu Simbel",
+        "keywords": "[\"long\", \"cruise\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1281",
+        "region": "Cairo",
+        "title": "Coptic Cairo- Islamic Cairo - Khan El Khaliliy Bazar and The Egyptian Museum",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1815",
+        "region": "Aswan",
+        "title": "4-Day 3-Night Nile Cruise from Aswan to Luxor",
+        "keywords": "[\"long\", \"cruise\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1816",
+        "region": "Cairo",
+        "title": "8-Hour Private Tour of the Pyramids, Sphinx, Egyptian Museum and Bazaar including Camel Ride and Lunch from Cairo",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1817",
+        "region": "Cairo",
+        "title": "Private Tour: 8 Days 7 Nights Pyramids and Nile Cruise by Air from Cairo",
+        "keywords": "[\"long\", \"cruise\", \"ancientEgypt\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1818",
+        "region": "Luxor",
+        "title": "4-Day 3-Night Nile Cruise from Aswan to Luxor - Private Tour",
+        "keywords": "[\"longcruise\", \"ancientEgypt\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1819",
+        "region": "Cairo",
+        "title": "Day trip to Cairo by Bus",
+        "keywords": "[\"fullday\", \"ancientEgypt\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1820",
+        "region": "Luxor",
+        "title": "8-Day Best of Egypt Tour: Cairo, Nile Cruise, Abu Simbel",
+        "keywords": "[\"long\", \"cruise\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1821",
+        "region": "Aswan",
+        "title": "Private 7-Night Cairo, Aswan, and Nile Cruise with Flights",
+        "keywords": "[\"long\", \"cruise\", \"ancientEgypt\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1822",
+        "region": "Cairo",
+        "title": "Private Tour: Giza Pyramids, Sphinx, Memphis, Sakkara",
+        "keywords": "[\"short\", \"cruise\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1823",
+        "region": "Aswan",
+        "title": "4-Day, 3-Night Nile cruise from Aswan",
+        "keywords": "[\"long\", \"cruise\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1824",
+        "region": "Aswan",
+        "title": "Private Tour: Abu Simbel Flight and Tour from Aswan",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1825",
+        "region": "Cairo",
+        "title": "2-Day Private Guided Tour to Giza, Saqqara, Dahshur and Cairo including Camel Ride, Felucca Sailing, Dinner Cruise and Sound and Light Show",
+        "keywords": "[\"long\", \"safari\", \"ancientEgypt\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1826",
+        "region": "Cairo",
+        "title": "Full-Day Guided Private Tour to Pyramids of Giza Dahshur Sakkara and Memphis",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1827",
+        "region": "Luxor",
+        "title": "NILE CRUISE LUXOR ASWAN 5 DAYS",
+        "keywords": "[\"long\", \"cruise\", \"ancientEgypt\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1828",
+        "region": "Cairo",
+        "title": "Full-Day Luxor Tour from Cairo by Plane",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1829",
+        "region": "Cairo",
+        "title": "2-Day Ancient Egypt and Old Cairo Highlights Tour",
+        "keywords": "[\"long\", \"ancientEgypt\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1830",
+        "region": "Cairo",
+        "title": "Full-Day Tour from Cairo: Giza Pyramids, Sphinx, Memphis, and Saqqara",
+        "keywords": "[\"fullday\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1831",
+        "region": "Cairo",
+        "title": "10-Day Ancient Egypt Tour with Nile Cruise",
+        "keywords": "[\"long\", \"cruise\", \"ancientEgypt\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1832",
+        "region": "Luxor",
+        "title": "Egypt 9 Days- Cairo Pyramids and Nile Cruise from Luxor to Aswan and Abu Simbel",
+        "keywords": "[\"long\", \"cruise\", \"ancientEgypt\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1833",
+        "region": "Cairo",
+        "title": "4 days in Cairo Giza Luxor and Alexandria",
+        "keywords": "[\"long\", \"cruise\", \"sea\", \"safari\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1834",
+        "region": "Cairo",
+        "title": "Dinner Cruise on the Nile River with Buffet, Cultural Show and Private Transfer in Cairo",
+        "keywords": "[\"short\", \"cruise\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1835",
+        "region": "Cairo",
+        "title": "Private Guided Full-Day Tour to Alexandria from Cairo",
+        "keywords": "[\"short\", \"sea\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1836",
+        "region": "Cairo",
+        "title": "2 days 1 night Luxor and Aswan and abu simple by Round flight from Cairo",
+        "keywords": "[\"long\", \"ancientEgypt\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1837",
+        "region": "Cairo",
+        "title": "Best 2 Days 1 Night Travel Package to Aswan & Luxor from Cairo by Flights",
+        "keywords": "[\"long\", \"ancientEgypt\", \"cruise\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1838",
+        "region": "Cairo",
+        "title": "4-Day Tour: Cairo, Luxor, Alexandria, Sound and Light Show, Dinner cruise",
+        "keywords": "[\"long\", \"ancientEgypt\", \"cruise\", \"sea\", \"safari\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1839",
+        "region": "Dahab",
+        "title": "Cairo Airport Private Arrival Transfer",
+        "keywords": "[\"short\", \"ride\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1840",
+        "region": "Cairo",
+        "title": "Private Guided Day trip to Luxor from Cairo by Plane",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1841",
+        "region": "Aswan",
+        "title": "4-Day Nile River Cruise from Aswan to Luxor with Optional Private Guide",
+        "keywords": "[\"long\", \"ancientEgypt\", \"cruise\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1842",
+        "region": "Hurghada",
+        "title": "Day trip to Luxor from Hurghada with Hotel Pickup and Lunch",
+        "keywords": "[\"short\", \"cruise\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1843",
+        "region": "Luxor",
+        "title": "tripHot Air Balloon Ride in Luxor, Egypt - VIP",
+        "keywords": "[\"short\", \"ride\", \"parsailing\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1844",
+        "region": "Cairo",
+        "title": "Lake Nasser Fishing Safari trip with Lunch Included",
+        "keywords": "[\"short\", \"safari\", \"ride\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1845",
+        "region": "Cairo",
+        "title": "Private Guided Night Tour of Cairo",
+        "keywords": "[\"short\", \"cruise\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1846",
+        "region": "Cairo",
+        "title": "Book 2 days 1 night Luxor and Aswan and Abu Simble by round flight from Cairo",
+        "keywords": "[\"long\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1847",
+        "region": "Aswan",
+        "title": "Egypt 8 Days 7 Nights Cairo with Nile cruise from Aswan to Luxor With flight",
+        "keywords": "[\"long\", \"ancientEgypt\", \"cruise\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1848",
+        "region": "Cairo",
+        "title": "3-Day, 2-Night Private Desert Safari Tour to Baharya Oasis from Cairo",
+        "keywords": "[\"long\", \"safari\", \"ride\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1849",
+        "region": "Hurghada",
+        "title": "Group tour 9-Day Nile Jewel, Nile Cruise & Hurghada Red Sea",
+        "keywords": "[\"long\", \"sea\", \"cruise\", \"snorkling\", \"diving\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1850",
+        "region": "Luxor",
+        "title": "Private Tour: Luxor West Bank, Valley of the Kings and Hatshepsut Temple",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1851",
+        "region": "Aswan",
+        "title": "Private Day Tour to Abu Simbel Temples from Aswan",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1852",
+        "region": "Luxor",
+        "title": "Private Tour: Luxor East Bank, Karnak and Luxor Temples",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1853",
+        "region": "Luxor",
+        "title": "Full-Day Luxor Tour: Valley of the Kings, Temple of Hatshepsut, Karnak Temple",
+        "keywords": "[\"fullday\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1854",
+        "region": "Cairo",
+        "title": "Half Day Tour to Giza Pyramids with Camel Ride",
+        "keywords": "[\"short\", \"ancientEgypt\", \"safari\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1855",
+        "region": "Cairo",
+        "title": "Private Tour: Egyptian Museum, Alabaster Mosque, Khan el-Khalili",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1856",
+        "region": "Alexandria",
+        "title": "Private Full-Day Tour: Alexandria Historical Sites from Cairo",
+        "keywords": "[\"short\", \"sea\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1857",
+        "region": "Cairo",
+        "title": "3-Day Tour around Cairo and to Alexandria from Cairo",
+        "keywords": "[\"long\", \"sea\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1858",
+        "region": "Hurghada",
+        "title": "Day Tour to Cairo from Hurghada By Bus",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1859",
+        "region": "Hurghada",
+        "title": "Private Full Day Tour to Cairo From Hurghada",
+        "keywords": "[\"short\", \"ancientEgypt\", \"safari\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1860",
+        "region": "Aswan",
+        "title": "Tour to Abu Simbel Temples from Aswan",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1861",
+        "region": "Cairo",
+        "title": "Full-Day Tour to Giza Pyramids, Memphis, and Sakkara",
+        "keywords": "[\"fullDay\", \"ancientEgypt\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1862",
+        "region": "Cairo",
+        "title": "8-Night Israel, Jordan and Egypt Tour from Tel Aviv",
+        "keywords": "[\"long\", \"ancientEgypt\", \"safari\"]",
+        "rating": "2",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1863",
+        "region": "Hurghada",
+        "title": "5-Hour Quad Bike Safari in Hurghada",
+        "keywords": "[\"short\", \"safari\", \"ride\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1864",
+        "region": "Cairo",
+        "title": "3-Day Private Bahariya Oasis Tour and Desert Safari from Cairo",
+        "keywords": "[\"long\", \"safari\", \"ride\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1865",
+        "region": "Cairo",
+        "title": "Private Half-Day trip to Giza Pyramids with Camel-Riding",
+        "keywords": "[\"short\", \"ride\", \"safari\", \"ancientEgypt\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1866",
+        "region": "Cairo",
+        "title": "Alexandria Day Tour from Cairo",
+        "keywords": "[\"short\", \"sea\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1867",
+        "region": "Cairo",
+        "title": "Morning Alexandria Day Tour from Cairo",
+        "keywords": "[\"short\", \"sea\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1868",
+        "region": "Cairo",
+        "title": "Private Guided Day trip to Dahshur, Memphis and Saqqara from Cairo",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1869",
+        "region": "Luxor",
+        "title": "Full Day Tour to East and West Banks of Luxor",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1870",
+        "region": "Aswan",
+        "title": "Abu Simbel Temples from Aswan by Flight",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1871",
+        "region": "Cairo",
+        "title": "Private Tour: Giza Pyramids and Sphinx",
+        "keywords": "[\"short\", \"ancientEgypt\", \"safari\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1872",
+        "region": "Cairo",
+        "title": "Half-Day Islamic Coptic Cairo",
+        "keywords": "[\"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1873",
+        "region": "Cairo",
+        "title": "Day trip to Luxor from Cairo by Plane including Lunch",
+        "keywords": "[\"short\", \"ancientEgypt\", \"cruise\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1874",
+        "region": "Cairo",
+        "title": "Private day tour to Alexandria From Cairo",
+        "keywords": "[\"short\", \"sea\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1875",
+        "region": "Dahab",
+        "title": "Private Tour: St Catherine's Monastery and Moses' Mountain at Sunrise",
+        "keywords": "[\"short\", \"climb\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1876",
+        "region": "Cairo",
+        "title": "3 Days Cairo and Alexandria Tour Package with Felucca Ride",
+        "keywords": "[\"long\", \"cruise\", \"sea\", \"ride\"]",
+        "rating": "",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1877",
+        "region": "Hurghada",
+        "title": "Tour To Luxor From Hurghada By Bus",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1878",
+        "region": "Cairo",
+        "title": "Luxor Day Tour From Cairo by Flight",
+        "keywords": "[\"short\", \"ancientEgypt\", \"cruise\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1879",
+        "region": "Cairo",
+        "title": "private Tour Giza Pyramids & Memphis & Saqqara & Camel ride From Cairo",
+        "keywords": "[\"short\", \"safari\", \"ancientEgypt\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1880",
+        "region": "Cairo",
+        "title": "sound and light show at Giza Pyramids with Dinner",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1881",
+        "region": "Cairo",
+        "title": "Day tour to Luxor from Cairo",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1882",
+        "region": "Cairo",
+        "title": "04 Nights Nile Cruise from Luxor to Aswan by flight from Cairo",
+        "keywords": "[\"long\", \"ancientEgypt\", \"cruise\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1883",
+        "region": "Cairo",
+        "title": "Best of Egypt 9-Day Tour From Cairo",
+        "keywords": "[\"long\", \"ancientEgypt\", \"safari\", \"snorkling\", \"diving\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1884",
+        "region": "Cairo",
+        "title": "Nile Dinner Cruise in Cairo with Belly Dancing and Hotel Transfer",
+        "keywords": "[\"short\", \"cruise\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1885",
+        "region": "Luxor",
+        "title": "5-Day 5-Star Nile Cruise from Luxor to Aswan",
+        "keywords": "[\"long\", \"ancientEgypt\", \"cruise\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1886",
+        "region": "Luxor",
+        "title": "5-Day Luxury 5-Star Nile Cruise from Luxor to Aswan",
+        "keywords": "[\"long\", \"ancientEgypt\", \"cruise\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1887",
+        "region": "Cairo",
+        "title": "Giza Pyramids and Egyptian Museum with Dinner at Nile Cruise",
+        "keywords": "[\"short\", \"ancientEgypt\", \"cruise\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1888",
+        "region": "Cairo",
+        "title": "Great Pyramids of Giza, Saqqara and Memphis Private Day Tour",
+        "keywords": "[\"fullDay\", \"ancientEgypt\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1889",
+        "region": "Luxor",
+        "title": "Sailing Nile cruise from Luxor for 2 nights",
+        "keywords": "[\"long\", \"ancientEgypt\", \"cruise\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1890",
+        "region": "Sharm",
+        "title": "Private Day trip to Luxor Highlights from Safaga Port",
+        "keywords": "[\"fullday\", \"ancientEgypt\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1891",
+        "region": "Alexandria",
+        "title": "3-Day Private Tour: Giza, Cairo, and Alexandria with Airport Transfers",
+        "keywords": "[\"long\", \"ancientEgypt\", \"safari\", \"sea\", \"snorkling\", \"diving\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1892",
+        "region": "Cairo",
+        "title": "Full day to Luxor by Round flight From Cairo to visit East and West Bank",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1893",
+        "region": "Marsa Alam",
+        "title": "Overnight Snorkeling trip At Satayh Dolphin Reef From Marsa alam",
+        "keywords": "[\"long\", \"snorkling\", \"diving\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1894",
+        "region": "Cairo",
+        "title": "Private Tour: Egyptian Museum",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1895",
+        "region": "Cairo",
+        "title": "Cairo Airport Private Departure Transfer",
+        "keywords": "[\"short\", \"ride\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1896",
+        "region": "Luxor",
+        "title": "Sunrise Hot Air Balloon Tour from Luxor",
+        "keywords": "[\"short\", \"ride\", \"parsailing\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1897",
+        "region": "Aswan",
+        "title": "Guided Day Tour to Abu Simbel Temples from Aswan by Flight",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1898",
+        "region": "Cairo",
+        "title": "Luxor Shore Excursion Tour From Safaga Port",
+        "keywords": "[\"short\", \"cruise\", \"ancientEgypt\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1899",
+        "region": "Cairo",
+        "title": "4-Hour Quad Bike Tour around Giza Pyramids from Cairo",
+        "keywords": "[\"short\", \"safari\", \"ride\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1900",
+        "region": "Fayoum",
+        "title": "White Desert and Bahariya Oasis overnight",
+        "keywords": "[\"long\", \"safari\", \"ride\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1901",
+        "region": "Cairo",
+        "title": "Nile River Dinner Cruise in Cairo",
+        "keywords": "[\"short\", \"cruise\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1902",
+        "region": "Cairo",
+        "title": "One Week CAIRO Combined With Nile Cruise 4 Stars Accommodation",
+        "keywords": "[\"long\", \"cruise\", \"ancientEgypt\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1903",
+        "region": "Aswan",
+        "title": "Private tour to Abu Simbel from Aswan by Car or Minibus",
+        "keywords": "[\"short\", \"ancientEgypt\", \"cruise\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1904",
+        "region": "Luxor",
+        "title": "Four Nights Nile Cruise from Luxor to Aswan",
+        "keywords": "[\"long\", \"cruise\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1905",
+        "region": "Cairo",
+        "title": "Guided tour to Alexandria from Cairo",
+        "keywords": "[\"short\", \"sea\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1906",
+        "region": "Cairo",
+        "title": "2-Days Tour to Giza pyramids, Saqqara, Egyptian Museum, Felucca Sailing, Dinner Cruise, Sound and Light Show, Khan El Khalili, old cairo",
+        "keywords": "[\"long\", \"ancientEgypt\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1907",
+        "region": "Luxor",
+        "title": "Private Tour: Memphis and Sakkara",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1908",
+        "region": "Sharm",
+        "title": "Red Sea Snorkeling",
+        "keywords": "[\"short\", \"snorkling\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1909",
+        "region": "Alexandria",
+        "title": "Archaeological Alexandria Experience",
+        "keywords": "[\"short\", \"sea\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1910",
+        "region": "Cairo",
+        "title": "Private Nile Cruise with Dinner and Folk Show from Cairo",
+        "keywords": "[\"short\", \"cruise\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1911",
+        "region": "Cairo",
+        "title": "Over day to Alexandria from Cairo ( private Tour )",
+        "keywords": "[\"short\", \"sea\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1912",
+        "region": "Cairo",
+        "title": "sufi dance in Islamic Cairo",
+        "keywords": "[\"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1913",
+        "region": "Hurghada",
+        "title": "Swim with Dolphins Tour Hurghada",
+        "keywords": "[\"short\", \"diving\", \"snorkling\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1914",
+        "region": "Cairo",
+        "title": "Cairo Day Tour Egyptian Museum, Citadel, and Khan al-Khalil Bazaar with Lunch",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1915",
+        "region": "Luxor",
+        "title": "Luxor full day tour",
+        "keywords": "[\"fullday\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1916",
+        "region": "Cairo",
+        "title": "Day Tour of Egyptian Museum, Old Cairo and Khan El Khalili Bazaar in Cairo",
+        "keywords": "[\"long\", \"ancientEgypt\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1917",
+        "region": "Luxor",
+        "title": "4-Night, 5-Star Nile Cruise from Luxor to Aswan",
+        "keywords": "[\"long\", \"cruise\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1918",
+        "region": "Luxor",
+        "title": "From Luxor to Aswan 5 Day 5 Star Nile Cruise Guided Tours",
+        "keywords": "[\"long\", \"cruise\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1919",
+        "region": "Dahab",
+        "title": "Overnight Desert Safari Dubai- Experience Magical Arabian Night in Dubai Sahara",
+        "keywords": "[\"short\", \"safari\", \"ride\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1920",
+        "region": "Hurghada",
+        "title": "Shore Excursion Private Tour: Hurghada City Sightseeing from Safaga Port",
+        "keywords": "[\"fullday\", \"snorkling\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1921",
+        "region": "Cairo",
+        "title": "Private Day Tour in Cairo (Pyramids & Museum & Khan el khalili)",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1922",
+        "region": "Sharm",
+        "title": "Sharm El Sheikh to Taba Private Transfer",
+        "keywords": "[\"short\", \"ride\"]",
+        "rating": "2",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1923",
+        "region": "Cairo",
+        "title": "2 guided days In Cairo Giza Sakkara and Memphis",
+        "keywords": "[\"long\", \"ancientEgypt\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1924",
+        "region": "Luxor",
+        "title": "Luxor Museum and Mummification Museum Private Half-Day Tour",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1925",
+        "region": "Luxor",
+        "title": "Private Day Tour: East and West Banks of Luxor",
+        "keywords": "[\"short\", \"cruise\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1926",
+        "region": "Luxor",
+        "title": "Full Day Tour to Luxor Monuments King Tut's Tomb Valley of the Kings Karnak and Luxor Temples Queen Hatshepsut Temple",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1927",
+        "region": "Luxor",
+        "title": "Luxury Hot Air Balloon Ridding in Luxor",
+        "keywords": "[\"short\", \"ride\", \"parsailing\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1928",
+        "region": "Hurghada",
+        "title": "Snorkeling at Mahmya Island from Hurghada in Egypt",
+        "keywords": "[\"short\", \"snorkling\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1929",
+        "region": "Luxor",
+        "title": "Private Tour: Valley of the Kings, Queen Hatshepsut Temple, Luxor and Karnak Temples from Luxor Airport",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1930",
+        "region": "Cairo",
+        "title": "Luxury Aswan to Luxor Nile cruise 4 days",
+        "keywords": "[\"long\", \"cruise\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1931",
+        "region": "Cairo",
+        "title": "Old Cairo Highlights Private Tour with Lunch",
+        "keywords": "[\"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1932",
+        "region": "Aswan",
+        "title": "04 Days Nile Cruise from Aswan to Luxor",
+        "keywords": "[\"long\", \"cruise\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1933",
+        "region": "Sharm",
+        "title": "Sinbad Submarine Under The Red Sea",
+        "keywords": "[\"short\", \"submarine\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1934",
+        "region": "Hurghada",
+        "title": "Hurghada: Full-Day Scuba Diving Adventure Tour with Lunch",
+        "keywords": "[\"fullday\", \"diving\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1935",
+        "region": "Luxor",
+        "title": "Private Tour: Valley of the Kings, Queen Hatshepsut, Luxor and Karnak Temples",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1936",
+        "region": "Dahab",
+        "title": "half-day Saint Simon monastery and miracle of Moqqatam mountain with Coptic Cairo",
+        "keywords": "[\"short\", \"climb\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1937",
+        "region": "Hurghada",
+        "title": "Snorkeling day trip in Red Sea by boat from Hurghada",
+        "keywords": "[\"short\", \"snorkling\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1938",
+        "region": "Alexandria",
+        "title": "Discover Alexandria With a Private Guide",
+        "keywords": "[\"short\", \"sea\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1939",
+        "region": "Cairo",
+        "title": "Cairo Highlights in One Day",
+        "keywords": "[\"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1940",
+        "region": "Cairo",
+        "title": "Half-day Churches of Cairo Tour with Cave Church, Coptic Cairo, Hanging Church",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1941",
+        "region": "Cairo",
+        "title": "Camel or Horse Sunset Safari from Giza with Dinner",
+        "keywords": "[\"short\", \"safari\", \"ride\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1942",
+        "region": "Cairo",
+        "title": "Half-Day trip to Giza Pyramids, Sphinx, Valley Temple with Camel Ride",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1943",
+        "region": "Cairo",
+        "title": "Cairo Private Day Tour: Egyptian Museum, Citadel, and Khan al-Khalil Bazaar with Lunch on Nile Island",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1944",
+        "region": "Luxor",
+        "title": "Hot air Balloon The life trip in Luxor Egypt",
+        "keywords": "[\"short\", \"ride\", \"parsailing\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1945",
+        "region": "Cairo",
+        "title": "Private Full Day Tour to Giza Pyramids, Sphinx, Citadel and Old Cairo",
+        "keywords": "[\"fullDay\", \"ancientEgypt\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1946",
+        "region": "Cairo",
+        "title": "Private Guided Half-Day Tour: Egyptian Museum in Cairo",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1947",
+        "region": "Cairo",
+        "title": "Private Tour: Giza Pyramids, Sphinx and Valley Temple with Lunch from Cairo",
+        "keywords": "[\"short\", \"safari\", \"ride\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1948",
+        "region": "Cairo",
+        "title": "Desert Safari by Quad Bike Around Pyramids",
+        "keywords": "[\"short\", \"safari\", \"ride\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1949",
+        "region": "Cairo",
+        "title": "Cairo: Old Coptic City Tour",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1950",
+        "region": "Cairo",
+        "title": "Day-Tour to the Red Sea from Cairo",
+        "keywords": "[\"short\", \"sea\", \"snorkling\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1951",
+        "region": "Luxor",
+        "title": "5-Day Nile River Cruise from Luxor to Aswan with Optional Private Guide",
+        "keywords": "[\"long\", \"cruise\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1952",
+        "region": "Luxor",
+        "title": "Luxor Nile River Private Felucca Ride at Sunset",
+        "keywords": "[\"short\", \"cruise\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1953",
+        "region": "Cairo",
+        "title": "A Day Tour to Cairo group price",
+        "keywords": "[\"short\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1954",
+        "region": "Cairo",
+        "title": "Transfer from Cairo Airport to Hotel in cairo or Giza",
+        "keywords": "[\"fullday\", \"ride\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1955",
+        "region": "Aswan",
+        "title": "Tour To Abu Simbel Temple From Aswan",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1956",
+        "region": "Luxor",
+        "title": "Private Guided Tour to Valley of the Kings",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1957",
+        "region": "Luxor",
+        "title": "Full Day Tour of Luxor West Bank",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "2",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1958",
+        "region": "Hurghada",
+        "title": "Hurghada Daily Scuba Dive trip",
+        "keywords": "[\"short\", \"diving\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1959",
+        "region": "Luxor",
+        "title": "Luxor Archaeology Tour-Visit Valley of the Kings & Karank & Luxor Temples & More",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1960",
+        "region": "Cairo",
+        "title": "Tour to Wadi El Natroun Monastery from Cairo",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1961",
+        "region": "Luxor",
+        "title": "abu simbel tour from luxor hotel or cruise",
+        "keywords": "[\"short\", \"ancientEgypt\", \"cruise\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1962",
+        "region": "Luxor",
+        "title": "Luxor Day Tour from Cairo by Flight",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1963",
+        "region": "Cairo",
+        "title": "8-Hour Private Guided City Tour of Cairo",
+        "keywords": "[\"short\"]",
+        "rating": "2.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1964",
+        "region": "Dahab",
+        "title": "Dolphin House Boat trip includes snorkeling, lunch and transfers.",
+        "keywords": "[\"short\", \"snorkling\", \"sea\", \"ride\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1965",
+        "region": "Cairo",
+        "title": "Private Arrival Transfer: Cairo International Airport to Giza or Cairo Hotel",
+        "keywords": "[\"short\"]",
+        "rating": "2",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1966",
+        "region": "Alexandria",
+        "title": "Private Customizable Day Tour to Alexandria from Cairo",
+        "keywords": "[\"short\", \"sea\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1967",
+        "region": "Cairo",
+        "title": "private day tour TO SAKKARA MEMPHIS DAHSHUR",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1968",
+        "region": "Cairo",
+        "title": "Full day tour to Giza pyramids,Sakkara pyramids&Memphis,Include Lunch&Camel ride",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1969",
+        "region": "Sharm",
+        "title": "Quad Biking in sharm Desert",
+        "keywords": "[\"short\", \"ride\", \"safari\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1970",
+        "region": "Luxor",
+        "title": "Day trip to Aswan from Luxor passing by Kom Ombo and Edfu Temples",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1971",
+        "region": "Hurghada",
+        "title": "Private Full-Day Tour of Luxor From Hurghada",
+        "keywords": "[\"short\", \"ancientEgypt\", \"cruise\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1972",
+        "region": "Dahab",
+        "title": "Grand Safari including Snorkeling at the Blue Hole and a Camel Ride along the Gulf of Aqaba",
+        "keywords": "[\"short\", \"snorkling\", \"ride\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1973",
+        "region": "Cairo",
+        "title": "Day-Tour to Giza pyramids with Camel riding Plus Egyptian Museum From Cairo",
+        "keywords": "[\"short\", \"ancientEgypt\", \"safari\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1974",
+        "region": "Cairo",
+        "title": "Private Alexandria Day Tour from Cairo",
+        "keywords": "[\"short\", \"sea\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1975",
+        "region": "Cairo",
+        "title": "6 Hours half day tour to Sakkara Memphis Dahshur with private tour guide",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1976",
+        "region": "Cairo",
+        "title": "Pyramid Highlights: private Day Tour to Giza Sakkara and Dahshur from Cairo",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1977",
+        "region": "Luxor",
+        "title": "Luxor Private Full-Day Tour: Discover the East and West Banks of the Nile",
+        "keywords": "[\"short\", \"ancientEgypt\", \"cruise\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1978",
+        "region": "Luxor",
+        "title": "Sand board at Fayoum Oasis",
+        "keywords": "[\"short\", \"safari\", \"ride\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1979",
+        "region": "Hurghada",
+        "title": "Hurghada Desert Safari - Sunset ATV trip with Camel Ride and BBQ Meal",
+        "keywords": "[\"short\", \"safari\", \"ride\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1980",
+        "region": "Cairo",
+        "title": "Private Tour to explore Giza Pyramids - Saqqara -Memphis",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1981",
+        "region": "Cairo",
+        "title": "Giza Pyramids Day trip include enter inside the Great Pyramid and Solar boat",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1982",
+        "region": "Cairo",
+        "title": "8-Hour Private Tour to the Pyramids of Giza and Saqqara including Lunch from Cairo",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1983",
+        "region": "Cairo",
+        "title": "half day tour to Giza Pyramids & Sphinx",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1984",
+        "region": "Giza",
+        "title": "Day trip to Alexandria from Giza",
+        "keywords": "[\"short\", \"sea\"]",
+        "rating": "5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1985",
+        "region": "Giza",
+        "title": "Luxor - Karnak Sound and Light At Night",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1986",
+        "region": "Cairo",
+        "title": "snorkling campaign",
+        "keywords": "[\"short\", \"snorkling\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1987",
+        "region": "Giza",
+        "title": "Islamic and Coptic Cairo day tour from cairo or giza",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1988",
+        "region": "Luxor",
+        "title": "Luxor Airport Private Departure Transfer",
+        "keywords": "[\"short\"]",
+        "rating": "2",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1989",
+        "region": "Cairo",
+        "title": "full day private tour to Luxor East and west Banks Day Tour in Luxor",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1990",
+        "region": "Cairo",
+        "title": "Pyramids Sound and Light Show with Private Transport",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1991",
+        "region": "Giza",
+        "title": "One-Way Transfer in Cairo and Giza from or to Airport",
+        "keywords": "[\"short\"]",
+        "rating": "2",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1992",
+        "region": "Cairo",
+        "title": "Sound and Light Show at Giza Pyramids including Private Transfer from Cairo",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1993",
+        "region": "Luxor",
+        "title": "Private Day Tour to the Temple of Hathor at Dendera",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1994",
+        "region": "Cairo",
+        "title": "Private Nile Felucca Ride from Cairo",
+        "keywords": "[\"short\", \"cruise\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "high-price",
+        "itemid": "1995",
+        "region": "Aswan",
+        "title": "4 Day Sightseeing Cruise Along the Nile from Aswan",
+        "keywords": "[\"long\", \"cruise\"]",
+        "rating": "4.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1996",
+        "region": "Sharm",
+        "title": "Private Tour: 6-Hour Quad Bike Safari trip to Sahara with Dinner, Show, and Star-Gazing",
+        "keywords": "[\"short\", \"ride\", \"safari\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1997",
+        "region": "Luxor",
+        "title": "Book online Private transfer from Luxor to Aswan",
+        "keywords": "[\"short\"]",
+        "rating": "4",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "1998",
+        "region": "Hurghada",
+        "title": "Guided Day trip to Cairo from Hurghada By Bus",
+        "keywords": "[\"short\"]",
+        "rating": "3.5",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "moderate-price",
+        "itemid": "1999",
+        "region": "Alexandria",
+        "title": "Private Alexandria Highlights Guided Day Tour",
+        "keywords": "[\"short\"]",
+        "rating": "2",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "2000",
+        "region": "Luxor",
+        "title": "LUXOR HOT AIR BALLOON",
+        "keywords": "[\"short\", \"ride\", \"parsailing\"]",
+        "rating": "3",
+        "type": "trip"
+    },
+    {
+        "price_cateogry": "low-price",
+        "itemid": "2001",
+        "region": "Cairo",
+        "title": "Layover Tour to Pyramids of Giza, Sakkara and Memphis with Lunch",
+        "keywords": "[\"short\", \"ancientEgypt\"]",
+        "rating": "4",
+        "type": "trip"
+    }
+]

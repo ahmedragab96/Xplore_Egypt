@@ -1,0 +1,6374 @@
+[
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"BabySitting\"]",
+        "type": "Htel",
+        "itemid": "216",
+        "title": "Sofitel Cairo El Gezirah"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "217",
+        "title": "Le Meridien Cairo Airport"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "218",
+        "title": "Conrad Cairo"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "219",
+        "title": "Le Passage Cairo"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"BabySitting\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "220",
+        "title": "Fairmont Nile City"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Nile\"]",
+        "type": "Hotel",
+        "itemid": "222",
+        "title": "Kempinski Nile Hotel Cairo"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "223",
+        "title": "Windsor Hotel Cairo"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "224",
+        "title": "City View Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "225",
+        "title": "Renaissance Cairo Mirage City Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Luxury\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "227",
+        "title": "Cairo Marriott Hotel & Omar Khayyam Casino"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Luxury\", \"Family\", \"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "228",
+        "title": "Royal Maxim Palace Kempinski"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "229",
+        "title": "Freedom Hostel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "high-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "230",
+        "title": "Hilton Cairo Heliopolis"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "231",
+        "title": "Osiris Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Family\", \"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "232",
+        "title": "JW Marriott Hotel Cairo"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "233",
+        "title": "Concorde El Salam Hotel Cairo by Royal Tulip"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "234",
+        "title": "InterContinental Cairo Semiramis"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Pets\"]",
+        "type": "Hotel",
+        "itemid": "235",
+        "title": "InterContinental Cairo Citystars"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Pets\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "236",
+        "title": "Holiday Inn Cairo \u00e2\u20ac\u201c Citystars"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "237",
+        "title": "Heliopolis Towers Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Cairo",
+        "keywords": "[\"Luxury\", \"Nile\"]",
+        "type": "Hotel",
+        "itemid": "238",
+        "title": "Staybridge Suites Cairo-Citystars"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "high-price",
+        "region": "Cairo",
+        "keywords": "[\"Pets\", \"Nile\"]",
+        "type": "Hotel",
+        "itemid": "239",
+        "title": "Novotel Cairo Airport"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Nile\"]",
+        "type": "Hotel",
+        "itemid": "240",
+        "title": "Ramses Hilton"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "241",
+        "title": "Novotel Cairo El Borg"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "242",
+        "title": "Hilton Cairo Zamalek Residences"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "243",
+        "title": "Four Seasons Hotel Cairo at Nile Plaza"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"BabySitting\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "244",
+        "title": "The Nile Ritz-Carlton, Cairo"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "245",
+        "title": "Sonesta Hotel, Tower & Casino Cairo"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "high-price",
+        "region": "Cairo",
+        "keywords": "[\"Luxury\", \"Nile\"]",
+        "type": "Hotel",
+        "itemid": "246",
+        "title": "Grand Nile Tower"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Pets\", \"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "247",
+        "title": "Hotel Grand Royal"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Family\", \"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "248",
+        "title": "Al Masa Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "high-price",
+        "region": "Cairo",
+        "keywords": "[\"Family\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "249",
+        "title": "The Westin Cairo Golf Resort & Spa, Katameya Dunes"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "250",
+        "title": "Baron Hotel Heliopolis Cairo"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "251",
+        "title": "One Season Hostel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Family\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "252",
+        "title": "Cairo International Hostel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Luxury\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "253",
+        "title": "Le Meridien Heliopolis"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "254",
+        "title": "Paradise Boutique Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "high-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"BabySitting\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "255",
+        "title": "Holiday Inn Cairo Maadi"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "high-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "256",
+        "title": "Novotel Cairo 6th Of October"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Trendy\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "257",
+        "title": "Cecilia Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Family\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "258",
+        "title": "The Gabriel Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "259",
+        "title": "Cairo Paradise Hotel"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "260",
+        "title": "Hostgram Hostel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"PoolFamily\"]",
+        "type": "Hotel",
+        "itemid": "261",
+        "title": "Cairo Moon Hotel"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "262",
+        "title": "Tahrir Square Hostel"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "263",
+        "title": "New Minerva"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "264",
+        "title": "Paris Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "265",
+        "title": "Meramees Hostel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "266",
+        "title": "Bella Luna"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "267",
+        "title": "The Australian Hostel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "268",
+        "title": "My Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "269",
+        "title": "Wake UP Cairo Hostel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "270",
+        "title": "Havana Hotel Cairo"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "271",
+        "title": "Talisman Hotel de Charme"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"family\"]",
+        "type": "Hotel",
+        "itemid": "272",
+        "title": "Miami Cairo Hostel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "273",
+        "title": "Pension Roma"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"BabySitting\", \"family\"]",
+        "type": "Hotel",
+        "itemid": "274",
+        "title": "Hotel Royal"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "275",
+        "title": "Radisson Blu Hotel, Cairo Heliopolis"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Family\"]",
+        "type": "Hotel",
+        "itemid": "276",
+        "title": "Midtown Hostel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "277",
+        "title": "Invitation Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "278",
+        "title": "African House Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "279",
+        "title": "Azar Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "280",
+        "title": "Arabesque Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "281",
+        "title": "The Karvin Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "282",
+        "title": "Museum House Hostel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "283",
+        "title": "Tolip Golden Plaza Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "285",
+        "title": "Mesho Inn Hostel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "287",
+        "title": "Sakkara Inn Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "288",
+        "title": "Swiss Inn Hotel Cairo"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Pets\"]",
+        "type": "Hotel",
+        "itemid": "289",
+        "title": "Horus House Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "290",
+        "title": "Glorious Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "291",
+        "title": "Amin Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "292",
+        "title": "Cheops Pyramids Inn"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "293",
+        "title": "Capital Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "294",
+        "title": "King Tut Hostel"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "295",
+        "title": "Pyramids Loft Guesthouse"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "296",
+        "title": "Sun Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "299",
+        "title": "Family Palace Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "300",
+        "title": "Isis Hotel 2"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "301",
+        "title": "Voyage Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "302",
+        "title": "Ramses Palace Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Family\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "303",
+        "title": "Almasa Royal Palace"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "304",
+        "title": "Arabia Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "305",
+        "title": "Tolip EL Narges"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Luxury\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "306",
+        "title": "Grand Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "307",
+        "title": "Eco Inn"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "308",
+        "title": "Safari Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Trendy\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "309",
+        "title": "African House Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Trendy\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "312",
+        "title": "Midtown Hostel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Trendy\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "313",
+        "title": "Invitation Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Cairo",
+        "keywords": "[\"Family\", \"Pool\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "314",
+        "title": "Almasa Royal Palace"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "315",
+        "title": "Miramar Downtown Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Trendy\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "316",
+        "title": "Tolip Golden Plaza Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "317",
+        "title": "President Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Family\"]",
+        "type": "Hotel",
+        "itemid": "318",
+        "title": "Golden Park Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "319",
+        "title": "Eco Inn"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "320",
+        "title": "Capital Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Historic\"]",
+        "type": "Hotel",
+        "itemid": "321",
+        "title": "Azar Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "322",
+        "title": "Glorious Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "324",
+        "title": "Sufi House"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "325",
+        "title": "New City Suites & Apartments"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "326",
+        "title": "Arabia Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "327",
+        "title": "Swiss Inn Hotel Cairo"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Family\"]",
+        "type": "Hotel",
+        "itemid": "328",
+        "title": "Mesho Inn Hostel"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "329",
+        "title": "Oasis Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Family\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "330",
+        "title": "Grand Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "331",
+        "title": "Grand Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "332",
+        "title": "King Tut Hostel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "333",
+        "title": "Sakan 275"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "334",
+        "title": "Cairo Inn"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"family\"]",
+        "type": "Hotel",
+        "itemid": "335",
+        "title": "Arabesque Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "336",
+        "title": "Om Kolthoom Hotel & Tower"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "337",
+        "title": "New Marina Hostel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Luxury\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "338",
+        "title": "Tolip Family Park Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "339",
+        "title": "Pharaohs Palace Hostel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "340",
+        "title": "El Tonsy Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "341",
+        "title": "Atlas Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Nile\"]",
+        "type": "Hotel",
+        "itemid": "342",
+        "title": "Nile Boutique"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Family \"]",
+        "type": "Hotel",
+        "itemid": "343",
+        "title": "Colour Holidays"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Nile\"]",
+        "type": "Hotel",
+        "itemid": "344",
+        "title": "Nile Hunters Suites & Apt"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "345",
+        "title": "New President Hotel Zamalek"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "346",
+        "title": "Travelholic Hostel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Family\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "347",
+        "title": "Beirut Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "348",
+        "title": "Kirotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "349",
+        "title": "Magy Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "350",
+        "title": "Rehana Plaza Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "351",
+        "title": "Maadi Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "352",
+        "title": "Happy City Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Family\", \"Pits \"]",
+        "type": "Hotel",
+        "itemid": "353",
+        "title": "Hostel Vienna"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Family\", \"Pool\", \"BabySitting\", \"Pits\"]",
+        "type": "Hotel",
+        "itemid": "354",
+        "title": "Monte Cairo Suites"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "355",
+        "title": "Milano Hostel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "356",
+        "title": "Ciao Cairo Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "357",
+        "title": "Cairo Stars Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Family\", \"BabySitting\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "358",
+        "title": "Holidays Express"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Family\"]",
+        "type": "Hotel",
+        "itemid": "360",
+        "title": "Caesar's Palace Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Nile\"]",
+        "type": "Hotel",
+        "itemid": "361",
+        "title": "Chateau Lafayette"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "high-price",
+        "region": "Cairo",
+        "keywords": "[\"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "362",
+        "title": "Triumph Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Pits\"]",
+        "type": "Hotel",
+        "itemid": "363",
+        "title": "Mayorca Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Family \"]",
+        "type": "Hotel",
+        "itemid": "364",
+        "title": "Santana Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "365",
+        "title": "Dina's Hostel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "366",
+        "title": "King Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "367",
+        "title": "Helnan Landmark Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "368",
+        "title": "Town View Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "369",
+        "title": "Concord Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "high-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "370",
+        "title": "Cairo Khan Suites Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"BabySitting\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "371",
+        "title": "Pharaoh Egypt Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "372",
+        "title": "Hotel Velvet 1928"
+    },
+    {
+        "rating": "1.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Family \"]",
+        "type": "Hotel",
+        "itemid": "373",
+        "title": "Nile Plaza Hostel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "374",
+        "title": "Cairo View Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Family \", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "375",
+        "title": "Sara Inn Hostel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "376",
+        "title": "Dahab Hostel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "377",
+        "title": "Tolip El Galaa Hotel Cairo"
+    },
+    {
+        "rating": "2.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "378",
+        "title": "Kanzy Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"family\"]",
+        "type": "Hotel",
+        "itemid": "379",
+        "title": "Nitocrisse"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "380",
+        "title": "Royal Marshal Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "381",
+        "title": "Louris Inn"
+    },
+    {
+        "rating": "2.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "382",
+        "title": "Desert Moon"
+    },
+    {
+        "rating": "2.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "383",
+        "title": "Grand Palace Hotel"
+    },
+    {
+        "rating": "2.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "384",
+        "title": "Tolip Inn Maadi"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Family\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "387",
+        "title": "Cairo Heart Hotel\""
+    },
+    {
+        "rating": "2.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pets\"]",
+        "type": "Hotel",
+        "itemid": "388",
+        "title": "Richmond House Hostel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Nile\"]",
+        "type": "Hotel",
+        "itemid": "389",
+        "title": "Nile Zamalek Hotel"
+    },
+    {
+        "rating": "2",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "390",
+        "title": "Hor Moheb Hotel"
+    },
+    {
+        "rating": "2",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Family\", \"BabySitting\", \"Pits\"]",
+        "type": "Hotel",
+        "itemid": "391",
+        "title": "Garden View Hostel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "392",
+        "title": "Golden Carven Hotel"
+    },
+    {
+        "rating": "1.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "393",
+        "title": "Grand Lyly Hotel"
+    },
+    {
+        "rating": "2.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "394",
+        "title": "Bedouin Hostel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "395",
+        "title": "Oriental Hoste"
+    },
+    {
+        "rating": "2.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "396",
+        "title": "Cairo Hotel"
+    },
+    {
+        "rating": "2.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"BabySitting\", \"Pets\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "397",
+        "title": "Jamaica Hostel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "398",
+        "title": "Regent House Hostel"
+    },
+    {
+        "rating": "2",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "399",
+        "title": "Arabella"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "51",
+        "title": "City Hostel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Family \"]",
+        "type": "Hotel",
+        "itemid": "56",
+        "title": "Downtown inn"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "high-price",
+        "region": "Cairo",
+        "keywords": "[\"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "67",
+        "title": "Dream Apartment"
+    },
+    {
+        "rating": "2",
+        "price_cateogry": "low-price ",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "75",
+        "title": "Nasrcity Club House"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "high-price",
+        "region": "Cairo",
+        "keywords": "[\"Historic\", \"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "90",
+        "title": "Nefertary Hostel"
+    },
+    {
+        "rating": "2.5",
+        "price_cateogry": "low-price ",
+        "region": "Cairo",
+        "keywords": "[\"Family\"]",
+        "type": "Hotel",
+        "itemid": "91",
+        "title": "Nour Elsabah Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Historic\", \"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "109",
+        "title": "Osiris House"
+    },
+    {
+        "rating": "2.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "115",
+        "title": "Panorama Hostel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "120",
+        "title": "Panorama Palace Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "127",
+        "title": "Prime Residence New Cairo\""
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "128",
+        "title": "The Square Boutique Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "134",
+        "title": "Veltvet 1915"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "136",
+        "title": "Wasatalbalad Inn"
+    },
+    {
+        "rating": "2.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "138",
+        "title": "Welcome Arabesque"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Family\", \"Luxury\", \"Pets\"]",
+        "type": "Hotel",
+        "itemid": "139",
+        "title": "Nourhan\u00e2\u20ac\u2122s hotel"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Family\", \"Trendy\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "142",
+        "title": "yomna\u00e2\u20ac\u2122s hotel"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "high-price",
+        "region": "Cairo",
+        "keywords": "[\"Historic\", \"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "143",
+        "title": "mariam\u00e2\u20ac\u2122s hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"luxury\"]",
+        "type": "Hotel",
+        "itemid": "182",
+        "title": "Zamalek Luxurious Apartments"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "high-price",
+        "region": "Cairo",
+        "keywords": "[\"luxury\", \"Historic\"]",
+        "type": "Hotel",
+        "itemid": "192",
+        "title": "4Ever"
+    },
+    {
+        "rating": "2.5",
+        "price_cateogry": "high-price",
+        "region": "Cairo",
+        "keywords": "[\"Nile\"]",
+        "type": "Hotel",
+        "itemid": "476",
+        "title": "maspero\u2019s hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "high-price",
+        "region": "Sharm",
+        "keywords": "[\"Family\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "477",
+        "title": "four seasons resort sharm elsheikh"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "high-price",
+        "region": "Hurghada",
+        "keywords": "[\"Family\", \"BabySitting\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "478",
+        "title": "the operoi sahl hasheesh"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Family\", \"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "479",
+        "title": "Albatros white beach"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "high-price",
+        "region": "Hurghada",
+        "keywords": "[\"Family\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "480",
+        "title": "Kempiniski hotel"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "high-price",
+        "region": "Cairo",
+        "keywords": "[\"Family\", \"Nile\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "481",
+        "title": "ElNile Ritz carliton"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "high-price",
+        "region": "Hurghada",
+        "keywords": "[\"Nile\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "482",
+        "title": "Steigenberger"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "high-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "483",
+        "title": "Mariot mena house"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "high-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "484",
+        "title": "Jaz maadi star and spa"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "high-price",
+        "region": "Sharm",
+        "keywords": "[\"Luxury\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "485",
+        "title": "Nubian village aqua hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Alexandria",
+        "keywords": "[\"Pool\", \"Trendy\", \"Pets\"]",
+        "type": "Hotel",
+        "itemid": "1292",
+        "title": "Task hotel alex"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Alexandria",
+        "keywords": "[\"Pets\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "1293",
+        "title": "stanley apartment "
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "high-price",
+        "region": "Alexandria",
+        "keywords": "[\"Luxury\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "1294",
+        "title": "Helton Alex"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Alexandria",
+        "keywords": "[\"Pool\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "1295",
+        "title": "Royal karawan"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "high-price",
+        "region": "Dahab",
+        "keywords": "[\"Luxury\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1296",
+        "title": "Tirana dahab resort"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Dahab",
+        "keywords": "[\"Trendy\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1297",
+        "title": "Golden Europe hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Trendy\", \"Pool\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "1298",
+        "title": "seven heaven "
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Marsa Alam",
+        "keywords": "[\"Trendy\", \"Family\", \"Pets\"]",
+        "type": "Hotel",
+        "itemid": "1299",
+        "title": "octopus hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Dahab",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1300",
+        "title": "primo dahab"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Cairo",
+        "keywords": "[\"Family\"]",
+        "type": "Hotel",
+        "itemid": "1301",
+        "title": "oscar life"
+    },
+    {
+        "rating": "2.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Trendy\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1302",
+        "title": "Alf lela wa lela"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "high-price",
+        "region": "Dahab",
+        "keywords": "[\"Luxury\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1303",
+        "title": "ezis peramaza "
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Luxor",
+        "keywords": "[\"Trendy\", \"Pool\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "1304",
+        "title": "new pola"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Alexandria",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1319",
+        "title": "Romance Alexandria Corniche Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Alexandria",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1320",
+        "title": "Hilton Alexandria Corniche"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "high-price",
+        "region": "Alexandria",
+        "keywords": "[\"Historic\"]",
+        "type": "Hotel",
+        "itemid": "1321",
+        "title": "Steigenberger Cecil Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "high-price",
+        "region": "Alexandria",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1323",
+        "title": "Helnan Palestine Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Alexandria",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1324",
+        "title": "Four Seasons Hotel Alexandria"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Alexandria",
+        "keywords": "[\"Pool\", \"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1325",
+        "title": "Radisson Blu Hotel, Alexandria"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Alexandria",
+        "keywords": "[\"Pool\", \"Trendy\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1326",
+        "title": "Hilton Alexandria King's Ranch"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Alexandria",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1327",
+        "title": "TOLIP Hotel Alexandria"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Alexandria",
+        "keywords": "[\"Family\"]",
+        "type": "Hotel",
+        "itemid": "1328",
+        "title": "Alexander the Great Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Alexandria",
+        "keywords": "[\"Pool\", \"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1329",
+        "title": "Cherry Maryski Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Alexandria",
+        "keywords": "[\"Pool\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1330",
+        "title": "Sheraton Montazah Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Alexandria",
+        "keywords": "[\"BabySitting\", \"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1331",
+        "title": "Green Plaza Inn Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Alexandria",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1332",
+        "title": "Hotel Transit Alexandria"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Alexandria",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1334",
+        "title": "The Grand Plaza Hotel Smouha"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Alexandria",
+        "keywords": "[\"Historic\"]",
+        "type": "Hotel",
+        "itemid": "1335",
+        "title": "Paradise Inn Le Metropole Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Alexandria",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1336",
+        "title": "Triomphe Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Alexandria",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1337",
+        "title": "Plaza Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Alexandria",
+        "keywords": "[\"Family\"]",
+        "type": "Hotel",
+        "itemid": "1338",
+        "title": "Alexandria Mediterranean Suites"
+    },
+    {
+        "rating": " ",
+        "price_cateogry": "low-price",
+        "region": "Alexandria",
+        "keywords": "[\"Historic\"]",
+        "type": "Hotel",
+        "itemid": "1339",
+        "title": "Paradise Inn Windsor Palace Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Alexandria",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1340",
+        "title": "Mediterranean Azur Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Alexandria",
+        "keywords": "[\"Pool\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "1341",
+        "title": "Africana Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Alexandria",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1342",
+        "title": "Al Maghraby Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Alexandria",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1343",
+        "title": "Tolip Sports City Borg El Arab"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Alexandria",
+        "keywords": "[\"Pool\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "1343",
+        "title": "Adham Compound Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Alexandria",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1344",
+        "title": "Eastern Al Montazah Hotel"
+    },
+    {
+        "rating": "2",
+        "price_cateogry": "low-price",
+        "region": "Alexandria",
+        "keywords": "[\"Family\"]",
+        "type": "Hotel",
+        "itemid": "1345",
+        "title": "Kaoud Sporting Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Alexandria",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1346",
+        "title": "Romance Alexandria Corniche Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Alexandria",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1347",
+        "title": "Hilton Alexandria Corniche"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "high-price",
+        "region": "Alexandria",
+        "keywords": "[\"Historic\"]",
+        "type": "Hotel",
+        "itemid": "1348",
+        "title": "Steigenberger Cecil Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "high-price",
+        "region": "Alexandria",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1349",
+        "title": "Helnan Palestine Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Alexandria",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1350",
+        "title": "Four Seasons Hotel Alexandria"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Alexandria",
+        "keywords": "[\"Pool\", \"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1351",
+        "title": "Radisson Blu Hotel, Alexandria"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Alexandria",
+        "keywords": "[\"Pool\", \"Luxury\", \"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1352",
+        "title": "Hilton Alexandria King's Ranch"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Alexandria",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1353",
+        "title": "TOLIP Hotel Alexandria"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Alexandria",
+        "keywords": "[\"Family\"]",
+        "type": "Hotel",
+        "itemid": "1354",
+        "title": "Alexander the Great Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Alexandria",
+        "keywords": "[\"Family\"]",
+        "type": "Hotel",
+        "itemid": "1355",
+        "title": "Amoun Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Alexandria",
+        "keywords": "[\"Pool\", \"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1356",
+        "title": "Cherry Maryski Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Alexandria",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1357",
+        "title": "Sheraton Montazah Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Alexandria",
+        "keywords": "[\"BabySitting\", \"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1358",
+        "title": "Green Plaza Inn Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Alexandria",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1359",
+        "title": "Hotel Transit Alexandria"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Alexandria",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1360",
+        "title": "The Grand Plaza Hotel Smouha"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Alexandria",
+        "keywords": "[\"Historic\"]",
+        "type": "Hotel",
+        "itemid": "1361",
+        "title": "Paradise Inn Le Metropole Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Alexandria",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1362",
+        "title": "Triomphe Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Alexandria",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1363",
+        "title": "Plaza Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Alexandria",
+        "keywords": "[\"Family\"]",
+        "type": "Hotel",
+        "itemid": "1364",
+        "title": "Alexandria Mediterranean Suites"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Alexandria",
+        "keywords": "[\"Historic\"]",
+        "type": "Hotel",
+        "itemid": "1365",
+        "title": "Paradise Inn Windsor Palace Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Alexandria",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1366",
+        "title": "Mediterranean Azur Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Alexandria",
+        "keywords": "[\"Pool\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "1367",
+        "title": "Africana Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Alexandria",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1368",
+        "title": "Al Maghraby Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Alexandria",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1369",
+        "title": "Tolip Sports City Borg El Arab"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Alexandria",
+        "keywords": "[\"Pool\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "1370",
+        "title": "Adham Compound Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Alexandria",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1371",
+        "title": "Eastern Al Montazah Hotel"
+    },
+    {
+        "rating": "",
+        "price_cateogry": "low-price",
+        "region": "Alexandria",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1372",
+        "title": "Royal NJ Hotel"
+    },
+    {
+        "rating": "",
+        "price_cateogry": "low-price",
+        "region": "Alexandria",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1373",
+        "title": "Mandara Armed Forces Apartments"
+    },
+    {
+        "rating": "2",
+        "price_cateogry": "low-price",
+        "region": "Alexandria",
+        "keywords": "[\"Family\"]",
+        "type": "Hotel",
+        "itemid": "1374",
+        "title": "Kaoud Sporting Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Aswan",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1375",
+        "title": "Movenpick Resort Aswan"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Aswan",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1376",
+        "title": "Sofitel Legend Old Cataract Aswan"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Aswan",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1377",
+        "title": "AnaKato"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Aswan",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1378",
+        "title": "Philae Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Aswan",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1379",
+        "title": "Bet el Kerem"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Aswan",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1380",
+        "title": "Pyramisa Isis Island Resort & Spa"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Aswan",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1381",
+        "title": "Pyramisa Isis Corniche Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Aswan",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1382",
+        "title": "Basma Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Aswan",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1383",
+        "title": "Hadouta Masreya - Nubian Guest House"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Aswan",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1384",
+        "title": "Kato Dool Nubian House"
+    },
+    {
+        "rating": "2.5",
+        "price_cateogry": "moderate-price",
+        "region": "Aswan",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1385",
+        "title": "Nubian Oasis Hotel"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "moderate-price",
+        "region": "Aswan",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1386",
+        "title": "Ounaty Ka"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Aswan",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1387",
+        "title": "Batota House"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Aswan",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1388",
+        "title": "Memnon Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Aswan",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1389",
+        "title": "Movenpick Resort Aswan"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Aswan",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1390",
+        "title": "Sofitel Legend Old Cataract Aswan"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Aswan",
+        "keywords": "[\"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1391",
+        "title": "AnaKato"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Aswan",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1392",
+        "title": "Philae Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Aswan",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1393",
+        "title": "Bet el Kerem"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Aswan",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1394",
+        "title": "Pyramisa Isis Island Resort & Spa"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Aswan",
+        "keywords": "[\"Pool\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "1395",
+        "title": "Pyramisa Isis Corniche Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Aswan",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1396",
+        "title": "Basma Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Aswan",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1397",
+        "title": "Keylany Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Aswan",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1398",
+        "title": "Nubian Holiday House Aswan"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Aswan",
+        "keywords": "[\"family\"]",
+        "type": "Hotel",
+        "itemid": "1399",
+        "title": "Happi Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Aswan",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1400",
+        "title": "Helnan Aswan Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Aswan",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1401",
+        "title": "Hadouta Masreya - Nubian Guest House"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Aswan",
+        "keywords": "[\"family\"]",
+        "type": "Hotel",
+        "itemid": "1402",
+        "title": "Kato Dool Nubian House"
+    },
+    {
+        "rating": "2.5",
+        "price_cateogry": "moderate-price",
+        "region": "Aswan",
+        "keywords": "[\"family\"]",
+        "type": "Hotel",
+        "itemid": "1403",
+        "title": "Nubian Oasis Hotel"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "moderate-price",
+        "region": "Aswan",
+        "keywords": "[\"family\"]",
+        "type": "Hotel",
+        "itemid": "1404",
+        "title": "Ounaty Ka"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Aswan",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1405",
+        "title": "Batota House"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Aswan",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1406",
+        "title": "Memnon Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1407",
+        "title": "Best View Pyramids Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "1408",
+        "title": "Pyramids View Inn"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\", \"BabySitting\", \"Family\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1409",
+        "title": "Marriott Mena House, Cairo"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Giza",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1410",
+        "title": "Great Pyramid Inn"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\", \"Family\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1411",
+        "title": "Le Meridien Pyramids Hotel & Spa"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1412",
+        "title": "Marvel Stone Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1413",
+        "title": "Hayat Pyramids View Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1414",
+        "title": "Aracan Pyramids Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1415",
+        "title": "Barcelo Cairo Pyramids"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1416",
+        "title": "Pyramisa Suites Hotel Cairo"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1417",
+        "title": "Cairo Pyramids Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1418",
+        "title": "Pyramids Valley"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "1419",
+        "title": "Movenpick Hotel & Casino Cairo-Media City"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Family\"]",
+        "type": "Hotel",
+        "itemid": "1420",
+        "title": "3 Pyramids View Inn"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Giza",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1421",
+        "title": "Ramosa Guest House"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Giza",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1422",
+        "title": "Horus Guest House Pyramids View"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1423",
+        "title": "Best View Pyramids Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Giza",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1424",
+        "title": "Pyramids View Inn"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\", \"BabySitting\", \"Luxury\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "1425",
+        "title": "Marriott Mena House, Cairo"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1426",
+        "title": "Great Pyramid Inn"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1427",
+        "title": "Mercure Cairo Le Sphinx"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1428",
+        "title": "Giza Pyramids Inn"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1429",
+        "title": "Safir Hotel Cairo"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1430",
+        "title": "Sheraton Cairo Hotel & Casino"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\", \"BabySitting\", \"Family\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1431",
+        "title": "Four Seasons Hotel Cairo at the First Residence"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1432",
+        "title": "Swiss Inn Pyramids Golf Resort & Swiss Inn Plaza"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Giza",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1433",
+        "title": "Pyramids Loft Homestay"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "1434",
+        "title": "Hilton Pyramids Golf"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Family\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1435",
+        "title": "Le Meridien Pyramids Hotel & Spa"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1436",
+        "title": "Marvel Stone Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1437",
+        "title": "Hayat Pyramids View Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1438",
+        "title": "Aracan Pyramids Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1439",
+        "title": "Barcelo Cairo Pyramids"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1440",
+        "title": "Pyramisa Suites Hotel Cairo"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1441",
+        "title": "Cairo Pyramids Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1442",
+        "title": "Pyramids Valley"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1443",
+        "title": "Panorama Pyramids Inn"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1444",
+        "title": "Grand Pyramids Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\", \"Family\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1445",
+        "title": "Movenpick Hotel & Casino Cairo-Media City"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1446",
+        "title": "3 Pyramids View Inn"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1447",
+        "title": "Pyramids Overlook Inn"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "high-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\", \"Family\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1448",
+        "title": "Helnan Dreamland Hotel"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "low-price",
+        "region": "Giza",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1449",
+        "title": "Pyramids Guest House"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1450",
+        "title": "Sphinx Guest House"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Giza",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1451",
+        "title": "Ramosa Guest House"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Giza",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1452",
+        "title": "Horus Guest House Pyramids View"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1453",
+        "title": "Indiana Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1454",
+        "title": "Pyramid view"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1455",
+        "title": "Best View Pyramids Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1456",
+        "title": "Guardian hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1457",
+        "title": "Amoun Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1458",
+        "title": "Three Pyramids"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1459",
+        "title": "Desert Rose Ecolodge Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1460",
+        "title": "Kinow Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1461",
+        "title": "Solaimaneyah Golf Resort & Spa"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1462",
+        "title": "Al Saraya Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1463",
+        "title": "Nile King Hotel"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1464",
+        "title": "Atlas Zamalek Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1465",
+        "title": "Abou El Houl Palace Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1466",
+        "title": "Daas Holiday Suites"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1467",
+        "title": "El Samah Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1468",
+        "title": "Guesthouse Cairo"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1469",
+        "title": "Gulf House"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1470",
+        "title": "Hady Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1471",
+        "title": "Moon Light Hotel"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "low-price",
+        "region": "Giza",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1472",
+        "title": "The Pharaoh's House"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1473",
+        "title": "Pyramids View rooms Guest House"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1474",
+        "title": "The View Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Giza",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1475",
+        "title": "Guardian Guest House"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\", \"Family\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1476",
+        "title": "Oasis Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Giza",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1477",
+        "title": "Bonne Vie Hotel"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "low-price",
+        "region": "Giza",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1478",
+        "title": "Egypt Pyramids Inn"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Giza",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1479",
+        "title": "Middle East Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\", \"BabySitting\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1480",
+        "title": "Golden Tulip Narmer Pyramids"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Giza",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1481",
+        "title": "Siag Pyramids Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Family\", \"Luxury\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1482",
+        "title": "SUNRISE Royal Makadi Aqua Resort -Select-"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Family\", \"Luxury\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1483",
+        "title": "Serenity Fun City"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Family\", \"Luxury\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1484",
+        "title": "Desert Rose Resort"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Family\", \"Luxury\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1485",
+        "title": "MinaMark Beach Resort"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Hurghada",
+        "keywords": "[\"Family\", \"Luxury\", \"Pool\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1486",
+        "title": "Movenpick Resort & Spa El Gouna"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Family\", \"Luxury\", \"Pool\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1487",
+        "title": "SUNRISE Crystal Bay - Grand Select-"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1488",
+        "title": "Titanic Resort & Aqua Park"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "high-price",
+        "region": "Hurghada",
+        "keywords": "[\"Family\", \"Luxury\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1489",
+        "title": "The Oberoi Sahl Hasheesh"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Family\", \"Luxury\", \"Pool\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1490",
+        "title": "Sheraton Miramar Resort El Gouna"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Family\", \"Luxury\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1491",
+        "title": "SUNRISE Holidays Resort"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Family\", \"Luxury\", \"Pool\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1492",
+        "title": "Steigenberger ALDAU Beach Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1493",
+        "title": "Meraki Resort"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1494",
+        "title": "Nubia Aqua Beach Resort"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"Pool\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1495",
+        "title": "Albatros Aqua Park Resort"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Hurghada",
+        "keywords": "[\"Family\", \"Luxury\", \"Pool\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1496",
+        "title": "SUNRISE Garden Beach Resort -Select-"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"Pool\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1497",
+        "title": "Royal Star Beach Resort"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Hurghada",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1498",
+        "title": "White Beach Resort"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Pool\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1499",
+        "title": "SUNRISE Royal Makadi Aqua Resort -Select-"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Pool\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1500",
+        "title": "Serenity Fun City"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Pool\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1501",
+        "title": "Desert Rose Resort"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"Pool\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1502",
+        "title": "Serenity Makadi Beach"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Family\", \"Luxury\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1503",
+        "title": "Hilton Hurghada Resort"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Family\", \"Luxury\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1504",
+        "title": "Hurghada Marriott Beach Resort"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "high-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1505",
+        "title": "Baron Palace Sahl Hasheesh"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1506",
+        "title": "MinaMark Beach Resort"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Family\", \"Luxury\", \"BabySitting\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1507",
+        "title": "Mercure Hurghada Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1508",
+        "title": "SUNRISE Romance Resort Sahl Hasheesh"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Hurghada",
+        "keywords": "[\"Pool\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1509",
+        "title": "Movenpick Resort & Spa El Gouna"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Family\", \"Luxury\", \"BabySitting\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1510",
+        "title": "Tropitel Sahl Hasheesh"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Hurghada",
+        "keywords": "[\"Family\", \"Luxury\", \"Pool\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1511",
+        "title": "SUNRISE Crystal Bay - Grand Select-"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"BabySitting\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1512",
+        "title": "Titanic Resort & Aqua Park"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Hurghada",
+        "keywords": "[\"Family\", \"Luxury\", \"Pool\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1513",
+        "title": "Jungle Aqua Park"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "high-price",
+        "region": "Hurghada",
+        "keywords": "[\"Family\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1514",
+        "title": "The Oberoi Sahl Hasheesh"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "high-price",
+        "region": "Hurghada",
+        "keywords": "[\"Family\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1515",
+        "title": "Fort Arabesque Resort, Spa & Villas"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1516",
+        "title": "Three Corners Ocean View Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Hurghada",
+        "keywords": "[\"Family\", \"Luxury\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1517",
+        "title": "Sheraton Miramar Resort El Gouna"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1518",
+        "title": "SUNRISE Holidays Resort"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "high-price",
+        "region": "Hurghada",
+        "keywords": "[\"Family\", \"Luxury\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1519",
+        "title": "Steigenberger ALDAU Beach Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1520",
+        "title": "Meraki Resort"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1521",
+        "title": "Nubia Aqua Beach Resort"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"Pool\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1522",
+        "title": "Albatros Aqua Park Resort"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Hurghada",
+        "keywords": "[\"Family\", \"Luxury\", \"Pool\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1523",
+        "title": "SUNRISE Garden Beach Resort -Select-"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1524",
+        "title": "Royal Star Beach Resort"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Family\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1525",
+        "title": "Panorama Bungalows Resort El Gouna"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"Family\", \"Pool\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1526",
+        "title": "Arabia Azur Resort"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"Family\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1527",
+        "title": "Mosaique Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Family\", \"Luxury\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1528",
+        "title": "The Three Corners Rihana Inn"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1529",
+        "title": "Aqua Vista Resort & Spa"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Family\"]",
+        "type": "Hotel",
+        "itemid": "1530",
+        "title": "The Captain's Inn"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"Pool\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1531",
+        "title": "Sea Star Beau Rivage"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1532",
+        "title": "Jaz Makadi Saraya Palms"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1533",
+        "title": "LABRANDA Club Makadi"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1534",
+        "title": "Dawar El Omda Boutique Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1535",
+        "title": "SeaGull Beach Resort"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1536",
+        "title": "Jasmine Palace Resort & Spa"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1537",
+        "title": "Al Nabila Grand Bay Makadi"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1538",
+        "title": "Hawaii Riviera Aqua Park Resort"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"Pool\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1539",
+        "title": "Sindbad Club"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1540",
+        "title": "Pyramisa Resort Sahl Hasheesh"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1541",
+        "title": "Royal Lagoons Aqua Park Resort and Spa"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1542",
+        "title": "Marlin Inn Azur Resort"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"Pool\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1543",
+        "title": "Sunny Days El Palacio Resort & Spa"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1544",
+        "title": "Giftun Azur Resort"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1545",
+        "title": "Pharaoh Azur Resort"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1546",
+        "title": "Mirage Bay Resort & Aquapark Lilly Land"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1547",
+        "title": "Titanic Beach Spa & Aqua Park"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1548",
+        "title": "Regina Swiss Inn Beach Resort & Aqua Park"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Luxury\", \"Pool\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1549",
+        "title": "Continental Hotel Hurghada"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1550",
+        "title": "Sphinx Aqua Park Beach Resort"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1551",
+        "title": "Lilly Apartments"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1552",
+        "title": "Mirage Aqua Park & SPA"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1553",
+        "title": "LABRANDA Garden Makadi"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Family\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1554",
+        "title": "Empire Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1555",
+        "title": "Green Garden Resort"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1556",
+        "title": "Azzurra Sahl Hasheesh Suite"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1557",
+        "title": "La Maison Bleue El Gouna"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1558",
+        "title": "Jewels Sahara Boutique Resort"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Pool\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1559",
+        "title": "Zahabia Hotel And Beach Resort"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1560",
+        "title": "Oasis Resort"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Pool\", \"Pets\"]",
+        "type": "Hotel",
+        "itemid": "1561",
+        "title": "The View Villa"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1562",
+        "title": "Sky View Suites Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1563",
+        "title": "Sea View Hotel"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "moderate-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\", \"BabySitting\", \"Family\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1564",
+        "title": "Hilton Luxor Resort & Spa"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\", \"Family\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1565",
+        "title": "Steigenberger Nile Palace Luxor"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pets\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1566",
+        "title": "Cleopatra Hotel Luxor"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\", \"BabySitting\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1567",
+        "title": "Pavillon Winter Luxor"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\", \"Family\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1568",
+        "title": "Sonesta St. George Hotel Luxor"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1569",
+        "title": "Nefertiti Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\", \"Family\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1570",
+        "title": "ACHTI Resort Luxor"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\", \"BabySitting\", \"Family\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1571",
+        "title": "Sofitel Winter Palace Luxor"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\", \"BabySitting\", \"Family\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1572",
+        "title": "Jolie Ville Hotel & Spa - Kings Island, Luxor"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\", \"Family\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1573",
+        "title": "Al Moudira Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pets\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1574",
+        "title": "Venus Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "1575",
+        "title": "Amon Hotel Luxor"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1576",
+        "title": "Hotel Sheherazade"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pets\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1577",
+        "title": "Pyramids Luxor Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "1578",
+        "title": "Nile Valley Hotel Restaurant"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1579",
+        "title": "El Mesala Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1580",
+        "title": "El Nakhil Hotel & Restaurant"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1581",
+        "title": "Flats in Luxor"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1582",
+        "title": "Mercure Luxor Karnak"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1583",
+        "title": "Iberotel Luxor"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1584",
+        "title": "Eatabe Luxor Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1585",
+        "title": "Happy Land Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1586",
+        "title": "Al Hambra Hotel"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pets\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1587",
+        "title": "Villa Nile House"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\", \"Pets\"]",
+        "type": "Hotel",
+        "itemid": "1588",
+        "title": "Al Baeirat Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1589",
+        "title": "El Gezira Hotel"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1590",
+        "title": "Bob Marley Peace Hotel"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1591",
+        "title": "Desert Paradise Lodge"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1592",
+        "title": "New Memnon Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1593",
+        "title": "El Fayrouz"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1594",
+        "title": "We compared the lowest prices from 2 websites"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "moderate-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1595",
+        "title": "Hilton Luxor Resort & Spa"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\", \"Family\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1596",
+        "title": "Steigenberger Nile Palace Luxor"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pets\"]",
+        "type": "Hotel",
+        "itemid": "1597",
+        "title": "Cleopatra Hotel Luxor"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1598",
+        "title": "Pavillon Winter Luxor"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\", \"Family\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1599",
+        "title": "Sonesta St. George Hotel Luxor"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1600",
+        "title": "Nefertiti Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Luxor",
+        "keywords": "[\"Family\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1601",
+        "title": "ACHTI Resort Luxor"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\", \"Luxury\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "1602",
+        "title": "Sofitel Winter Palace Luxor"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\", \"Family\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1603",
+        "title": "Jolie Ville Hotel & Spa - Kings Island, Luxor"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\", \"Family\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1604",
+        "title": "Al Moudira Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pets\"]",
+        "type": "Hotel",
+        "itemid": "1605",
+        "title": "Venus Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "1606",
+        "title": "Amon Hotel Luxor"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\", \"Pets\"]",
+        "type": "Hotel",
+        "itemid": "1607",
+        "title": "Hotel Sheherazade"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1608",
+        "title": "Pyramids Luxor Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "1609",
+        "title": "Nile Valley Hotel Restaurant"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1610",
+        "title": "El Mesala Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1611",
+        "title": "El Nakhil Hotel & Restaurant"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pets\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1612",
+        "title": "Flats in Luxor"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1613",
+        "title": "Mercure Luxor Karnak"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1614",
+        "title": "Iberotel Luxor"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1615",
+        "title": "Eatabe Luxor Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1616",
+        "title": "Happy Land Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1617",
+        "title": "Al Hambra Hotel"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1618",
+        "title": "Villa Nile House"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1619",
+        "title": "Al Baeirat Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1620",
+        "title": "El Gezira Hotel"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1621",
+        "title": "Bob Marley Peace Hotel"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1623",
+        "title": "Desert Paradise Lodge"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1624",
+        "title": "New Memnon Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1625",
+        "title": "El Fayrouz"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1626",
+        "title": "Embrace Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1627",
+        "title": "Royal House Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1628",
+        "title": "Karnak Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pets\"]",
+        "type": "Hotel",
+        "itemid": "1629",
+        "title": "Fontana Luxor Hotel"
+    },
+    {
+        "rating": "2.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1630",
+        "title": "Queens Valley Hotel Luxor"
+    },
+    {
+        "rating": "2.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1631",
+        "title": "Shady Hotel"
+    },
+    {
+        "rating": "2.5",
+        "price_cateogry": "moderate-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1632",
+        "title": "Al Gezera Apartments"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1633",
+        "title": "Irie BnB"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1634",
+        "title": "Jo View"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1635",
+        "title": "Queen Palace Hotel Luxor"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1636",
+        "title": "555 Studios & Flats"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1637",
+        "title": "Sunny Guest House"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1638",
+        "title": "Mara House"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1639",
+        "title": "Marsam Hotel"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1640",
+        "title": "Boomerang Hotel"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1641",
+        "title": "Villa Lostris Holiday Apartments"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1642",
+        "title": "La Maison de Pythagore"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pets\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1643",
+        "title": "Gite Hotel Gezira"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1644",
+        "title": "Little Garden Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1645",
+        "title": "New Everest Hotel"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1646",
+        "title": "Merit Dahabya"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1647",
+        "title": "Eye Of Horus House"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1648",
+        "title": "Villa al-diwan"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1649",
+        "title": "Amarante Osiris"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1650",
+        "title": "Nur el-Gurna Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1651",
+        "title": "Club Marmara Decouverte du Nil"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1652",
+        "title": "Flower of Light Centre"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1653",
+        "title": "\u00d0\u017e\u00d1\u201a\u00d0\u00b5\u00d0\u00bb\u00d1\u0152 \u00d0\u00ad\u00d0\u00bb\u00d1\u0152 \u00d0\u201c\u00d0\u00b5\u00d0\u00b7\u00d0\u00b8\u00d1\u20ac\u00d0\u00b0"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1654",
+        "title": "Egyptian Experience Resort Luxor"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "moderate-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1655",
+        "title": "Madina Heights"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1656",
+        "title": "Amarante Isis"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1657",
+        "title": "Morris Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1658",
+        "title": "Luxor-Hotel"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1659",
+        "title": "Anglo Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1660",
+        "title": "Merryland Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1661",
+        "title": "Novotel Coralia Luxor"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1662",
+        "title": "Paradise Luxor Hostel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1663",
+        "title": "Everest Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1664",
+        "title": "Princess Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1665",
+        "title": "El Salam Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1666",
+        "title": "Nile Towers Apartments"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1667",
+        "title": "Teacher Hotel and Club"
+    },
+    {
+        "rating": "2.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1668",
+        "title": "Horus Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1669",
+        "title": "Pharaon"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Luxor",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1670",
+        "title": "Alraml nile street "
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"BabySitting\", \"Nile\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "1671",
+        "title": "nile hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"BabySitting\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "1672",
+        "title": "kilopatra"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Aswan",
+        "keywords": "[\"Nile\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "1673",
+        "title": "Nile compound"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Aswan",
+        "keywords": "[\"Family\"]",
+        "type": "Hotel",
+        "itemid": "1674",
+        "title": "Marhaba guest house"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Hurghada",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1675",
+        "title": "Gifton Azon beach"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "high-price",
+        "region": "Hurghada",
+        "keywords": "[\"Pool\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1676",
+        "title": "continental house"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1677",
+        "title": "Hawai le jardan"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1678",
+        "title": "Golden Rose"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Marsa Alam",
+        "keywords": "[\"Pool\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "1679",
+        "title": "huge hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Ras Mohamed",
+        "keywords": "[\"Pool\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1680",
+        "title": "marasi hotel"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "high-price",
+        "region": "Hurghada",
+        "keywords": "[\"Pool\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1681",
+        "title": "sheraton Al Gona"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Hurghada",
+        "keywords": "[\"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1682",
+        "title": "visita"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "high-price",
+        "region": "Dahab",
+        "keywords": "[\"Pool\", \"Luxury\", \"Family\"]",
+        "type": "Hotel",
+        "itemid": "1683",
+        "title": "Ecotay dahab"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Dahab",
+        "keywords": "[\"Pool\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1684",
+        "title": "Dahab blaza"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Dahab",
+        "keywords": "[\"Trendy\", \"Family\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1685",
+        "title": "coral cost"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "high-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1686",
+        "title": "Trmobil neema"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1687",
+        "title": "Helto sharks resort"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\", \"Trendy\", \"Family\", \"Pets\"]",
+        "type": "Hotel",
+        "itemid": "1688",
+        "title": "Ebrotes palace"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\", \"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1689",
+        "title": "Labranda tower bay"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "high-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\", \"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1690",
+        "title": "Safoi sharm el sheikh"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Trendy\", \"Nile\"]",
+        "type": "Hotel",
+        "itemid": "1691",
+        "title": "Grand Nile Tower"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Trendy\"]",
+        "type": "Hotel",
+        "itemid": "1692",
+        "title": "Novotil el matar cairo"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "high-price",
+        "region": "Cairo",
+        "keywords": "[\"Pool\", \"Luxury\", \"Pets\"]",
+        "type": "Hotel",
+        "itemid": "1693",
+        "title": "Barcelo Cairo pyramid hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Alexandria",
+        "keywords": "[\"Pool\", \"Pets\"]",
+        "type": "Hotel",
+        "itemid": "1694",
+        "title": "kazablanka alex"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1695",
+        "title": "Cleopatra hotel cairo"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Cairo",
+        "keywords": "[\"Luxury\"]",
+        "type": "Hotel",
+        "itemid": "1696",
+        "title": "Royal pyramids inn"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "high-price",
+        "region": "Aswan",
+        "keywords": "[\"Luxury\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1697",
+        "title": "City max hotel Aswan"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Aswan",
+        "keywords": "[\"Luxury\", \"Family\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1698",
+        "title": "Feyala hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Aswan",
+        "keywords": "[\"Family\"]",
+        "type": "Hotel",
+        "itemid": "1699",
+        "title": "Marhaban palace"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\", \"Pets\"]",
+        "type": "Hotel",
+        "itemid": "1700",
+        "title": "New Grand Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1701",
+        "title": "Partner Tutotoel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1702",
+        "title": "Saint Mina Hotel"
+    },
+    {
+        "rating": "2.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1703",
+        "title": "Tutotel Hotel"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1704",
+        "title": "Orient Star Hotel"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1705",
+        "title": "Achti Resort"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1706",
+        "title": "Akhnaton"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1707",
+        "title": "Amer House"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1708",
+        "title": "Club Mediterranee Bella Donna"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1709",
+        "title": "Grand Memphis hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1710",
+        "title": "Mostafa Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Luxor",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1711",
+        "title": "Nubian House"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1712",
+        "title": "Stella Di Mare Beach Hotel & Spa"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Historic\"]",
+        "type": "Hotel",
+        "itemid": "1713",
+        "title": "Concorde El Salam Front Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1714",
+        "title": "Renaissance Sharm El Sheikh Golden View Beach Resort"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1715",
+        "title": "Xperience St. George Homestay"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1716",
+        "title": "Parrotel Beach Resort"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1717",
+        "title": "Baron Palms Resort Sharm El Sheikh"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1718",
+        "title": "Sharm El Sheikh Marriott Resort"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Sharm",
+        "keywords": "[\"Family\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1719",
+        "title": "SUNRISE Arabian Beach Resort -Grand Select-"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1720",
+        "title": "Cleopatra Luxury Resort Sharm El Sheikh"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Sharm",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1721",
+        "title": "Baron Resort Sharm El Sheikh"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1722",
+        "title": "Barcelo Tiran Sharm"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1723",
+        "title": "SUNRISE Montemare Resort -Grand Select- (Adults Only)"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1724",
+        "title": "Hilton Sharks Bay Resort"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1725",
+        "title": "Naama Blue Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1726",
+        "title": "Rixos Sharm El Sheikh"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1727",
+        "title": "Grand Rotana Resort & Spa"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1728",
+        "title": "Aurora Oriental Resort Sharm El Sheikh"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1729",
+        "title": "Il Mercato Hotel & Spa"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1730",
+        "title": "Falcon Naama Star"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1731",
+        "title": "Coral Sea Waterworld Resort"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1732",
+        "title": "Xperience Kiroseiz Parkland"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1733",
+        "title": "Stella Di Mare Beach Hotel & Spa"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Historic\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1734",
+        "title": "Concorde El Salam Front Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1735",
+        "title": "Renaissance Sharm El Sheikh Golden View Beach Resort"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1736",
+        "title": "Xperience St. George Homestay"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1737",
+        "title": "Parrotel Beach Resort"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1738",
+        "title": "Barcelo Tiran Sharm"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1739",
+        "title": "SUNRISE Montemare Resort -Grand Select- (Adults Only)"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1740",
+        "title": "Hilton Sharks Bay Resort"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Sharm",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1741",
+        "title": "Naama Blue Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Sharm",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1742",
+        "title": "Savoy Sharm El Sheikh"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Sharm",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1743",
+        "title": "Movenpick Resort Sharm El Sheikh Naama Bay"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "high-price",
+        "region": "Sharm",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1744",
+        "title": "Rixos Premium Seagate"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1745",
+        "title": "Grand Rotana Resort & Spa"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1746",
+        "title": "Aurora Oriental Resort Sharm El Sheikh"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1747",
+        "title": "Il Mercato Hotel & Spa"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1748",
+        "title": "Coral Sea Waterworld Resort"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1749",
+        "title": "Xperience Kiroseiz Parkland"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1750",
+        "title": "Regency Plaza Aqua Park & Spa Resort"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Family\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1751",
+        "title": "Sharm Grand Plaza"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1752",
+        "title": "Parrotel Aqua Park"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1753",
+        "title": "Jaz Belvedere"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Family\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1754",
+        "title": "Island View Resort"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1755",
+        "title": "Domina Hotel & Resort Harem"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1756",
+        "title": "Rehana Sharm Resort - Aquapark & Spa"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1757",
+        "title": "Coral Beach Resort Tiran"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1758",
+        "title": "Tamra Beach"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1759",
+        "title": "Jaz Fanara Resort"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Family\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1760",
+        "title": "Gafy Resort"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1761",
+        "title": "Camel Dive Club & Hotel"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1762",
+        "title": "Domina Elisir Thalasso & Spa"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Luxury\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1763",
+        "title": "Le Royale Luxury Collection Resort Sharm EI Sheikh"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1764",
+        "title": "Rehana Royal Beach Resort - Aquapark & Spa"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Family\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1765",
+        "title": "Amwaj Oyoun Hotel & Resort"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Family\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1766",
+        "title": "Maritim Jolie Ville Resort & Casino Sharm El-Sheikh"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Family\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1767",
+        "title": "Sharm Dreams Resort"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Family\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1768",
+        "title": "Coral Beach Resort Montazah"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1769",
+        "title": "Domina Coral Bay Prestige Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1770",
+        "title": "Tropitel Naama Bay"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Sharm",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1771",
+        "title": "Delta Sharm Resort"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "high-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1772",
+        "title": "Kahramana Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Family\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1773",
+        "title": "Sharm Holiday Resort Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Sharm",
+        "keywords": "[\"Family\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1774",
+        "title": "Viva Sharm Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Sharm",
+        "keywords": "[\"Family\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1775",
+        "title": "Aida 2 Hotel Naama Bay"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1776",
+        "title": "Amar Sina Village"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1777",
+        "title": "Tivoli Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Family\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1778",
+        "title": "Shark's Bay Oasis Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1779",
+        "title": "Laguna Vista Beach Resort"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1780",
+        "title": "Turquoise Beach Hotel"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\", \"BabySitting\"]",
+        "type": "Hotel",
+        "itemid": "1781",
+        "title": "El Hayat Sharm Resort"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "low-price",
+        "region": "Sharm",
+        "keywords": "[\"Family\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1782",
+        "title": "Naama Inn"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "low-price",
+        "region": "Sharm",
+        "keywords": "[\"Pets\"]",
+        "type": "Hotel",
+        "itemid": "1783",
+        "title": "Sinai Old Spices"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1784",
+        "title": "Verginia Sharm Resort"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1785",
+        "title": "Eden Rock Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1786",
+        "title": "Royal Holiday Beach Resort & Casino Sharm El Sheikh"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1787",
+        "title": "Dreams Vacation Resort"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1788",
+        "title": "Domina Coral Bay Oasis"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Family\"]",
+        "type": "Hotel",
+        "itemid": "1789",
+        "title": "Cyrene Island Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1790",
+        "title": "Oriental Rivoli Hotel & SPA"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1791",
+        "title": "Mexicana Sharm Resort"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "high-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1792",
+        "title": "ROYAL Monte Carlo Sharm Villas & Suites"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "low-price",
+        "region": "Sharm",
+        "keywords": "[\"Family\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1793",
+        "title": "Royal Naama Bay resort"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1794",
+        "title": "Melton Beach Resort"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1795",
+        "title": "Kanabesh Hotel Naama Bay"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1796",
+        "title": "Logaina Sharm Resort"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "low-price",
+        "region": "Sharm",
+        "keywords": "[\"Family\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1797",
+        "title": "Aqua Hotel Resort & Spa"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1798",
+        "title": "Le Mirage New Tiran"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1799",
+        "title": "Helnan Marina Sharm"
+    },
+    {
+        "rating": "3",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1800",
+        "title": "Paradise Inn Group for Hotels & Resorts"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "high-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1801",
+        "title": "Jaz Mirabel Park"
+    },
+    {
+        "rating": "4.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Trendy\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1802",
+        "title": "Jaz Mirabel Club"
+    },
+    {
+        "rating": "5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[]",
+        "type": "Hotel",
+        "itemid": "1803",
+        "title": "Sunshine Divers Club - Sharks Bay"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Family\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1804",
+        "title": "Ghazala Gardens Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Trendy\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1805",
+        "title": "Villaggio Bravo Sharm"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Trendy\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1806",
+        "title": "Aurora Sharm Resort"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1807",
+        "title": "Ghazala Beach Hotel"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1808",
+        "title": "Sonesta Club Sharm El Sheikh"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1809",
+        "title": "Melia Sinai"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Family\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1810",
+        "title": "Palmyra Resort"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Family\", \"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1811",
+        "title": "Dessole Seti Sharm Resort"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "high-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1812",
+        "title": "Sea Club Royal Nubian Island"
+    },
+    {
+        "rating": "3.5",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1813",
+        "title": "Continental Garden Reef Resort"
+    },
+    {
+        "rating": "4",
+        "price_cateogry": "moderate-price",
+        "region": "Sharm",
+        "keywords": "[\"Pool\"]",
+        "type": "Hotel",
+        "itemid": "1814",
+        "title": "Dessole Nesco Joyous"
+    }
+]
