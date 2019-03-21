@@ -1,6 +1,7 @@
 import csv  
 import json  
-  
+
+#  -------------------------------------------------------------------------- 
 # # Open the CSV  
 # f = open( 'tourism.csv', 'rU' )  
 # # Change each fieldname to the appropriate field name. I know, so difficult.  
@@ -21,6 +22,7 @@ import json
 # 	x['keywords']=json.dumps(list_[2:])
 # 	x.pop('genres', None)
 
+# -------------------------------------------------------------------------
 # with open('clean.json', 'w') as outfile:
 #     json.dump(json_array, outfile,indent=4)
 
@@ -37,6 +39,7 @@ import json
 # with open('trial.json', 'w') as outfile:
 #     json.dump(json_array_all_trips, outfile,indent=4)
 
+# ------------------------------------------------------------------------------
 # input_file = open ('Final_hotels.json', encoding='utf-8-sig')
 # place = json.load(input_file)
 # index=2041
@@ -48,20 +51,7 @@ import json
 # print(index)
 # with open('trial_.json', 'w') as outfile:
 #     json.dump(place, outfile,indent=4)
-
-input_file = open ('Final2_trips.json', encoding='utf-8-sig')
-trips = json.load(input_file)
-
-for x in trips:
-	for y in x['price']:
-		if
-
-
-with open('trial_.json', 'w') as outfile:
-	json.dump(trips, outfile,indent=4)
-
-
-
+# -------------------------------------------------------------------------------
 # index=2030
 
 # # while index<2031:
@@ -108,3 +98,14 @@ with open('trial_.json', 'w') as outfile:
 
 # with open('new.json', 'w') as outfile:
 # 	json.dump(place, outfile,indent=4)
+
+# -----------------------------------------------------------------
+input_file = open ('Final2_trips.json', encoding='utf-8-sig')
+trips = json.load(input_file)
+
+
+
+
+with open('trial_.json', 'w') as outfile:
+	json.dump(trips, outfile,indent=4)
+
