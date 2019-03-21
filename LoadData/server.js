@@ -14,8 +14,8 @@ const mysql = require('mysql');
 //   })
 const db = mysql.createConnection ({
   host: 'localhost',
-  user: 'ragab',
-  password: '1A2S3D!a',
+  user: 'root',
+  password: '',
   database: 'XploreEgypt'
 });
 
@@ -31,7 +31,23 @@ db.connect(function(err) {
  }
 });
 
-app.use(bodyParser.json())
+
+app.use((req , res ,next) => {
+  res.setHeader("Access-Control-Allow-Origin", "*");
+  res.setHeader(
+    "Access-Control-Allow-Headers",
+    "Origin, X-Requested-With, Content-Type, Accept, Authorization"
+  );
+  res.setHeader(
+    "Access-Control-Allow-Methods",
+     "GET, POST, PATCH, DELETE, OPTIONS"
+   );
+  next();
+});
+
+
+app.use(bodyParser.json({limit: '50mb'}));
+app.use(bodyParser.urlencoded({limit: '50mb', extended: true}));
 
 app.get('/', function(req, res) {
   res.sendFile(path.join(__dirname+ '/front.html'));
@@ -44,19 +60,19 @@ console.log(jsondata);
 var values = [];
 
 for(var i=0; i< jsondata.length; i++)
-  values.push([jsondata[i].title,
-               jsondata[i].duration,
-               jsondata[i].price,
-               jsondata[i].experiences,
-               jsondata[i].fullDescription,
-               jsondata[i].includes,
-               jsondata[i].imageURL]);
-
-  console.log(values);             
+  values.push([jsondata[i].keywords,
+               jsondata[i].price_cateogry,
+               jsondata[i].type,
+               jsondata[i].itemid,
+               jsondata[i].title,
+               jsondata[i].rating,
+               jsondata[i].region]);
+             
 //Bulk insert using nested array [ [a,b],[c,d] ] will be flattened to (a,b),(c,d)
-db.query('INSERT INTO trips (title, duration, price , experience , disc , include , image) VALUES ?', [values], function(err,result) {
+db.query('INSERT INTO place (keywords, price_cateogry , type , itemid , title , rating, region) VALUES ?', [values], function(err,result) {
   if(err) {
      res.send('Error');
+     console.log(err)
   }
  else {
      res.send('Success');
