@@ -7,13 +7,13 @@
   <div class="collapse navbar-collapse" id="navbarNavDropdown">
     <ul class="navbar-nav">
       <li class="nav-item active">
-        <a class="nav-link" routerLink="/home">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link" routerLink="/home" style="color: aliceblue">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Forum</a>
+        <a class="nav-link" href="#" style="color: aliceblue">Forum</a>
       </li>
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color: aliceblue">
           Places
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
@@ -24,16 +24,17 @@
         </div>
       </li>
     </ul>
+    
     <!-- <div class="collapse navbar-collapse col-auto" id="navbarNavDropdown"> -->
-      <ul class="navbar-nav" id="right">
+      <ul class="navbar-nav ml-auto" id="right">
         <li class="nav-item" *ngIf="!userIsAuthenticated">
-          <a class="nav-link" routerLink="/login">Login</a>
+          <a class="nav-link" routerLink="/login" style="color: aliceblue">Login</a>
         </li>
         <li class="nav-item" *ngIf="!userIsAuthenticated">
-          <a class="nav-link" routerLink="/register">Register</a>
+          <a class="nav-link" routerLink="/register" style="color: aliceblue">Register</a>
         </li>
         <li class="nav-item" *ngIf="userIsAuthenticated">
-          <a class="nav-link" type="logout" (click)="onlogout()">Logout</a>        
+          <a class="nav-link" type="logout" (click)="onlogout()" style="color: aliceblue">Logout</a>        
         </li>
       </ul>
     <!-- </div> -->
