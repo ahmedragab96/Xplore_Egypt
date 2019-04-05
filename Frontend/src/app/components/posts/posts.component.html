@@ -1,0 +1,46 @@
+<app-navbar></app-navbar>
+
+<div class="container">
+  <br />
+  <br />
+  <br />
+  <br />
+
+  <form (submit)="onPost(PostForm)" #PostForm="ngForm">
+      <div class="form-group">
+        <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Title" name="title" ngModel>
+      </div>
+      <div class="form-group">
+        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Body" name="body" ngModel></textarea>
+      </div>
+      <div class="form-group">
+          <label for="exampleFormControlFile1">Upload a Photo</label>
+          <input type="file" class="form-control-file" id="exampleFormControlFile1">
+      </div>
+      <button type="submit" class="btn btn-primary">Post</button>
+  </form>
+
+
+
+
+
+  <div class="" id="accordion">
+      <div class="faqHeader">General questions</div>
+      <div class="card " *ngFor="let post of posts">
+          <div class="card-header">
+              <h4 class="card-header">
+                  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">{{post['title']}}</a>
+              </h4>
+            </div>
+          <div id="collapseOne" class="panel-collapse collapse in">
+              <div class="card-block">{{post['body']}}</div>
+              <i id="like" style="color: green;margin-left: 80%" class="fas fa-thumbs-up"></i> &nbsp;&nbsp; <i id="dislike" style="color: red" class="fas fa-thumbs-down"></i>
+              <a>&nbsp;&nbsp;see details...</a>
+          </div>
+      </div>
+      
+  </div>
+</div>
+
+
+<app-footer></app-footer>
