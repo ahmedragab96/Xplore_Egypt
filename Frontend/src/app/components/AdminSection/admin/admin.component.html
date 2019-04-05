@@ -1,4 +1,4 @@
-<app-navbar></app-navbar>
+<!-- <app-navbar></app-navbar>
 <div class="wrapper">
     <aside class="main_sidebar">
         <ul>
@@ -46,4 +46,81 @@
                 </canvas>
     </div>
 </div>
-</div>
+</div> -->
+
+<mat-sidenav-container class="sidenav-container">
+    <mat-sidenav #drawer class="sidenav" fixedInViewport="true" [attr.role]="'navigation'"
+      [mode]="'side'" [opened]="true">
+      <mat-toolbar color="primary">
+        Xplore Egypt
+      </mat-toolbar>
+      <mat-nav-list>
+        <mat-button-toggle-group class="d-flex-col">
+          <mat-button-toggle *ngFor="let link of links" [routerLink]="link.link" >
+            <!--<svg-icon src="assets/icons/dumbbell-2.svg" [svgStyle]="{ 'width.px':40 }"></svg-icon>-->
+            <!--<svg-icon src="assets/icons/dumbbell-2.svg" [svgStyle]="{ 'width.px':40 }"></svg-icon>-->
+            <!-- <svg class="icon" viewBox="0 0 27.117 13.195" aria-hidden="true" focusable="false">
+              <use attr.xlink:href="assets/icons/{{link.icon}}.svg#{{link.icon}}"></use>
+            </svg> -->
+            <mat-icon class="material-icons margin-icon" color="primary">{{link.icon}}</mat-icon>
+            <span class="">{{link.name}}</span>
+          </mat-button-toggle>
+        </mat-button-toggle-group>
+        <!--<mat-list-item class="side-nav-item" routerLinkActive="active-link" *ngFor="let link of links" [routerLink]="link.link">-->
+          <!--<a class="primary-color">-->
+            <!--<mat-icon class="material-icons margin-icon primary-color" color="primary">{{link.icon}}</mat-icon>-->
+            <!--<span class="color-primary">{{link.name}}</span>-->
+          <!--</a>-->
+        <!--</mat-list-item>-->
+      </mat-nav-list>
+    </mat-sidenav>
+    <mat-sidenav-content>
+            <mat-toolbar color="primary">
+                    <mat-button-toggle class="logout-btn">
+                            <mat-icon class="material-icons margin-icon" color="primary">arrow_back</mat-icon>
+                            <span class="">Logout</span>
+                    </mat-button-toggle>
+            </mat-toolbar>
+            <div id="container">
+                    <div id="row">
+                            <div  id="bar">
+                                    <canvas baseChart [datasets] = "barChartData" 
+                                            [labels] = "barChartLabels"
+                                            [options] = "barChartOptions"
+                                            [legend] = "barChartLegend"
+                                            [chartType] = "barChartType">
+                                            
+                                    </canvas>
+                            </div>
+                            <div class="col-md-4" id="chart">
+                                    <canvas baseChart
+                                            [data]="pieChartData"
+                                            [labels]="pieChartLabels"
+                                            [chartType]="pieChartType">
+                                    </canvas>
+                            </div>
+                    </div>
+                <div class="col-md-4">
+                <div style="display: block" id="chart">
+                    <canvas baseChart
+                        [datasets]="radarChartData"
+                        [labels]="radarChartLabels"
+                        [chartType]="radarChartType">
+                    </canvas>
+                </div>
+                </div>
+                <div class="col-md-4">
+                <div style="display: block">
+                        <canvas baseChart
+                                [data]="doughnutChartData"
+                                [labels]="doughnutChartLabels"
+                                [chartType]="doughnutChartType">
+                            </canvas>
+                </div>
+                </div>
+                </div>
+     
+      <router-outlet></router-outlet>
+    </mat-sidenav-content>
+  </mat-sidenav-container>
+  

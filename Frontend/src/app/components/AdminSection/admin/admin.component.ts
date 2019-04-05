@@ -8,6 +8,7 @@ declare var $: any;
 })
 export class AdminComponent implements OnInit {
 
+  links = [];
   public barChartOptions = {
     scaleShowVerticalLines: false,
     responsive: true
@@ -39,6 +40,11 @@ public doughnutChartType = 'doughnut';
 
 
   ngOnInit(): void {
-
+    this.links.push(
+      { name: 'Dashboard', link: 'dashboard', icon: 'book' },
+      { name: 'Charts', link: 'charts', icon: 'bar_chart' },
+      { name: 'Statistics', link: 'statistics', icon: 'trending_up' },
+      { name: 'Database', link: 'Database', icon: 'storage' },
+    );
   }
 }

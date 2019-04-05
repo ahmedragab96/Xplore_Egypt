@@ -4,7 +4,16 @@ import * as $ from 'jquery';
 import { AngularFontAwesomeModule } from 'angular-font-awesome';
 
 import { NgDragDropModule } from 'ng-drag-drop';
-import { MatInputModule } from '@angular/material';
+import { MatInputModule,
+         MatSidenavModule,
+         MatToolbarModule,
+         MatListModule,
+         MatIconModule,
+ } from '@angular/material';
+
+ import {
+  MatButtonToggleModule,
+} from '@angular/material/button-toggle';
 
 import { AppComponent } from './app.component';
 import { TripPlannerComponent } from './components/trip-planner/trip-planner.component';
@@ -92,13 +101,18 @@ export function getAuthServiceConfigs() {
     FormsModule,
     HttpClientModule,
     MatInputModule,
+    MatSidenavModule,
+    MatToolbarModule,
+    MatListModule,
+    MatIconModule,
     BrowserAnimationsModule,
     Ng2CarouselamosModule,
     NgxPaginationModule,
     SocialLoginModule,
     ChartsModule,
     AngularFontAwesomeModule,
-    NgbModule
+    NgbModule,
+    MatButtonToggleModule,
     ],
   providers: [TripPlannerService, RestaurantsService, HotelsService,
     FilterPipe,
