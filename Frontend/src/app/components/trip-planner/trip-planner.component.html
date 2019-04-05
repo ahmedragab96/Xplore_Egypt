@@ -60,7 +60,7 @@
             <div id="external-events">
                 <div id='external-events-listing'>
                     <h4>Draggable Events</h4>
-                    <div class="fc-event" *ngFor="let trip of trips; let i= index" [id]="trip['name'] +','+ i"  [hidden]="!trip['selected']">{{trip['title']}}</div>
+                    <div class="fc-event" *ngFor="let trip of trips; let i= index" [id]="trip['title'] +','+ i"  [hidden]="!trip['selected']">{{trip['title']}}</div>
                 </div>
                 <p>
                     <input hidden type='checkbox' id='drop-remove' checked='!checked' />

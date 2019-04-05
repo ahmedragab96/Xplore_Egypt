@@ -26,13 +26,14 @@ export class PostsComponent implements OnInit {
     });
   }
 
-  onPost(form: PostForm){
-    console.log(PostForm.value)
-    newPost['title']=form.value.title;
-    newPost['body']=form.value.body;
-    newPost['date']=this.jstoday;
-    this.service.savePost(this.newPost);
-  }
+  // onPost(form: PostForm){
+  //   console.log(PostForm.value)
+  //   newPost['title']=form.value.title;
+  //   newPost['body']=form.value.body;
+  //   newPost['date']=this.jstoday;
+  //   this.service.savePost(this.newPost);
+  // }
+  onPost(){}
 
 
   ngOnInit() {

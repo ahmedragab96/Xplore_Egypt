@@ -54,7 +54,7 @@
    
     <div class="slide-items">
                         <img src="{{item.photo}}">
-                   <p><b> {{item.name}} </b></p>
+                   <p><b> {{item.title}} </b></p>
                    <p><span class="inCard">Cuisine:</span> {{item.cuisine}} </p>
                    <p><span class="inCard">Location:</span> {{item.location}} </p>
                    <p><span class="inCard">Phone:</span> {{item.phone}} </p>
@@ -71,12 +71,12 @@
 </div>
 
 <div class="row">
-    <div class="col-lg-3 col-md-4 col-12" *ngFor="let restaurant of restaurants | filter : search : ['name'] | paginate: { itemsPerPage: 4, currentPage: p }">
+    <div class="col-lg-3 col-md-4 col-12" *ngFor="let restaurant of restaurants | filter : search : ['title'] | paginate: { itemsPerPage: 4, currentPage: p }">
         <div class="col d-flex align-items-stretch">
             <div class="card">
                 <div class="card-body">
                     <img class="card-img-top" src="{{restaurant['photo']}}" alt="Card image cap">
-                    <h5 class="card-title">{{restaurant['name']}}</h5>
+                    <h5 class="card-title">{{restaurant['title']}}</h5>
                     <div class="card-text">
                         <p><span class="inCard">Cuisine:</span>{{restaurant['cuisine']}}</p>
                         <p><span class="inCard">Location:</span>{{restaurant['location']}}</p>
