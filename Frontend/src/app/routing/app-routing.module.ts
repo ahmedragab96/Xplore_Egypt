@@ -12,7 +12,7 @@ import { RestaurantsComponent } from '../components/restaurants/restaurants.comp
 import { HotelsComponent } from '../components/hotels/hotels.component';
 import { RestaurantDetailsComponent } from '../components/restaurant-details/restaurant-details.component';
 import { HotelDetailsComponent } from '../components/hotel-details/hotel-details.component';
-
+import { PostsComponent } from '../components/posts/posts.component';
 
 const routes: Routes = [
   { path: 'login', component: LoginComponent},
@@ -26,8 +26,9 @@ const routes: Routes = [
   { path: 'hotels', component: HotelsComponent },
   { path: 'hotels/:id', component: HotelDetailsComponent },
   { path: 'admin', component: AdminComponent},
+  { path: 'posts', component: PostsComponent },
   { path: '', redirectTo: '/home', pathMatch: 'full'},
-  { path: '**', redirectTo: '/home', pathMatch: 'full'},
+  { path: '**', redirectTo: '/home', pathMatch: 'full'}
 ];
 
 
