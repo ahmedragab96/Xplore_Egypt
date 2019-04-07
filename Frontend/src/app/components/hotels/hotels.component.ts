@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import {HotelsService} from '../../services/hotels/hotels.service';
-
+import { Router } from '@angular/router'; 
 
 @Component({
   selector: 'app-hotels',
@@ -9,7 +9,7 @@ import {HotelsService} from '../../services/hotels/hotels.service';
 })
 export class HotelsComponent implements OnInit {
 
-  constructor(private service:HotelsService) { }
+  constructor(private service:HotelsService, private router: Router) { }
 
   hotels: any;
   getHotelsFromService(){
@@ -18,6 +18,11 @@ export class HotelsComponent implements OnInit {
       console.log(res);
     });
   }
+
+  // ViewHotelDetail(id : any){
+  //   let url: string = "hotels/" + id
+  //        this.router.navigateByUrl(url);
+  //     }
 
 
   ngOnInit() {

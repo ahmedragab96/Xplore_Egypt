@@ -88,7 +88,7 @@
 </div>
 
 <div class="row">
-    <div class="col-lg-3 col-md-4 col-12" *ngFor="let trip of trips | filter : search : ['title'] | filter : region : ['region'] | paginate: { itemsPerPage: itemsPerPage, currentPage: p }">
+    <div class="col-lg-3 col-md-4 col-12" *ngFor="let trip of trips | filter : search : ['title'] | filter : region : ['region'] | paginate: { itemsPerPage: 16, currentPage: p }">
         <div class="col d-flex align-items-stretch">
             <div class="card">
                 <div class="card-body">

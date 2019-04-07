@@ -71,7 +71,7 @@
 </div>
 
 <div class="row">
-    <div class="col-lg-3 col-md-4 col-12" *ngFor="let hotel of hotels | filter : search : ['title'] | paginate: { itemsPerPage: 4, currentPage: p }">
+    <div class="col-lg-3 col-md-4 col-12" *ngFor="let hotel of hotels | filter : search : ['title'] | paginate: { itemsPerPage: 16, currentPage: p }">
         <div class="col d-flex align-items-stretch">
             <div class="card">
                 <div class="card-body">
@@ -81,8 +81,9 @@
                       <p><span class="inCard">Address:</span> {{item['address']}} </p>
                       <p><span class="inCard">Price Range:</span> {{item['priceRange']}} </p>
                     </div>
-                    <button class="btn btn-primary cardBtn">Read More</button>
-                </div>
+                    <!-- <button class="btn btn-primary cardBtn" (click)="ViewHotelDetail(hotel.hotel_id)">Read More</button> -->
+                    <button class="btn btn-primary cardBtn" [routerLink] = "['/hotels',hotel.itemid]">Read More</button>
+                  </div>
             </div>
         </div>
     </div>

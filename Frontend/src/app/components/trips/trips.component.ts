@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import {TripPlannerService} from '../../services/trip-planner/trip-planner.service';
+import { Router } from '@angular/router'; 
 
 
 @Component({
@@ -10,7 +11,7 @@ import {TripPlannerService} from '../../services/trip-planner/trip-planner.servi
 export class TripsComponent implements OnInit {
 
   
-  constructor(private service:TripPlannerService) { }
+  constructor(private service:TripPlannerService, private router: Router) { }
 
   itemsPerPage:any;
   p: number = 1;
@@ -21,6 +22,12 @@ export class TripsComponent implements OnInit {
       console.log(res);
     });
   }
+
+
+  // ViewTripDetail(id : any){
+  //   let url: string = "trips/" + id
+  //        this.router.navigateByUrl(url);
+  //     }
 
   ngOnInit() {
     this.getTripsFromService();

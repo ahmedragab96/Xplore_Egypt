@@ -1,33 +1,26 @@
 <app-navbar></app-navbar>
 
-<!-- header slider -->
-  <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-    <ol class="carousel-indicators">
-      <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-      <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-      <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-    </ol>
-      <div class="carousel-inner">
-        <div class="carousel-item active">
-          <img class="d-block w-100" id="pic" src="./../../../assets/images/cook.jpg" alt="First slide">
-        </div>
-        <div class="carousel-item">
-          <img class="d-block w-100" id="pic" src="./../../../assets/images/chicken.jpg" alt="Second slide">
-        </div>
-        <div class="carousel-item">
-          <img class="d-block w-100" id="pic" src="./../../../assets/images/chickeen.png" alt="Third slide">
-        </div>
+<div class="container">
+  <div class="row">
+    <div class="container-gallery">
+      <div class="popup popup-1">
+          <img class="img-fluid" alt="Pop Up Gallety" src="./../../../assets/images/fresh-appetizers-cocktails.jpg" />
       </div>
-    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
-    </a>
+      <div class="popup popup-2">
+          <img class="img-fluid" alt="Pop Up Gallety" src="./../../../assets/images/hot-fresh-donut.jpg" />
+      </div>
+      <div class="popup popup-3">
+          <img class="img-fluid" alt="Pop Up Gallety" src="./../../../assets/images/hotel-room-service-classic-breakfast.jpg" />
+      </div>
+      <div class="popup popup-4">
+          <img class="img-fluid" alt="Pop Up Gallety" src="./../../../assets/images/restaurant-breakfast.jpg" />
+      </div>
+      <div class="popup popup-5">
+          <img class="img-fluid" alt="Pop Up Gallety" src="./../../../assets/images/waffles-and-fruit-breakfast.jpg" />
+      </div>
+    </div>
   </div>
-  <!-- end of header slider -->
+</div>
 
   <hr class="style-one">
 
@@ -71,7 +64,7 @@
 </div>
 
 <div class="row">
-    <div class="col-lg-3 col-md-4 col-12" *ngFor="let restaurant of restaurants | filter : search : ['title'] | paginate: { itemsPerPage: 4, currentPage: p }">
+    <div class="col-lg-3 col-md-4 col-12" *ngFor="let restaurant of restaurants | filter : search : ['title'] | paginate: { itemsPerPage: 16, currentPage: p }">
         <div class="col d-flex align-items-stretch">
             <div class="card">
                 <div class="card-body">
