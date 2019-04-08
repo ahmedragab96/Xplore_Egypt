@@ -5,7 +5,7 @@ const AuthCheck = require("../middleware/check-auth")
 
 trips.get('/getall', (req , res , next) => {
     
-    let query ="SELECT p.title,p.region,p.rating,t.description,t.duration,t.price,t.includes,t.experiences,t.imageURL FROM trips t join place p ON t.itemid=p.itemid";
+    let query ="SELECT p.title,p.region,p.rating,t.trip_id,t.description,t.duration,t.price,t.includes,t.experiences,t.imageURL FROM trips t join place p ON t.itemid=p.itemid";
 
     db.query(query , function (error , results , fields) {
         if (error) throw error ;
@@ -17,7 +17,7 @@ trips.get('/getall', (req , res , next) => {
 ////it returns an array with the trip's object including all its details
 trips.get('/getById',(req,res,next)=>{
    let tripID=req.query.id;
-   let query="SELECT p.title,p.region,p.rating,t.description,t.duration,t.price,t.includes,t.experiences,t.imageURL FROM trips t join place p ON t.itemid=p.itemid WHERE t.itemid = ?";
+   let query="SELECT p.title,p.region,p.rating,t,trip_id,t.description,t.duration,t.price,t.includes,t.experiences,t.imageURL FROM trips t join place p ON t.itemid=p.itemid WHERE t.itemid = ?";
    db.query(query, [tripID],(error, results, fields) => {
     if (error) {
       return console.error(error.message);
