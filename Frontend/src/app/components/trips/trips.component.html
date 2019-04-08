@@ -67,7 +67,7 @@
                    <p><span class="inCard">Price:</span> {{item.price}} </p>
                    <p><span class="inCard">Duration:</span> {{item.duration}} </p>
         <!-- <button [routerLink] = "['/trips',item.tripID]" class="btn btn-primary cardBtn">Xplore</button> -->
-        <button [routerLink] = "['/trips',item.itemid]" class="btn btn-primary cardBtn">Xplore</button>
+        <button class="btn btn-primary cardBtn" [routerLink] = "['/trips/',item.trip_id]">Xplore</button>
       </div>
   </ng-template>
 </div>
@@ -98,8 +98,9 @@
                         <p><span class="inCard">Price:</span>{{trip['price']}}</p>
                         <p><span class="inCard">Duration:</span>{{trip['duration']}}</p>
                     </div>
-                    <!-- <button [routerLink] = "['/trips',trip.tripID]" class="btn btn-primary cardBtn">Xplore</button> -->
-                    <button [routerLink] = "['/trips',trip.itemid]" class="btn btn-primary cardBtn">Xplore</button>
+                    <button [routerLink] = "['/trips/',trip.trip_id]" class="btn btn-primary cardBtn">Xplore</button>
+                    <!-- <button [routerLink] = "['/trips/',trip.itemid]" class="btn btn-primary cardBtn">Xplore</button> -->
+                    <!-- <button (click)="ViewTripDetail(trip.tripID)" class="btn btn-primary cardBtn">Xplore</button> -->
                   </div>
             </div>
         </div>

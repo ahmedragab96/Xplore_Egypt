@@ -43,6 +43,7 @@ export class TripPlannerService {
     // trips section 
 
     getTripByID(id){
+      // return this.http.get("http://localhost:3000/trips/getById?t.itemid="+id);
       return this.http.get("http://localhost:3000/trips/getById?id="+id);
     }
 }

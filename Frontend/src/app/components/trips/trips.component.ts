@@ -24,10 +24,12 @@ export class TripsComponent implements OnInit {
   }
 
 
-  // ViewTripDetail(id : any){
-  //   let url: string = "trips/" + id
-  //        this.router.navigateByUrl(url);
-  //     }
+  ViewTripDetail(id : any){
+    let url: string = "trips/" + id
+         this.router.navigateByUrl(url);
+      }
+
+
 
   ngOnInit() {
     this.getTripsFromService();
