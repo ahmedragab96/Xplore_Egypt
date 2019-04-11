@@ -8,10 +8,10 @@
 
   <form (submit)="onPost(PostForm)" #PostForm="ngForm">
       <div class="form-group">
-        <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Title" name="title" ngModel>
+        <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Title" name="title" ngModel #titleInput="ngModel">
       </div>
       <div class="form-group">
-        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Body" name="body" ngModel></textarea>
+        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Body" name="body" ngModel #bodyInput="ngModel"></textarea>
       </div>
       <div class="form-group">
           <label for="exampleFormControlFile1">Upload a Photo</label>

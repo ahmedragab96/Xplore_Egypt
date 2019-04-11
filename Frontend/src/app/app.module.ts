@@ -50,6 +50,7 @@ import { HotelsComponent } from './components/hotels/hotels.component';
 import { HotelDetailsComponent } from './components/hotel-details/hotel-details.component';
 import { RestaurantDetailsComponent } from './components/restaurant-details/restaurant-details.component';
 import { PostsComponent } from './components/posts/posts.component';
+import { ReviewComponent } from './components/review/review.component';
 // Configs
 export function getAuthServiceConfigs() {
   const config = new AuthServiceConfig(
@@ -88,7 +89,8 @@ export function getAuthServiceConfigs() {
     HotelsComponent,
     HotelDetailsComponent,
     RestaurantDetailsComponent,
-    PostsComponent
+    PostsComponent,
+    ReviewComponent
   ],
   imports: [
     BrowserModule,
