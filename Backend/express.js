@@ -10,6 +10,7 @@ var RestaurantsRoutes=require('./routes/restaurants');
 var hotelsRoutes=require('./routes/hotels');
 var model=require('./routes/recommend');
 var postsRoutes = require('./routes/posts');
+
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json()); // parse form data client
 

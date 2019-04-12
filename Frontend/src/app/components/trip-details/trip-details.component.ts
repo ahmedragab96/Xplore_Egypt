@@ -12,7 +12,7 @@ id:any;
   constructor(private service:TripPlannerService , private router:ActivatedRoute) { }
 
   getTripDetail(){
-       this.service.getTripByID(this.id).subscribe((res) => {
+    this.service.getTripByID(this.id).subscribe((res) => {
       this.tripDetails = res;
       console.log(res);
     });
@@ -20,8 +20,10 @@ id:any;
 
 
   ngOnInit() {
-  	this.id =parseInt(this.router.snapshot.paramMap.get('id'))
-  	this.getTripDetail();
+    // this.id =parseInt(this.router.snapshot.paramMap.get('trip_id'))
+    this.id =parseInt(this.router.snapshot.paramMap.get('id'))
+    this.getTripDetail();
+    console.log(this.tripDetails)
   }
 
 }

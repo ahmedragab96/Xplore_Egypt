@@ -1,11 +1,10 @@
 var express = require('express');
 var restaurants = express.Router();
 const db = require('../app/config/db');
-//const AuthCheck = require("../middleware/check-auth")
 
 restaurants.get('/getall', (req , res , next) => {
     
-    let query = "SELECT * FROM Restaurants";
+    let query = "SELECT p.title,p.region,p.rating,r.restaurant_id,r.location,r.photo,r.cuisine FROM restaurants r join place p ON r.itemid=p.itemid";
 
     db.query(query , function (error , results , fields) {
         if (error) throw error ;
@@ -16,7 +15,7 @@ restaurants.get('/getall', (req , res , next) => {
 //it returns an array with the restaurants's object including all its details
 restaurants.get('/getById',(req,res,next)=>{
    let restaurantID=req.query.id;
-   let query="SELECT * from Restaurants WHERE restaurantID = ?";
+   let query="SELECT p.title,p.region,p.rating,r.restaurant_id,r.location,r.photo,r.cuisine FROM restaurants r join place p ON r.itemid=p.itemid  WHERE r.itemid = ?";
    db.query(query, [restaurantID],(error, results, fields) => {
     if (error) {
       return console.error(error.message);

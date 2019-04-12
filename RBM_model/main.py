@@ -66,6 +66,6 @@ app = Flask(__name__)
 def index():
    #id=request.args.get("id")
    #string_id=str(id)
-   query=predict(10)
+   query=predict(20)
    print(query)
    return(query)

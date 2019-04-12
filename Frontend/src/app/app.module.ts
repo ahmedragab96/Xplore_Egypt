@@ -28,6 +28,8 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import {TripPlannerService} from './services/trip-planner/trip-planner.service';
 import {RestaurantsService} from './services/restaurants/restaurants.service';
 import {HotelsService} from './services/hotels/hotels.service';
+import {PostsService} from './services/posts/posts.service';
+
 
 import { HomeComponent } from './components/home/home.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
@@ -56,6 +58,8 @@ import { RestaurantsComponent } from './components/restaurants/restaurants.compo
 import { HotelsComponent } from './components/hotels/hotels.component';
 import { HotelDetailsComponent } from './components/hotel-details/hotel-details.component';
 import { RestaurantDetailsComponent } from './components/restaurant-details/restaurant-details.component';
+import { PostsComponent } from './components/posts/posts.component';
+import { ReviewComponent } from './components/review/review.component';
 // Configs
 export function getAuthServiceConfigs() {
   const config = new AuthServiceConfig(
@@ -93,7 +97,9 @@ export function getAuthServiceConfigs() {
     RestaurantsComponent,
     HotelsComponent,
     HotelDetailsComponent,
-    RestaurantDetailsComponent
+    RestaurantDetailsComponent,
+    PostsComponent,
+    ReviewComponent
   ],
   imports: [
     BrowserModule,
@@ -114,7 +120,7 @@ export function getAuthServiceConfigs() {
     NgbModule,
     MatButtonToggleModule,
     ],
-  providers: [TripPlannerService, RestaurantsService, HotelsService,
+  providers: [TripPlannerService, RestaurantsService, HotelsService, PostsService,
     FilterPipe,
       {provide: HTTP_INTERCEPTORS, useClass: AuthInterceptor, multi: true},
       {

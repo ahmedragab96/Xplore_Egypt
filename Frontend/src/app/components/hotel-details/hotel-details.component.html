@@ -2,12 +2,13 @@
 
 <div class="container">
 	<img src="{{hotelDetails[0]['imageURL']}}">
-	<h5><span>Name</span> : {{hotelDetails[0]['name']}}</h5>
+	<h5><span>Name</span> : {{hotelDetails[0]['title']}}</h5>
 	<p> <span>Address</span> : {{hotelDetails[0]['address']}}</p>
   <p> <span>Features</span> : {{hotelDetails[0]['features']}}</p>
   <p> <span>Price Range</span> : {{hotelDetails[0]['priceRange']}}</p>
-	<p> <span>Rating</span> : {{hotelDetails[0]['rate']}}</p>
+	<p> <span>Rating</span> : {{hotelDetails[0]['rating']}}</p>
 </div>
 
+<app-review></app-review>
 
 <app-footer></app-footer>
