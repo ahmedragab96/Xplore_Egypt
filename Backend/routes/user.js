@@ -110,6 +110,17 @@ users.get('/getdata' , function(req , res , next ){
     })
     
 });
+
+users.get('/getall' , function(req , res , next ){
+  
+  db.query("SELECT * FROM users", function (error , results , fields){
+
+      res.json({
+        results
+      });
+    })
+    
+});
 users.put('/edit/:id' ,(req , res , next )=>{
 
   let id=req.params.id;

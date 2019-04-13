@@ -9,7 +9,12 @@ import { MatInputModule,
          MatToolbarModule,
          MatListModule,
          MatIconModule,
+         MatTableModule,
+         MatPaginator,
+         MatPaginatorModule,
  } from '@angular/material';
+ 
+ import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
 
  import {
   MatButtonToggleModule,
@@ -29,6 +34,7 @@ import {TripPlannerService} from './services/trip-planner/trip-planner.service';
 import {RestaurantsService} from './services/restaurants/restaurants.service';
 import {HotelsService} from './services/hotels/hotels.service';
 import {PostsService} from './services/posts/posts.service';
+import {UserService} from './services/users/users.service';
 
 
 import { HomeComponent } from './components/home/home.component';
@@ -60,6 +66,8 @@ import { HotelDetailsComponent } from './components/hotel-details/hotel-details.
 import { RestaurantDetailsComponent } from './components/restaurant-details/restaurant-details.component';
 import { PostsComponent } from './components/posts/posts.component';
 import { ReviewComponent } from './components/review/review.component';
+import { UsersComponent } from './components/AdminSection/DataBase/users/users.component';
+import { HotelsCRUDComponent } from './components/AdminSection/DataBase/hotels/hotels.component';
 // Configs
 export function getAuthServiceConfigs() {
   const config = new AuthServiceConfig(
@@ -99,7 +107,9 @@ export function getAuthServiceConfigs() {
     HotelDetailsComponent,
     RestaurantDetailsComponent,
     PostsComponent,
-    ReviewComponent
+    ReviewComponent,
+    UsersComponent,
+    HotelsCRUDComponent,
   ],
   imports: [
     BrowserModule,
@@ -119,8 +129,11 @@ export function getAuthServiceConfigs() {
     AngularFontAwesomeModule,
     NgbModule,
     MatButtonToggleModule,
+    MatTableModule,
+    MatPaginatorModule,
+    MatProgressSpinnerModule
     ],
-  providers: [TripPlannerService, RestaurantsService, HotelsService, PostsService,
+  providers: [TripPlannerService, RestaurantsService, HotelsService, PostsService, UserService,
     FilterPipe,
       {provide: HTTP_INTERCEPTORS, useClass: AuthInterceptor, multi: true},
       {

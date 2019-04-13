@@ -1,0 +1,75 @@
+<mat-sidenav-container class="sidenav-container">
+    <mat-sidenav #drawer class="sidenav" fixedInViewport="true" [attr.role]="'navigation'"
+      [mode]="'side'" [opened]="true">
+      <mat-toolbar color="primary">
+        Xplore Egypt
+      </mat-toolbar>
+      <mat-nav-list>
+        <mat-button-toggle-group class="d-flex-col">
+          <mat-button-toggle *ngFor="let link of links" [routerLink]="link.link" >
+            <mat-icon class="material-icons margin-icon" color="primary">{{link.icon}}</mat-icon>
+            <span class="">{{link.name}}</span>
+          </mat-button-toggle>
+        </mat-button-toggle-group>
+      </mat-nav-list>
+    </mat-sidenav>
+    <mat-sidenav-content>
+        <mat-toolbar color="primary">
+            <mat-button-toggle class="logout-btn">
+                    <mat-icon class="material-icons margin-icon" color="primary">arrow_back</mat-icon>
+                    <span class="">Logout</span>
+            </mat-button-toggle>
+        </mat-toolbar>
+        <mat-spinner
+          *ngIf="isLoading">
+        </mat-spinner>
+      <div class="mat-elevation-z8" *ngIf="!isLoading">
+        <table mat-table [dataSource]="dataSource">
+          
+           <!-- Image Column -->
+           <ng-container matColumnDef="image">
+              <th mat-header-cell *matHeaderCellDef>  Image</th>
+              <td mat-cell *matCellDef="let element">
+                <img id="hotelImage" src={{element.imageURL}} alt="image"/> </td>
+            </ng-container>
+      
+          <!-- Title Column -->
+          <ng-container matColumnDef="title">
+            <th mat-header-cell *matHeaderCellDef>  Title </th>
+            <td mat-cell *matCellDef="let element"> {{element.title}} </td>
+          </ng-container>
+      
+          <!-- Region Column -->
+          <ng-container matColumnDef="region">
+            <th mat-header-cell *matHeaderCellDef> Region </th>
+            <td mat-cell *matCellDef="let element"> {{element.region}} </td>
+          </ng-container>
+      
+          <!-- Rating Column -->
+          <ng-container matColumnDef="rating">
+            <th mat-header-cell *matHeaderCellDef> Rating </th>
+            <td mat-cell *matCellDef="let element"> {{element.rating}} </td>
+          </ng-container>
+      
+          <!-- Price High Column -->
+          <ng-container matColumnDef="priceHigh">
+            <th mat-header-cell *matHeaderCellDef> Price High </th>
+            <td mat-cell *matCellDef="let element"> {{element.priceHigh}} </td>
+          </ng-container>
+          
+          <!-- Price Low Column -->
+          <ng-container matColumnDef="priceLow">
+            <th mat-header-cell *matHeaderCellDef> Price Low </th>
+            <td mat-cell *matCellDef="let element"> {{element.priceLow}} </td>
+          </ng-container>
+      
+          <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+          <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+        </table>
+      
+        <mat-paginator [pageSizeOptions]="[5, 10, 20]" showFirstLastButtons></mat-paginator>
+      </div>
+    </mat-sidenav-content>
+  </mat-sidenav-container>
+  
+  

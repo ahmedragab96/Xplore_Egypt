@@ -13,6 +13,8 @@ import { HotelsComponent } from '../components/hotels/hotels.component';
 import { RestaurantDetailsComponent } from '../components/restaurant-details/restaurant-details.component';
 import { HotelDetailsComponent } from '../components/hotel-details/hotel-details.component';
 import { PostsComponent } from '../components/posts/posts.component';
+import { UsersComponent } from '../components/AdminSection/DataBase/users/users.component';
+import { HotelsCRUDComponent } from '../components/AdminSection/DataBase/hotels/hotels.component';
 
 const routes: Routes = [
   { path: 'login', component: LoginComponent},
@@ -20,12 +22,14 @@ const routes: Routes = [
   { path: 'planner', component: TripPlannerComponent , canActivate: [AuthGuard]},
   { path: 'home', component: HomeComponent },
   { path: 'trips', component: TripsComponent },
-  { path: 'trips/:id', component:TripDetailsComponent },
+  { path: 'trips/:id', component: TripDetailsComponent },
   { path: 'restaurants', component: RestaurantsComponent },
   { path: 'restaurants/:id', component: RestaurantDetailsComponent },
   { path: 'hotels', component: HotelsComponent },
   { path: 'hotels/:id', component: HotelDetailsComponent },
   { path: 'admin', component: AdminComponent},
+  { path: 'admin/database/users', component: UsersComponent},
+  { path: 'admin/database/hotels', component: HotelsCRUDComponent},
   { path: 'posts', component: PostsComponent },
   { path: '', redirectTo: '/home', pathMatch: 'full'},
   { path: '**', redirectTo: '/home', pathMatch: 'full'}

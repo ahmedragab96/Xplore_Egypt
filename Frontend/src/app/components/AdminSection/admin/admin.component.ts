@@ -44,7 +44,7 @@ public doughnutChartType = 'doughnut';
       { name: 'Dashboard', link: 'dashboard', icon: 'book' },
       { name: 'Charts', link: 'charts', icon: 'bar_chart' },
       { name: 'Statistics', link: 'statistics', icon: 'trending_up' },
-      { name: 'Database', link: 'Database', icon: 'storage' },
+      { name: 'Database', link: '/admin/database/users', icon: 'storage' },
     );
   }
 }

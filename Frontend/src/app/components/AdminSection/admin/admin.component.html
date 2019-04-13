@@ -57,21 +57,10 @@
       <mat-nav-list>
         <mat-button-toggle-group class="d-flex-col">
           <mat-button-toggle *ngFor="let link of links" [routerLink]="link.link" >
-            <!--<svg-icon src="assets/icons/dumbbell-2.svg" [svgStyle]="{ 'width.px':40 }"></svg-icon>-->
-            <!--<svg-icon src="assets/icons/dumbbell-2.svg" [svgStyle]="{ 'width.px':40 }"></svg-icon>-->
-            <!-- <svg class="icon" viewBox="0 0 27.117 13.195" aria-hidden="true" focusable="false">
-              <use attr.xlink:href="assets/icons/{{link.icon}}.svg#{{link.icon}}"></use>
-            </svg> -->
             <mat-icon class="material-icons margin-icon" color="primary">{{link.icon}}</mat-icon>
             <span class="">{{link.name}}</span>
           </mat-button-toggle>
         </mat-button-toggle-group>
-        <!--<mat-list-item class="side-nav-item" routerLinkActive="active-link" *ngFor="let link of links" [routerLink]="link.link">-->
-          <!--<a class="primary-color">-->
-            <!--<mat-icon class="material-icons margin-icon primary-color" color="primary">{{link.icon}}</mat-icon>-->
-            <!--<span class="color-primary">{{link.name}}</span>-->
-          <!--</a>-->
-        <!--</mat-list-item>-->
       </mat-nav-list>
     </mat-sidenav>
     <mat-sidenav-content>
