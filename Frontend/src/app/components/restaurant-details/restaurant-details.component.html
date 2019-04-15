@@ -1,7 +1,7 @@
 <app-navbar></app-navbar>
 
 
-<div class="container">
+<div *ngIf="restaurantDetails" class="container">
 	<img src="{{restaurantDetails[0]['photo']}}">
 	<h5><span>Name</span> : {{restaurantDetails[0]['title']}}</h5>
 	<p> <span>Phone</span> : {{restaurantDetails[0]['phone']}}</p>
