@@ -29,6 +29,7 @@ posts.post('/postapost' , function (req , res , next ) {
                             
     db.query(query, (err, result) => {
         if (err) {
+            console.log(err)
             return res.status(500).send(err);
         }
         else {
