@@ -26,13 +26,13 @@
 
   <div class="" id="accordion">
       <div class="faqHeader">General questions</div>
-      <div class="card " *ngFor="let post of posts">
+      <div class="card " *ngFor="let post of posts; let i = index">
           <div class="card-header">
               <h4 class="card-header">
-                  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">{{post['title']}}</a>
+                  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" [href]="'#collapseOne' + i">{{post['title']}}</a>
               </h4>
             </div>
-          <div id="collapseOne" class="panel-collapse collapse in">
+          <div [id]="'collapseOne'+i" class="panel-collapse collapse in">
               <div class="card-block">{{post['body']}}</div>
               <i id="like" style="color: green" class="fa fa-thumbs-o-up" aria-hidden="true"></i> &nbsp;&nbsp; <i id="dislike" style="color: red" class="fa fa-thumbs-o-down" aria-hidden="true"></i>
               <a>&nbsp;&nbsp;see details...</a>

@@ -46,11 +46,17 @@
     <ng-template #item let-item let-i="index">
    
     <div class="slide-items">
-                        <img src="{{item.photo}}">
-                   <p><b> {{item.title}} </b></p>
-                   <p><span class="inCard">Cuisine:</span> {{item.cuisine}} </p>
-                   <p><span class="inCard">Location:</span> {{item.location}} </p>
-                   <p><span class="inCard">Phone:</span> {{item.phone}} </p>
+            <div class="frame">
+                <img src="{{item.photo}}">
+            </div>
+            <div class="frameTitle">
+                <p><b> {{item.title}} </b></p>
+            </div>
+            <div class="components">
+                <p><span class="inCard">Cuisine:</span> {{item.cuisine}} </p>
+                <p><span class="inCard">Location:</span> {{item.location}} </p>
+               <p><span class="inCard">Phone:</span> {{item.phone}} </p>
+            </div>
         <button class="btn btn-primary cardBtn" [routerLink] = "['/restaurants/',item.itemid]">Read More</button>
      </div>
   </ng-template>
@@ -63,14 +69,18 @@
     <input class="search col-3" name="search" [(ngModel)]="search" placeholder="Search"> 
 </div>
 
-<div class="row">
-    <div class="col-lg-3 col-md-4 col-12" *ngFor="let restaurant of restaurants | filter : search : ['title'] | paginate: { itemsPerPage: 16, currentPage: p }">
+<div *ngIf="restaurants" class="row">
+    <div class="col-lg-3 col-md-4 col-12" *ngFor="let restaurant of restaurants | Rfilter: 'title' | filter : search : ['title'] | paginate: { itemsPerPage: 12, currentPage: p }">
         <div class="col d-flex align-items-stretch">
             <div class="card">
                 <div class="card-body">
-                    <img class="card-img-top" src="{{restaurant['photo']}}" alt="Card image cap">
+                    <div class="frame">
+                    <img class="img-fluid imgSize" src="{{restaurant['photo']}}" alt="Card image cap">
+                    </div>
+                    <div class="frameTitle">
                     <h5 class="card-title">{{restaurant['title']}}</h5>
-                    <div class="card-text">
+                    </div>
+                    <div class="card-text components">
                         <p><span class="inCard">Cuisine:</span>{{restaurant['cuisine']}}</p>
                         <p><span class="inCard">Location:</span>{{restaurant['location']}}</p>
                         <p><span class="inCard">Phone:</span> {{restaurant['phone']}} </p>
