@@ -12,7 +12,7 @@ export class PostsComponent implements OnInit {
   today= new Date();
   jstoday = '';
   constructor(private service:PostsService) { 
-    this.jstoday = formatDate(this.today, 'dd-MM-yyyy hh:mm:ss a', 'en-US', '+0530');
+    this.jstoday = formatDate(this.today, 'yyyy-MM-dd', 'en-US', '+0530');
   }
 
   posts: any;
@@ -33,7 +33,13 @@ export class PostsComponent implements OnInit {
   //   newPost['date']=this.jstoday;
   //   this.service.savePost(this.newPost);
   // }
-  onPost(){}
+  onPost(f){
+    console.log(f.value)
+    this.newPost['title']=f.value.title;
+    this.newPost['body']=f.value.body;
+    this.newPost['date']=this.jstoday;
+    this.service.savePost(this.newPost);
+  }
 
 
   ngOnInit() {

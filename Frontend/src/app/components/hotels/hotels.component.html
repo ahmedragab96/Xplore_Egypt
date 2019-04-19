@@ -54,11 +54,17 @@
     <ng-template #item let-item let-i="index">
    
     <div class="slide-items">
-                        <img src="{{item.imageURL}}">
-                   <p><b> {{item.title}} </b></p>
-                   <p><span class="inCard">Address:</span> {{item.address}} </p>
-                   <p><span class="inCard">Price Range:</span> {{item.priceRange}} </p>
-        <button class="btn btn-primary cardBtn" [routerLink] = "['/hotels/',item.hotel_id]">Read More</button>
+        <div class="frame">
+            <img class="imgSize" src="{{item.imageURL}}">
+        </div>
+        <div class="frameTitle">
+            <p><b> {{item.title}} </b></p>
+        </div>
+        <div class="components">
+        <p><span class="inCard">Address:</span> {{item.address}} </p>
+        <p><span class="inCard">Price Range:</span> {{item.priceRange}} </p>
+        </div>
+        <button class="btn btn-primary cardBtn" [routerLink] = "['/hotels/',item.itemid]">Read More</button>
      </div>
   </ng-template>
 </div>
@@ -70,19 +76,23 @@
     <input class="search col-3" name="search" [(ngModel)]="search" placeholder="Search"> 
 </div>
 
-<div class="row">
-    <div class="col-lg-3 col-md-4 col-12" *ngFor="let hotel of hotels | filter : search : ['title'] | paginate: { itemsPerPage: 16, currentPage: p }">
+<div *ngIf="hotels" class="row">
+    <div class="col-lg-3 col-md-4 col-6" *ngFor="let hotel of hotels | Rfilter: 'title' | filter : search : ['title'] | paginate: { itemsPerPage: 12, currentPage: p }">
         <div class="col d-flex align-items-stretch">
             <div class="card">
                 <div class="card-body">
-                    <img class="card-img-top" src="{{hotel['imageURL']}}" alt="Card image cap">
+                    <div class="frame">
+                    <img class="img-fluid imgSize" src="{{hotel['imageURL']}}" alt="Card image cap">
+                    </div>
+                    <div class="frameTitle">
                     <h5 class="card-title">{{hotel['title']}}</h5>
-                    <div class="card-text">
-                      <p><span class="inCard">Address:</span> {{item['address']}} </p>
-                      <p><span class="inCard">Price Range:</span> {{item['priceRange']}} </p>
+                    </div>
+                    <div class="card-text components">
+                      <p><span class="inCard">Address:</span> {{hotel['address']}} </p>
+                      <p><span class="inCard">Price Range:</span> {{hotel['priceRange']}} </p>
                     </div>
                     <!-- <button class="btn btn-primary cardBtn" (click)="ViewHotelDetail(hotel.hotel_id)">Read More</button> -->
-                    <button class="btn btn-primary cardBtn" [routerLink] = "['/hotels/',hotel.hotel_id]">Read More</button>
+                    <button class="btn btn-primary cardBtn" [routerLink] = "['/hotels/',hotel.itemid]">Read More</button>
                   </div>
             </div>
         </div>

@@ -22,8 +22,10 @@ export class PostsService {
   }
 
   savePost(newPost){
-    let body:any={};
+    let body=newPost;
     body["userID"]=this.decodeToken();
+    body["upVoting"]=0;
+    body["downVoting"]=0;
   	console.log(body);
     return this.http.post("http://localhost:3000/posts/postapost",body).subscribe(data  => {
     console.log("POST Request is successful ", data); },

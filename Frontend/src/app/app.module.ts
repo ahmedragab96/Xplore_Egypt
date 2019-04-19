@@ -52,6 +52,8 @@ import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 
 // pipes
 import { FilterPipe } from './pipes/custom-pipes.pipe';
+import { RemoveFilterPipe } from './pipes/custom-pipes.pipe';
+
 
 import {
   SocialLoginModule,
@@ -102,6 +104,7 @@ export function getAuthServiceConfigs() {
     TripsComponent,
     FooterComponent,
     FilterPipe,
+    RemoveFilterPipe,
     AdminComponent,
     TripDetailsComponent,
     RestaurantsComponent,

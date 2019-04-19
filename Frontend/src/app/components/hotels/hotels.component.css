@@ -110,3 +110,28 @@ option:first {
     /* align-content: center; */
     margin-bottom: 50px;
 }
+
+.frame{
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.imgSize{
+    /* max-height: 130px; */
+    object-fit: cover;
+    object-position: 100% 0;
+    width: 1300px;
+    height: 130px;
+}
+
+.frameTitle{
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.components{
+    height: 200px;
+}

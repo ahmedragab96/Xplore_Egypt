@@ -61,16 +61,20 @@
     </ng-template>
     <ng-template #item let-item let-i="index">
    
-    <div class="slide-items">
-                        <img src="{{item.imageURL}}">
-                   <p><b> {{item.title}} </b></p>
-                   <p><span class="inCard">Price:</span> {{item.price}} </p>
-                   <p><span class="inCard">Duration:</span> {{item.duration}} </p>
-        <!-- <button [routerLink] = "['/trips',item.tripID]" class="btn btn-primary cardBtn">Xplore</button> -->
-        <button class="btn btn-primary cardBtn" [routerLink] = "['/trips/',item.trip_id]">Xplore</button>
-      </div>
-  </ng-template>
-</div>
+        <div class="slide-items">
+            <div class="frame">
+                <img class="imgSize" src="{{item.imageURL}}">
+            </div>
+            <div class="frameTitle">
+              <p><b> {{item.title}} </b></p>
+            </div>
+            <p><span class="inCard">Price:</span> {{item.price}} </p>
+            <p><span class="inCard">Duration:</span> {{item.duration}} </p>
+              <!-- <button [routerLink] = "['/trips',item.tripID]" class="btn btn-primary cardBtn">Xplore</button> -->
+            <button class="btn btn-primary cardBtn" [routerLink] = "['/trips/',item.itemid]">Read More</button>
+          </div>
+        </ng-template>
+    </div>
 <hr class="style-one">
 
 <!-- All Trips -->
@@ -87,23 +91,25 @@
         <span class="col-3" style="display:in-line;">Filter By Region</span>
 </div>
 
-<div class="row">
-    <div class="col-lg-3 col-md-4 col-12" *ngFor="let trip of trips | filter : search : ['title'] | filter : region : ['region'] | paginate: { itemsPerPage: 16, currentPage: p }">
-        <div class="col d-flex align-items-stretch">
-            <div class="card">
-                <div class="card-body">
-                    <img class="card-img-top" src="{{trip['imageURL']}}" alt="Card image cap">
-                    <h5 class="card-title">{{trip['title']}}</h5>
-                    <div class="card-text">
-                        <p><span class="inCard">Price:</span>{{trip['price']}}</p>
-                        <p><span class="inCard">Duration:</span>{{trip['duration']}}</p>
-                    </div>
-                    <button [routerLink] = "['/trips/',trip.trip_id]" class="btn btn-primary cardBtn">Xplore</button>
-                    <!-- <button [routerLink] = "['/trips/',trip.itemid]" class="btn btn-primary cardBtn">Xplore</button> -->
-                    <!-- <button (click)="ViewTripDetail(trip.tripID)" class="btn btn-primary cardBtn">Xplore</button> -->
-                  </div>
-            </div>
-        </div>
+<div *ngIf="trips" class="row">
+    <div class="col-lg-3 col-md-4 col-6" *ngFor="let trip of trips | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region'] | paginate: { itemsPerPage: 12, currentPage: p }">
+      <div class="col d-flex align-items-stretch">
+          <div class="card">
+              <div class="card-body">
+                <div class="frame">
+                  <img class="img-fluid imgSize" src="{{trip['imageURL']}}" alt="Card image cap">
+                </div>
+                <div class="frameTitle">
+                  <h5 class="card-title">{{trip['title']}}</h5>
+                </div>
+                <div class="card-text">
+                    <p><span class="inCard">Price:</span>{{trip['price']}}</p>
+                    <p><span class="inCard">Duration:</span>{{trip['duration']}}</p>
+                </div>
+                <button [routerLink] = "['/trips/',trip.itemid]" class="btn btn-primary cardBtn">Read More</button>
+              </div>
+          </div>
+      </div>
     </div>
 </div>
 
@@ -120,18 +126,6 @@
     </div>
 
 </div>
-
-
-<!-- **************************************************** -->
-<!-- rating stars -->
-<ngb-rating [(rate)]="currentRate">
-  <ng-template let-fill="fill" let-index="index">
-    <span class="star" [class.filled]="fill === 100" [class.bad]="index < 3">&#9733;</span>
-  </ng-template>
-</ngb-rating>
-<hr>
-<pre>Rate: <b>{{currentRate}}</b></pre>
-<!-- end of rating stars -->
 
 
 

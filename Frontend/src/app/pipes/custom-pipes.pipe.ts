@@ -31,3 +31,11 @@ export class FilterPipe implements PipeTransform {
     }
   }
 }
+
+
+@Pipe({ name: 'Rfilter', pure: false})
+export class RemoveFilterPipe implements PipeTransform {
+  transform(items: any[], args): any {
+    return items.filter(item => (item[args] !== ''));
+  }
+}
