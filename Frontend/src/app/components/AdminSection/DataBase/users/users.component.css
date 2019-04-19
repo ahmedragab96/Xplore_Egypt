@@ -84,3 +84,14 @@ table {
     margin-left: auto;
     height: 60px;
   }  
+  
+.mat-card {
+  margin: 0 auto;
+  width: 80%;
+}
+
+@media(max-width: 991px) {
+  .mat-card {
+    width: 100%;
+  }
+}

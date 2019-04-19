@@ -1,8 +1,9 @@
 import { Component, OnInit, ViewChild } from '@angular/core';
 import { UserService } from '../../../../services/users/users.service';
 import { Observable, Subscription } from 'rxjs';
-import {MatPaginator} from '@angular/material';
+import { MatPaginator } from '@angular/material/paginator';
 import { MatTableDataSource } from '@angular/material/table';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-users',
@@ -20,19 +21,24 @@ export class UsersComponent implements OnInit {
 
   constructor(
     public userService: UserService,
+    public router: Router,
   ) { }
 
   async ngOnInit() {
     this.links.push(
-      { name: 'Dashboard', link: 'dashboard', icon: 'book' },
+      { name: 'Dashboard', link: '/admin', icon: 'book' },
       { name: 'Charts', link: 'charts', icon: 'bar_chart' },
       { name: 'Statistics', link: 'statistics', icon: 'trending_up' },
-      { name: 'Database', link: 'Database', icon: 'storage' },
     );
     this.usersSubscription = await this.userService.GetAllUsers().subscribe( (result: any) => {
       this.users = result.results;
       this.dataSource.data = this.users;
     });
     this.dataSource.paginator = this.paginator;
+  }
+
+  navigateTo(link) {
+    console.log(link);
+    this.router.navigate([link]);
   }
 }

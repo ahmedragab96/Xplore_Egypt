@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
 
 declare var $: any;
 @Component({
@@ -41,10 +42,19 @@ public doughnutChartType = 'doughnut';
 
   ngOnInit(): void {
     this.links.push(
-      { name: 'Dashboard', link: 'dashboard', icon: 'book' },
+      { name: 'Dashboard', link: '/admin', icon: 'book' },
       { name: 'Charts', link: 'charts', icon: 'bar_chart' },
       { name: 'Statistics', link: 'statistics', icon: 'trending_up' },
-      { name: 'Database', link: '/admin/database/users', icon: 'storage' },
+      // { name: 'Database', link: '/admin/database/hotels', icon: 'storage' },
     );
+  }
+
+  constructor(
+    private router: Router,
+  ) {}
+
+  navigateTo(link) {
+    console.log(link);
+    this.router.navigate([link]);
   }
 }

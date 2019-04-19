@@ -10,10 +10,12 @@ import { MatInputModule,
          MatListModule,
          MatIconModule,
          MatTableModule,
-         MatPaginator,
          MatPaginatorModule,
+         MatCardModule,
+         MatSelectModule,
+         MatOptionModule,
  } from '@angular/material';
- 
+
  import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
 
  import {
@@ -131,7 +133,10 @@ export function getAuthServiceConfigs() {
     MatButtonToggleModule,
     MatTableModule,
     MatPaginatorModule,
-    MatProgressSpinnerModule
+    MatProgressSpinnerModule,
+    MatCardModule,
+    MatSelectModule,
+    MatOptionModule,
     ],
   providers: [TripPlannerService, RestaurantsService, HotelsService, PostsService, UserService,
     FilterPipe,

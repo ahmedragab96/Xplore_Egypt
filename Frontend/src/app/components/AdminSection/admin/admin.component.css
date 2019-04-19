@@ -157,3 +157,15 @@
     margin-left: auto;
     height: 60px;
   }
+  
+  .mat-card {
+    margin: 0 auto;
+    width: 70%;
+    margin-bottom: 20px;
+  }
+  
+  @media(max-width: 991px) {
+    .mat-card {
+      width: 100%;
+    }
+  }

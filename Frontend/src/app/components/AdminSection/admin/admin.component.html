@@ -47,69 +47,81 @@
     </div>
 </div>
 </div> -->
-
 <mat-sidenav-container class="sidenav-container">
-    <mat-sidenav #drawer class="sidenav" fixedInViewport="true" [attr.role]="'navigation'"
-      [mode]="'side'" [opened]="true">
-      <mat-toolbar color="primary">
-        Xplore Egypt
-      </mat-toolbar>
-      <mat-nav-list>
-        <mat-button-toggle-group class="d-flex-col">
-          <mat-button-toggle *ngFor="let link of links" [routerLink]="link.link" >
-            <mat-icon class="material-icons margin-icon" color="primary">{{link.icon}}</mat-icon>
-            <span class="">{{link.name}}</span>
-          </mat-button-toggle>
-        </mat-button-toggle-group>
-      </mat-nav-list>
-    </mat-sidenav>
-    <mat-sidenav-content>
-            <mat-toolbar color="primary">
-                    <mat-button-toggle class="logout-btn">
-                            <mat-icon class="material-icons margin-icon" color="primary">arrow_back</mat-icon>
-                            <span class="">Logout</span>
-                    </mat-button-toggle>
-            </mat-toolbar>
-            <div id="container">
-                    <div id="row">
-                            <div  id="bar">
-                                    <canvas baseChart [datasets] = "barChartData" 
-                                            [labels] = "barChartLabels"
-                                            [options] = "barChartOptions"
-                                            [legend] = "barChartLegend"
-                                            [chartType] = "barChartType">
-                                            
-                                    </canvas>
-                            </div>
-                            <div class="col-md-4" id="chart">
-                                    <canvas baseChart
-                                            [data]="pieChartData"
-                                            [labels]="pieChartLabels"
-                                            [chartType]="pieChartType">
-                                    </canvas>
-                            </div>
-                    </div>
-                <div class="col-md-4">
-                <div style="display: block" id="chart">
-                    <canvas baseChart
-                        [datasets]="radarChartData"
-                        [labels]="radarChartLabels"
-                        [chartType]="radarChartType">
-                    </canvas>
+        <mat-sidenav #drawer class="sidenav" fixedInViewport="true" [attr.role]="'navigation'" [mode]="'side'"
+                [opened]="true">
+                <mat-toolbar color="primary">
+                        Xplore Egypt
+                </mat-toolbar>
+                <mat-nav-list>
+                        <mat-button-toggle-group class="d-flex-col">
+                                <mat-button-toggle *ngFor="let link of links" [routerLink]="link.link">
+                                        <mat-icon class="material-icons margin-icon" color="primary">{{link.icon}}
+                                        </mat-icon>
+                                        <span class="">{{link.name}}</span>
+                                        </mat-button-toggle>
+                                        <mat-button-toggle>
+                                                <mat-icon class="material-icons margin-icon" color="primary">storage</mat-icon>
+                                                <mat-select placeholder="DataBase"(selectionChange)="navigateTo($event.value)">
+                                                        <!-- content -->
+                                                        <mat-option value="admin/database/users">Users</mat-option>
+                                                        <mat-option value="admin/database/hotels">Hotels</mat-option>
+                                                </mat-select>
+                                        </mat-button-toggle>
+                        </mat-button-toggle-group>
+                        
+                </mat-nav-list>
+        </mat-sidenav>
+        <mat-sidenav-content>
+                <mat-toolbar color="primary">
+                        <mat-button-toggle class="logout-btn">
+                                <mat-icon class="material-icons margin-icon" color="primary">arrow_back</mat-icon>
+                                <span class="">Logout</span>
+                        </mat-button-toggle>
+                </mat-toolbar>
+                <div id="container">
+                        <mat-card fxLayout="column" fxLayoutAlign="center center" class="mat-elevation-z8">
+                        <div id="row">
+                                <div id="bar">
+                                        <canvas baseChart [datasets]="barChartData" [labels]="barChartLabels"
+                                                [options]="barChartOptions" [legend]="barChartLegend"
+                                                [chartType]="barChartType">
+
+                                        </canvas>
+                                </div>
+                        </div>
+                        </mat-card>      
+                        <mat-card fxLayout="column" fxLayoutAlign="center center" class="mat-elevation-z8">
+                        <div id="row">
+                                <div id="chart">
+                                        <canvas baseChart [data]="pieChartData" [labels]="pieChartLabels"
+                                                [chartType]="pieChartType">
+                                        </canvas>
+                                </div>
+                        </div>
+                        </mat-card>
+                        <mat-card fxLayout="column" fxLayoutAlign="center center" class="mat-elevation-z8"> 
+                        <div>
+                                <div style="display: block" id="chart">
+                                        <canvas baseChart [datasets]="radarChartData" [labels]="radarChartLabels"
+                                                [chartType]="radarChartType">
+                                        </canvas>
+                                </div>
+                        </div>
+                </mat-card>
+                        <mat-card fxLayout="column" fxLayoutAlign="center center" class="mat-elevation-z8"> 
+                        <div>
+                                <div style="display: block">
+                                        <canvas baseChart [data]="doughnutChartData" [labels]="doughnutChartLabels"
+                                                [chartType]="doughnutChartType">
+                                        </canvas>
+                                </div>
+                        </div>
+                </mat-card>
+                          
                 </div>
-                </div>
-                <div class="col-md-4">
-                <div style="display: block">
-                        <canvas baseChart
-                                [data]="doughnutChartData"
-                                [labels]="doughnutChartLabels"
-                                [chartType]="doughnutChartType">
-                            </canvas>
-                </div>
-                </div>
-                </div>
-     
-      <router-outlet></router-outlet>
-    </mat-sidenav-content>
-  </mat-sidenav-container>
+
+                <router-outlet></router-outlet>
+        </mat-sidenav-content>
+</mat-sidenav-container>
   

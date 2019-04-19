@@ -1,8 +1,9 @@
-import { Component, OnInit, ViewChild } from '@angular/core';
+import { Component, OnInit, ViewChild, AfterViewInit } from '@angular/core';
 import { MatTableDataSource } from '@angular/material/table';
 import { Subscription } from 'rxjs';
-import {MatPaginator} from '@angular/material';
+import {MatPaginator} from '@angular/material/paginator';
 import { HotelsService } from '../../../../services/hotels/hotels.service';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-hotels',
@@ -10,7 +11,7 @@ import { HotelsService } from '../../../../services/hotels/hotels.service';
   styleUrls: ['./hotels.component.css']
 })
 
-export class HotelsCRUDComponent implements OnInit {
+export class HotelsCRUDComponent implements OnInit, AfterViewInit {
 
   links = [];
   hotels: any;
@@ -23,20 +24,29 @@ export class HotelsCRUDComponent implements OnInit {
 
   constructor(
     public hotelService: HotelsService,
+    private router: Router,
   ) { }
+
+
+  navigateTo(link) {
+    console.log(link);
+    this.router.navigate([link]);
+  }
 
   async ngOnInit() {
     this.links.push(
-      { name: 'Dashboard', link: 'dashboard', icon: 'book' },
+      { name: 'Dashboard', link: '/admin', icon: 'book' },
       { name: 'Charts', link: 'charts', icon: 'bar_chart' },
       { name: 'Statistics', link: 'statistics', icon: 'trending_up' },
-      { name: 'Database', link: 'Database', icon: 'storage' },
     );
     this.usersSubscription = await this.hotelService.GetAllHotels().subscribe( (result: any) => {
       this.hotels = result;
       this.dataSource.data = this.hotels;
       this.isLoading = false;
     });
+  }
+
+  ngAfterViewInit() {
     this.dataSource.paginator = this.paginator;
   }
 
