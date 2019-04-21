@@ -41,47 +41,28 @@
             <img id="hotelImage" src={{element.imageURL}} alt="image" /> </td>
         </ng-container>
 
-        <!-- Title Column -->
-        <ng-container matColumnDef="title">
-          <th mat-header-cell *matHeaderCellDef> Title </th>
-          <td mat-cell *matCellDef="let element"> {{element.title}} </td>
+        <!-- Includes Column -->
+        <ng-container matColumnDef="includes">
+          <th mat-header-cell *matHeaderCellDef> Includes </th>
+          <td mat-cell *matCellDef="let element"> {{element.includes}} </td>
         </ng-container>
 
-        <!-- Region Column -->
-        <ng-container matColumnDef="region">
-          <th mat-header-cell *matHeaderCellDef> Region </th>
-          <td mat-cell *matCellDef="let element"> {{element.region}} </td>
+        <!-- Experience Column -->
+        <ng-container matColumnDef="experience">
+          <th mat-header-cell *matHeaderCellDef> Experiences </th>
+          <td mat-cell *matCellDef="let element"> {{element.experiences}} </td>
         </ng-container>
 
-        <!-- Rating Column -->
-        <ng-container matColumnDef="rating">
-          <th mat-header-cell *matHeaderCellDef> Rating </th>
-          <td mat-cell *matCellDef="let element"> {{element.rating}} </td>
+        <!-- Price Column -->
+        <ng-container matColumnDef="price">
+          <th mat-header-cell *matHeaderCellDef> Price </th>
+          <td mat-cell *matCellDef="let element"> {{element.price}} </td>
         </ng-container>
 
-        <!-- Price High Column -->
-        <ng-container matColumnDef="priceHigh">
-          <th mat-header-cell *matHeaderCellDef> Price High </th>
-          <td mat-cell *matCellDef="let element"> {{element.priceHigh}} </td>
-        </ng-container>
-
-        <!-- Price Low Column -->
-        <ng-container matColumnDef="priceLow">
-          <th mat-header-cell *matHeaderCellDef> Price Low </th>
-          <td mat-cell *matCellDef="let element"> {{element.priceLow}} </td>
-        </ng-container>
-        
-        <ng-container matColumnDef="Edit">
-          <th mat-header-cell *matHeaderCellDef> Edit </th>
-          <td mat-cell *matCellDef="let element">
-            <!-- <button matTooltip="edit company" (click)="editCompany(company.key)" mat-icon-button class="add-btn"
-              color="primary">
-              <mat-icon>edit</mat-icon>
-            </button> -->
-            <button (click)="edit(element)" mat-icon-button color="primary">
-                <mat-icon class="material-icons" color="primary">edit</mat-icon>
-            </button>
-          </td>
+        <!-- Duration Column -->
+        <ng-container matColumnDef="duration">
+          <th mat-header-cell *matHeaderCellDef> Duration </th>
+          <td mat-cell *matCellDef="let element"> {{element.duration}} </td>
         </ng-container>
 
         <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>

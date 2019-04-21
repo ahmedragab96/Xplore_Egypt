@@ -16,6 +16,7 @@ import { PostsComponent } from '../components/posts/posts.component';
 import { UsersComponent } from '../components/AdminSection/DataBase/users/users.component';
 import { HotelsCRUDComponent } from '../components/AdminSection/DataBase/hotels/hotels.component';
 import { ContactUsComponent } from '../components/contact-us/contact-us.component';
+import { TripsCRUDComponent } from '../components/AdminSection/DataBase/trips/trips.component';
 
 const routes: Routes = [
   { path: 'login', component: LoginComponent},
@@ -31,6 +32,7 @@ const routes: Routes = [
   { path: 'admin', component: AdminComponent},
   { path: 'admin/database/users', component: UsersComponent},
   { path: 'admin/database/hotels', component: HotelsCRUDComponent},
+  { path: 'admin/database/trips', component: TripsCRUDComponent},
   { path: 'posts', component: PostsComponent },
   { path: 'contactUs', component: ContactUsComponent },
   { path: '', redirectTo: '/home', pathMatch: 'full'},

@@ -74,6 +74,7 @@ import { ReviewComponent } from './components/review/review.component';
 import { UsersComponent } from './components/AdminSection/DataBase/users/users.component';
 import { HotelsCRUDComponent } from './components/AdminSection/DataBase/hotels/hotels.component';
 import { ContactUsComponent } from './components/contact-us/contact-us.component';
+import { TripsCRUDComponent } from './components/AdminSection/DataBase/trips/trips.component';
 // Configs
 export function getAuthServiceConfigs() {
   const config = new AuthServiceConfig(
@@ -118,6 +119,7 @@ export function getAuthServiceConfigs() {
     UsersComponent,
     HotelsCRUDComponent,
     ContactUsComponent,
+    TripsCRUDComponent,
   ],
   imports: [
     BrowserModule,
@@ -145,7 +147,7 @@ export function getAuthServiceConfigs() {
     MatOptionModule,
     ],
   providers: [TripPlannerService, RestaurantsService, HotelsService, PostsService, UserService,
-    FilterPipe,RecommendaionService,
+    FilterPipe, RecommendaionService,
       {provide: HTTP_INTERCEPTORS, useClass: AuthInterceptor, multi: true},
       {
         provide: AuthServiceConfig,
