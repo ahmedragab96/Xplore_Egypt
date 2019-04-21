@@ -73,6 +73,7 @@ import { PostsComponent } from './components/posts/posts.component';
 import { ReviewComponent } from './components/review/review.component';
 import { UsersComponent } from './components/AdminSection/DataBase/users/users.component';
 import { HotelsCRUDComponent } from './components/AdminSection/DataBase/hotels/hotels.component';
+import { ContactUsComponent } from './components/contact-us/contact-us.component';
 // Configs
 export function getAuthServiceConfigs() {
   const config = new AuthServiceConfig(
@@ -116,6 +117,7 @@ export function getAuthServiceConfigs() {
     ReviewComponent,
     UsersComponent,
     HotelsCRUDComponent,
+    ContactUsComponent,
   ],
   imports: [
     BrowserModule,
