@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import {RestaurantsService} from '../../services/restaurants/restaurants.service';
+import {RecommendaionService} from './../../services/recommendation/recommendaion.service'
 
 
 @Component({
@@ -8,8 +9,10 @@ import {RestaurantsService} from '../../services/restaurants/restaurants.service
   styleUrls: ['./restaurants.component.css']
 })
 export class RestaurantsComponent implements OnInit {
-
-  constructor(private service:RestaurantsService) { }
+  recommendedPlaces:any;
+  recommendedRestaurants:any=[];
+  constructor(private service:RestaurantsService,
+              private recservice:RecommendaionService) { }
 
   restaurants: any;
   getRestaurantsFromService(){
@@ -19,8 +22,23 @@ export class RestaurantsComponent implements OnInit {
     });
   }
 
+ getRecommended()
+   {
+    this.recservice.getRecommended().subscribe((res) => {
+      this.recommendedPlaces = res;
+      console.log(res);
+     for (var i = 0; i <this.recommendedPlaces.length; i++) {
+      if(this.recommendedPlaces[i].type=="Restaurant")
+        {console.log(i)
+        this.recommendedRestaurants.push(this.recommendedPlaces[i])}
+  }
+  console.log(this.recommendedRestaurants)
+    });
+  }
+
   ngOnInit() {
     this.getRestaurantsFromService();
+    this.getRecommended()
   }
 
 }
