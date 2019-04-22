@@ -15,6 +15,7 @@ export class RestaurantsComponent implements OnInit {
               private recservice:RecommendaionService) { }
 
   restaurants: any;
+  default = "../../../assets/images/noimage.png"
   getRestaurantsFromService(){
     this.service.GetAllRestaurants().subscribe((res) => {
       this.restaurants = res;

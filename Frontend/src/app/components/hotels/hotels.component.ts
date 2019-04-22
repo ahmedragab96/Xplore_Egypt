@@ -16,6 +16,7 @@ export class HotelsComponent implements OnInit {
               private recservice:RecommendaionService) { }
 
   hotels: any;
+  default = "../../../assets/images/noimage.png"
   getHotelsFromService(){
     this.service.GetAllHotels().subscribe((res) => {
       this.hotels = res;

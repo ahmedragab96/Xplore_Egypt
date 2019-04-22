@@ -75,7 +75,7 @@
             <div class="card">
                 <div class="card-body">
                     <div class="frame">
-                    <img class="img-fluid imgSize" src="{{restaurant['photo']}}" alt="NO IMAGE AVAILABLE">
+                        <img class="img-fluid imgSize" style="height: 170px;" src="{{restaurant['photo']?restaurant['photo']:default}}" alt="NO IMAGE AVAILABLE">              
                     </div>
                     <div class="frameTitle">
                     <h5 class="card-title">{{restaurant['title']}}</h5>
