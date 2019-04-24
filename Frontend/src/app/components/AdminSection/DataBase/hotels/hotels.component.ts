@@ -60,7 +60,7 @@ export class HotelsCRUDComponent implements OnInit, AfterViewInit, OnDestroy {
 
   add() {
     console.log('hotel');
-    // this.router.navigate(['admin/database/hotels/addHotel']);
+    this.router.navigate(['admin/database/hotels/addHotel']);
   }
 
 }

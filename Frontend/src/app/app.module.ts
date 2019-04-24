@@ -38,7 +38,7 @@ import {RestaurantsService} from './services/restaurants/restaurants.service';
 import {HotelsService} from './services/hotels/hotels.service';
 import {PostsService} from './services/posts/posts.service';
 import {UserService} from './services/users/users.service';
-import {RecommendaionService} from './services/recommendation/recommendaion.service'
+import {RecommendaionService} from './services/recommendation/recommendaion.service';
 
 
 import { HomeComponent } from './components/home/home.component';

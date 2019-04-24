@@ -52,7 +52,7 @@ public doughnutChartType = 'doughnut';
       // { name: 'Database', link: '/admin/database/hotels', icon: 'storage' },
     );
   }
-  
+
   navigateTo(link) {
     console.log(link);
     this.router.navigate([link]);
