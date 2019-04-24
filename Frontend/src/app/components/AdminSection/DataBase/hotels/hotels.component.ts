@@ -15,7 +15,7 @@ export class HotelsCRUDComponent implements OnInit, AfterViewInit, OnDestroy {
 
   links = [];
   hotels: any;
-  displayedColumns: string[] = ['image', 'title', 'region', 'rating', 'priceHigh', 'priceLow', 'Edit'];
+  displayedColumns: string[] = ['image', 'title', 'region', 'rating', 'priceHigh', 'priceLow', 'Delete'];
   dataSource = new MatTableDataSource();
   hotelsSubscription: Subscription;
   isLoading = true;
@@ -54,8 +54,13 @@ export class HotelsCRUDComponent implements OnInit, AfterViewInit, OnDestroy {
     this.hotelsSubscription.unsubscribe();
   }
 
-  edit(hotel: any) {
-    this.router.navigate([`admin/database/hotels/${hotel.id}`]);
+  delete(hotel: any) {
+    console.log(hotel);
+  }
+
+  add() {
+    console.log('hotel');
+    // this.router.navigate(['admin/database/hotels/addHotel']);
   }
 
 }
