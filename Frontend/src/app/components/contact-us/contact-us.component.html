@@ -6,14 +6,14 @@
     <div class="form-group">
       <input ngModel #email="ngModel" type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required>
       <!-- email validations -->
-    <div class="alert alert-danger text-center" *ngIf="!email.valid && email.touched">
+    <div class="text-center" *ngIf="!email.valid && email.touched">
       <div *ngIf="email.errors.required">Email is required!</div>
       <div *ngIf="email.errors.pattern">Email is not valid</div>
     </div>
     <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
     </div>
     <div class="form-group">
-      <textarea ngModel #msg="ngModel" name="msg" class="form-control" id="exampleFormControlTextarea1" rows="3" required>Enter Your Message Here...</textarea>
+      <textarea ngModel #msg="ngModel" name="msg" class="form-control" id="exampleFormControlTextarea1" rows="3" required placeholder="Enter Your Message Here..."></textarea>
     </div>
     <label type="submit" for="cb" class="button">Send mail</label>
 </form>

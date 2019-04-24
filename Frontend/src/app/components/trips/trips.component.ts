@@ -19,6 +19,8 @@ export class TripsComponent implements OnInit {
   itemsPerPage:any;
   p: number = 1;
   trips: any;
+  default = "../../../assets/images/noimage.png"
+
   getTripsFromService(){
     this.service.GetAllTrips().subscribe((res) => {
       this.trips = res;

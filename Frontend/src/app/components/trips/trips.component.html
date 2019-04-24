@@ -97,7 +97,7 @@
           <div class="card">
               <div class="card-body">
                 <div class="frame">
-                  <img class="img-fluid imgSize" src="{{trip['imageURL']}}" alt="NO IMAGE AVAILABLE">
+                  <img class="img-fluid imgSize" style="height: 170px;" src="{{trip['imageURL']?trip['imageURL']:default}}" alt="NO IMAGE AVAILABLE">              
                 </div>
                 <div class="frameTitle">
                   <h5 class="card-title">{{trip['title']}}</h5>
