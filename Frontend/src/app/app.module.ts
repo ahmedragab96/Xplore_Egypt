@@ -38,12 +38,8 @@ import {RestaurantsService} from './services/restaurants/restaurants.service';
 import {HotelsService} from './services/hotels/hotels.service';
 import {PostsService} from './services/posts/posts.service';
 import {UserService} from './services/users/users.service';
-<<<<<<< HEAD
 import {RecommendaionService} from './services/recommendation/recommendaion.service'
 import {ReviewsService} from './services/reviews/reviews.service'
-=======
-import {RecommendaionService} from './services/recommendation/recommendaion.service';
->>>>>>> 1a1cab0d67a1b1a1436c1bfd84b564585f6748cc
 
 
 import { HomeComponent } from './components/home/home.component';

@@ -22,4 +22,9 @@ export class ReviewsService {
     },
       error => { console.log('Error', error); });
   }
-}
+
+
+   getReviewforPlace(placeID){
+     return this.http.get('http://localhost:3000/reviews//getPlaceReviews/'+placeID)
+   }
+  }
