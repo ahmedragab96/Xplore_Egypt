@@ -1,6 +1,10 @@
-table {
-    width: 100%;
+  
+  .mat-card {
+    margin: 0 auto;
+    width: 70%;
+    margin-bottom: 20px;
   }
+  
   .sidenav-container {
     height: 100%;
   }
@@ -82,26 +86,15 @@ table {
   
   .logout-btn {
     margin-left: auto;
-    height: 60px;
+    height: 55px;
   }
-  #hotelImage {
-    border-radius: 50%;
-    height: 80px;
-    width: 80px;
+
+  @media(max-width: 991px) {
+    .mat-card {
+      width: 100%;
+    }
   }
   
-    
-.mat-card {
-  margin: 0 auto;
-  width: 80%;
-}
-
-@media(max-width: 991px) {
-  .mat-card {
-    width: 100%;
+  .content {
+    line-height: normal;
   }
-}
-
-.add-button {
-  float: right;
-}

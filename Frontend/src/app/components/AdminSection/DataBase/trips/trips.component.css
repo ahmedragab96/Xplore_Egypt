@@ -93,15 +93,11 @@ table {
     
 .mat-card {
   margin: 0 auto;
-  width: 80%;
+  width: 100%;
 }
 
 @media(max-width: 991px) {
   .mat-card {
     width: 100%;
   }
-}
-
-.add-button {
-  float: right;
 }

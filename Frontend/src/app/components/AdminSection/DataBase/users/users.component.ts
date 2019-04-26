@@ -1,4 +1,4 @@
-import { Component, OnInit, ViewChild } from '@angular/core';
+import { Component, OnInit, ViewChild, AfterViewInit, OnDestroy } from '@angular/core';
 import { UserService } from '../../../../services/users/users.service';
 import { Observable, Subscription } from 'rxjs';
 import { MatPaginator } from '@angular/material/paginator';
@@ -10,7 +10,7 @@ import { Router } from '@angular/router';
   templateUrl: './users.component.html',
   styleUrls: ['./users.component.css']
 })
-export class UsersComponent implements OnInit {
+export class UsersComponent implements OnInit, OnDestroy, AfterViewInit {
   links = [];
   users: any;
   displayedColumns: string[] = ['FirstName', 'LastName', 'Email', 'gender', 'Nationality'];
@@ -40,5 +40,13 @@ export class UsersComponent implements OnInit {
   navigateTo(link) {
     console.log(link);
     this.router.navigate([link]);
+  }
+
+  ngAfterViewInit(): void {
+    this.dataSource.paginator = this.paginator;
+  }
+
+  ngOnDestroy(): void {
+    this.usersSubscription.unsubscribe();
   }
 }

@@ -14,6 +14,7 @@ import { MatInputModule,
          MatCardModule,
          MatSelectModule,
          MatOptionModule,
+         MatButtonModule,
  } from '@angular/material';
 
  import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
@@ -37,8 +38,12 @@ import {RestaurantsService} from './services/restaurants/restaurants.service';
 import {HotelsService} from './services/hotels/hotels.service';
 import {PostsService} from './services/posts/posts.service';
 import {UserService} from './services/users/users.service';
+<<<<<<< HEAD
 import {RecommendaionService} from './services/recommendation/recommendaion.service'
 import {ReviewsService} from './services/reviews/reviews.service'
+=======
+import {RecommendaionService} from './services/recommendation/recommendaion.service';
+>>>>>>> 1a1cab0d67a1b1a1436c1bfd84b564585f6748cc
 
 
 import { HomeComponent } from './components/home/home.component';
@@ -75,6 +80,9 @@ import { ReviewComponent } from './components/review/review.component';
 import { UsersComponent } from './components/AdminSection/DataBase/users/users.component';
 import { HotelsCRUDComponent } from './components/AdminSection/DataBase/hotels/hotels.component';
 import { ContactUsComponent } from './components/contact-us/contact-us.component';
+import { TripsCRUDComponent } from './components/AdminSection/DataBase/trips/trips.component';
+import { AddhotelComponent } from './components/AdminSection/DataBase/hotels/addhotel/addhotel.component';
+import { ChartsComponent } from './components/AdminSection/charts/charts.component';
 // Configs
 export function getAuthServiceConfigs() {
   const config = new AuthServiceConfig(
@@ -119,6 +127,9 @@ export function getAuthServiceConfigs() {
     UsersComponent,
     HotelsCRUDComponent,
     ContactUsComponent,
+    TripsCRUDComponent,
+    AddhotelComponent,
+    ChartsComponent,
   ],
   imports: [
     BrowserModule,
@@ -144,6 +155,7 @@ export function getAuthServiceConfigs() {
     MatCardModule,
     MatSelectModule,
     MatOptionModule,
+    MatButtonModule,
     ],
   providers: [TripPlannerService, RestaurantsService, HotelsService, PostsService, UserService,
     FilterPipe,RecommendaionService,ReviewsService,
