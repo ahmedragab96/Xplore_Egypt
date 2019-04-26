@@ -85,6 +85,7 @@ users.post('/login' , function (req , res , next ) {
               return res.json({error: "Password is incorrect!"});
             }
             if(respond){
+              console.log(results)
             let token = jwt.sign({email : email , userId : results[0].ID} , 'secret' , {
             expiresIn : '1h'
             })

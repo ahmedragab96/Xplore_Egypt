@@ -38,6 +38,7 @@ import {HotelsService} from './services/hotels/hotels.service';
 import {PostsService} from './services/posts/posts.service';
 import {UserService} from './services/users/users.service';
 import {RecommendaionService} from './services/recommendation/recommendaion.service'
+import {ReviewsService} from './services/reviews/reviews.service'
 
 
 import { HomeComponent } from './components/home/home.component';
@@ -145,7 +146,7 @@ export function getAuthServiceConfigs() {
     MatOptionModule,
     ],
   providers: [TripPlannerService, RestaurantsService, HotelsService, PostsService, UserService,
-    FilterPipe,RecommendaionService,
+    FilterPipe,RecommendaionService,ReviewsService,
       {provide: HTTP_INTERCEPTORS, useClass: AuthInterceptor, multi: true},
       {
         provide: AuthServiceConfig,

@@ -1,4 +1,4 @@
-<h2>Write Your Review</h2>
+
 <!-- **************************************************** -->
 <ngb-rating [(rate)]="currentRate">
   <ng-template let-fill="fill" let-index="index">
@@ -9,28 +9,32 @@
 <pre>Rate: <b>{{currentRate}}</b></pre>
 
 
-
+<h2>Write Your Review</h2>
   <!-- end of rating stars -->
 <form (submit)="review(ReviewForm)" #ReviewForm="ngForm">
   <div class="form-group">
-    <label>Title</label>
-    <input type="text" class="form-control" placeholder="Enter Title" name="title" ngModel #titleInput="ngModel" required>
+    <label>rate</label>
+    <ngb-rating name="rate" ngModel>
+  <ng-template let-fill="fill" let-index="index">
+    <span class="star" [class.filled]="fill === 100" [class.bad]="index < 3">&#9733;</span>
+  </ng-template>
+</ngb-rating>
   </div>
   <div class="form-group">
-    <label>Date</label>
-    <input type="date" class="form-control" placeholder="Date" name="date" ngModel #dateInput="ngModel" required>
+    <label>Title</label>
+    <input type="text" class="form-control" placeholder="Enter Title" name="title" ngModel #titleInput="ngModel" required>
   </div>
   <div class="form-group">
     <label for="exampleFormControlTextarea1">Body</label>
     <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" name="body" ngModel #bodyInput="ngModel" required></textarea>
   </div>
   <div class="form-group">
-    <label for="exampleFormControlFile1">Add photo</label>
-    <input type="file" class="form-control-file" id="exampleFormControlFile1" name="photo" ngModel #photoInput="ngModel" required>
+    <label for="exampleFormControlFile1">Add photo Link</label>
+    <input type="text" class="form-control" placeholder="Enter Link" name="photo" ngModel #photoInput="ngModel" required>
   </div>
   <div class="form-group">
       <label for="exampleFormControlSelect1">Company Type</label>
-      <select class="form-control" id="exampleFormControlSelect1" name="company" ngModel #compnayInput="ngModel" required>
+      <select class="form-control" id="exampleFormControlSelect1" name="type" ngModel #typeInput="ngModel" required>
         <option>Solo</option>
         <option>Family</option>
         <option>Friends</option>

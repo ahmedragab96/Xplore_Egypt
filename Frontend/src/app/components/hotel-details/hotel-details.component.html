@@ -9,6 +9,6 @@
 	<p> <span>Rating</span> : {{hotelDetails[0]['rating']}}</p>
 </div>
 
-<app-review></app-review>
+<app-review [placeid]="id" [currentRate]="hotelDetails[0]['rating']"></app-review>
 
 <app-footer></app-footer>
