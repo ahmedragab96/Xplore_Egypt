@@ -1,0 +1,12 @@
+.aboutus{
+    margin: 10%;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
+hr{
+    width: 50px;
+    height: 10px;
+    color: black;
+}

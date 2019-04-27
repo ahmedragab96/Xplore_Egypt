@@ -1,12 +1,36 @@
 <app-navbar></app-navbar>
 
 <div *ngIf="hotelDetails" class="container">
-	<img src="{{hotelDetails[0]['imageURL']}}">
-	<h5><span>Name</span> : {{hotelDetails[0]['title']}}</h5>
-	<p> <span>Address</span> : {{hotelDetails[0]['address']}}</p>
-  <p> <span>Features</span> : {{hotelDetails[0]['features']}}</p>
-  <p> <span>Price Range</span> : {{hotelDetails[0]['priceRange']}}</p>
-	<p> <span>Rating</span> : {{hotelDetails[0]['rating']}}</p>
+	<div class="row" style="margin-top: 10%;">
+		<div class="col-lg-6">
+			<img style="width: 500px;" src="{{hotelDetails[0]['imageURL']}}">
+		</div>
+		<div class="col-lg-6">
+			<h1 style="color: #413e3e">{{hotelDetails[0]['title']}}</h1>
+			<!-- <h5><span>Name</span> : {{hotelDetails[0]['title']}}</h5> -->
+			<p> <span>Address</span> : {{hotelDetails[0]['address']}}</p>
+			<p> <span>Rating</span> : {{hotelDetails[0]['rating']}}</p>
+			<div class="row">
+				<div class="col-lg-3">
+						<i style="font-size: 600%;color: #7e7a7a;" class="fa fa-bed" aria-hidden="true"></i>
+				</div>
+				<div class="col-lg-3">
+						<i style="font-size: 600%;color: #7e7a7a;" class="fa fa-wifi" aria-hidden="true"></i>
+				</div>
+				<div class="col-lg-3">
+						<i style="font-size: 600%;color: #7e7a7a;" class="fa fa-television" aria-hidden="true"></i>
+				</div>
+				<div class="col-lg-3">
+						<i style="font-size: 600%;color: #7e7a7a;" class="fa fa-cutlery" aria-hidden="true"></i>
+				</div>
+			</div>
+		</div>
+	</div>
+	<p> <span>Features</span> : {{hotelDetails[0]['features']}}</p>
+	<p> <span>Price Range</span> : {{hotelDetails[0]['priceRange']}}</p>
+	
+
+
 </div>
 
 <app-review [placeid]="id" [currentRate]="hotelDetails[0]['rating']"></app-review>

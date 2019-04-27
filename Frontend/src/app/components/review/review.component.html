@@ -1,60 +1,77 @@
 
-<!-- **************************************************** -->
-<h2>Previous Reviews</h2>
-<ngb-rating [(rate)]="currentRate">
-  <ng-template let-fill="fill" let-index="index">
-    <span class="star" [class.filled]="fill === 100" [class.bad]="index < 3">&#9733;</span>
-  </ng-template>
-</ngb-rating>
-<hr>
-<pre>Rate: <b>{{currentRate}}</b></pre>
 
-<div class="card" style="width: 18rem;" *ngFor="let review of reviews">
-  <img class="card-img-top" src="{{review.photo}}" alt="Card image cap">
-  <div class="card-body">
-    <h5 class="card-title">{{review.title}}</h5>
-    <p class="card-text">{{review.body}}</p>
+  <!-- review form -->
+  <form (submit)="review(ReviewForm)" #ReviewForm="ngForm">
+      <h2>Write Your Review</h2>
+    <div class="form-group">
+      <label>rate</label>
+      <ngb-rating name="rate" ngModel>
+    <ng-template let-fill="fill" let-index="index">
+      <span class="star" [class.filled]="fill === 100" [class.bad]="index < 3">&#9733;</span>
+    </ng-template>
+  </ngb-rating>
+    </div>
+    <div class="form-group">
+      <label>Title</label>
+      <input type="text" class="form-control" placeholder="Enter Title" name="title" ngModel #titleInput="ngModel" required>
+    </div>
+    <div class="form-group">
+      <label for="exampleFormControlTextarea1">Body</label>
+      <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" name="body" ngModel #bodyInput="ngModel" required></textarea>
+    </div>
+    <div class="form-group">
+      <label for="exampleFormControlFile1">Add photo Link</label>
+      <input type="text" class="form-control" placeholder="Enter Link" name="photo" ngModel #photoInput="ngModel" required>
+    </div>
+    <div class="form-group">
+        <label for="exampleFormControlSelect1">Company Type</label>
+        <select class="form-control" id="exampleFormControlSelect1" name="type" ngModel #typeInput="ngModel" required>
+          <option>Solo</option>
+          <option>Family</option>
+          <option>Friends</option>
+          <option>Couple</option>
+          <option>Work</option>
+        </select>
+      </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+  
+
+<!-- **************************************************** -->
+<div class="reviewsdiv">
+  <h2 style="margin-top: 5%;">Previous Reviews</h2>
+  <ngb-rating [(rate)]="currentRate">
+    <ng-template let-fill="fill" let-index="index">
+      <span class="star" [class.filled]="fill === 100" [class.bad]="index < 3">&#9733;</span>
+    </ng-template>
+  </ngb-rating>
+  <hr>
+  <pre>Rate: <b>{{currentRate}}</b></pre>
+  
+<div class="container">
+  <div class="row">
+    <div class="col-lg-6" *ngFor="let review of reviews | paginate: { itemsPerPage: 4, currentPage: p }">
+      <div class="reviewsPreview">
+        <h5><i class="fa fa-commenting-o" aria-hidden="true"></i>&nbsp;&nbsp;<strong>{{review.title}}</strong>, &nbsp;&nbsp;<span style="color: #918d8d">{{review.date}}</span></h5>
+        <ngb-rating [(rate)]="review.rate">
+          <ng-template let-fill="fill" let-index="index">
+            <span class="star" [class.filled]="fill === 100" [class.bad]="index < 3">&#9733;</span>
+          </ng-template>
+        </ngb-rating>
+        <hr>
+        <p>{{review.review}}</p>
+        <img style="width: 300px;" src="{{review.photo}}">
+        <p><span style="color: #555252">Company Type:</span>{{review.type}}</p>
+        <!-- <p>{{review.rate}}</p> -->
+      </div>
+    </div>
   </div>
-  <ul class="list-group list-group-flush">
-    <li class="list-group-item">Type : {{review.type}}</li>
-    <li class="list-group-item">Date : {{review.date}}</li>
-    <li class="list-group-item">Rate :{{review.rate}}</li>
-  </ul>
+</div>
+</div>
+<div class="container" id="paging">
+    <div class="row">
+      <pagination-controls (pageChange)="p = $event"></pagination-controls>
+    </div>
 </div>
 
-
-<h2>Write Your Review</h2>
   <!-- end of rating stars -->
-<form (submit)="review(ReviewForm)" #ReviewForm="ngForm">
-  <div class="form-group">
-    <label>rate</label>
-    <ngb-rating name="rate" ngModel>
-  <ng-template let-fill="fill" let-index="index">
-    <span class="star" [class.filled]="fill === 100" [class.bad]="index < 3">&#9733;</span>
-  </ng-template>
-</ngb-rating>
-  </div>
-  <div class="form-group">
-    <label>Title</label>
-    <input type="text" class="form-control" placeholder="Enter Title" name="title" ngModel #titleInput="ngModel" required>
-  </div>
-  <div class="form-group">
-    <label for="exampleFormControlTextarea1">Body</label>
-    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" name="body" ngModel #bodyInput="ngModel" required></textarea>
-  </div>
-  <div class="form-group">
-    <label for="exampleFormControlFile1">Add photo Link</label>
-    <input type="text" class="form-control" placeholder="Enter Link" name="photo" ngModel #photoInput="ngModel" required>
-  </div>
-  <div class="form-group">
-      <label for="exampleFormControlSelect1">Company Type</label>
-      <select class="form-control" id="exampleFormControlSelect1" name="type" ngModel #typeInput="ngModel" required>
-        <option>Solo</option>
-        <option>Family</option>
-        <option>Friends</option>
-        <option>Couple</option>
-        <option>Work</option>
-      </select>
-    </div>
-  <button type="submit" class="btn btn-primary">Submit</button>
-</form>
