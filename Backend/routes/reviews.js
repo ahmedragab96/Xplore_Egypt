@@ -6,7 +6,7 @@ const db = require('../app/config/db');
 reviews.post('/add/:user/:item' , function (req , res , next ) {
     let user_id=req.params.user;
     let item_id=req.params.item;
- 
+    console.log(item_id)
     let title=req.body.title;
     let rate=req.body.rate;
     let review=req.body.body;
@@ -16,9 +16,14 @@ reviews.post('/add/:user/:item' , function (req , res , next ) {
     review+"', '"+photo+"', '"+type+"' )" ;
     db.query(query, (err, result) => {
         if (err) {
+            console.log(err)
             return res.status(500).send(err);
-         }
-        res.send("succeeded");
+        }
+        else {
+            res.status(200).json({
+                result
+              })
+        }  
     });
 });
 

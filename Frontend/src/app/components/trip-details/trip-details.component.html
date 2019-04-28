@@ -2,10 +2,16 @@
 
 
 <div *ngIf="tripDetails" class="container">
-	<img src="{{tripDetails[0]['imageURL']}}">
-	<h5><span>Title</span> : {{tripDetails[0]['title']}}</h5>
-	<p> <span>Duration</span> : {{tripDetails[0].duration}}</p>
-	<p> <span>Description</span> : {{tripDetails[0].description}}</p>
+	<div class="row" style="margin-top: 10%;">
+		<div class="col-lg-6">
+			<img style="width: 500px;" src="{{tripDetails[0]['imageURL']}}">
+		</div>
+		<div class="col-lg-6">
+			<h1 style="color: #413e3e">{{tripDetails[0]['title']}}</h1>
+			<p style="margin-top: 10%;"> <span>Duration</span> : {{tripDetails[0].duration}}</p>
+			<p> <span>Description</span> : {{tripDetails[0].description}}</p>
+		</div>
+	</div>
 </div>
 
 

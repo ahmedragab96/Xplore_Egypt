@@ -19,7 +19,11 @@ import { ContactUsComponent } from '../components/contact-us/contact-us.componen
 import { TripsCRUDComponent } from '../components/AdminSection/DataBase/trips/trips.component';
 import { ChartsComponent } from '../components/AdminSection/charts/charts.component';
 import { AddhotelComponent } from '../components/AdminSection/DataBase/hotels/addhotel/addhotel.component';
+<<<<<<< HEAD
 import { AddtripComponent } from '../components/AdminSection/DataBase/trips/addtrip/addtrip.component';
+=======
+import { AboutUsComponent } from '../components/about-us/about-us.component';
+>>>>>>> f7cf6b2560d583080aa9cc1fad567dd4fb0d2fda
 
 const routes: Routes = [
   { path: 'login', component: LoginComponent},
@@ -41,6 +45,7 @@ const routes: Routes = [
   { path: 'admin/charts', component: ChartsComponent},
   { path: 'posts', component: PostsComponent },
   { path: 'contactUs', component: ContactUsComponent },
+  { path: 'aboutUs', component: AboutUsComponent },
   { path: '', redirectTo: '/home', pathMatch: 'full'},
   { path: '**', redirectTo: '/home', pathMatch: 'full'}
 ];
