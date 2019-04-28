@@ -19,6 +19,7 @@ import { ContactUsComponent } from '../components/contact-us/contact-us.componen
 import { TripsCRUDComponent } from '../components/AdminSection/DataBase/trips/trips.component';
 import { ChartsComponent } from '../components/AdminSection/charts/charts.component';
 import { AddhotelComponent } from '../components/AdminSection/DataBase/hotels/addhotel/addhotel.component';
+import { AddtripComponent } from '../components/AdminSection/DataBase/trips/addtrip/addtrip.component';
 
 const routes: Routes = [
   { path: 'login', component: LoginComponent},
@@ -36,6 +37,7 @@ const routes: Routes = [
   { path: 'admin/database/hotels', component: HotelsCRUDComponent},
   { path: 'admin/database/trips', component: TripsCRUDComponent},
   { path: 'admin/database/hotels/addHotel', component: AddhotelComponent},
+  { path: 'admin/database/trips/addTrip', component: AddtripComponent},
   { path: 'admin/charts', component: ChartsComponent},
   { path: 'posts', component: PostsComponent },
   { path: 'contactUs', component: ContactUsComponent },

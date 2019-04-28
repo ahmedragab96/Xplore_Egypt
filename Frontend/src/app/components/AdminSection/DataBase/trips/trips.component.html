@@ -31,6 +31,11 @@
     </mat-toolbar>
     <mat-spinner *ngIf="isLoading">
     </mat-spinner>
+    <div>
+      <button class="add-button" (click)="add()" mat-icon-button color="primary">
+        <mat-icon class="material-icons" color="primary">add</mat-icon>
+    </button>
+    </div>
     <mat-card fxLayout="column" fxLayoutAlign="center center" class="mat-elevation-z8" *ngIf="!isLoading">
       <table mat-table [dataSource]="dataSource">
 

@@ -46,6 +46,11 @@ export class TripsCRUDComponent implements OnInit, AfterViewInit, OnDestroy {
     });
   }
 
+  add() {
+    console.log('hotel');
+    this.router.navigate(['admin/database/trips/addTrip']);
+  }
+
   ngAfterViewInit() {
     this.dataSource.paginator = this.paginator;
   }
