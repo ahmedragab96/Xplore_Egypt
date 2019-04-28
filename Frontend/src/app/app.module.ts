@@ -38,8 +38,8 @@ import {RestaurantsService} from './services/restaurants/restaurants.service';
 import {HotelsService} from './services/hotels/hotels.service';
 import {PostsService} from './services/posts/posts.service';
 import {UserService} from './services/users/users.service';
-import {RecommendaionService} from './services/recommendation/recommendaion.service'
-import {ReviewsService} from './services/reviews/reviews.service'
+import {RecommendaionService} from './services/recommendation/recommendaion.service';
+import {ReviewsService} from './services/reviews/reviews.service';
 
 
 import { HomeComponent } from './components/home/home.component';
@@ -79,11 +79,8 @@ import { ContactUsComponent } from './components/contact-us/contact-us.component
 import { TripsCRUDComponent } from './components/AdminSection/DataBase/trips/trips.component';
 import { AddhotelComponent } from './components/AdminSection/DataBase/hotels/addhotel/addhotel.component';
 import { ChartsComponent } from './components/AdminSection/charts/charts.component';
-<<<<<<< HEAD
 import { AddtripComponent } from './components/AdminSection/DataBase/trips/addtrip/addtrip.component';
-=======
 import { AboutUsComponent } from './components/about-us/about-us.component';
->>>>>>> f7cf6b2560d583080aa9cc1fad567dd4fb0d2fda
 // Configs
 export function getAuthServiceConfigs() {
   const config = new AuthServiceConfig(
@@ -131,11 +128,8 @@ export function getAuthServiceConfigs() {
     TripsCRUDComponent,
     AddhotelComponent,
     ChartsComponent,
-<<<<<<< HEAD
     AddtripComponent,
-=======
     AboutUsComponent,
->>>>>>> f7cf6b2560d583080aa9cc1fad567dd4fb0d2fda
   ],
   imports: [
     BrowserModule,
@@ -164,13 +158,13 @@ export function getAuthServiceConfigs() {
     MatButtonModule,
     ],
   providers: [TripPlannerService, RestaurantsService, HotelsService, PostsService, UserService,
-    FilterPipe,RecommendaionService,ReviewsService,
-      {provide: HTTP_INTERCEPTORS, useClass: AuthInterceptor, multi: true},
-      {
-        provide: AuthServiceConfig,
-        useFactory: getAuthServiceConfigs
-      }
-    ],
+    FilterPipe, RecommendaionService, ReviewsService,
+    { provide: HTTP_INTERCEPTORS, useClass: AuthInterceptor, multi: true },
+    {
+      provide: AuthServiceConfig,
+      useFactory: getAuthServiceConfigs
+    }
+  ],
   bootstrap: [AppComponent]
 
 })

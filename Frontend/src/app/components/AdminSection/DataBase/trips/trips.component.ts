@@ -15,7 +15,7 @@ export class TripsCRUDComponent implements OnInit, AfterViewInit, OnDestroy {
 
   links = [];
   trips: any;
-  displayedColumns: string[] = ['image', 'includes', 'experience', 'price', 'duration'];
+  displayedColumns: string[] = ['image', 'includes', 'experience', 'price', 'duration', 'Delete'];
   dataSource = new MatTableDataSource();
   tripsSubscription: Subscription;
   isLoading = true;
@@ -47,8 +47,12 @@ export class TripsCRUDComponent implements OnInit, AfterViewInit, OnDestroy {
   }
 
   add() {
-    console.log('hotel');
+    console.log('trips');
     this.router.navigate(['admin/database/trips/addTrip']);
+  }
+
+  delete(trip: any) {
+    console.log(trip);
   }
 
   ngAfterViewInit() {
