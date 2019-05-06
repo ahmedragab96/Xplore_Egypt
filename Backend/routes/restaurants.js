@@ -36,18 +36,17 @@ restaurants.post('/addrestaurant', (req, res, next) => {
         if (error) {
             return console.error(error.message);
         }
-        console.log(results);
-        
+
         const queryAddRestaurant = `INSERT INTO restaurants (itemid, phone, location, photo, cuisine) 
                                     VALUES ('${itemid}','${placeData.phone}', '${placeData.location}', '${placeData.photo}',
                                     '${placeData.cuisine}')`;
 
-        db.query(queryAddRestaurant,function (error , results , fields){
+        db.query(queryAddRestaurant, function (error, results, fields) {
             if (error) {
                 return console.error(error.message);
             }
-            res.status(200).json({message: 'successfully add Restaurant'});
-        });      
+            res.status(200).json({ message: 'successfully add Restaurant' });
+        });
     });
 });
 

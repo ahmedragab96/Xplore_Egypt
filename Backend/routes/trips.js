@@ -30,8 +30,6 @@ trips.post('/addtrip', (req, res, next) => {
     var itemid = Math.floor(2045 + Math.random() * 9000);
     const placeData = req.body;
 
-    console.log(placeData.keywords);
-
     const queryAddPlace = `INSERT INTO place (keywords, price_cateogry, type, itemid, title, rating, region) 
                    VALUES ('${placeData.keywords}','${placeData.price_category}','trip','${itemid}','${placeData.title}',
                    '${placeData.rating}','${placeData.region}')`;
@@ -40,19 +38,18 @@ trips.post('/addtrip', (req, res, next) => {
         if (error) {
             return console.error(error.message);
         }
-        console.log(results);
-        
+
         const queryAddTrip = `INSERT INTO trips (imageURL, description, includes, price, experiences, duration, itemid) 
                    VALUES ('${placeData.imageURL}','${placeData.description}','${placeData.includes}','${placeData.price}',
                    '${placeData.experiences}','${placeData.duration}', '${itemid}')`;
 
-        db.query(queryAddTrip,function (error , results , fields){
+        db.query(queryAddTrip, function (error, results, fields) {
             if (error) {
                 return console.error(error.message);
             }
             res.status(200).json(results);
         });
-            
+
     });
 });
 

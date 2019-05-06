@@ -37,18 +37,17 @@ hotels.post('/addhotel', (req, res, next) => {
         if (error) {
             return console.error(error.message);
         }
-        console.log(results);
-        
+
         const queryAddHotel = `INSERT INTO hotels (priceHigh, imageURL, mapURL, itemid, priceRange, StyleandPrice, priceLow, features, description, address) 
                         VALUES ('${placeData.priceHigh}','${placeData.imageURL}', '${placeData.mapURL}', '${itemid}','${placeData.priceRange}',
                             '${placeData.styleandPrice}','${placeData.priceLow}','${placeData.features}', '${placeData.description}','${placeData.address}')`;
 
-        db.query(queryAddHotel,function (error , results , fields){
+        db.query(queryAddHotel, function (error, results, fields) {
             if (error) {
                 return console.error(error.message);
             }
-            res.status(200).json({message: 'successfully add Hotel'});
-        });      
+            res.status(200).json({ message: 'successfully add Hotel' });
+        });
     });
 });
 
