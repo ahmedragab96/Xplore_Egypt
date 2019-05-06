@@ -24,4 +24,31 @@ restaurants.get('/getById',(req,res,next)=>{
     });
 });
 
+restaurants.post('/addrestaurant', (req, res, next) => {
+    var itemid = Math.floor(2045 + Math.random() * 9000);
+    const placeData = req.body;
+
+    const queryAddPlace = `INSERT INTO place (keywords, price_cateogry, type, itemid, title, rating, region) 
+                   VALUES ('${placeData.keywords}','${placeData.price_category}','Restaurant','${itemid}','${placeData.title}',
+                   '${placeData.rating}','${placeData.region}')`;
+
+    db.query(queryAddPlace, (error, results, fields) => {
+        if (error) {
+            return console.error(error.message);
+        }
+        console.log(results);
+        
+        const queryAddRestaurant = `INSERT INTO restaurants (itemid, phone, location, photo, cuisine) 
+                                    VALUES ('${itemid}','${placeData.phone}', '${placeData.location}', '${placeData.photo}',
+                                    '${placeData.cuisine}')`;
+
+        db.query(queryAddRestaurant,function (error , results , fields){
+            if (error) {
+                return console.error(error.message);
+            }
+            res.status(200).json({message: 'successfully add Restaurant'});
+        });      
+    });
+});
+
 module.exports = restaurants;

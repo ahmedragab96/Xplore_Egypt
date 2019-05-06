@@ -25,4 +25,31 @@ hotels.get('/getById',(req,res,next)=>{
     });
 });
 
+hotels.post('/addhotel', (req, res, next) => {
+    var itemid = Math.floor(2045 + Math.random() * 9000);
+    const placeData = req.body;
+
+    const queryAddPlace = `INSERT INTO place (keywords, price_cateogry, type, itemid, title, rating, region) 
+                   VALUES ('${placeData.keywords}','${placeData.price_category}','Hotel','${itemid}','${placeData.title}',
+                   '${placeData.rating}','${placeData.region}')`;
+
+    db.query(queryAddPlace, (error, results, fields) => {
+        if (error) {
+            return console.error(error.message);
+        }
+        console.log(results);
+        
+        const queryAddHotel = `INSERT INTO hotels (priceHigh, imageURL, mapURL, itemid, priceRange, StyleandPrice, priceLow, features, description, address) 
+                        VALUES ('${placeData.priceHigh}','${placeData.imageURL}', '${placeData.mapURL}', '${itemid}','${placeData.priceRange}',
+                            '${placeData.styleandPrice}','${placeData.priceLow}','${placeData.features}', '${placeData.description}','${placeData.address}')`;
+
+        db.query(queryAddHotel,function (error , results , fields){
+            if (error) {
+                return console.error(error.message);
+            }
+            res.status(200).json({message: 'successfully add Hotel'});
+        });      
+    });
+});
+
 module.exports = hotels;
