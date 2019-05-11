@@ -53,4 +53,49 @@ trips.post('/addtrip', (req, res, next) => {
     });
 });
 
+trips.delete('/delete/:id', (req, res) => {
+    
+    // the id of the item in trip table
+    const id = req.params.id;
+    
+    // select the itemid of the trip before deleting it to be able to delete it from place table
+    const query = "SELECT itemid FROM trips WHERE trip_id = ?";
+    db.query(query, [id], function (error, results, fields) {
+        const itemid = results[0].itemid;
+        
+        // delete trip from trips table first
+        if (deleteFromTrips(id)) {
+            // delete trip from place table
+            if (deleteFromPlaces(itemid)) {
+
+                res.send(`successfully deleted the trip with id = ${id} and itemid = ${itemid}`).status(200);
+            }
+        } else {
+            res.status(400);
+        }
+    });
+  });
+  
+function deleteFromTrips(id) {
+    const deleteFromTripsQuery = "DELETE FROM trips WHERE trip_id = ?";
+    db.query(deleteFromTripsQuery, [id], function (error, results, fields) {
+        if (error) {
+            throw error;
+        }
+    });
+    
+    return true;
+};
+
+function deleteFromPlaces (itemid) {
+    const deleteFromTripsQuery = "DELETE FROM place WHERE itemid = ?";
+    db.query(deleteFromTripsQuery, [itemid], function (error, results, fields) {
+        if (error) {
+            throw error;
+        }
+    });
+    
+    return true;
+};
+
 module.exports = trips;

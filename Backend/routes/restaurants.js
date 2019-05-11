@@ -50,4 +50,49 @@ restaurants.post('/addrestaurant', (req, res, next) => {
     });
 });
 
+restaurants.delete('/delete/:id', (req, res) => {
+    
+    // the id of the item in restaurant table
+    const id = req.params.id;
+    
+    // select the itemid of the restaurant before deleting it to be able to delete it from place table
+    const query = "SELECT itemid FROM restaurants WHERE restaurant_id = ?";
+    db.query(query, [id], function (error, results, fields) {
+        const itemid = results[0].itemid;
+        
+        // delete restaurant from restaurants table first
+        if (deleteFromRestaurants(id)) {
+            // delete restaurant from place table
+            if (deleteFromPlaces(itemid)) {
+
+                res.send(`successfully deleted the restaurant with id = ${id} and itemid = ${itemid}`).status(200);
+            }
+        } else {
+            res.status(400);
+        }
+    });
+  });
+  
+function deleteFromRestaurants(id) {
+    const deleteFromRestaurantsQuery = "DELETE FROM restaurants WHERE restaurant_id = ?";
+    db.query(deleteFromRestaurantsQuery, [id], function (error, results, fields) {
+        if (error) {
+            throw error;
+        }
+    });
+    
+    return true;
+};
+
+function deleteFromPlaces (itemid) {
+    const deleteFromRestaurantsQuery = "DELETE FROM place WHERE itemid = ?";
+    db.query(deleteFromRestaurantsQuery, [itemid], function (error, results, fields) {
+        if (error) {
+            throw error;
+        }
+    });
+    
+    return true;
+};
+
 module.exports = restaurants;

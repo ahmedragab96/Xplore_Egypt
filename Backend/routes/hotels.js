@@ -51,4 +51,49 @@ hotels.post('/addhotel', (req, res, next) => {
     });
 });
 
+hotels.delete('/delete/:id', (req, res) => {
+    
+    // the id of the item in hotel table
+    const id = req.params.id;
+    
+    // select the itemid of the hotel before deleting it to be able to delete it from place table
+    const query = "SELECT itemid FROM hotels WHERE hotel_id = ?";
+    db.query(query, [id], function (error, results, fields) {
+        const itemid = results[0].itemid;
+        
+        // delete hotel from hotels table first
+        if (deleteFromHotels(id)) {
+            // delete hotel from place table
+            if (deleteFromPlaces(itemid)) {
+                console.log('here 3');
+                res.send(`successfully deleted the hotel with id = ${id} and itemid = ${itemid}`).status(200);
+            }
+        } else {
+            res.status(400);
+        }
+    });
+  });
+  
+function deleteFromHotels(id) {
+    const deleteFromhotelsQuery = "DELETE FROM hotels WHERE hotel_id = ?";
+    db.query(deleteFromhotelsQuery, [id], function (error, results, fields) {
+        if (error) {
+            throw error;
+        }
+    });
+    
+    return true;
+};
+
+function deleteFromPlaces (itemid) {
+    const deleteFromHotelsQuery = "DELETE FROM place WHERE itemid = ?";
+    db.query(deleteFromHotelsQuery, [itemid], function (error, results, fields) {
+        if (error) {
+            throw error;
+        }
+    });
+    
+    return true;
+};
+
 module.exports = hotels;
