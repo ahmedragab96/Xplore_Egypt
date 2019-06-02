@@ -1,91 +1,57 @@
-<mat-sidenav-container class="sidenav-container">
-  <mat-sidenav #drawer class="sidenav" fixedInViewport="true" [attr.role]="'navigation'" [mode]="'side'"
-    [opened]="true">
-    <mat-toolbar color="primary">
-      Xplore Egypt
-    </mat-toolbar>
-    <mat-nav-list>
-      <mat-button-toggle-group class="d-flex-col">
-        <mat-button-toggle *ngFor="let link of links" [routerLink]="link.link">
-          <mat-icon class="material-icons margin-icon" color="primary">{{link.icon}}</mat-icon>
-          <span class="">{{link.name}}</span>
-        </mat-button-toggle>
-        <mat-button-toggle>
-            <mat-icon class="material-icons margin-icon" color="primary">storage</mat-icon>
-            <mat-select placeholder="DataBase"(selectionChange)="navigateTo($event.value)">
-                    <!-- content -->
-                    <mat-option value="admin/database/users">Users</mat-option>
-                    <mat-option value="admin/database/hotels">Hotels</mat-option>
-                    <mat-option value="admin/database/trips">Trips</mat-option>
-            </mat-select>
-    </mat-button-toggle>
-      </mat-button-toggle-group>
-    </mat-nav-list>
-  </mat-sidenav>
-  <mat-sidenav-content>
-    <mat-toolbar color="primary">
-      <mat-button-toggle class="logout-btn">
-        <mat-icon class="material-icons margin-icon" color="primary">arrow_back</mat-icon>
-        <span class="">Logout</span>
-      </mat-button-toggle>
-    </mat-toolbar>
-    <mat-spinner *ngIf="isLoading">
-    </mat-spinner>
-    <div>
-      <button class="add-button" (click)="add()" mat-icon-button color="primary">
-        <mat-icon class="material-icons" color="primary">add</mat-icon>
-    </button>
-    </div>
-    <mat-card fxLayout="column" fxLayoutAlign="center center" class="mat-elevation-z8" *ngIf="!isLoading">
-      <table mat-table [dataSource]="dataSource">
+<mat-spinner *ngIf="isLoading">
+</mat-spinner>
+<div>
+  <button class="add-button" (click)="add()" mat-icon-button color="primary">
+    <mat-icon class="material-icons" color="primary">add</mat-icon>
+  </button>
+</div>
+<mat-card fxLayout="column" fxLayoutAlign="center center" class="mat-elevation-z8" *ngIf="!isLoading">
+  <table mat-table [dataSource]="dataSource">
 
-        <!-- Image Column -->
-        <ng-container matColumnDef="image">
-          <th mat-header-cell *matHeaderCellDef> Image</th>
-          <td mat-cell *matCellDef="let element">
-            <img id="hotelImage" src={{element.imageURL}} alt="image" /> </td>
-        </ng-container>
+    <!-- Image Column -->
+    <ng-container matColumnDef="image">
+      <th mat-header-cell *matHeaderCellDef> Image</th>
+      <td mat-cell *matCellDef="let element">
+        <img id="hotelImage" src={{element.imageURL}} alt="image" /> </td>
+    </ng-container>
 
-        <!-- Includes Column -->
-        <ng-container matColumnDef="includes">
-          <th mat-header-cell *matHeaderCellDef> Includes </th>
-          <td mat-cell *matCellDef="let element"> {{element.includes}} </td>
-        </ng-container>
+    <!-- Includes Column -->
+    <ng-container matColumnDef="includes">
+      <th mat-header-cell *matHeaderCellDef> Includes </th>
+      <td mat-cell *matCellDef="let element"> {{element.includes}} </td>
+    </ng-container>
 
-        <!-- Experience Column -->
-        <ng-container matColumnDef="experience">
-          <th mat-header-cell *matHeaderCellDef> Experiences </th>
-          <td mat-cell *matCellDef="let element"> {{element.experiences}} </td>
-        </ng-container>
+    <!-- Experience Column -->
+    <ng-container matColumnDef="experience">
+      <th mat-header-cell *matHeaderCellDef> Experiences </th>
+      <td mat-cell *matCellDef="let element"> {{element.experiences}} </td>
+    </ng-container>
 
-        <!-- Price Column -->
-        <ng-container matColumnDef="price">
-          <th mat-header-cell *matHeaderCellDef> Price </th>
-          <td mat-cell *matCellDef="let element"> {{element.price}} </td>
-        </ng-container>
+    <!-- Price Column -->
+    <ng-container matColumnDef="price">
+      <th mat-header-cell *matHeaderCellDef> Price </th>
+      <td mat-cell *matCellDef="let element"> {{element.price}} </td>
+    </ng-container>
 
-        <!-- Duration Column -->
-        <ng-container matColumnDef="duration">
-          <th mat-header-cell *matHeaderCellDef> Duration </th>
-          <td mat-cell *matCellDef="let element"> {{element.duration}} </td>
-        </ng-container>
-        
-        <ng-container matColumnDef="Delete">
-          <th mat-header-cell *matHeaderCellDef> Delete </th>
-          <td mat-cell *matCellDef="let element">
-            <button (click)="delete(element)" mat-icon-button color="primary">
-                <mat-icon class="material-icons" color="primary">delete</mat-icon>
-            </button>
-          </td>
-        </ng-container>
+    <!-- Duration Column -->
+    <ng-container matColumnDef="duration">
+      <th mat-header-cell *matHeaderCellDef> Duration </th>
+      <td mat-cell *matCellDef="let element"> {{element.duration}} </td>
+    </ng-container>
 
-        <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
-        <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
-      </table>
+    <ng-container matColumnDef="Delete">
+      <th mat-header-cell *matHeaderCellDef> Delete </th>
+      <td mat-cell *matCellDef="let element">
+        <button (click)="delete(element)" mat-icon-button color="primary">
+          <mat-icon class="material-icons" color="primary">delete</mat-icon>
+        </button>
+      </td>
+    </ng-container>
 
-      <mat-paginator #paginator [pageSize]="10" [pageSizeOptions]="[5, 10, 20]" [showFirstLastButtons]="true">
-        </mat-paginator>
-    </mat-card>
-  </mat-sidenav-content>
-</mat-sidenav-container>
-  
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+  </table>
+
+  <mat-paginator #paginator [pageSize]="10" [pageSizeOptions]="[5, 10, 20]" [showFirstLastButtons]="true">
+  </mat-paginator>
+</mat-card>

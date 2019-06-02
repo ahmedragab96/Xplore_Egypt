@@ -33,13 +33,32 @@ const routes: Routes = [
   { path: 'restaurants/:id', component: RestaurantDetailsComponent },
   { path: 'hotels', component: HotelsComponent },
   { path: 'hotels/:id', component: HotelDetailsComponent },
-  { path: 'admin', component: AdminComponent},
-  { path: 'admin/database/users', component: UsersComponent},
-  { path: 'admin/database/hotels', component: HotelsCRUDComponent},
-  { path: 'admin/database/trips', component: TripsCRUDComponent},
-  { path: 'admin/database/hotels/addHotel', component: AddhotelComponent},
-  { path: 'admin/database/trips/addTrip', component: AddtripComponent},
-  { path: 'admin/charts', component: ChartsComponent},
+  {
+    path: 'admin',
+    component: AdminComponent,
+    children: [
+      {
+        path: 'database/users',
+        component: UsersComponent,
+      },
+      {
+        path: 'database/hotels',
+        component: HotelsCRUDComponent,
+      },
+      {
+        path: 'database/trips',
+        component: TripsCRUDComponent,
+      },
+      {
+        path: 'database/hotels/addHotel',
+        component: AddhotelComponent,
+      },
+      {
+        path: 'database/trips/addTrip',
+        component: AddtripComponent,
+      }
+    ]
+  },
   { path: 'posts', component: PostsComponent },
   { path: 'contactUs', component: ContactUsComponent },
   { path: 'aboutUs', component: AboutUsComponent },

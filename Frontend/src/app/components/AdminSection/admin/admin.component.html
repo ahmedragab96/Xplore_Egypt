@@ -28,16 +28,15 @@
                 <mat-toolbar color="primary">
                         <mat-button-toggle class="logout-btn">
                                 <div class="content">
-                                <mat-icon class="material-icons margin-icon" color="primary">arrow_back</mat-icon>
-                                <span class="">Logout</span>
-                        </div>
+                                        <mat-icon class="material-icons margin-icon" color="primary">arrow_back</mat-icon>
+                                        <span class="">Logout</span>
+                                </div>
                         </mat-button-toggle>
                 </mat-toolbar>
-                <router-outlet></router-outlet>
-                 <!-- Main content -->
                 <main class="main">
-                    <div class="container-fluid">
-                    </div>
+                        <div class="container-fluid">
+                            <router-outlet></router-outlet>
+                        </div>
                 </main>
         </mat-sidenav-content>
 </mat-sidenav-container>
