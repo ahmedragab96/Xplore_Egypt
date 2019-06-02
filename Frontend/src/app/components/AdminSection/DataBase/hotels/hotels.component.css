@@ -105,3 +105,12 @@ table {
 .add-button {
   float: right;
 }
+
+.mat-select-value {
+  padding-left: -10px;
+}
+
+.spinner {
+  padding-top: 300px;
+  padding-left: 400px;
+}

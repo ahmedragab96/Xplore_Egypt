@@ -1,10 +1,13 @@
-<mat-spinner *ngIf="isLoading">
-</mat-spinner>
-<div>
+<div *ngIf="!isLoading">
   <button class="add-button" (click)="add()" mat-icon-button color="primary">
     <mat-icon class="material-icons" color="primary">add</mat-icon>
   </button>
 </div>
+<div class="spinner" *ngIf="isLoading">
+    <mat-spinner >
+    </mat-spinner>
+    </div>
+    <div class="mat-elevation-z8">
 <mat-card fxLayout="column" fxLayoutAlign="center center" class="mat-elevation-z8" *ngIf="!isLoading">
   <table mat-table [dataSource]="dataSource">
 
@@ -55,3 +58,4 @@
   <mat-paginator #paginator [pageSize]="10" [pageSizeOptions]="[5, 10, 20]" [showFirstLastButtons]="true">
   </mat-paginator>
 </mat-card>
+</div>

@@ -1,5 +1,5 @@
 <div class="margin">
-  <button [routerLink]="['/admin/database/hotels']" mat-icon-button color="primary">
+  <button [routerLink]="['/admin/database/trips']" mat-icon-button color="primary">
     <mat-icon>arrow_back</mat-icon>
   </button>
   <span class="page-title">Add New Trip</span>
@@ -8,37 +8,37 @@
       <div class="form-container">
         <mat-form-field>
         <input type="text" required matInput placeholder="Name" name="title"
-          class="hotel-input" #title>
+        class="trip-input" #title>
       </mat-form-field>
       <br/>
       <mat-form-field>
           <input type="number" required matInput placeholder="Rating" name="rating"
-            class="hotel-input" #name>
+            class="trip-input" #name>
         </mat-form-field>
         <br/>
         <mat-form-field>
             <input type="text" required matInput placeholder="Region" name="region"
-              class="hotel-input" #region>
+              class="trip-input" #region>
           </mat-form-field>
           <br/>
           <mat-form-field>
               <input type="text" required matInput placeholder="image URL" name="imageURL"
-                class="hotel-input" #imageURL>
+                class="trip-input" #imageURL>
          </mat-form-field>
          <br/>
          <mat-form-field>
             <input type="text" required matInput placeholder="Description" name="description"
-              class="hotel-input" #description>
+              class="trip-input" #description>
        </mat-form-field>
        <br/>
        <mat-form-field>
           <input type="text" required matInput placeholder="Features" name="features"
-            class="hotel-input" #features>
+            class="trip-input" #features>
      </mat-form-field>
      <br/>
      <mat-form-field>
         <input type="text" required matInput placeholder="Address" name="address"
-          class="hotel-input">
+          class="trip-input">
    </mat-form-field>
   </div>  
       <br/>
