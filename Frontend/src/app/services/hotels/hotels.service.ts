@@ -7,7 +7,7 @@ import { HttpClient } from '@angular/common/http';
 })
 export class HotelsService {
 
-  constructor(private http:HttpClient) { }
+  constructor(private http: HttpClient) { }
 
   GetAllHotels() {
     return this.http.get('http://localhost:3000/hotels/getall');
@@ -24,5 +24,7 @@ export class HotelsService {
       error => { console.log('Error', error); });
   }
 
-
+  deleteHotel (id) {
+    return this.http.delete(`http://localhost:3000/hotels/delete/:id=${id}`);
+  }
 }

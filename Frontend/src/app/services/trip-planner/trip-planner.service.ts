@@ -47,4 +47,14 @@ export class TripPlannerService {
     // return this.http.get('http://localhost:3000/trips/getById?t.itemid='+id);
     return this.http.get('http://localhost:3000/trips/getById?id=' + id);
   }
+  addTrip(tripDetails) {
+    return this.http.post('http://localhost:3000/trips/addtrip', tripDetails).subscribe(data => {
+      console.log('Trip has been added successfully ', data);
+    },
+      error => { console.log('Error', error); });
+  }
+
+  deleteTrip (id) {
+    return this.http.delete(`http://localhost:3000/trips/delete/:id=${id}`);
+  }
 }
