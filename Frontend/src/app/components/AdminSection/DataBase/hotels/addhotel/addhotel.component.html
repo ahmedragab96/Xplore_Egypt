@@ -5,43 +5,80 @@
     <span class="page-title">Add New Hotel</span>
   </div>
     <mat-card fxLayout="column" fxLayoutAlign="center center">
+        <form #f="ngForm" (ngSubmit)="onSubmit(f)">
         <div class="form-container">
           <mat-form-field>
-          <input type="text" required matInput placeholder="Name" name="title"
+          <input type="text" required matInput ngModel placeholder="Name" name="title"
             class="hotel-input" #title>
         </mat-form-field>
         <br/>
         <mat-form-field>
-            <input type="number" required matInput placeholder="Rating" name="rating"
-              class="hotel-input" #name>
+            <input type="number" required matInput ngModel placeholder="Rating" name="rating"
+              class="hotel-input" #rating>
           </mat-form-field>
           <br/>
           <mat-form-field>
-              <input type="text" required matInput placeholder="Region" name="region"
+              <input type="text" required matInput  ngModel placeholder="Region" name="region"
                 class="hotel-input" #region>
             </mat-form-field>
             <br/>
             <mat-form-field>
-                <input type="text" required matInput placeholder="image URL" name="imageURL"
+                <input type="text" required matInput ngModel placeholder="Image URL" name="imageURL"
                   class="hotel-input" #imageURL>
            </mat-form-field>
            <br/>
            <mat-form-field>
-              <input type="text" required matInput placeholder="Description" name="description"
+              <input type="text" required matInput ngModel placeholder="Map URL" name="mapURL"
+                class="hotel-input" #mapURL>
+         </mat-form-field>
+        <br/>
+           <mat-form-field>
+              <input type="text" required matInput ngModel placeholder="Description" name="description"
                 class="hotel-input" #description>
          </mat-form-field>
          <br/>
+           <mat-form-field>
+              <input type="text" required matInput ngModel placeholder="Price Category" name="price_category"
+                class="hotel-input" #price_category>
+         </mat-form-field>
+         <br/>
+           <mat-form-field>
+              <input type="text" required matInput ngModel placeholder="Price Range" name="priceRange"
+                class="hotel-input" #priceRange>
+         </mat-form-field>
+         <br/>
+        <mat-form-field>
+            <input type="number" required matInput ngModel placeholder="Low Price" name="priceLow"
+              class="hotel-input" #priceLow>
+          </mat-form-field>
+          <br/>
+        <mat-form-field>
+            <input type="number" required matInput ngModel placeholder="High Price" name="priceHigh"
+              class="hotel-input" #priceHigh>
+          </mat-form-field>
+         <br/>
          <mat-form-field>
-            <input type="text" required matInput placeholder="Features" name="features"
+            <input type="text" required matInput ngModel placeholder="Features" name="features"
               class="hotel-input" #features>
        </mat-form-field>
        <br/>
+         <mat-form-field>
+            <input type="text" required matInput ngModel placeholder="Hotel Style" name="styleandPrice"
+              class="hotel-input" #styleandPrice>
+       </mat-form-field>
+       <br/>
+         <mat-form-field>
+            <input type="text" required matInput ngModel placeholder="Keywords" name="keywords"
+              class="hotel-input" #keywords>
+       </mat-form-field>
+       <br/>
        <mat-form-field>
-          <input type="text" required matInput placeholder="Address" name="address"
+          <input type="text" required matInput ngModel placeholder="Address" name="address"
             class="hotel-input">
      </mat-form-field>
     </div>  
         <br/>
         <button type="submit" mat-raised-button color="primary">Add</button>
+  </form>
     </mat-card>
   
