@@ -81,6 +81,7 @@ import { AddhotelComponent } from './components/AdminSection/DataBase/hotels/add
 import { ChartsComponent } from './components/AdminSection/charts/charts.component';
 import { AddtripComponent } from './components/AdminSection/DataBase/trips/addtrip/addtrip.component';
 import { AboutUsComponent } from './components/about-us/about-us.component';
+import { ProfileComponent } from './components/profile/profile.component';
 // Configs
 export function getAuthServiceConfigs() {
   const config = new AuthServiceConfig(
@@ -130,6 +131,7 @@ export function getAuthServiceConfigs() {
     ChartsComponent,
     AddtripComponent,
     AboutUsComponent,
+    ProfileComponent,
   ],
   imports: [
     BrowserModule,

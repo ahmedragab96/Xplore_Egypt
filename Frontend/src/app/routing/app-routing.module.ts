@@ -21,6 +21,7 @@ import { ChartsComponent } from '../components/AdminSection/charts/charts.compon
 import { AddhotelComponent } from '../components/AdminSection/DataBase/hotels/addhotel/addhotel.component';
 import { AddtripComponent } from '../components/AdminSection/DataBase/trips/addtrip/addtrip.component';
 import { AboutUsComponent } from '../components/about-us/about-us.component';
+import { ProfileComponent } from '../components/profile/profile.component';
 
 const routes: Routes = [
   { path: 'login', component: LoginComponent},
@@ -33,6 +34,7 @@ const routes: Routes = [
   { path: 'restaurants/:id', component: RestaurantDetailsComponent },
   { path: 'hotels', component: HotelsComponent },
   { path: 'hotels/:id', component: HotelDetailsComponent },
+  { path: 'profile', component: ProfileComponent },
   {
     path: 'admin',
     component: AdminComponent,

@@ -22,10 +22,11 @@
    
     <div class="slide-items">
                         <img src="{{item.imageURL}}">
-                   <p> {{item.title}} </p>
+                   <!-- <p> <b>{{item.title}} </b></p> -->
+                   <p><b>{{item.title?item.title:"Trip"}}</b></p>
                    <p> price :{{item.price}} </p>
                    <p> Duration : {{item.duration}} </p>
-        <button class="btn btn-primary cardBtn">Read More</button>
+        <button class="btn btn-primary cardBtn" [routerLink] = "['/trips/',item.itemid]">Read More</button>
 
         <button class="btn btn-primary cardBtn" *ngIf="!item.selected" (click)="item.selected=1">ADD</button>
         <button class="btn btn-danger cardBtn" *ngIf="item.selected" [disabled]="item.addedCal" (click)="item.selected=0">REMOVE</button>
