@@ -25,4 +25,23 @@ export class UserService {
     let id=this.decodeToken();
     return this.http.get('http://localhost:3000/users/getData?id=' + id);
   }
-}
+
+  updateUser(body){
+    let id=this.decodeToken();
+    return this.http.post('http://localhost:3000/users/edit/'+ id+"/",body).subscribe(data => {
+      console.log('User Updated successfully ', data);
+    },
+      error => { console.log('Error', error); });
+  }
+
+   updateAvatar(image: File) {
+    let id=this.decodeToken();
+    const formData = new FormData();
+    formData.append('avatar', image);
+    return this.http.put('http://localhost:3000/users/editavatar/'+id+"/",formData).subscribe(data => {
+      console.log('avatar Updated successfully ', data);
+    },
+      error => { console.log('Error', error); });
+  }
+  
+  }

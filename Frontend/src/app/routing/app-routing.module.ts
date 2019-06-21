@@ -22,7 +22,7 @@ import { AddhotelComponent } from '../components/AdminSection/DataBase/hotels/ad
 import { AddtripComponent } from '../components/AdminSection/DataBase/trips/addtrip/addtrip.component';
 import { AboutUsComponent } from '../components/about-us/about-us.component';
 import { ProfileComponent } from '../components/profile/profile.component';
-
+import { EditProfileComponent } from '../components/edit-profile/edit-profile.component';
 const routes: Routes = [
   { path: 'login', component: LoginComponent},
   { path: 'register', component: RegisterComponent},
@@ -35,6 +35,7 @@ const routes: Routes = [
   { path: 'hotels', component: HotelsComponent },
   { path: 'hotels/:id', component: HotelDetailsComponent },
   { path: 'profile', component: ProfileComponent },
+  { path: 'editprofile', component: EditProfileComponent },
   {
     path: 'admin',
     component: AdminComponent,

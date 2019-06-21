@@ -82,6 +82,7 @@ import { ChartsComponent } from './components/AdminSection/charts/charts.compone
 import { AddtripComponent } from './components/AdminSection/DataBase/trips/addtrip/addtrip.component';
 import { AboutUsComponent } from './components/about-us/about-us.component';
 import { ProfileComponent } from './components/profile/profile.component';
+import { EditProfileComponent } from './components/edit-profile/edit-profile.component';
 // Configs
 export function getAuthServiceConfigs() {
   const config = new AuthServiceConfig(
@@ -132,6 +133,7 @@ export function getAuthServiceConfigs() {
     AddtripComponent,
     AboutUsComponent,
     ProfileComponent,
+    EditProfileComponent,
   ],
   imports: [
     BrowserModule,
