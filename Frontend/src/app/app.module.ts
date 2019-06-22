@@ -52,7 +52,7 @@ import { FooterComponent } from './components/footer/footer.component';
 import {NgxPaginationModule} from 'ngx-pagination';
 import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 import {BrowserAnimationsModule } from '@angular/platform-browser/animations';    
-import { NotifierModule } from 'angular-notifier'; 
+import { NotifierModule , NotifierOptions} from 'angular-notifier'; 
 
 // pipes
 import { FilterPipe } from './pipes/custom-pipes.pipe';
@@ -103,6 +103,17 @@ export function getAuthServiceConfigs() {
       ]
   );
   return config;
+}
+
+const notifierConfig: NotifierOptions = {
+  position: {
+    horizontal: {
+      position: 'right'
+    },
+    vertical: {
+      position: 'top'
+    }
+  }
 }
 
 @NgModule({
@@ -161,7 +172,7 @@ export function getAuthServiceConfigs() {
     MatSelectModule,
     MatOptionModule,
     MatButtonModule,
-    NotifierModule,
+    NotifierModule.withConfig(notifierConfig),
     ],
 
   providers: [TripPlannerService, RestaurantsService, HotelsService, PostsService, UserService,

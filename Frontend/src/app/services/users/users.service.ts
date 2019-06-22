@@ -1,13 +1,15 @@
 import { Injectable, OnInit } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import * as jwt_decode from 'jwt-decode';
+import { HttpResponse, HttpErrorResponse } from '@angular/common/http';
+import {NotifierService} from 'angular-notifier'
 
 @Injectable({
   providedIn: 'root'
 })
 
 export class UserService {
-  constructor(private http: HttpClient) { }
+  constructor(private notifier: NotifierService,private http: HttpClient) { }
 
   decodeToken() {
     const token = localStorage.getItem('token');
@@ -30,8 +32,11 @@ export class UserService {
     let id=this.decodeToken();
     return this.http.post('http://localhost:3000/users/edit/'+ id+"/",body).subscribe(data => {
       console.log('User Updated successfully ', data);
+      this.notifier.notify('success', 'your Profile is updated !');
     },
-      error => { console.log('Error', error); });
+      error => { console.log('Error', error); 
+    this.notifier.notify('success', error);
+  });
   }
 
    updateAvatar(image: File) {
@@ -40,6 +45,7 @@ export class UserService {
     formData.append('avatar', image);
     return this.http.put('http://localhost:3000/users/editavatar/'+id+"/",formData).subscribe(data => {
       console.log('avatar Updated successfully ', data);
+      this.notifier.notify('success', 'Your Profile Picture is successfully updated !');
     },
       error => { console.log('Error', error); });
   }

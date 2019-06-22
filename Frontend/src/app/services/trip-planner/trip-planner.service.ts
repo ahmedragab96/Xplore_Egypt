@@ -2,11 +2,12 @@ import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Router, ActivatedRoute } from '@angular/router';
 import * as jwt_decode from 'jwt-decode';
+import {NotifierService} from 'angular-notifier'
 @Injectable({
   providedIn: 'root'
 })
 export class TripPlannerService {
-  constructor(private http: HttpClient,
+  constructor(private http: HttpClient,private notifier: NotifierService,
     private route: ActivatedRoute, private router: Router) { }
 
 
@@ -31,8 +32,10 @@ export class TripPlannerService {
     console.log(body);
     return this.http.post('http://localhost:3000/users/addplan', body).subscribe(data => {
       console.log('POST Request is successful ', data);
+      this.notifier.notify('success', 'Your Trips are saved to Calendar !');
     },
-      error => { console.log('Error', error); });
+      error => { console.log('Error', error);
+      this.notifier.notify('error', error); });
   }
 
 

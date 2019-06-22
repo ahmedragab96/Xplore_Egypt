@@ -34,11 +34,7 @@ export class RegisterComponent  {
     onregister(form: NgForm) {
         console.log(form.value);
         this.authService.register(form.value.fname , form.value.lname , form.value.email , form.value.password
-           , form.value.DOB , form.value.gender , form.value.nationality ).subscribe(
-      (response: any) => {
-        this.notifier.notify('success', 'User registered successfully, please login to continue');
-      }
-      )
+           , form.value.DOB , form.value.gender , form.value.nationality )
        }
     
 

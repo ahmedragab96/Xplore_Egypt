@@ -16,6 +16,13 @@ import { HotelDetailsComponent } from '../components/hotel-details/hotel-details
 import { PostsComponent } from '../components/posts/posts.component';
 import { UsersComponent } from '../components/AdminSection/DataBase/users/users.component';
 import { HotelsCRUDComponent } from '../components/AdminSection/DataBase/hotels/hotels.component';
+import { ContactUsComponent } from '../components/contact-us/contact-us.component';
+import { TripsCRUDComponent } from '../components/AdminSection/DataBase/trips/trips.component';
+import { AddhotelComponent } from '../components/AdminSection/DataBase/hotels/addhotel/addhotel.component';
+import { AddtripComponent } from '../components/AdminSection/DataBase/trips/addtrip/addtrip.component';
+import { AboutUsComponent } from '../components/about-us/about-us.component';
+import { ProfileComponent } from '../components/profile/profile.component';
+import { EditProfileComponent } from '../components/edit-profile/edit-profile.component';
 var routes = [
     { path: 'login', component: LoginComponent },
     { path: 'register', component: RegisterComponent },
@@ -27,10 +34,37 @@ var routes = [
     { path: 'restaurants/:id', component: RestaurantDetailsComponent },
     { path: 'hotels', component: HotelsComponent },
     { path: 'hotels/:id', component: HotelDetailsComponent },
-    { path: 'admin', component: AdminComponent },
-    { path: 'admin/database/users', component: UsersComponent },
-    { path: 'admin/database/hotels', component: HotelsCRUDComponent },
+    { path: 'profile', component: ProfileComponent },
+    { path: 'editprofile', component: EditProfileComponent },
+    {
+        path: 'admin',
+        component: AdminComponent,
+        children: [
+            {
+                path: 'database/users',
+                component: UsersComponent,
+            },
+            {
+                path: 'database/hotels',
+                component: HotelsCRUDComponent,
+            },
+            {
+                path: 'database/trips',
+                component: TripsCRUDComponent,
+            },
+            {
+                path: 'database/hotels/addHotel',
+                component: AddhotelComponent,
+            },
+            {
+                path: 'database/trips/addTrip',
+                component: AddtripComponent,
+            }
+        ]
+    },
     { path: 'posts', component: PostsComponent },
+    { path: 'contactUs', component: ContactUsComponent },
+    { path: 'aboutUs', component: AboutUsComponent },
     { path: '', redirectTo: '/home', pathMatch: 'full' },
     { path: '**', redirectTo: '/home', pathMatch: 'full' }
 ];

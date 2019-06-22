@@ -47,6 +47,7 @@ var AuthServices = /** @class */ (function () {
                 console.log(Response.error);
             }
         });
+        return this.http.post('http://localhost:3000/users/login', authData);
     };
     AuthServices.prototype.register = function (fname, lname, email, password, 
     /*image: File ,*/ DOB, gender, nationality) {
@@ -63,10 +64,7 @@ var AuthServices = /** @class */ (function () {
         // const userData: UserData = {fname: fname , lname: lname ,
         //                             email: email , password: password ,
         //                             DOB: DOB , image: image , gender: gender , : nationality};
-        this.http.post('http://localhost:3000/users/register', userData)
-            .subscribe(function (Response) {
-            console.log(Response);
-        });
+        return this.http.post('http://localhost:3000/users/register', userData);
     };
     AuthServices.prototype.socialSignUp = function (body) {
         // console.log(body)
