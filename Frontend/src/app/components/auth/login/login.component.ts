@@ -1,7 +1,7 @@
 import {Component} from '@angular/core';
 import { AuthServices } from '../auth.services';
 import { NgForm } from '@angular/forms';
-
+import { NotifierService } from 'angular-notifier';
 
 @Component ({
     templateUrl : './login.component.html',
@@ -11,7 +11,7 @@ import { NgForm } from '@angular/forms';
 export class LoginComponent {
     isLoading = false ;
 
-    constructor(public authService: AuthServices) {}
+    constructor(private notifier: NotifierService,public authService: AuthServices) {}
 
     onlogin(form: NgForm) {
         console.log(form.value);

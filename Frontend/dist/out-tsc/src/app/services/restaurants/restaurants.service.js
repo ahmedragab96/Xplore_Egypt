@@ -6,10 +6,18 @@ var RestaurantsService = /** @class */ (function () {
         this.http = http;
     }
     RestaurantsService.prototype.GetAllRestaurants = function () {
-        return this.http.get("http://localhost:3000/restaurants/getall");
+        return this.http.get('http://localhost:3000/restaurants/getall');
     };
     RestaurantsService.prototype.getRestaurantByID = function (id) {
-        return this.http.get("http://localhost:3000/restaurants/getById?id=" + id);
+        return this.http.get('http://localhost:3000/restaurants/getById?id=' + id);
+    };
+    RestaurantsService.prototype.addRestaurant = function (restDetails) {
+        return this.http.post('http://localhost:3000/restaurants/addrestaurant', restDetails).subscribe(function (data) {
+            console.log('Restaurant has been added successfully ', data);
+        }, function (error) { console.log('Error', error); });
+    };
+    RestaurantsService.prototype.deleteRestaurant = function (id) {
+        return this.http.delete("http://localhost:3000/restaurants/delete/:id=" + id);
     };
     RestaurantsService = tslib_1.__decorate([
         Injectable({

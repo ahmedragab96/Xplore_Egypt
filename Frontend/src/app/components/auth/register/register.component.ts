@@ -1,6 +1,7 @@
 import {Component, OnInit} from '@angular/core';
 import { AuthServices } from '../auth.services';
 import { NgForm } from '@angular/forms';
+import { NotifierService } from 'angular-notifier';
 import {
   AuthService,
   FacebookLoginProvider,
@@ -29,13 +30,13 @@ export class RegisterComponent  {
     //   reader.readAsDataURL(image_file);
     // }
 
-    constructor(public authService: AuthServices, private socialAuthService: AuthService) {}
-
+    constructor(private notifier: NotifierService,public authService: AuthServices, private socialAuthService: AuthService) {}
     onregister(form: NgForm) {
         console.log(form.value);
         this.authService.register(form.value.fname , form.value.lname , form.value.email , form.value.password
-           , form.value.DOB , form.value.gender , form.value.nationality );
-    }
+           , form.value.DOB , form.value.gender , form.value.nationality )
+       }
+    
 
     public socialSignIn(socialPlatform: string) {
         let socialPlatformProvider;

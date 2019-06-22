@@ -8,7 +8,7 @@ var PostsComponent = /** @class */ (function () {
         this.today = new Date();
         this.jstoday = '';
         this.newPost = {};
-        this.jstoday = formatDate(this.today, 'dd-MM-yyyy hh:mm:ss a', 'en-US', '+0530');
+        this.jstoday = formatDate(this.today, 'yyyy-MM-dd', 'en-US', '+0530');
     }
     PostsComponent.prototype.getPostsFromService = function () {
         var _this = this;
@@ -29,8 +29,7 @@ var PostsComponent = /** @class */ (function () {
         this.newPost['title'] = f.value.title;
         this.newPost['body'] = f.value.body;
         this.newPost['date'] = this.jstoday;
-        this.newPost['userID'] =
-            this.service.savePost(this.newPost);
+        this.service.savePost(this.newPost);
     };
     PostsComponent.prototype.ngOnInit = function () {
         console.log(this.jstoday);

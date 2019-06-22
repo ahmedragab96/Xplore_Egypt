@@ -4,6 +4,8 @@ import { AuthData } from './auth-data.model';
 import { UserData } from './user-data.model';
 import { Subject } from 'rxjs';
 import { Router } from '@angular/router';
+import { HttpResponse, HttpErrorResponse } from '@angular/common/http';
+import {NotifierService} from 'angular-notifier'
 
 @Injectable({ providedIn: 'root'})
 
@@ -13,7 +15,7 @@ export class AuthServices {
     private isAuth = false ;
     private Timer: any;
     private authStatusListener = new Subject<boolean>();
-    constructor (private http: HttpClient, private router: Router) {}
+    constructor (private notifier: NotifierService,private http: HttpClient, private router: Router) {}
 
 
     getToken () {
@@ -40,6 +42,7 @@ export class AuthServices {
         this.http.post<{token: string , error: string , expireIn: number}>('http://localhost:3000/users/login', authData)
         .subscribe( Response => {
             if (Response.token) {
+                this.notifier.notify('success', 'you successfully logged in !');
                 const expiration = Response.expireIn ;
                 this.setAuthTimer(expiration);
                 const token = Response.token;
@@ -52,8 +55,10 @@ export class AuthServices {
                 this.router.navigate(['/home']);
                 } else {
                 console.log(Response.error);
+                this.notifier.notify('error', Response.error);
             }
         });
+        //return this.http.post<{token: string , error: string , expireIn: number}>('http://localhost:3000/users/login', authData)
     }
     register(fname: string , lname: string ,
           email: string , password: string ,
@@ -73,10 +78,16 @@ export class AuthServices {
             //                             email: email , password: password ,
             //                             DOB: DOB , image: image , gender: gender , : nationality};
 
-            this.http.post('http://localhost:3000/users/register', userData)
-            .subscribe( Response => {
-                console.log(Response);
-            });
+            this.http.post('http://localhost:3000/users/register', userData).subscribe(
+              (response: any) => {
+                  console.log(response)
+                    this.notifier.notify('success', 'You registered successfully, please login to continue');
+                      },
+              (err: HttpErrorResponse) => {
+                  console.log(err);
+                    this.notifier.notify('error', err.statusText);
+      }
+    );              
     }
 
     socialSignUp(body) {
@@ -86,6 +97,7 @@ export class AuthServices {
     }
 
     logout() {
+        this.notifier.notify('success', 'you successfully logged out !');
         this.private_token = null;
         this.authStatusListener.next(false);
         this.isAuth = false;
