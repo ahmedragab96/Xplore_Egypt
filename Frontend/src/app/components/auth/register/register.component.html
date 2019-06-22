@@ -4,10 +4,16 @@
 
         <div class="form-row mb-3">
                 <div class="col">
-                  <input type="text" class="form-control" placeholder="First name" ngModel name="fname" #fname="ngModel" >
+                  <input type="text" class="form-control" placeholder="First name" required ngModel name="fname" #fname="ngModel" >
+                  <div style="margin-top: 3%" class="alert alert-danger text-center" *ngIf="fname.touched">
+                      <div *ngIf="fname.errors.required">First Name is required!</div>
+                    </div>
                 </div> 
                 <div class="col">
-                  <input type="text" class="form-control" placeholder="Last name" ngModel name="lname" #lname="ngModel" >
+                  <input type="text" class="form-control" required placeholder="Last name" ngModel name="lname" #lname="ngModel" >
+                  <div style="margin-top: 3%" class="alert alert-danger text-center" *ngIf="lname.touched">
+                      <div *ngIf="lname.errors.required">Last Name is required!</div>
+                    </div>
                 </div>
         </div>
 
@@ -32,16 +38,6 @@
                   <div *ngIf="password.errors.minlength">can't be less than 5 characters</div>
                 </div>
               </div>
-              <!-- input-image -->
-              <!-- <div class="row mb-3">
-                <div class="col-md-12">
-                    <label for="image">Profile Image :</label><br>
-                    <input type="file" name="image" ngModel #image="ngModel" (change)= "onImagePicked($event)" required>
-                </div>
-              </div>
-              <div class="row mb-3 image-preview" *ngIf="imagepreview !== '' && imagepreview">
-                    <img [src] = "imagepreview" [alt] = "Image">
-              </div> -->
               <!-- Gender -->
               <div class="row mb-3">
                       <legend class="col-form-label col-sm-2 pt-0">Gender:</legend>
@@ -64,25 +60,31 @@
               <div class="mb-3">
                       <input type="date" name="DOB" class="form-control" ngModel
                               required placeholder="Birthday" #DOB="ngModel">
+                        <div style="margin-top: 3%" class="alert alert-danger text-center" *ngIf="DOB.touched">
+                            <div *ngIf="DOB.errors.required">Date of Birth is required!</div>
+                          </div>
                   </div>
                   <!-- nationality -->
                   <div class="mb-3">
                       <input type="text" name="nationality" class="form-control" ngModel
                                   required placeholder="Nationality" #nationalityInput="ngModel">
+                        <div style="margin-top: 3%" class="alert alert-danger text-center" *ngIf="nationalityInput.touched">
+                            <div *ngIf="nationalityInput.errors.required">Nationality is required!</div>
+                          </div>
                   </div>
         <!-- sign up button -->
         <div class="d-flex justify-content-center">
-          <button class="btn button btn-block my-5 w-50" type="submit" [disabled]="!registerForm.valid" >Sign up</button>
+          <button class=" btn btn-block mybtn btn-primary tx-tfm" type="submit" [disabled]="!registerForm.valid">Sign up</button>
         </div>
         <div class="d-flex justify-content-center">
-          <button type="button" class="btn btn-block text-center btn-social btn-facebook mb-1"
+          <button style="width: 55%" type="button" class="btn btn-block text-center btn-social btn-facebook mb-1"
                   (click)="socialSignIn('facebook')">
                   <i class="fa fa-facebook" aria-hidden="true"></i>
             Sign up with Facebook
           </button>
         </div>
         <div class="d-flex justify-content-center">
-          <button type="button" class="btn btn-block text-center btn-social btn-google" (click)="socialSignIn('google')">
+          <button style="width: 55%" type="button" class="btn btn-block text-center btn-social btn-google" (click)="socialSignIn('google')">
             <i class="fa fa-google" aria-hidden="true"></i>
             Sign up in with Google
           </button>

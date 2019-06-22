@@ -5,3 +5,33 @@
     border-radius: 0.5rem;
     background: #fff;
 }
+
+form{
+    margin-top: 20%;
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 1rem;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 65%;
+    pointer-events: auto;
+    background-color: #fff;
+    background-clip: padding-box;
+    border-style: solid;
+    border-color: rgb(197, 195, 195) ;
+    outline: 0;
+    margin-left: 17%;
+}
+#photo{
+    margin-left: 17%;
+}
+.btn-primary{
+    width: 40%;
+    margin-left: 30%;
+    margin-bottom: 5%;
+    border-radius:50px;
+
+}
+
+
