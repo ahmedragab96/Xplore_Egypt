@@ -30,7 +30,6 @@ import { RegisterComponent } from './/components/auth/register/register.componen
 import { FormsModule } from '@angular/forms';
 import { HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
 import { AppRoutingMOdule } from './routing/app-routing.module';
-import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 // services
 import {TripPlannerService} from './services/trip-planner/trip-planner.service';
@@ -52,6 +51,8 @@ import { TripsComponent } from './components/trips/trips.component';
 import { FooterComponent } from './components/footer/footer.component';
 import {NgxPaginationModule} from 'ngx-pagination';
 import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
+import {BrowserAnimationsModule } from '@angular/platform-browser/animations';    
+import { NotifierModule } from 'angular-notifier'; 
 
 // pipes
 import { FilterPipe } from './pipes/custom-pipes.pipe';
@@ -160,7 +161,9 @@ export function getAuthServiceConfigs() {
     MatSelectModule,
     MatOptionModule,
     MatButtonModule,
+    NotifierModule,
     ],
+
   providers: [TripPlannerService, RestaurantsService, HotelsService, PostsService, UserService,
     FilterPipe, RecommendaionService, ReviewsService,
     { provide: HTTP_INTERCEPTORS, useClass: AuthInterceptor, multi: true },

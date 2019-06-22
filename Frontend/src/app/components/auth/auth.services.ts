@@ -4,7 +4,6 @@ import { AuthData } from './auth-data.model';
 import { UserData } from './user-data.model';
 import { Subject } from 'rxjs';
 import { Router } from '@angular/router';
-
 @Injectable({ providedIn: 'root'})
 
 export class AuthServices {
@@ -73,10 +72,7 @@ export class AuthServices {
             //                             email: email , password: password ,
             //                             DOB: DOB , image: image , gender: gender , : nationality};
 
-            this.http.post('http://localhost:3000/users/register', userData)
-            .subscribe( Response => {
-                console.log(Response);
-            });
+            return this.http.post('http://localhost:3000/users/register', userData)
     }
 
     socialSignUp(body) {
