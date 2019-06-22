@@ -34,6 +34,7 @@ export class TripPlannerComponent implements OnInit {
     // console.log(jsonObj)
     this.service.savePlannedTrips(this.calendarTrips);
   }
+
   loadTrips() {
 
     this.service.loadPlannedTrips().subscribe((res) => {
@@ -74,10 +75,11 @@ export class TripPlannerComponent implements OnInit {
 
           drop: function (date, jsEvent, ui) {
             // event drop fist time
-            console.log(date._d);
+            console.log(this);
             const evId = +this.id.split(',')[1];
             console.log('calendar 1 Drop');
             $(this).attr('hidden', true);
+            console.log(evId);
             angularthis.trips[evId]['addedCal'] = true;
             angularthis.trips[evId]['start'] = date._d;
             // deleting unnecessary data
@@ -91,6 +93,7 @@ export class TripPlannerComponent implements OnInit {
             delete angularthis.trips[evId].id;
             // pushing to calendar trips
             angularthis.calendarTrips.push(angularthis.trips[evId]);
+            console.log(angularthis.calendarTrips)
           },
 
           eventDragStop: function (event, jsEvent, ui, view) {
@@ -119,7 +122,7 @@ export class TripPlannerComponent implements OnInit {
              console.log(new Date(event.end == null ? null: event.end._d));
            },*/
         });
-    }, 1000);
+    }, 10000);
 
 
   }
@@ -127,12 +130,12 @@ export class TripPlannerComponent implements OnInit {
   getTripsFromService() {
     this.service.GetAllTrips().subscribe((res) => {
       this.trips = res;
-      console.log(res);
+      //console.log(res);
 
       setTimeout(() => {
         $('#external-events .fc-event').each(function () {
-          console.log($(this));
-          console.log(this);
+          //console.log($(this));
+          //console.log(this);
           // store data so the calendar knows to render an event upon drop
           $(this).data('event', {
             element: $(this),
@@ -156,10 +159,11 @@ export class TripPlannerComponent implements OnInit {
 
 
   ngOnInit() {
+    this.loadTrips();
     // getting all trips
     this.getTripsFromService();
-    this.loadTrips();
-    setTimeout(() => { console.log(this.loadedTrips); }, 100000);
+    
+    // setTimeout(() => { console.log(this.loadedTrips); }, 100000);
 
     // check if it's droppable on calendar area
 
