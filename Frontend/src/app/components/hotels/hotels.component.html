@@ -96,7 +96,8 @@
                       <p><span class="inCard">Price Range:</span> {{hotel['priceRange']}} </p>
                     </div>
                     <!-- <button class="btn btn-primary cardBtn" (click)="ViewHotelDetail(hotel.hotel_id)">Read More</button> -->
-                    <button class="btn btn-primary cardBtn" [routerLink] = "['/hotels/',hotel.itemid]">Read More</button>
+                    <button class="btn btn-primary cardBtn" [routerLink] = "['/hotels/',hotel.itemid]" [queryParams]="{q:hotel['title']}">Read More</button>
+                    
                   </div>
             </div>
         </div>

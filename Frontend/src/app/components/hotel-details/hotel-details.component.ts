@@ -22,7 +22,7 @@ export class HotelDetailsComponent implements OnInit {
 
 
 ngOnInit() {
- this.id =parseInt(this.router.snapshot.paramMap.get('id'))
+ this.id =parseInt(this.router.snapshot.paramMap.get('id'));
  this.getHotelDetail();
 }
 

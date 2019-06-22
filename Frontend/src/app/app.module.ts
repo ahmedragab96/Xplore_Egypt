@@ -83,6 +83,7 @@ import { AddtripComponent } from './components/AdminSection/DataBase/trips/addtr
 import { AboutUsComponent } from './components/about-us/about-us.component';
 import { ProfileComponent } from './components/profile/profile.component';
 import { EditProfileComponent } from './components/edit-profile/edit-profile.component';
+import { BookingComponent } from './components/booking/booking.component';
 // Configs
 export function getAuthServiceConfigs() {
   const config = new AuthServiceConfig(
@@ -134,6 +135,7 @@ export function getAuthServiceConfigs() {
     AboutUsComponent,
     ProfileComponent,
     EditProfileComponent,
+    BookingComponent,
   ],
   imports: [
     BrowserModule,
