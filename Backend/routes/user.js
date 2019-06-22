@@ -145,8 +145,6 @@ users.post('/edit/:id', (req, res, next) => {
   let fname = req.body.fname;
   let lname = req.body.lname;
   let email = req.body.email;
-  let DOB = req.body.DOB;
-  let gender = req.body.gender;
   let nationality = req.body.nationality;
 
   if (req.body.password != undefined) {
@@ -154,7 +152,7 @@ users.post('/edit/:id', (req, res, next) => {
     console.log(password);
     bcrypt.hash(password, saltRounds, function (err, hash) {
       let query = "UPDATE `users` SET `first_name` = '" + fname + "' , `last_name` ='" + lname + "' , `email` = '" + email +
-        "' , `password` = '" + hash + "' , `DoB` = '" + DOB + "' , `gender` = '" + gender + "' , `nationality` ='" + nationality + "' WHERE ID = ?";
+        "' , `password` = '" + hash + "' , `nationality` ='" + nationality + "' WHERE ID = ?";
 
       db.query(query, [id], (err, result) => {
         if (err) {
