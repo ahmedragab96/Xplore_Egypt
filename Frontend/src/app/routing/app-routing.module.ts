@@ -56,7 +56,11 @@ const routes: Routes = [
       {
         path: 'database/trips/addTrip',
         component: AddtripComponent,
-      }
+      },
+      {
+        path: 'database/restaurants',
+        component: RestaurantsComponent,
+      },
     ]
   },
   { path: 'posts', component: PostsComponent },
