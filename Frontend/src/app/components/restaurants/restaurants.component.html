@@ -85,7 +85,7 @@
                         <p><span class="inCard">Location:</span>{{restaurant['location']}}</p>
                         <p><span class="inCard">Phone:</span> {{restaurant['phone']}} </p>
                     </div>
-                    <button class="btn btn-primary cardBtn" [routerLink] = "['/restaurants/',restaurant.itemid]">Read More</button>
+                    <button class="btn btn-primary cardBtn" [routerLink] = "['/restaurants/',restaurant.itemid]" [queryParams]="{q:restaurant['title']}">Read More</button>
                 </div>
             </div>
         </div>

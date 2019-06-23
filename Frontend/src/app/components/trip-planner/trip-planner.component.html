@@ -21,38 +21,17 @@
     <ng-template #item let-item let-i="index">
    
     <div class="slide-items">
-                        <img src="{{item.imageURL}}">
-                   <p> {{item.title}} </p>
+                    <img src="{{item.imageURL}}">
+                   <p><b>{{item.title?item.title:"Trip"}}</b></p>
                    <p> price :{{item.price}} </p>
                    <p> Duration : {{item.duration}} </p>
-        <button class="btn btn-primary cardBtn">Read More</button>
+        <button class="btn btn-primary cardBtn" [routerLink] = "['/trips/',item.itemid]" [queryParams]="{q:item.title}">Read More</button>
 
         <button class="btn btn-primary cardBtn" *ngIf="!item.selected" (click)="item.selected=1">ADD</button>
         <button class="btn btn-danger cardBtn" *ngIf="item.selected" [disabled]="item.addedCal" (click)="item.selected=0">REMOVE</button>
     </div>
    
   </ng-template>
-<!-- <div class="container">
-    <div class="row">
-        <ng-container *ngFor="let trip of trips">
-            <div class="col d-flex align-items-stretch">
-                <div class="card">
-                    <div class="card-body">
-                        <img class="card-img-top" src="{{trip['imageURL']}}" alt="Card image cap">
-                        <h5 class="card-title">{{trip['name']}}</h5>
-                        <div class="card-text">
-                        <p>{{trip['duration']}}</p>
-                        <p>{{trip['price']}}</p>
-                        </div>
-                        <button class="btn btn-primary cardBtn">Read More</button>
-                        <button class="btn btn-primary cardBtn" *ngIf="!trip['selected']" (click)="trip['selected']=1">ADD</button>
-                        <button class="btn btn-danger cardBtn" *ngIf="trip['selected']" [disabled]="trip['addedCal']" (click)="trip['selected']=0">REMOVE</button>
-                    </div>
-                </div>
-            </div>
-        </ng-container>
-    </div>
-</div> -->
 
 <div  class="container" id="planner" >
     <div class="row">

@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { AuthServices } from './components/auth/auth.services';
-
+import { NotifierService } from 'angular-notifier';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -8,7 +8,7 @@ import { AuthServices } from './components/auth/auth.services';
 })
 export class AppComponent implements OnInit{
   
-  constructor(private authService: AuthServices) {}
+  constructor(private notifier:NotifierService,private authService: AuthServices) {}
   title = 'app';
   
   ngOnInit() {

@@ -27,7 +27,15 @@
 		</div>
 	</div>
 	<p> <span>Features</span> : {{hotelDetails[0]['features']}}</p>
-	<p> <span>Price Range</span> : {{hotelDetails[0]['priceRange']}}</p>
+	<div class="row">
+		<div class="col-lg-9">
+			<p> <span>Price Range</span> : {{hotelDetails[0]['priceRange']}}</p>
+		</div>
+		<div class="col-lg-3">
+			<app-booking></app-booking>
+		</div>
+	</div>
+	
 	
 
 

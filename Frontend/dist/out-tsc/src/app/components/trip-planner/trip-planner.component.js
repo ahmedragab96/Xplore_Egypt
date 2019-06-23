@@ -8,14 +8,14 @@ var TripPlannerComponent = /** @class */ (function () {
         this.calendarTrips = [];
         this.trial = [];
     }
-    // usertrips:string="{'title':'trip1', 'start':'2019-02-18'}";
+    // usertrips:string='{'title':'trip1', 'start':'2019-02-18'}';
     // jsontrips=JSON.parse(this.usertrips);
     TripPlannerComponent.prototype.save = function () {
         console.log(this.calendarTrips);
-        //this.m=JSON.stringify(this.calendarTrips);
-        //console.log(this.m)
-        //var jsonObj = $.parseJSON('[' + this.m + ']');
-        //console.log(jsonObj)
+        // this.m=JSON.stringify(this.calendarTrips);
+        // console.log(this.m)
+        // let jsonObj = $.parseJSON('[' + this.m + ']');
+        // console.log(jsonObj)
         this.service.savePlannedTrips(this.calendarTrips);
     };
     TripPlannerComponent.prototype.loadTrips = function () {
@@ -35,7 +35,7 @@ var TripPlannerComponent = /** @class */ (function () {
             }
             return false;
         };
-        //Full Calendar customization 
+        // Full Calendar customization
         var angularthis = this;
         setTimeout(function () {
             $('#calendar1').fullCalendar({
@@ -57,11 +57,12 @@ var TripPlannerComponent = /** @class */ (function () {
                 dragRevertDuration: 0,
                 eventLimit: true,
                 drop: function (date, jsEvent, ui) {
-                    //event drop fist time
-                    console.log(date._d);
-                    var evId = +this.id.split(",")[1];
+                    // event drop fist time
+                    console.log(this);
+                    var evId = +this.id.split(',')[1];
                     console.log('calendar 1 Drop');
-                    $(this).attr("hidden", true);
+                    $(this).attr('hidden', true);
+                    console.log(evId);
                     angularthis.trips[evId]['addedCal'] = true;
                     angularthis.trips[evId]['start'] = date._d;
                     // deleting unnecessary data
@@ -73,33 +74,34 @@ var TripPlannerComponent = /** @class */ (function () {
                     delete angularthis.trips[evId].addedCal;
                     delete angularthis.trips[evId].region;
                     delete angularthis.trips[evId].id;
-                    //pushing to calendar trips
+                    // pushing to calendar trips
                     angularthis.calendarTrips.push(angularthis.trips[evId]);
+                    console.log(angularthis.calendarTrips);
                 },
                 eventDragStop: function (event, jsEvent, ui, view) {
                     if (isEventOverDiv(jsEvent.clientX)) {
                         console.log('calendar 1 remove');
-                        var evId_1 = +event.elementS.id.split(",")[1];
+                        var evId_1 = +event.elementS.id.split(',')[1];
                         $('#calendar1').fullCalendar('removeEvents', event._id);
                         var el = event.element;
-                        el.attr("hidden", false);
+                        el.attr('hidden', false);
                         angularthis.trips[evId_1]['addedCal'] = 0;
                         angularthis.cd.detectChanges();
                         angularthis.calendarTrips = angularthis.calendarTrips.filter(function (item) { return item.id !== angularthis.trips[evId_1].id; });
                     }
                 },
             });
-        }, 1000);
+        }, 10000);
     };
     TripPlannerComponent.prototype.getTripsFromService = function () {
         var _this = this;
         this.service.GetAllTrips().subscribe(function (res) {
             _this.trips = res;
-            console.log(res);
+            //console.log(res);
             setTimeout(function () {
                 $('#external-events .fc-event').each(function () {
-                    console.log($(this));
-                    console.log(this);
+                    //console.log($(this));
+                    //console.log(this);
                     // store data so the calendar knows to render an event upon drop
                     $(this).data('event', {
                         element: $(this),
@@ -118,11 +120,10 @@ var TripPlannerComponent = /** @class */ (function () {
         });
     };
     TripPlannerComponent.prototype.ngOnInit = function () {
-        var _this = this;
+        this.loadTrips();
         // getting all trips
         this.getTripsFromService();
-        this.loadTrips();
-        setTimeout(function () { console.log(_this.loadedTrips); }, 100000);
+        // setTimeout(() => { console.log(this.loadedTrips); }, 100000);
         // check if it's droppable on calendar area
         $(document).ready(function () {
         });

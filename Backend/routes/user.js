@@ -22,7 +22,7 @@ const storage = multer.diskStorage({
     if (isValid) {
       error = null;
     }
-    cb(null, "../images");
+    cb(null, "../Frontend/src/assets/profilepics/");
   },
   filename: (req, file, cb) => {
     const name = file.originalname.toLowerCase().split(' ').join('-');
@@ -120,27 +120,48 @@ users.get('/getall', function (req, res, next) {
   })
 
 });
-users.put('/edit/:id', (req, res, next) => {
 
+users.put('/editavatar/:id',multer({ storage: storage }).single("avatar") , (req, res, next) => {
+ let id = req.params.id; 
+ let avatar=req.file;
+ console.log(req)
+      let query = "UPDATE `users` SET `avatar` = '" + avatar.filename + "' WHERE ID = ?";
+       db.query(query, [id], (err, result) => {
+        if (err) {
+          console.log(err)
+          return res.status(500).send(err);
+        }
+            res.json({
+      result
+    });
+
+      })
+
+     });
+
+users.post('/edit/:id', (req, res, next) => {
+  // console.log(req.body)
   let id = req.params.id;
   let fname = req.body.fname;
   let lname = req.body.lname;
   let email = req.body.email;
-  let DOB = req.body.DOB;
-  let gender = req.body.gender;
   let nationality = req.body.nationality;
 
   if (req.body.password != undefined) {
     let password = req.body.password;
+    console.log(password);
     bcrypt.hash(password, saltRounds, function (err, hash) {
       let query = "UPDATE `users` SET `first_name` = '" + fname + "' , `last_name` ='" + lname + "' , `email` = '" + email +
-        "' , `password` = '" + password + "' , `DoB` = '" + DOB + "' , `gender` = '" + gender + "' , `nationality` ='" + nationality + "' WHERE ID = ?";
+        "' , `password` = '" + hash + "' , `nationality` ='" + nationality + "' WHERE ID = ?";
 
       db.query(query, [id], (err, result) => {
         if (err) {
+          console.log(err)
           return res.status(500).send(err);
         }
-        res.send("edited successfully ");
+            res.json({
+      result
+    });
 
       })
     });

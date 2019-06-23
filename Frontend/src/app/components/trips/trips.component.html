@@ -71,7 +71,7 @@
             <p><span class="inCard">Price:</span> {{item.price}} </p>
             <p><span class="inCard">Duration:</span> {{item.duration}} </p>
               <!-- <button [routerLink] = "['/trips',item.tripID]" class="btn btn-primary cardBtn">Xplore</button> -->
-            <button class="btn btn-primary cardBtn" [routerLink] = "['/trips/',item.itemid]">Read More</button>
+            <button class="btn btn-primary cardBtn" [routerLink] = "['/trips/',item.itemid]" [queryParams]="{q:trip['title']}">Read More</button>
           </div>
         </ng-template>
     </div>
@@ -106,7 +106,7 @@
                     <p><span class="inCard">Price:</span>{{trip['price']}}</p>
                     <p><span class="inCard">Duration:</span>{{trip['duration']}}</p>
                 </div>
-                <button [routerLink] = "['/trips/',trip.itemid]" class="btn btn-primary cardBtn">Read More</button>
+                <button [routerLink] = "['/trips/',trip.itemid]" class="btn btn-primary cardBtn" [queryParams]="{q:trip['title']}">Read More</button>
               </div>
           </div>
       </div>
@@ -114,14 +114,7 @@
 </div>
 
 <div class="container" id="paging">
-    <div class="row">
-      <select [(ngModel)]="itemsPerPage" class="custom-select" id="items">
-          <option value=1> 1 </option>
-          <option value=2> 2 </option>
-          <option value=5> 5 </option>
-      </select>
-      <p style="margin-top:0.5%; ">items</p>
-
+    <div class="row" style="margin-left: 25%">
       <pagination-controls (pageChange)="p = $event"></pagination-controls>
     </div>
 

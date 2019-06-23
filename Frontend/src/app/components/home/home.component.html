@@ -1,40 +1,73 @@
 <app-navbar></app-navbar>
 
-<h2>Recommended For You</h2>
-<!-- slider -->
-<div id="container">
-    <div
-      ng2-carouselamos
-      class="slides-wrapper"
-      [items]="recommendedPlaces"
-      [width]="850"
-      [$prev]="prev"
-      [$next]="next"
-      [$item]="item"
-    >
-    </div>
-    <ng-template #prev>
-      <img src="assets/images/left.png" id="left" />
+<!-- COVER IMAGES AND SEARCH FORM -->
+  <!-- <ngb-carousel [showNavigationIndicators]="false"> -->
+  <ngb-carousel>
+    <ng-template ngbSlide>
+      <img style="width: 100%; height: 2%;" src="../../../assets/images/home1.jpg" alt="Home page slide">
     </ng-template>
-    <ng-template #next>
-      <img src="assets/images/right.png" id="right" />
-    </ng-template>
-    <ng-template #item let-item let-i="index">
-   
-        <div class="slide-items">
-            <div class="frame">
-            </div>
-            <div class="frameTitle">
-              <p><b> {{item.title}} </b></p>
-            </div>
-            <p><span class="inCard">Type:</span> {{item.type}} </p>
-            <p><span class="inCard">Region:</span> {{item.region}} </p>
-            <p><span class="inCard">Rating:</span> {{item.rating}} </p>
-              <!-- <button [routerLink] = "['/trips',item.tripID]" class="btn btn-primary cardBtn">Xplore</button> -->
-            <button class="btn btn-primary cardBtn" [routerLink] = "['/trips/',item.itemid]">Read More</button>
-          </div>
-        </ng-template>
+  </ngb-carousel>
+
+  <div id="search-form">
+    <h3><b>Welcome to Xplore Egypt</b></h3>
+    <p>Find your perfect Egyptian Hotels, Restaurants and Trips!</p>
+  </div>
+
+<div class="container" style="margin-bottom: 5%">
+
+  <!-- HOTEL SECTION -->
+  <div class="row featurette">
+    <div class="col-md-7">
+      <h2 class="featurette-heading">
+        Hotels
+      </h2>
+      <p class="lead">
+        Find the vacation house you’re looking for, from a private room to a luxurious villa for a perfect holiday!
+      </p>
+      <button routerLink="/hotels" class="btn section-button">More Details</button>
     </div>
-<
+    <div class="col-md-5">
+      <img src="../../../assets/images/hotel.jpeg" style="margin: 10%;height: 13em;width: 20em" alt="Travel" class="responsive-image">
+    </div>
+  </div>
+
+  <hr class="featurette-divider">
+
+  <!-- RESTAURANT SECTION -->
+  <div class="row featurette">
+      <div class="col-md-4">
+          <img src="../../../assets/images/rest.jpeg" style="margin: 10%;height: 13em;width: 20em" alt="Hosting" class="responsive-image">
+        </div>
+    <div class="col-md-7" style="padding: 2%">
+      <h2 class="featurette-heading">
+        Restaurants
+      </h2>
+      <p class="lead">
+        Find the best places for eating, everything from street food to fine dining!
+      </p>
+      <button routerLink="/restaurants" class="btn section-button">More Details</button>
+    </div>
+  </div>
+
+  <hr class="featurette-divider">
+
+  <!-- TRIP SECTION -->
+  <div class="row featurette">
+    <div class="col-md-7">
+      <h2 class="featurette-heading">
+        Trips 
+     </h2>
+      <p class="lead">
+        Discover many trips and things to do, you can plan your own trip program!
+      </p>
+      <button routerLink="/trips" class="btn section-button">More Details</button>
+    </div>
+    <div class="col-md-5">
+      <img style="margin: 10%;height: 13em;width: 20em" src="../../../assets/images/trip.jpeg" alt="How it works" class="responsive-image">
+    </div>
+  </div>
+
+  <hr class="featurette-divider">
+</div>
 
 <app-footer></app-footer>

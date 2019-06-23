@@ -2,6 +2,13 @@
 	margin-top: 85px;
 }
 
+form{
+	width: 50%;
+	margin-left: 25%;
+	border-style: solid;
+	border-color: rgb(209, 205, 205);
+	padding: 5%;
+}
 .image-preview {
 	height: 5rem;
 	margin: 1rem 0 ;	
@@ -19,18 +26,10 @@
 	background-color: rgba(223, 236, 193, 0.733);
 	color: rgb(17, 16, 16);
 	border-color: #b21908;
-	box-shadow: 0 0 0 0.2rem #b21908;
+	box-shadow: 0 0 0 0.1rem #b21908;
   }
   
-  .button {
-	background-color: #b21908;
-	color: white;
-  }
-  
-  .btn:hover {
-	box-shadow: 0 0 0 0.1rem darkgrey;
-  }
-  
+ 
   .btn {
 	font-size: 18px;
 	border-radius: 30px;
@@ -297,4 +296,12 @@
 	color: #dd4b39;
 	background-color: #fff
   }
-  
+	
+	.btn-primary{
+    width: 53%;
+    margin-left: 3%;
+		margin-bottom: 7%;
+		margin-top: 7%;
+    border-radius:50px;
+
+}

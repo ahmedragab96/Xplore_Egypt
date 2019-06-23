@@ -1,7 +1,7 @@
 #body{
     padding-top:4.2rem;
     padding-bottom:4.2rem;
-    background:rgba(0, 0, 0, 0.76);
+    background:rgba(250, 249, 249, 0.76);
     height: 100%;
     }
     a{
@@ -10,7 +10,17 @@
      h1,h2,h3{
      font-family: 'Kaushan Script', cursive;
      }
+
+     .form-control:focus {
+        background-color: rgba(223, 236, 193, 0.733);
+        color: rgb(17, 16, 16);
+        border-color: #b21908;
+        box-shadow: 0 0 0 0.1rem #b21908;
+      }
+      
+
       .myform{
+        margin-top: 10%;
     position: relative;
     display: -ms-flexbox;
     display: flex;
@@ -21,11 +31,12 @@
     pointer-events: auto;
     background-color: #fff;
     background-clip: padding-box;
-    border: 1px solid rgba(0,0,0,.2);
-    border-radius: 1.1rem;
+    border-style: solid;
+    border-color: rgb(197, 195, 195) ;
     outline: 0;
     max-width: 500px;
      }
+
      .tx-tfm{
      text-transform:uppercase;
      }

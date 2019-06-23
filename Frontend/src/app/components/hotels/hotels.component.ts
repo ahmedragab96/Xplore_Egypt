@@ -46,5 +46,6 @@ export class HotelsComponent implements OnInit {
     this.getHotelsFromService();
     this.getRecommended();
   }
+ 
 
 }

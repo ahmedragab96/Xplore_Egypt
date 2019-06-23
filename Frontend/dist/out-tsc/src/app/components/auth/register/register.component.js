@@ -1,6 +1,7 @@
 import * as tslib_1 from "tslib";
 import { Component } from '@angular/core';
 import { AuthServices } from '../auth.services';
+import { NotifierService } from 'angular-notifier';
 import { AuthService, FacebookLoginProvider, GoogleLoginProvider } from 'angularx-social-login';
 var RegisterComponent = /** @class */ (function () {
     // imagepreview: string | ArrayBuffer;
@@ -15,14 +16,18 @@ var RegisterComponent = /** @class */ (function () {
     //   };
     //   reader.readAsDataURL(image_file);
     // }
-    function RegisterComponent(authService, socialAuthService) {
+    function RegisterComponent(notifier, authService, socialAuthService) {
+        this.notifier = notifier;
         this.authService = authService;
         this.socialAuthService = socialAuthService;
         this.isLoading = false;
     }
     RegisterComponent.prototype.onregister = function (form) {
+        var _this = this;
         console.log(form.value);
-        this.authService.register(form.value.fname, form.value.lname, form.value.email, form.value.password, form.value.DOB, form.value.gender, form.value.nationality);
+        this.authService.register(form.value.fname, form.value.lname, form.value.email, form.value.password, form.value.DOB, form.value.gender, form.value.nationality).subscribe(function (response) {
+            _this.notifier.notify('success', 'User registered successfully, please login to continue');
+        });
     };
     RegisterComponent.prototype.socialSignIn = function (socialPlatform) {
         var socialPlatformProvider;
@@ -42,7 +47,7 @@ var RegisterComponent = /** @class */ (function () {
             templateUrl: './register.component.html',
             styleUrls: ['./register.component.css']
         }),
-        tslib_1.__metadata("design:paramtypes", [AuthServices, AuthService])
+        tslib_1.__metadata("design:paramtypes", [NotifierService, AuthServices, AuthService])
     ], RegisterComponent);
     return RegisterComponent;
 }());
