@@ -1,2 +1,5 @@
-<button value="Submit" class = "btn btn-outline-dark btn-lg" (click)="book()" > Book </button>
-<div class="gcse-searchresults-only"></div>
+<!-- <button value="Submit" class = "btn btn-outline-dark btn-lg" (click)="book()" > Book </button>
+<div class="gcse-searchresults-only"></div> -->
+
+
+<button *ngIf="link" value="Submit" class = "btn btn-outline-dark btn-lg"><a href="{{link}}"  target="_blank">Book</a></button>

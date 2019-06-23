@@ -39,7 +39,7 @@ import {PostsService} from './services/posts/posts.service';
 import {UserService} from './services/users/users.service';
 import {RecommendaionService} from './services/recommendation/recommendaion.service';
 import {ReviewsService} from './services/reviews/reviews.service';
-
+import {BookingService} from'./services/booking/booking.service';
 
 import { HomeComponent } from './components/home/home.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
@@ -178,7 +178,7 @@ const notifierConfig: NotifierOptions = {
     ],
 
   providers: [TripPlannerService, RestaurantsService, HotelsService, PostsService, UserService,
-    FilterPipe, RecommendaionService, ReviewsService,
+    FilterPipe, RecommendaionService, ReviewsService,BookingService,
     { provide: HTTP_INTERCEPTORS, useClass: AuthInterceptor, multi: true },
     {
       provide: AuthServiceConfig,
