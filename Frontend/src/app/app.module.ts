@@ -51,8 +51,8 @@ import { TripsComponent } from './components/trips/trips.component';
 import { FooterComponent } from './components/footer/footer.component';
 import {NgxPaginationModule} from 'ngx-pagination';
 import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
-import {BrowserAnimationsModule } from '@angular/platform-browser/animations';    
-import { NotifierModule , NotifierOptions} from 'angular-notifier'; 
+import {BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { NotifierModule , NotifierOptions} from 'angular-notifier';
 
 // pipes
 import { FilterPipe } from './pipes/custom-pipes.pipe';
@@ -82,6 +82,8 @@ import { AddhotelComponent } from './components/AdminSection/DataBase/hotels/add
 import { ChartsComponent } from './components/AdminSection/charts/charts.component';
 import { AddtripComponent } from './components/AdminSection/DataBase/trips/addtrip/addtrip.component';
 import { AboutUsComponent } from './components/about-us/about-us.component';
+import { RestaurantsCRUDComponent } from './components/AdminSection/DataBase/restaurants/restaurants.component';
+import { AddrestaurantComponent } from './components/AdminSection/DataBase/restaurants/addrestaurant/addrestaurant.component';
 import { ProfileComponent } from './components/profile/profile.component';
 import { EditProfileComponent } from './components/edit-profile/edit-profile.component';
 import { BookingComponent } from './components/booking/booking.component';
@@ -115,7 +117,7 @@ const notifierConfig: NotifierOptions = {
       position: 'top'
     }
   }
-}
+};
 
 @NgModule({
   declarations: [
@@ -145,6 +147,8 @@ const notifierConfig: NotifierOptions = {
     ChartsComponent,
     AddtripComponent,
     AboutUsComponent,
+    RestaurantsCRUDComponent,
+    AddrestaurantComponent,
     ProfileComponent,
     EditProfileComponent,
     BookingComponent,

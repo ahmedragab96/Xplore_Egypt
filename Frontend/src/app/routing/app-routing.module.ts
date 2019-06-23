@@ -17,12 +17,15 @@ import { UsersComponent } from '../components/AdminSection/DataBase/users/users.
 import { HotelsCRUDComponent } from '../components/AdminSection/DataBase/hotels/hotels.component';
 import { ContactUsComponent } from '../components/contact-us/contact-us.component';
 import { TripsCRUDComponent } from '../components/AdminSection/DataBase/trips/trips.component';
+import { RestaurantsCRUDComponent } from '../components/AdminSection/DataBase/restaurants/restaurants.component';
 import { ChartsComponent } from '../components/AdminSection/charts/charts.component';
 import { AddhotelComponent } from '../components/AdminSection/DataBase/hotels/addhotel/addhotel.component';
 import { AddtripComponent } from '../components/AdminSection/DataBase/trips/addtrip/addtrip.component';
 import { AboutUsComponent } from '../components/about-us/about-us.component';
 import { ProfileComponent } from '../components/profile/profile.component';
 import { EditProfileComponent } from '../components/edit-profile/edit-profile.component';
+import { AddrestaurantComponent } from '../components/AdminSection/DataBase/restaurants/addrestaurant/addrestaurant.component';
+
 const routes: Routes = [
   { path: 'login', component: LoginComponent},
   { path: 'register', component: RegisterComponent},
@@ -59,7 +62,15 @@ const routes: Routes = [
       {
         path: 'database/trips/addTrip',
         component: AddtripComponent,
-      }
+      },
+      {
+        path: 'database/restaurants',
+        component: RestaurantsCRUDComponent,
+      },
+      {
+        path: 'database/restaurants/addRestaurant',
+        component: AddrestaurantComponent,
+      },
     ]
   },
   { path: 'posts', component: PostsComponent },
