@@ -29,7 +29,7 @@
                               <p class="text-center">By signing up you accept our <a href="#">Terms Of Use</a></p>
                            </div>
                            <div class="col-md-12 text-center ">
-                              <button style="width: 55%;margin-left: 20%; margin-bottom: 5%" type="submit" class=" btn btn-block mybtn btn-primary tx-tfm">Login</button>
+                              <button style="width: 55%;margin-left: 20%; margin-bottom: 5%" type="submit" class=" btn btn-block mybtn btn-primary tx-tfm" [disabled]="!loginForm.valid">Login</button>
                            </div>
 
                            <div class="col-md-12 ">
