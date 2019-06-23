@@ -82,8 +82,8 @@ import { AddhotelComponent } from './components/AdminSection/DataBase/hotels/add
 import { ChartsComponent } from './components/AdminSection/charts/charts.component';
 import { AddtripComponent } from './components/AdminSection/DataBase/trips/addtrip/addtrip.component';
 import { AboutUsComponent } from './components/about-us/about-us.component';
-import { RestauantsComponent } from './components/AdminSection/DataBase/restauants/restauants.component';
-import { AddrestaurantComponent } from './components/AdminSection/DataBase/restauants/addrestaurant/addrestaurant.component';
+import { RestaurantsCRUDComponent } from './components/AdminSection/DataBase/restaurants/restaurants.component';
+import { AddrestaurantComponent } from './components/AdminSection/DataBase/restaurants/addrestaurant/addrestaurant.component';
 import { ProfileComponent } from './components/profile/profile.component';
 import { EditProfileComponent } from './components/edit-profile/edit-profile.component';
 import { BookingComponent } from './components/booking/booking.component';
@@ -147,7 +147,7 @@ const notifierConfig: NotifierOptions = {
     ChartsComponent,
     AddtripComponent,
     AboutUsComponent,
-    RestauantsComponent,
+    RestaurantsCRUDComponent,
     AddrestaurantComponent,
     ProfileComponent,
     EditProfileComponent,
