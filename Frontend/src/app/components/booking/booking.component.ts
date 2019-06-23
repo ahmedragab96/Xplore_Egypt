@@ -3,8 +3,7 @@ import {ActivatedRoute} from '@angular/router';
 import {BookingService} from'../../services/booking/booking.service';
 @Component({
   selector: 'app-booking',
-  templateUrl: './booking.component.html',
-  styleUrls: ['./booking.component.css']
+  templateUrl: './booking.component.html'
 })
 export class BookingComponent implements OnInit {
 
@@ -14,8 +13,9 @@ export class BookingComponent implements OnInit {
   ngOnInit() {
   this.title=this.route.snapshot.queryParamMap.get('q');
   this.BookService.GetBookings(this.title).subscribe((res) => {
-    this.link = res["items"][0]['formattedUrl'];
-    console.log(res);
+    this.link = res["link"];
+    console.log(this.link );
+    
      //window.location.href =res["items"][0]['formattedUrl'];
    
   });
