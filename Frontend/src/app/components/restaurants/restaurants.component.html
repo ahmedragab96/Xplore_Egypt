@@ -67,10 +67,24 @@
 <h2>All Restaurants</h2>
 <div class="container">
     <input class="search col-3" name="search" [(ngModel)]="search" placeholder="Search"> 
+    <span class="col-3" style="display:in-line;">&nbsp;&nbsp;</span>       
+    <select id="region" [(ngModel)]="region" class="custom-select col-3">
+        <option value="Cairo">Cairo</option>
+        <option value="Hurghada">Hurghada</option>
+        <option value="Marsa Alam">Marsa Alam</option>
+        <option value="Luxor">Luxor</option>
+        <option value="Alexandria">Alexandria</option>
+        <option value="Dahab">Dahab</option>
+        <option value="Marsa Matruh">Marsa Matruh</option>
+        <option value="Giza">Giza</option>
+
+        <option value="" >All</option>
+    </select>
+    <span class="col-3" style="display:in-line;">Filter By Region</span>
 </div>
 
 <div *ngIf="restaurants" class="row">
-    <div class="col-lg-3 col-md-4 col-12" *ngFor="let restaurant of restaurants | Rfilter: 'title' | filter : search : ['title'] | paginate: { itemsPerPage: 12, currentPage: p }">
+    <div class="col-lg-3 col-md-4 col-12" *ngFor="let restaurant of restaurants | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region'] | paginate: { itemsPerPage: 12, currentPage: p }">
         <div class="col d-flex align-items-stretch">
             <div class="card">
                 <div class="card-body">
