@@ -26,8 +26,12 @@
             </div>
           <div [id]="'collapseOne'+i" class="panel-collapse collapse in">
               <div class="card-block">{{post['body']}}</div>
-              <i id="like" style="color: green" class="fa fa-thumbs-o-up" aria-hidden="true"></i> &nbsp;&nbsp; <i id="dislike" style="color: red" class="fa fa-thumbs-o-down" aria-hidden="true"></i>
-              <a>&nbsp;&nbsp;see details...</a>
+              <button (click)="onreactUp(post['postID'],post['upVoting'])" >Like</button>
+              <p>{{post['upVoting']}}</p>
+              <button (click)="onreactDown(post['postID'],post['downVoting'])" >Dislike</button>
+              <p>{{post['downVoting']}}</p>
+
+<!--              <a (click)="onreactUp"> <i id="like" style="color: green" class="fa fa-thumbs-o-up" aria-hidden="true" ></i></a> &nbsp;&nbsp;<a (click)="onreactDown"> <i id="dislike" style="color: red" class="fa fa-thumbs-o-down" aria-hidden="true" ></i></a> -->
           </div>
       </div> 
   </div>
