@@ -11,6 +11,8 @@ export class ProfileComponent implements OnInit {
 
   userDetails:any;
   id:any;
+  posts:any;
+  reviews:any;
   constructor(private service:UserService , private router:ActivatedRoute) { }
 
 
@@ -21,10 +23,26 @@ export class ProfileComponent implements OnInit {
     });
   }
 
+  getPosts(){
+    this.service.GetUserPosts().subscribe((res) => {
+      this.posts = res;
+      console.log("posts",this.posts);
+    });
+  }
+
+  getReviews(){
+    this.service.GetUserReviews().subscribe((res) => {
+      this.reviews = res;
+      console.log("reviews",this.reviews);
+    });
+  }
+
   ngOnInit() {
     this.id =parseInt(this.router.snapshot.paramMap.get('id'))
     this.getUser();
-    console.log(this.userDetails)
+    this.getPosts();
+    this.getReviews();
+    // console.log(this.userDetails)
   }
 
 }

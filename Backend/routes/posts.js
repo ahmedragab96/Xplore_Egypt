@@ -15,6 +15,19 @@ posts.get('/getall', (req, res, next) => {
     });
 });
 
+
+//get user info for posts joining
+posts.get('/getusersforposts', (req, res, next) => {
+
+    let query = "SELECT * FROM posts,users WHERE posts.userID = users.ID";
+
+
+    db.query(query, function (error, results, fields) {
+        if (error) throw error;
+        res.json(results);
+    });
+});
+
 // post a post in posts table
 posts.post('/postapost', function (req, res, next) {
     const title = req.body.title;
@@ -107,8 +120,9 @@ posts.put('/updatepost', function (req, res, next) {
 
 // get all posts from posts table for specific user
 posts.get('/getuserposts', (req, res, next) => {
-
-    const userID = req.body.userID;
+    console.log(req)
+    const userID = req.query.id;
+    console.log(userID)
     let query = "SELECT * FROM posts WHERE userID = ?";
 
     db.query(query, [userID], function (error, results, fields) {
