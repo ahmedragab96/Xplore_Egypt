@@ -68,35 +68,58 @@
                                     <p>{{userDetails['results'][0]['gender']}}</p>
                                 </div>
                             </div>
-                </div>
-                <div class="tab-pane fade" id="posts" role="tabpanel" aria-labelledby="profile-tab">
                             <div class="row">
-                                <div *ngIf="posts">
-                                    <div *ngFor="let post of posts">
-                                        <label>{{post['title']}}</label>
-                                        <p>{{post['body']}}</p>
-                                        <p>{{post['downVoting']}}</p>
-                                        <p>{{post['upVoting']}}</p>
-
+                                    <div class="col-md-6">
+                                        <label>Date of Birth</label>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <p>{{userDetails['results'][0]['DoB']}}</p>
                                     </div>
                                 </div>
+                </div>
+                <div class="tab-pane fade" id="posts" role="tabpanel" aria-labelledby="profile-tab">
+                    <div class="row">
+                        <div *ngIf="posts">
+                            <div *ngFor="let post of posts">
+                                <div class="row">
+                                    <div *ngFor="let post of posts" class="post">
+                                    <h4><strong><a>{{post['title']}}</a></strong></h4>
+                                    <p style="color: black">{{post['body']}}</p>
+                                    <div class="row">
+                                        <div class="span8">
+                                            <p>
+                                            &nbsp;<i class="icon-calendar"></i> {{post['date']}} &nbsp;
+                                            | &nbsp; <span class="badge badge-success" (click)="onreactUp(post['postID'],post['upVoting'])"><i class="fa fa-thumbs-o-up"></i>&nbsp; Like</span>&nbsp; {{post['upVoting']}} &nbsp;
+                                            | &nbsp; <span style="background: red" class="badge badge-danger"  (click)="onreactDown(post['postID'],post['downVoting'])"><i class="fa fa-thumbs-o-down"></i>&nbsp; Dislike</span>&nbsp; {{post['downVoting']}}
+                                            </p>
+                                        </div>
+                                    </div>
+                                    </div>   
+                                    <hr>
+                                </div>
+                                <hr>
                             </div>
-                            
-  
+                        </div>
+                    </div>
               </div>
               <div class="tab-pane fade" id="reviews" role="tabpanel" aria-labelledby="profile-tab">
                 <div class="row">
                     <div *ngIf="reviews">
-                        <div *ngFor="let review of reviews">
-                            <label>{{review['title']}}</label>
-                            <p>{{review['rate']}}</p>
-                            <p>{{review['review']}}</p>
-                            <p>{{review['type']}}</p>
-
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-4" *ngFor="let review of reviews">
+                                    <div class="reviewsPreview">
+                                        <h5><i class="fa fa-commenting-o" aria-hidden="true"></i>&nbsp;&nbsp;<strong>{{review.title}}</strong>, &nbsp;&nbsp;<span style="color: #918d8d">{{review.date}}</span></h5>
+                                        <hr>
+                                        <p>{{review.review}}</p>
+                                        <img style="width: 100px;" src="{{review.photo}}">
+                                        <p><span style="color: #555252">Company Type:</span>{{review.type}}</p>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
-                
 
   </div>
           </div>

@@ -7,6 +7,7 @@
   <br />
 
   <form (submit)="onPost(PostForm)" #PostForm="ngForm">
+      <h3>Write your own post!</h3>
       <div class="form-group">
         <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Title" name="title" ngModel #titleInput="ngModel">
       </div>
@@ -16,43 +17,19 @@
       <button type="submit" class="btn btn-primary">Post</button>
   </form>
 
-  <div class="" id="accordion">
-      <div class="faqHeader">General questions</div>
-      <div class="card " *ngFor="let post of posts; let i = index">
-          <div class="card-header">
-              <h4 class="card-header">
-                  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" [href]="'#collapseOne' + i">{{post['title']}}</a>
-              </h4>
-            </div>
-          <div [id]="'collapseOne'+i" class="panel-collapse collapse in">
-              <div class="card-block">{{post['body']}}</div>
-              <button (click)="onreactUp(post['postID'],post['upVoting'])" >Like</button>
-              <p>{{post['upVoting']}}</p>
-              <button (click)="onreactDown(post['postID'],post['downVoting'])" >Dislike</button>
-              <p>{{post['downVoting']}}</p>
-
-<!--              <a (click)="onreactUp"> <i id="like" style="color: green" class="fa fa-thumbs-o-up" aria-hidden="true" ></i></a> &nbsp;&nbsp;<a (click)="onreactDown"> <i id="dislike" style="color: red" class="fa fa-thumbs-o-down" aria-hidden="true" ></i></a> -->
-          </div>
-      </div> 
-  </div>
-
-
-<link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" rel="stylesheet" id="bootstrap-css">
-<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
-<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
-
+  <h3 style="margin-top: 5%;">Other Posts</h3>  
 <div class="row">
       <div class="span8">
-        <div *ngFor="let post of posts">
+        <div *ngFor="let post of posts" class="post">
                     <h4><strong><a>{{post['title']}}</a></strong></h4>
                     <p>{{post['body']}}</p>
                     <div class="row">
                             <div class="span8">
                                 <p>
-                                <i class="icon-user"></i> by <a>{{post['first_name']}}&nbsp;{{post['last_name']}}</a> 
-                                | <i class="icon-calendar"></i> Sept 16th, 2012
-                                | <i class="fa fa-thumbs-o-up"></i> Like
-                                | <i class="fa fa-thumbs-o-down"></i> Dislike
+                                <i class="icon-user"></i> by <a>{{post['first_name']}}&nbsp;{{post['last_name']}}</a>&nbsp;
+                                | &nbsp;<i class="icon-calendar"></i> {{post['date']}} &nbsp;
+                                | &nbsp; <span class="badge badge-success" (click)="onreactUp(post['postID'],post['upVoting'])"><i class="fa fa-thumbs-o-up"></i>&nbsp; Like</span>&nbsp; {{post['upVoting']}} &nbsp;
+                                | &nbsp; <span style="background: red" class="badge badge-danger"  (click)="onreactDown(post['postID'],post['downVoting'])"><i class="fa fa-thumbs-o-down"></i>&nbsp; Dislike</span>&nbsp; {{post['downVoting']}}
                                 </p>
                             </div>
                         </div>

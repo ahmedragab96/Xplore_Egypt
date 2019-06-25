@@ -20,6 +20,9 @@ export class ReviewComponent implements OnInit {
     this.reviewsService.getReviewforPlace(this.placeid).subscribe((res) => {
       this.reviews = res;
       console.log(res);
+      for(var i=0;i<this.reviews.length;i++){
+        this.reviews[i]['date']=this.reviews[i]['date'].substr(0,10);
+      }
     });
   }
 
