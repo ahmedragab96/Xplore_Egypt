@@ -1,18 +1,20 @@
 import { Component, OnInit } from '@angular/core';
 import {RestaurantsService} from '../../services/restaurants/restaurants.service';
 import {RecommendaionService} from './../../services/recommendation/recommendaion.service'
-
-
+import {AuthServices} from './../../components/auth/auth.services'
 @Component({
   selector: 'app-restaurants',
   templateUrl: './restaurants.component.html',
   styleUrls: ['./restaurants.component.css']
 })
+
 export class RestaurantsComponent implements OnInit {
   recommendedPlaces:any;
   recommendedRestaurants:any=[];
+  loggedin:boolean=false;
   constructor(private service:RestaurantsService,
-              private recservice:RecommendaionService) { }
+              private recservice:RecommendaionService,
+              private authservice:AuthServices) { }
 
   restaurants: any;
   default = "../../../assets/images/noimage.png"
@@ -38,6 +40,10 @@ export class RestaurantsComponent implements OnInit {
   }
 
   ngOnInit() {
+    if (this.authservice.getisAuth()){
+      this.loggedin=true;
+    }
+
     this.getRestaurantsFromService();
     this.getRecommended()
   }
