@@ -57,7 +57,7 @@
         <p><span class="inCard">Address:</span> {{item.address}} </p>
         <p><span class="inCard">Price Range:</span> {{item.priceRange}} </p>
         </div>
-        <button class="btn btn-primary cardBtn" [routerLink] = "['/hotels/',item.itemid]">Read More</button>
+        <button class="btn btn-primary cardBtn"  [routerLink] = "['/hotels/',item.itemid]" [queryParams]="{q:item.title}">Read More</button>
      </div>
   </ng-template>
 </div>

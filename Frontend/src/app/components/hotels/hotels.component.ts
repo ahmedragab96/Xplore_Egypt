@@ -34,7 +34,7 @@ export class HotelsComponent implements OnInit {
       this.recommendedPlaces = res;
       console.log(res);
      for (var i = 0; i <this.recommendedPlaces.length; i++) {
-      if(this.recommendedPlaces[i].type=="hotel")
+      if(this.recommendedPlaces[i].type=="Hotel")
         {console.log(i)
         this.recommendedHotels.push(this.recommendedPlaces[i])}
   }
