@@ -14,6 +14,11 @@ export class PostsService {
     return this.http.get('http://localhost:3000/posts/getall');
   }
 
+  GetAll() {
+    return this.http.get('http://localhost:3000/posts/getusersforposts')
+  };
+  
+
   decodeToken() {
 
     const token = localStorage.getItem('token');
@@ -53,8 +58,8 @@ console.log(body);
     },
       error => { console.log('Error', error);
       this.notifier.notify('error', error.statusText); });
-
-
   }
+
+  
 
 }

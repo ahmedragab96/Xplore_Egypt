@@ -22,7 +22,7 @@ export class PostsComponent implements OnInit {
   updatedPost={};
   
   getPostsFromService(){
-    this.service.GetAllPosts().subscribe((res) => {
+    this.service.GetAll().subscribe((res) => {
       this.posts = res;
       console.log(res);
     });
@@ -59,6 +59,7 @@ export class PostsComponent implements OnInit {
   ngOnInit() {
     console.log(this.jstoday)
     this.getPostsFromService();
+    // this.service.GetAll();
 
   }
 
