@@ -29,17 +29,13 @@
 }
 
 form{
-    position: relative;
-    display: -ms-flexbox;
-    display: flex;
-    padding: 1rem;
-    -ms-flex-direction: column;
-    flex-direction: column;
-    pointer-events: auto;
-    background-color: #fff;
-    background-clip: padding-box;
-    border-style: solid;
-    border-color: rgb(197, 195, 195) ;
-    outline: 0;
     max-width: 500px;
+}
+.post{
+    border-style: solid;
+    border-color: rgb(192, 189, 189);
+    margin: 2%;
+    padding: 3%;
+    width: 700px;
+    
 }
