@@ -28,6 +28,10 @@ export class UserService {
     return this.http.get('http://localhost:3000/users/getData?id=' + id);
   }
 
+  GetUserofPost(id) {
+    return this.http.get('http://localhost:3000/users/getData?id=' + id);
+  }
+
   updateUser(body){
     let id=this.decodeToken();
     return this.http.post('http://localhost:3000/users/edit/'+ id+"/",body).subscribe(data => {
@@ -48,6 +52,17 @@ export class UserService {
       this.notifier.notify('success', 'Your Profile Picture is successfully updated !');
     },
       error => { console.log('Error', error); });
+  }
+
+  GetUserPosts(){
+    let id=this.decodeToken();
+    return this.http.get('http://localhost:3000/posts/getuserposts?id=' + id);
+  }
+
+
+  GetUserReviews(){
+    let id=this.decodeToken();
+    return this.http.get('http://localhost:3000/reviews/getUserReviews/' + id);
   }
   
   }

@@ -18,9 +18,11 @@ export class PostsComponent implements OnInit {
   posts: any;
   newPost={
   };
+
+  updatedPost={};
   
   getPostsFromService(){
-    this.service.GetAllPosts().subscribe((res) => {
+    this.service.GetAll().subscribe((res) => {
       this.posts = res;
       console.log(res);
     });
@@ -41,10 +43,23 @@ export class PostsComponent implements OnInit {
     this.service.savePost(this.newPost);
   }
 
+  onreactUp(id,upvoting){
+    this.updatedPost['postID']=id
+    this.updatedPost['upVoting']=upvoting+1;
+    this.service.updatePost(this.updatedPost);
+  }
+
+  onreactDown(id,downvoting){
+    this.updatedPost['postID']=id
+    this.updatedPost['downVoting']=downvoting+1;
+    this.service.updatePost(this.updatedPost);
+  }
+
 
   ngOnInit() {
     console.log(this.jstoday)
     this.getPostsFromService();
+    // this.service.GetAll();
 
   }
 
