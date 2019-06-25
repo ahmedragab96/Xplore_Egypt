@@ -2,8 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import {HotelsService} from '../../services/hotels/hotels.service';
 import { Router } from '@angular/router'; 
 import {RecommendaionService} from './../../services/recommendation/recommendaion.service'
-
-
+import {AuthServices} from './../../components/auth/auth.services'
 @Component({
   selector: 'app-hotels',
   templateUrl: './hotels.component.html',
@@ -12,8 +11,10 @@ import {RecommendaionService} from './../../services/recommendation/recommendaio
 export class HotelsComponent implements OnInit {
   recommendedPlaces:any;
   recommendedHotels:any=[];
+  loggedin:boolean=false;
   constructor(private service:HotelsService, private router: Router,
-              private recservice:RecommendaionService) { }
+              private recservice:RecommendaionService,
+              private authservice:AuthServices) { }
 
   hotels: any;
   default = "../../../assets/images/noimage.png"
@@ -43,6 +44,9 @@ export class HotelsComponent implements OnInit {
   }
 
   ngOnInit() {
+        if (this.authservice.getisAuth()){
+      this.loggedin=true;
+    }
     this.getHotelsFromService();
     this.getRecommended();
   }

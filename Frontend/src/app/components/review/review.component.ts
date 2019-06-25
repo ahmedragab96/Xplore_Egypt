@@ -22,9 +22,14 @@ export class ReviewComponent implements OnInit {
       console.log(res);
     });
   }
+
+  // addimage(event: any ,id) {
+  //   const file: File = event.target.files[0];
+  //   console.log(file);
+  //   this.reviewsService.addReviewImage(file,id);
+  // }
     ngOnInit() {
       this.getReviews();
   }
-
-
   }
+

@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import {TripPlannerService} from '../../services/trip-planner/trip-planner.service';
 import { Router } from '@angular/router'; 
 import {RecommendaionService} from './../../services/recommendation/recommendaion.service'
+import {AuthServices} from './../../components/auth/auth.services'
 
 
 @Component({
@@ -12,9 +13,10 @@ import {RecommendaionService} from './../../services/recommendation/recommendaio
 export class TripsComponent implements OnInit {
   recommendedPlaces:any;
   recommendedTrips:any=[];
-  
+  loggedin:boolean=false;  
   constructor(private service:TripPlannerService, private router: Router,
-              private recservice:RecommendaionService) { }
+              private recservice:RecommendaionService,
+              private authservice:AuthServices) { }
 
   itemsPerPage:any;
   p: number = 1;
@@ -49,6 +51,9 @@ export class TripsComponent implements OnInit {
 
 
   ngOnInit() {
+    if (this.authservice.getisAuth()){
+      this.loggedin=true;
+    }    
     this.getTripsFromService();
     this.getRecommended()
   }
