@@ -22,9 +22,7 @@
     </div>
   </div>
 </div>
-
-
-  <hr class="style-one">
+<hr>
 
 <div *ngIf="loggedin">
 <h2>Recommended For You</h2>
@@ -61,11 +59,13 @@
           </div>
         </ng-template>
     </div>
-<hr class="style-one">
+<hr>
 </div>
 <!-- All Trips -->
-<h2>All Trips</h2>
-<div class="container">
+<h2>Available Trips</h2>
+<hr class="line">
+<br>
+<div style="margin-left: 20%;">
     <input class="search col-3" name="search" [(ngModel)]="search" placeholder="Search"> 
     <span class="col-3" style="display:in-line;">&nbsp;&nbsp;</span>       
         <select id="region" [(ngModel)]="region" class="custom-select col-3">
@@ -80,7 +80,8 @@
             <option value="Dahab">Dahab</option>
             <option value="" >All</option>
         </select>
-        <span class="col-3" style="display:in-line;">Filter By Region</span>
+        <span class="col-3" style="display:in-line;color: dimgrey;">Filter By Region</span>
+        <br><br>
 </div>
 
 <div *ngIf="trips" class="row">
@@ -94,12 +95,13 @@
                 <div class="frameTitle">
                   <h5 class="card-title">{{trip['title']}}</h5>
                 </div>
-                <div class="card-text">
-                    <p><span class="inCard">Price:</span>{{trip['price']}}</p>
-                    <p><span class="inCard">Duration:</span>{{trip['duration']}}</p>
+                <div class="card-text components">
+                    <p><b>{{trip['region']}}</b>, &nbsp;{{trip['rating']}}</p>
+                    <p><span class="inCard">Price : </span>{{trip['price']}}</p>
                 </div>
-                <button [routerLink] = "['/trips/',trip.itemid]" class="btn btn-primary cardBtn" [queryParams]="{q:trip['title']}">Read More</button>
-              </div>
+                <button [routerLink] = "['/trips/',trip.itemid]" [queryParams]="{q:trip['title']}" class="btn section-button">More Details</button>
+
+            </div>
           </div>
       </div>
     </div>
