@@ -23,7 +23,7 @@
   </div>
 </div>
 
-  <hr class="style-one">
+<hr>
 <div *ngIf="loggedin">
 <h2>Recommended For You</h2>
 <!-- slider -->
@@ -55,34 +55,35 @@
         </div>
         <div class="components">
         <p><span class="inCard">Address:</span> {{item.address}} </p>
-        <p><span class="inCard">Price Range:</span> {{item.priceRange}} </p>
         </div>
         <button class="btn btn-primary cardBtn"  [routerLink] = "['/hotels/',item.itemid]" [queryParams]="{q:item.title}">Read More</button>
      </div>
   </ng-template>
 </div>
-<hr class="style-one">
+<hr>
 </div>
 <!-- All Hotels-->
-<h2>All Hotels</h2>
-<div class="container">
+<h2>Available Hotels</h2>
+<hr class="line">
+<br>
+<div style="margin-left: 20%;">
     <input class="search col-3" name="search" [(ngModel)]="search" placeholder="Search"> 
     <span class="col-3" style="display:in-line;">&nbsp;&nbsp;</span>       
-        <select id="region" [(ngModel)]="region" class="custom-select col-3">
-            <option value="Cairo">Cairo</option>
-            <option value="Ras Mohammed">Ras Mohammed</option>
-            <option value="Hurghada">Hurghada</option>
-            <option value="Marsa Alam">Marsa Alam</option>
-            <option value="Luxor">Luxor</option>
-            <option value="Aswan">Aswan</option>
-            <option value="Sharm">Sharm El Sheikh</option>
-            <option value="Alexandria">Alexandria</option>
-            <option value="Dahab">Dahab</option>
-            <option value="Giza">Giza</option>
-
-            <option value="" >All</option>
-        </select>
-        <span class="col-3" style="display:in-line;">Filter By Region</span>
+    <select id="region" [(ngModel)]="region" class="custom-select col-3">
+        <option value="Cairo">Cairo</option>
+        <option value="Ras Mohammed">Ras Mohammed</option>
+        <option value="Hurghada">Hurghada</option>
+        <option value="Marsa Alam">Marsa Alam</option>
+        <option value="Luxor">Luxor</option>
+        <option value="Aswan">Aswan</option>
+        <option value="Sharm">Sharm El Sheikh</option>
+        <option value="Alexandria">Alexandria</option>
+        <option value="Dahab">Dahab</option>
+        <option value="Giza">Giza</option>
+        <option value="" >All</option>
+    </select>
+    <span class="col-3" style="display:in-line; color: dimgrey;">Filter By Region</span>
+    <br><br>
 </div>
 
 <div *ngIf="hotels" class="row">
@@ -92,27 +93,23 @@
                 <div class="card-body">
                     <div class="frame">
                     <img class="img-fluid imgSize" style="height: 170px;" src="{{hotel['imageURL']?hotel['imageURL']:default}}" alt="NO IMAGE AVAILABLE">              
-                    
-                  </div>
+                    </div>
                     <div class="frameTitle">
-                    <h5 class="card-title">{{hotel['title']}}</h5>
+                    <h4 class="card-title">{{hotel['title']}}</h4>
                     </div>
                     <div class="card-text components">
-                      <p><span class="inCard">Address:</span> {{hotel['address']}} </p>
-                      <p><span class="inCard">Price Range:</span> {{hotel['priceRange']}} </p>
+                        <p><b>{{hotel['region']}}</b>, &nbsp;{{hotel['rating']}}</p>
+                        <p><span class="inCard">Price Range:</span> {{hotel['priceLow']}}&nbsp;<span>-</span>&nbsp;{{hotel['priceHigh']}}&nbsp;EGP </p>
                     </div>
-                    <button class="btn btn-primary cardBtn" [routerLink] = "['/hotels/',hotel.itemid]" [queryParams]="{q:hotel['title']}">Read More</button>
-                    
-                  </div>
+                    <button [routerLink] = "['/hotels/',hotel.itemid]" [queryParams]="{q:hotel['title']}" class="btn section-button">More Details</button>
+                </div>
             </div>
         </div>
     </div>
 </div>
-
-<div class="container" id="paging">
-    <div class="row">
-      <pagination-controls (pageChange)="p = $event"></pagination-controls>
-    </div>
+<div style="margin-top: 5%; margin-left: 30%;margin-bottom: 5%;">
+    <pagination-controls (pageChange)="p = $event"></pagination-controls>
 </div>
+
  
 <app-footer></app-footer>
