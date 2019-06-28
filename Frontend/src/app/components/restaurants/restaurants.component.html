@@ -101,10 +101,7 @@
                     <div class="card-text components">
                         <p><b>{{restaurant['region']}}</b>, &nbsp;{{restaurant['rating']}}</p>
                         <p><span class="inCard">Cuisine : </span>{{restaurant['cuisine']}}</p>
-                        <!-- <p><span class="inCard">Location:</span>{{restaurant['location']}}</p> -->
-                        <!-- <p><span class="inCard">Phone:</span> {{restaurant['phone']}} </p> -->
                     </div>
-                    <!-- <button class="btn btn-primary cardBtn" [routerLink] = "['/restaurants/',restaurant.itemid]" [queryParams]="{q:restaurant['title']}">Read More</button> -->
                     <button [routerLink] = "['/restaurants/',restaurant.itemid]" [queryParams]="{q:restaurant['title']}" class="btn section-button">More Details</button>
                 </div>
             </div>

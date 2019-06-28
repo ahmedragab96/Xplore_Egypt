@@ -2,22 +2,39 @@
 
 
 <div *ngIf="tripDetails" class="container">
-	<div class="row" style="margin-top: 10%;">
+	<div class="row">
+		<div class="col-lg-12">
+			<h1 style="text-align: center;margin-top: 10%;">{{tripDetails[0]['title']}}</h1>
+			<hr class="line">
+		</div>
 		<div class="col-lg-6">
-			<img style="width: 500px;" src="{{tripDetails[0]['imageURL']}}">
+		</div>
+	</div>
+	<div class="row" style="margin-top: 2%;margin-bottom: 2%;">
+		<div class="col-lg-5">
+			<img style="width: 400px;height: 300px;" src="{{tripDetails[0]['imageURL']}}">
 			<div class="col text-center">
-				<app-booking></app-booking>
+				<!-- <app-booking></app-booking> -->
 			</div>
 			<br>
 		</div>
-		<div class="col-lg-6">
-			<h1 style="color: #413e3e">{{tripDetails[0]['title']}}</h1>
-			<p style="margin-top: 10%;"> <span>Duration</span> : {{tripDetails[0].duration}}</p>
-			<p> <span>Description</span> : {{tripDetails[0].description}}</p>
+		<div class="col-lg-7" style="margin-top: 5%">
+			<p><b>{{tripDetails[0]['region']}}</b>, &nbsp; {{tripDetails[0]['rating']}}</p>
+			<p> <span>Duration</span> : {{tripDetails[0]['duration']}}</p>
+			<p> <span>Price</span> : {{tripDetails[0]['price']}}</p>
+			<p> <span>Experiences</span> : {{tripDetails[0]['experiences']}}</p>
 		</div>
 	</div>
+	<div class="row">
+			<div class="col-lg-2">
+				<h2 style="text-align: center">Description</h2>
+				<hr style="text-align: center" class="line">
+			</div>
+			<div class="col-lg-10"></div>
+		</div>
+	<p>{{tripDetails[0]['description']}}</p>
+	<br><br>
 </div>
-
 
 <app-review></app-review>
 

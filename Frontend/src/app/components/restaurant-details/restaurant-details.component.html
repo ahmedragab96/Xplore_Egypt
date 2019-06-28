@@ -2,23 +2,31 @@
 
 
 <div *ngIf="restaurantDetails" class="container">
-	<div class="row" style="margin-top: 10%;">
+	<div class="row">
+		<div class="col-lg-8">
+			<h1 style="text-align: center;margin-top: 20%;">{{restaurantDetails[0]['title']}}</h1>
+			<hr class="line">
+		</div>
+		<div class="col-lg-4">
+		</div>
+	</div>
+	<div class="row" style="margin-top: 2%;margin-bottom: 2%;">
 		<div class="col-lg-6">
-			<img style="width: 500px;" src="{{restaurantDetails[0]['photo']}}">
+			<img style="width: 500px;height: 300px" src="{{restaurantDetails[0]['photo']}}">
 		</div>
 		<div class="col-lg-6">
-			<h1 style="color: #413e3e">{{restaurantDetails[0]['title']}}</h1>
-			<p style="margin-top: 10%;"> <span>Phone</span> : {{restaurantDetails[0]['phone']}}</p>
-			<p> <span>Location</span> : {{restaurantDetails[0]['location']}}</p>
+			<p style="margin-top: 10%;"><b>{{restaurantDetails[0]['region']}}</b>, &nbsp; {{restaurantDetails[0]['rating']}}</p>
+			<p> <span>Phone</span> : {{restaurantDetails[0]['phone']}}</p>
+			<p> <span>Address</span> : {{restaurantDetails[0]['location']}}</p>
 			<p> <span>Cuisine</span> : {{restaurantDetails[0]['cuisine']}}</p>
-			<p> <span>Rating</span> : {{restaurantDetails[0]['rating']}}</p>
 			<div class="col text-center">
-				<app-booking></app-booking>
+				<!-- <app-booking></app-booking> -->
 			</div>
 		</div>
 		
 	</div>
 </div>
+<br><br>
 <app-review></app-review>
 
 <app-footer></app-footer>
