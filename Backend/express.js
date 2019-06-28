@@ -12,6 +12,7 @@ var model=require('./routes/recommend');
 var postsRoutes = require('./routes/posts');
 var reviewsRoutes=require('./routes/reviews');
 var bookingRoute=require('./routes/book');
+var mailRoute=require('./routes/mail');
 
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json()); // parse form data client
@@ -37,6 +38,7 @@ app.use('/recommend',model);
 app.use('/posts', postsRoutes);
 app.use('/reviews',reviewsRoutes);
 app.use('/book',bookingRoute);
+app.use('/mail',mailRoute);
 
 app.use('/css', express.static(__dirname + '/node_modules/bootstrap/dist/css'));
 app.use('/js', express.static(__dirname + '/node_modules/bootstrap/dist/js'));

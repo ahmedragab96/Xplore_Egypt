@@ -40,11 +40,13 @@ import {UserService} from './services/users/users.service';
 import {RecommendaionService} from './services/recommendation/recommendaion.service';
 import {ReviewsService} from './services/reviews/reviews.service';
 import {BookingService} from'./services/booking/booking.service';
+import {MailService} from './services/mail/mail.service';
 
 import { HomeComponent } from './components/home/home.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { TripDetailsComponent } from './components/trip-details/trip-details.component';
 import { AuthInterceptor } from './components/auth/auth-interceptor';
+
 // new
 import { Ng2CarouselamosModule } from 'ng2-carouselamos';
 import { TripsComponent } from './components/trips/trips.component';
@@ -182,7 +184,7 @@ const notifierConfig: NotifierOptions = {
     ],
 
   providers: [TripPlannerService, RestaurantsService, HotelsService, PostsService, UserService,
-    FilterPipe, RecommendaionService, ReviewsService,BookingService,
+    FilterPipe, RecommendaionService, ReviewsService,BookingService,MailService,
     { provide: HTTP_INTERCEPTORS, useClass: AuthInterceptor, multi: true },
     {
       provide: AuthServiceConfig,

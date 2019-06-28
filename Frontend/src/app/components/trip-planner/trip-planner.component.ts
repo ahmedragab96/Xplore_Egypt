@@ -1,5 +1,7 @@
 import { Component, OnInit, ChangeDetectorRef } from '@angular/core';
 import { TripPlannerService } from '../../services/trip-planner/trip-planner.service';
+import {MailService} from'../../services/mail/mail.service';
+
 declare let $: any;
 
 @Component({
@@ -8,7 +10,7 @@ declare let $: any;
   styleUrls: ['./trip-planner.component.css']
 })
 export class TripPlannerComponent implements OnInit {
-  constructor(private cd: ChangeDetectorRef, private service: TripPlannerService) { }
+  constructor(private cd: ChangeDetectorRef, private service: TripPlannerService,private mailService:MailService) { }
   calendarTrips = [
 
   ];
@@ -27,12 +29,14 @@ export class TripPlannerComponent implements OnInit {
   // usertrips:string='{'title':'trip1', 'start':'2019-02-18'}';
   // jsontrips=JSON.parse(this.usertrips);
   save() {
-    console.log(this.calendarTrips);
+    // console.log(this.calendarTrips);
     // this.m=JSON.stringify(this.calendarTrips);
     // console.log(this.m)
     // let jsonObj = $.parseJSON('[' + this.m + ']');
     // console.log(jsonObj)
-    this.service.savePlannedTrips(this.calendarTrips);
+   this.service.savePlannedTrips(this.calendarTrips);
+   
+    this.mailService.sendMail(this.calendarTrips);
   }
 
   loadTrips() {
