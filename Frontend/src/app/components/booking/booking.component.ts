@@ -23,9 +23,7 @@ export class BookingComponent implements OnInit {
   }
   
     
-bookRoute(){
- 
-}
+
 
   // book(){
   //   var cx = '010207221007117448908:suxic_nlyoe';
