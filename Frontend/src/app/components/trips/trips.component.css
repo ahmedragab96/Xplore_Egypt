@@ -210,3 +210,9 @@ option:first {
     width: 60px;
     background-color: rgb(204, 197, 197);
 }
+::selection {
+    background: #9cceeb; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+    background: #97cbe9; /* Gecko Browsers */
+}

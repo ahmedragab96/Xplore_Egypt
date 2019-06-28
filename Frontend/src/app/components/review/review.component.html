@@ -1,8 +1,7 @@
-
-
   <!-- review form -->
   <form (submit)="review(ReviewForm)" #ReviewForm="ngForm">
-      <h2>Write Your Review</h2>
+      <h2 style="text-align: center">Write Your Review</h2>
+      <hr class="line">
     <div class="form-group">
       <label>rate</label>
       <ngb-rating name="rate" ngModel>
@@ -33,7 +32,7 @@
           <option>Work</option>
         </select>
       </div>
-    <button type="submit" class="btn btn-primary">Submit</button>
+    <button type="submit" style="border-radius: 50px;width: 55%;margin-left: 20%;" class="btn btn-primary">Submit</button>
   </form>
 
 <!-- <h3>Add pic to your review</h3> -->
@@ -42,28 +41,31 @@
 
 <!-- **************************************************** -->
 <div class="reviewsdiv">
-  <h2 style="margin-top: 5%;">Previous Reviews</h2>
-  <ngb-rating [(rate)]="currentRate">
-    <ng-template let-fill="fill" let-index="index">
-      <span class="star" [class.filled]="fill === 100" [class.bad]="index < 3">&#9733;</span>
-    </ng-template>
-  </ngb-rating>
-  <hr>
-  <pre>Rate: <b>{{currentRate}}</b></pre>
-  
+  <h2 style="margin-top: 5%;text-align: center">Previous Reviews</h2>
+  <hr class="line">
+  <div style="text-align: center">
+    <ngb-rating [(rate)]="currentRate">
+      <ng-template let-fill="fill" let-index="index">
+        <span class="star" [class.filled]="fill === 100" [class.bad]="index < 3">&#9733;</span>
+      </ng-template>
+    </ngb-rating>
+    <pre>Rate: <b>{{currentRate}}</b></pre>
+  </div>
 <div class="container">
   <div class="row">
-    <div class="col-lg-6" *ngFor="let review of reviews | paginate: { itemsPerPage: 4, currentPage: p }">
+    <div class="col-lg-4" *ngFor="let review of reviews | paginate: { itemsPerPage: 6, currentPage: p }">
       <div class="reviewsPreview">
-        <h5><i class="fa fa-commenting-o" aria-hidden="true"></i>&nbsp;&nbsp;<strong>{{review.title}}</strong>, &nbsp;&nbsp;<span style="color: #918d8d">{{review.date}}</span></h5>
+        <h5 style="color: #353536;"><i class="fa fa-commenting-o" aria-hidden="true"></i>&nbsp;&nbsp;<strong>{{review.title}}</strong>, &nbsp;&nbsp;<span style="color: #918d8d">{{review.date}}</span></h5>
         <ngb-rating [(rate)]="review.rate">
           <ng-template let-fill="fill" let-index="index">
             <span class="star" [class.filled]="fill === 100" [class.bad]="index < 3">&#9733;</span>
           </ng-template>
         </ngb-rating>
         <hr>
-        <p>{{review.review}}</p>
-        <img style="width: 300px;" src="{{review.photo}}">
+        <!-- <p style="width: 200px;">{{review.review}}</p> -->
+        <!-- <marquee behavior="scroll" >{{review.review}}</marquee> -->
+        <div style="overflow: auto;"><p>{{review.review}}</p></div>
+        <img style="width: 150px;height: 150px;" src="{{review.photo}}">
         <p><span style="color: #555252">Company Type:</span>{{review.type}}</p>
         <!-- <p>{{review.rate}}</p> -->
       </div>
@@ -71,10 +73,8 @@
   </div>
 </div>
 </div>
-<div class="container" id="paging">
-    <div class="row">
-      <pagination-controls (pageChange)="p = $event"></pagination-controls>
-    </div>
+<div id="paging">
+  <pagination-controls (pageChange)="p = $event"></pagination-controls>
 </div>
 
   <!-- end of rating stars -->

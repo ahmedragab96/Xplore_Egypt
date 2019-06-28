@@ -1,44 +1,44 @@
 <app-navbar></app-navbar>
 
 <div *ngIf="hotelDetails" class="container">
-	<div class="row" style="margin-top: 10%;">
-		<div class="col-lg-6">
-			<img style="width: 500px;" src="{{hotelDetails[0]['imageURL']}}">
+	<div class="row">
+		<div class="col-lg-5">
+			<h1 style="text-align: center;margin-top: 20%;">{{hotelDetails[0]['title']}}</h1>
+			<hr class="line">
 		</div>
 		<div class="col-lg-6">
-			<h1 style="color: #413e3e">{{hotelDetails[0]['title']}}</h1>
-			<!-- <h5><span>Name</span> : {{hotelDetails[0]['title']}}</h5> -->
-			<p> <span>Address</span> : {{hotelDetails[0]['address']}}</p>
-			<p> <span>Rating</span> : {{hotelDetails[0]['rating']}}</p>
-			<div class="row">
+		</div>
+	</div>
+	<div class="row" style="margin-top: 2%;margin-bottom: 2%;">
+		<div class="col-lg-6">
+			<img style="width: 500px;height: 400px;" src="{{hotelDetails[0]['imageURL']}}">
+		</div>
+		<div class="col-lg-6">		
+			<div class="row"  style="margin-top: 10%;">
 				<div class="col-lg-3">
-						<i style="font-size: 600%;color: #7e7a7a;" class="fa fa-bed" aria-hidden="true"></i>
+					<p><b>{{hotelDetails[0]['region']}}</b>, &nbsp; {{hotelDetails[0]['rating']}}</p>
 				</div>
 				<div class="col-lg-3">
-						<i style="font-size: 600%;color: #7e7a7a;" class="fa fa-wifi" aria-hidden="true"></i>
-				</div>
-				<div class="col-lg-3">
-						<i style="font-size: 600%;color: #7e7a7a;" class="fa fa-television" aria-hidden="true"></i>
-				</div>
-				<div class="col-lg-3">
-						<i style="font-size: 600%;color: #7e7a7a;" class="fa fa-cutlery" aria-hidden="true"></i>
+						<i class="fa fa-bed" aria-hidden="true"></i>
+						<i class="fa fa-wifi" aria-hidden="true"></i>
+						<i class="fa fa-television" aria-hidden="true"></i>
+						<i class="fa fa-cutlery" aria-hidden="true"></i>
 				</div>
 			</div>
-		</div>
-	</div>
-	<p> <span>Features</span> : {{hotelDetails[0]['features']}}</p>
-	<div class="row">
-		<div class="col-lg-9">
+			<p> <span>Address</span> : {{hotelDetails[0]['address']}}</p>
 			<p> <span>Price Range</span> : {{hotelDetails[0]['priceRange']}}</p>
-		</div>
-		<div class="col-lg-3">
-			<app-booking></app-booking>
+			<!-- <div style="text-align: center"><app-booking></app-booking></div> -->
 		</div>
 	</div>
-	
-	
-
-
+	<p>{{hotelDetails[0]['description']}}</p>
+	<div class="row">
+		<div class="col-lg-2">
+			<h2 style="text-align: center">Features</h2>
+			<hr style="text-align: center" class="line">
+		</div>
+		<div class="col-lg-10"></div>
+	</div>
+	<p>{{hotelDetails[0]['features']}}</p>
 </div>
 
 <app-review [placeid]="id" [currentRate]="hotelDetails[0]['rating']"></app-review>

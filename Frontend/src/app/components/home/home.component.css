@@ -113,3 +113,9 @@ p.ar {
     height: 250px;
     width: 400px;
 }
+::selection {
+    background: #9cceeb; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+    background: #97cbe9; /* Gecko Browsers */
+}
