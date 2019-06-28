@@ -6,7 +6,7 @@ form{
 	width: 50%;
 	margin-left: 25%;
 	border-style: solid;
-	border-color: rgb(209, 205, 205);
+	border-color: rgb(230, 226, 226);
 	padding: 5%;
 }
 .image-preview {
@@ -304,4 +304,34 @@ form{
 		margin-top: 7%;
     border-radius:50px;
 
+}
+h1{
+  color: rgb(77, 75, 75);
+}
+.line{
+  width: 60px;
+  background-color: rgb(204, 197, 197);
+}
+.span-or {
+  display: block;
+  position: absolute;
+  left: 50%;
+  top: -2px;
+  margin-left: -25px;
+  background-color: rgb(250, 246, 246);
+  width: 50px;
+  text-align: center;
+}
+.hr-or {
+  height: 1px;
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+}
+.login-or {
+  position: relative;
+  color: #aaa;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }

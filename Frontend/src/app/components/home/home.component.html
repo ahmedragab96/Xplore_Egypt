@@ -1,33 +1,22 @@
 <app-navbar></app-navbar>
 
-<!-- COVER IMAGES AND SEARCH FORM -->
-  <!-- <ngb-carousel [showNavigationIndicators]="false"> -->
-  <ngb-carousel>
-    <ng-template ngbSlide>
-      <img style="width: 100%; height: 2%;" src="../../../assets/images/home1.jpg" alt="Home page slide">
-    </ng-template>
-  </ngb-carousel>
-
-  <div id="search-form">
-    <h3><b>Welcome to Xplore Egypt</b></h3>
-    <p>Find your perfect Egyptian Hotels, Restaurants and Trips!</p>
-  </div>
+<div>
+  <img id="head" src="../../../assets/images/homepage.jpg" >
+</div>
 
 <div class="container" style="margin-bottom: 5%">
-
   <!-- HOTEL SECTION -->
   <div class="row featurette">
     <div class="col-md-7">
-      <h2 class="featurette-heading">
-        Hotels
-      </h2>
+      <h2 class="featurette-heading">Hotels</h2>
+      <hr class="line">
       <p class="lead">
         Find the vacation house you’re looking for, from a private room to a luxurious villa for a perfect holiday!
       </p>
       <button routerLink="/hotels" class="btn section-button">More Details</button>
     </div>
     <div class="col-md-5">
-      <img src="../../../assets/images/hotel.jpeg" style="margin: 10%;height: 13em;width: 20em" alt="Travel" class="responsive-image">
+      <img src="../../../assets/images/hotel.jpg" alt="Travel" class="responsive-image info">
     </div>
   </div>
 
@@ -36,12 +25,12 @@
   <!-- RESTAURANT SECTION -->
   <div class="row featurette">
       <div class="col-md-4">
-          <img src="../../../assets/images/rest.jpeg" style="margin: 10%;height: 13em;width: 20em" alt="Hosting" class="responsive-image">
+          <img style="margin-top: 20%;" src="../../../assets/images/rest.jpg" alt="Hosting" class="responsive-image info">
         </div>
-    <div class="col-md-7" style="padding: 2%">
-      <h2 class="featurette-heading">
-        Restaurants
-      </h2>
+        <div class="col-md-1"></div>
+    <div class="col-md-6" style="padding: 2%">
+      <h2 class="featurette-heading">Restaurants</h2>
+      <hr class="line">
       <p class="lead">
         Find the best places for eating, everything from street food to fine dining!
       </p>
@@ -54,20 +43,60 @@
   <!-- TRIP SECTION -->
   <div class="row featurette">
     <div class="col-md-7">
-      <h2 class="featurette-heading">
-        Trips 
-     </h2>
+      <h2 class="featurette-heading">Trips</h2>
+      <hr class="line">
       <p class="lead">
         Discover many trips and things to do, you can plan your own trip program!
       </p>
       <button routerLink="/trips" class="btn section-button">More Details</button>
     </div>
     <div class="col-md-5">
-      <img style="margin: 10%;height: 13em;width: 20em" src="../../../assets/images/trip.jpeg" alt="How it works" class="responsive-image">
+      <img src="../../../assets/images/trip.jpg" alt="How it works" class="responsive-image info">
     </div>
   </div>
 
   <hr class="featurette-divider">
+  <br>
+  <br>
 </div>
+
+
+
+
+
+<div class="container bottom" style="margin-bottom: 5%;">
+	
+	<div class="item tm1">
+		<img class="imgr" src="http://www.videoskick.com/wp-content/uploads/2016/06/Wallpaper-of-Egyptian-sphinx-and-pyramid-on-sunset.jpg">
+	<p>Sphinx</p>
+</div>
+
+		<div class="item tm3">
+			<img class="imgr" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUUN-FW7N2ecZHXi65YD6HEV3EVDjzLhjAhUIwESo4fkcI3KR-">
+	<p class="ar">قلعة صلاح الدين </p>
+	</div>
+
+		<div class="item tm7">
+			<img class="imgr" src="http://www.destination360.com/africa/egypt/images/s/safari-tours.jpg">
+	<p>Safari Egypt</p>
+	</div>
+
+	<div class="item tm8">
+		<img class="imgr" src="http://egyptlastminute.com/wp-content/uploads/2012/11/safari-tours-egypt.jpg">
+	<p>Moto Safari</p>
+</div>
+
+
+	<div class="item tm2">
+		<img class="imgr" src="http://www.holiday-designers.com/images/0/0/d8d31089-a92d-493c-8567-797c09efa98f.jpg">
+	<p>Red Sea Diving </p>
+	</div>
+
+		<div class="item tm3">
+			<img class="imgr" src="https://egyptianstreets.com/wp-content/uploads/2014/07/El-_Gouna_Architenturr_hotels_egypt.jpg">
+	<p>GOUNA</p>
+	</div>
+</div>
+  
 
 <app-footer></app-footer>

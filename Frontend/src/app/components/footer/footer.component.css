@@ -12,10 +12,6 @@
 .row {
     margin-bottom: 60px;
 }
-.navbar-brand {
-    margin-top: 45px;
-    height: 65px;
-}
 .footer-copyright p {
     margin: 10px;
     color: #ccc;
@@ -89,4 +85,8 @@ a {
 }
 footer{
     margin-bottom: -6%;
+}
+.aa:hover{
+    background-color:rgb(90, 88, 88);
+    color:white;
 }
