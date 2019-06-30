@@ -7,7 +7,9 @@ form{
 	margin-left: 25%;
 	border-style: solid;
 	border-color: rgb(230, 226, 226);
-	padding: 5%;
+  padding: 5%;
+  margin-top: 15%;
+  margin-bottom: 10%
 }
 .image-preview {
 	height: 5rem;
@@ -18,12 +20,12 @@ form{
 	height: 100%;	
 }
 .form-control {
-	background-color: rgba(223, 236, 193, 0.733);
+	background-color: rgba(255, 255, 255, 0.733);
 	color: rgb(20, 18, 18);
   }
   
   .form-control:focus {
-	background-color: rgba(223, 236, 193, 0.733);
+	background-color: rgba(255, 255, 255, 0.733);
 	color: rgb(17, 16, 16);
 	border-color: #b21908;
 	box-shadow: 0 0 0 0.1rem #b21908;
@@ -337,4 +339,7 @@ h1{
 }
 h1{
   font-family: 'Kaushan Script', cursive;
+}
+input:checked + label{
+  background: #a1cbe4;  
 }
