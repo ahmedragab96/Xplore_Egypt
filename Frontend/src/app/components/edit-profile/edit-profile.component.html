@@ -2,7 +2,10 @@
 
 <div class="container emp-profile">
 	<form (ngSubmit)="submitForm(f)" #f="ngForm" class="form-group mt-5">
-	  <div class="form-group row">
+		<br>
+		<h1>Edit Profile</h1>
+		<hr class="line">
+	  <div class="form-group row" style="margin-top: 3%;">
 	    <label for="inputPassword" class="col-sm-2 col-form-label">First Name</label>
 	    <div class="col-sm-10">
 	      <input class="form-control mb-5" type="text" name="fname" ngModel="{{old_userDetails['results'][0]['first_name']}}">
@@ -35,7 +38,7 @@
 
       <button class=" btn btn-block mybtn btn-primary tx-tfm" type="submit" [disabled]="!f.valid">Update</button>
 	</form>
-
+	<h5>Profile Picture</h5>
 	<input id="photo"  type="file" name="avatar" (change)="editAvatar($event)" ngModel #avatar="ngModel">
 </div>
 

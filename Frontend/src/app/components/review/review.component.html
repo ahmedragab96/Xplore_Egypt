@@ -6,7 +6,7 @@
       <label>rate</label>
       <ngb-rating name="rate" ngModel>
     <ng-template let-fill="fill" let-index="index">
-      <span class="star" [class.filled]="fill === 100" [class.bad]="index < 3">&#9733;</span>
+      <span class="star" [class.filled]="fill === 100" [class.bad]="index < 1">&#9733;</span>
     </ng-template>
   </ngb-rating>
     </div>
@@ -44,9 +44,9 @@
   <h2 style="margin-top: 5%;text-align: center">Previous Reviews</h2>
   <hr class="line">
   <div style="text-align: center">
-    <ngb-rating [(rate)]="currentRate">
+    <ngb-rating [(rate)]="currentRate" [readonly]="true">
       <ng-template let-fill="fill" let-index="index">
-        <span class="star" [class.filled]="fill === 100" [class.bad]="index < 3">&#9733;</span>
+        <span class="star" [class.filled]="fill === 100">&#9733;</span>
       </ng-template>
     </ngb-rating>
     <pre>Rate: <b>{{currentRate}}</b></pre>
@@ -56,9 +56,9 @@
     <div class="col-lg-4" *ngFor="let review of reviews | paginate: { itemsPerPage: 6, currentPage: p }">
       <div class="reviewsPreview">
         <h5 style="color: #353536;"><i class="fa fa-commenting-o" aria-hidden="true"></i>&nbsp;&nbsp;<strong>{{review.title}}</strong>, &nbsp;&nbsp;<span style="color: #918d8d">{{review.date}}</span></h5>
-        <ngb-rating [(rate)]="review.rate">
+        <ngb-rating [(rate)]="review.rate" [readonly]="true">
           <ng-template let-fill="fill" let-index="index">
-            <span class="star" [class.filled]="fill === 100" [class.bad]="index < 3">&#9733;</span>
+            <span class="star" [class.filled]="fill === 100">&#9733;</span>
           </ng-template>
         </ngb-rating>
         <hr>

@@ -1,5 +1,8 @@
 <app-navbar></app-navbar>
+<h2 style="margin-top: 7%;text-align: center;color: rgb(63, 61, 61);">Trip Planner</h2>
+<hr style="width: 60px;background-color: rgb(204, 197, 197);text-align: center;">
 <div id="container">
+        
     <div
       ng2-carouselamos
       class="slides-wrapper"
@@ -13,22 +16,24 @@
    
    
     <ng-template #prev>
-      <img src="assets/images/left.png" id="left" />
+      <img src="assets/images/left.png" id="left"/>
     </ng-template>
     <ng-template #next>
-      <img src="assets/images/right.png" id="right" />
+      <img src="assets/images/right.png" id="right"/>
     </ng-template>
     <ng-template #item let-item let-i="index">
    
     <div class="slide-items">
-                    <img src="{{item.imageURL}}">
-                   <p><b>{{item.title?item.title:"Trip"}}</b></p>
-                   <p> price :{{item.price}} </p>
-                   <p> Duration : {{item.duration}} </p>
-        <button class="btn btn-primary cardBtn" [routerLink] = "['/trips/',item.itemid]" [queryParams]="{q:item.title}">Read More</button>
+        <div style="height: 300px;">
+            <img src="{{item.imageURL}}">
+            <p><b>{{item.title?item.title:"Trip"}}</b></p>
+            <p> price :{{item.price}} </p>
+            <p> Duration : {{item.duration}} </p>
+        </div>
+        <button style="border-radius: 50px;" class="btn btn-primary cardBtn" [routerLink] = "['/trips/',item.itemid]" [queryParams]="{q:item.title}">Read More</button>
 
-        <button class="btn btn-primary cardBtn" *ngIf="!item.selected" (click)="item.selected=1">ADD</button>
-        <button class="btn btn-danger cardBtn" *ngIf="item.selected" [disabled]="item.addedCal" (click)="item.selected=0">REMOVE</button>
+        <button style="border-radius: 50px;" class="btn btn-primary cardBtn" *ngIf="!item.selected" (click)="item.selected=1">ADD</button>
+        <button style="border-radius: 50px;" class="btn btn-danger cardBtn" *ngIf="item.selected" [disabled]="item.addedCal" (click)="item.selected=0">REMOVE</button>
     </div>
    
   </ng-template>
@@ -50,7 +55,7 @@
             <div id='calendar1'></div>
         </div>
     </div>
-    <button class="btn btn-primary" (click)="save()">save</button>
+    <button style="border-radius: 50px;width: 200px;margin-left: 40%;" class="btn btn-primary" (click)="save()">Save</button>
 </div>
 
 <app-footer></app-footer>

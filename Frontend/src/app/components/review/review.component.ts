@@ -1,6 +1,8 @@
 import { Component, OnInit,Input } from '@angular/core';
 import {ReviewsService} from './../../services/reviews/reviews.service'
 
+import {NgbRatingConfig} from '@ng-bootstrap/ng-bootstrap';
+
 @Component({
   selector: 'app-review',
   templateUrl: './review.component.html',
@@ -10,7 +12,9 @@ export class ReviewComponent implements OnInit {
  @Input() placeid:number;
  @Input() currentRate:number;
  reviews:any;
-  constructor(private reviewsService:ReviewsService) { }
+  constructor(private reviewsService:ReviewsService, config: NgbRatingConfig) { 
+    config.max = 5;
+  }
   review(ReviewForm){
   	console.log(this.placeid)
   	console.log(ReviewForm)

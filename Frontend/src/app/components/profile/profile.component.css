@@ -87,6 +87,16 @@
     font-weight: 600;
 }
 .profile-tab p{
-    font-weight: 600;
-    color: #0062cc;
+    font-weight: 500;
+    color: #484849;
+}
+h2{
+    /* font-family: 'Kaushan Script', cursive; */
+    color: rgb(77, 75, 75);
+}
+::selection {
+    background: #9cceeb; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+    background: #97cbe9; /* Gecko Browsers */
 }

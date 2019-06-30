@@ -13,9 +13,9 @@
               </div>
               <div class="col-md-6">
                   <div class="profile-head">
-                              <h4>
+                              <h2>
                                   {{userDetails['results'][0]['first_name']}} {{userDetails['results'][0]['last_name']}}
-                              </h4>
+                              </h2>
                               <h4>&nbsp;</h4>
                      
                   <ul class="nav nav-tabs" id="myTab" role="tablist">
@@ -109,10 +109,12 @@
                             <div class="row">
                                 <div class="col-lg-4" *ngFor="let review of reviews">
                                     <div class="reviewsPreview">
-                                        <h5><i class="fa fa-commenting-o" aria-hidden="true"></i>&nbsp;&nbsp;<strong>{{review.title}}</strong>, &nbsp;&nbsp;<span style="color: #918d8d">{{review.date}}</span></h5>
-                                        <hr>
-                                        <p>{{review.review}}</p>
-                                        <img style="width: 100px;" src="{{review.photo}}">
+                                        <div style="height: 200px">
+                                            <h5><i class="fa fa-commenting-o" aria-hidden="true"></i>&nbsp;&nbsp;<strong><div style="overflow: auto;">{{review.title}}</div></strong> &nbsp;&nbsp;<span style="color: #918d8d">{{review.date}}</span></h5>
+                                            <hr>
+                                            <div style="overflow: auto;"><p>{{review.review}}</p></div>
+                                        </div>
+                                        <img style="width: 100px;height: 100px;" src="{{review.photo}}">
                                         <p><span style="color: #555252">Company Type:</span>{{review.type}}</p>
                                     </div>
                                 </div>

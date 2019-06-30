@@ -33,5 +33,25 @@ form{
     border-radius:50px;
 
 }
+h1{
+    font-family: 'Kaushan Script', cursive;
+    color: rgb(77, 75, 75);
+    text-align: center;
+}
+.line{
+    width: 60px;
+    background-color: rgb(204, 197, 197);
+    text-align: center;
+}
+h5{
+    margin-left: 17%;
+    color: rgb(77, 75, 75);
 
+}
+::selection {
+    background: #9cceeb; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+    background: #97cbe9; /* Gecko Browsers */
+}
 

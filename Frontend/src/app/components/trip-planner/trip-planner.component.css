@@ -7,41 +7,32 @@ body {
 
 /* slider part*/
 
-#container {
-    width: 100%;
-    margin: 5em auto;
-    padding: 0;
+
+.ng2-carouselamos-container {
+    width: 90%;
+    margin: auto;
 }
 
-    .ng2-carouselamos-container {
-        width: 70%;
-        margin: auto;
-    }
+.slide-items{
+    margin-right: 10px;
+}
+.slide-items img{
+    width: 210px;
+    height: 150px;
+}
 
-        .slide-items{
-        margin-right: 10px;
-    }
-       .slide-items img{
-            width: 210px;
-            height: 150px;
-    }
-
-        #left{
-            width:42px;
-             height:42px;
-        }
-        #right{
-            width:42px;
-             height:42px;
-        }
-
+#left{
+    width:42px;
+    height:42px;
+    /* margin-left: 20%; */
+}
+#right{
+    width:42px;
+    height:42px;
+    /* margin-right: 20%; */
+}
 
 /*end of slider style */
-.ca
-{
-
-
-}
 
 .btn{
 
@@ -96,7 +87,7 @@ body {
 }
 
 #planner {
-    margin-top: 25px;
+    margin-top: 5%;
 }
 
 #calendar {
@@ -108,3 +99,16 @@ body {
     margin-bottom: 20px;
 }
 /**/
+
+::selection {
+    background: #9cceeb; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+    background: #97cbe9; /* Gecko Browsers */
+}
+.fix{
+    height: 450px;
+}
+.btn:hover{
+    background-color: rgb(148, 144, 144);
+}
