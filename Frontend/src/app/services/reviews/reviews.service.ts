@@ -6,21 +6,22 @@ import {NotifierService} from 'angular-notifier'
   providedIn: 'root'
 })
 export class ReviewsService {
-    decodeToken() {
+  constructor(private http: HttpClient, private notifier: NotifierService) { }
+
+  URL: any = 'https://immense-cove-87813.herokuapp.com';
+  decodeToken() {
     const token = localStorage.getItem('token');
     const payload = jwt_decode(token);
     console.log(payload);
     const userId = payload.userId;
     return userId;
   }
-  constructor(private http:HttpClient,private notifier: NotifierService) { }
-   
 
-    PostAReview(placeid,body) {
-    	console.log(placeid)
-    	console.log(body)
-    let userid=this.decodeToken()
-    return this.http.post("http://localhost:3000/reviews/add/"+userid+"/"+placeid,body).subscribe(data => {
+  PostAReview(placeid, body) {
+    console.log(placeid);
+    console.log(body);
+    const userid = this.decodeToken()
+    return this.http.post( this.URL + '/reviews/add/' + userid + '/' + placeid, body).subscribe(data => {
       console.log('POST Request is successful ', data);
     },
       error => { console.log('Error', error); });
@@ -28,7 +29,7 @@ export class ReviewsService {
 
 
    getReviewforPlace(placeID){
-     return this.http.get('http://localhost:3000/reviews//getPlaceReviews/'+placeID)
+     return this.http.get( this.URL + '/reviews//getPlaceReviews/' + placeID)
    }
 
 }

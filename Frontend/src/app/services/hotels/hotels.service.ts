@@ -8,23 +8,24 @@ import { HttpClient } from '@angular/common/http';
 export class HotelsService {
 
   constructor(private http: HttpClient) { }
+  URL: any = 'https://immense-cove-87813.herokuapp.com';
 
   GetAllHotels() {
-    return this.http.get('http://localhost:3000/hotels/getall');
+    return this.http.get( this.URL + '/hotels/getall');
   }
 
   getHotelByID(id) {
-    return this.http.get('http://localhost:3000/hotels/getById?id=' + id);
+    return this.http.get( this.URL + '/hotels/getById?id=' + id);
   }
 
   addHotel(hotelDetails) {
-    return this.http.post('http://localhost:3000/hotels/addhotel', hotelDetails).subscribe(data => {
+    return this.http.post( this.URL + '/hotels/addhotel', hotelDetails).subscribe(data => {
       console.log('Hotel has been added successfully ', data);
     },
       error => { console.log('Error', error); });
   }
 
   deleteHotel (id) {
-    return this.http.delete(`http://localhost:3000/hotels/delete/:id=${id}`);
+    return this.http.delete( this.URL + `/hotels/delete/:id=${id}`);
   }
 }

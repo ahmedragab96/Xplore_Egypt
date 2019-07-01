@@ -9,10 +9,11 @@ import {NotifierService} from 'angular-notifier'
 export class TripPlannerService {
   constructor(private http: HttpClient,private notifier: NotifierService,
     private route: ActivatedRoute, private router: Router) { }
+    URL: any = 'https://immense-cove-87813.herokuapp.com';
 
 
   GetAllTrips() {
-    return this.http.get('http://localhost:3000/trips/getall');
+    return this.http.get( this.URL + '/trips/getall');
   }
 
   decodeToken() {
@@ -30,7 +31,7 @@ export class TripPlannerService {
     body['id'] = this.decodeToken();
     body['plan'] = trips;
     console.log(body);
-    return this.http.post('http://localhost:3000/users/addplan', body).subscribe(data => {
+    return this.http.post( this.URL + '/users/addplan', body).subscribe(data => {
       console.log('POST Request is successful ', data);
       this.notifier.notify('success', 'Your Trips are saved to Calendar !');
     },
@@ -41,23 +42,23 @@ export class TripPlannerService {
 
   loadPlannedTrips() {
     const id = this.decodeToken();
-    return this.http.get('http://localhost:3000/users/getplan?id=' + id);
+    return this.http.get( this.URL + '/users/getplan?id=' + id);
   }
 
   // trips section
 
   getTripByID(id) {
     // return this.http.get('http://localhost:3000/trips/getById?t.itemid='+id);
-    return this.http.get('http://localhost:3000/trips/getById?id=' + id);
+    return this.http.get( this.URL + '/trips/getById?id=' + id);
   }
   addTrip(tripDetails) {
-    return this.http.post('http://localhost:3000/trips/addtrip', tripDetails).subscribe(data => {
+    return this.http.post( this.URL + '/trips/addtrip', tripDetails).subscribe(data => {
       console.log('Trip has been added successfully ', data);
     },
       error => { console.log('Error', error); });
   }
 
   deleteTrip (id) {
-    return this.http.delete(`http://localhost:3000/trips/delete/:id=${id}`);
+    return this.http.delete( this.URL + `/trips/delete/:id=${id}`);
   }
 }
