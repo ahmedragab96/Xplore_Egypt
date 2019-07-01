@@ -39,7 +39,7 @@ mail.post('/', (req, res) => {
     // console.log(Text1+Text2+Text3);
    
     var mailOptions = {
-      from: 'Nourhan241295@gmail.com',
+      from: 'Explore.Egypt.2019@gmail.com',
       to: userMail,
       subject: 'Explore Egypt',
       html: Text1+Text2+Text3
