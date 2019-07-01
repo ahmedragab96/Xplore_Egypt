@@ -10,3 +10,14 @@ hr{
     height: 10px;
     color: black;
 }
+p::first-letter {
+    font-size: 150%;
+    color: rgb(77, 75, 75);
+    font-weight: bold;
+}
+::selection {
+    background: #9cceeb; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+    background: #97cbe9; /* Gecko Browsers */
+}
