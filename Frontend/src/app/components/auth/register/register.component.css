@@ -343,3 +343,9 @@ h1{
 input:checked + label{
   background: #a1cbe4;  
 }
+::selection {
+  background: #9cceeb; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #97cbe9; /* Gecko Browsers */
+}

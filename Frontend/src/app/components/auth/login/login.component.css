@@ -1,8 +1,9 @@
 #body{
     padding-top:4.2rem;
-    padding-bottom:4.2rem;
+    /* padding-bottom:6rem; */
     background:rgba(250, 249, 249, 0.76);
     height: 100%;
+    margin-bottom: 7%;
 }
 a{
   text-decoration:none !important;
@@ -32,7 +33,6 @@ font-family: 'Kaushan Script', cursive;
   border-color: rgb(230, 226, 226) ;
   outline: 0;
   max-width: 500px;
-  margin-bottom: 15%;
 }
 .tx-tfm{
   text-transform:uppercase;
@@ -81,4 +81,10 @@ h1{
 .line{
   width: 60px;
   background-color: rgb(204, 197, 197);
+}
+::selection {
+  background: #9cceeb; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #97cbe9; /* Gecko Browsers */
 }

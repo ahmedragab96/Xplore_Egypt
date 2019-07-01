@@ -100,4 +100,12 @@ h2{
 ::-moz-selection {
     background: #97cbe9; /* Gecko Browsers */
 }
+.dislike{
+    border-style: solid;
+    border-color: rgb(232, 236, 236);
+    background-color: white;
+}
+.dislike:hover{
+    background-color: rgb(232, 236, 236); 
+}
 
