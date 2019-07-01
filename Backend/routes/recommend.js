@@ -14,7 +14,7 @@ model.get('/', (req, res, next) => {
     }
   
   
-    if(results.length < 8){newUSer=1;}
+    if(results.length < 10){newUSer=1;}
     
     fs.writeFileSync("../RBM_model/userRatings.json", JSON.stringify(results));
     model(newUSer);
