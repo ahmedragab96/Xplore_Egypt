@@ -7,6 +7,7 @@ import * as jwt_decode from 'jwt-decode';
 export class RecommendaionService {
 
   constructor(private http:HttpClient) { }
+  URL: any = 'https://immense-cove-87813.herokuapp.com';
     decodeToken() {
     const token = localStorage.getItem('token');
     const payload = jwt_decode(token);
@@ -15,7 +16,9 @@ export class RecommendaionService {
     return userId;
   }
     getRecommended() {
-    	let id=this.decodeToken();
-    return this.http.get("http://localhost:3000/recommend?id="+id)
+      let id=this.decodeToken();
+      return this.http.get(URL+"/recommend?id="+id)
+      
+    // return this.http.get("http://localhost:3000/recommend?id="+id)
   }
 }
