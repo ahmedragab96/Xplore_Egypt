@@ -17,8 +17,8 @@ export class RecommendaionService {
   }
     getRecommended() {
       let id=this.decodeToken();
-      return this.http.get("https://immense-cove-87813.herokuapp.com/recommend?id="+id)
+      // return this.http.get("https://immense-cove-87813.herokuapp.com/recommend?id="+id)
       
-    // return this.http.get("http://localhost:3000/recommend?id="+id)
+    return this.http.get("http://localhost:3000/recommend?id="+id)
   }
 }
