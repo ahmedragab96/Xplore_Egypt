@@ -28,4 +28,22 @@ export class HotelsService {
   deleteHotel (id) {
     return this.http.delete( this.URL + `/hotels/delete/:id=${id}`);
   }
+
+  getallOrderPriceAsc(){
+    return this.http.get(this.URL+ '/hotels/getallOrderPriceAsc')
+  }
+
+  getallOrderPriceDESC(){
+   return this.http.get(this.URL+ '/hotels/getallOrderPriceDESC')
+
+  }
+
+  getallMostPopular(){
+    return this.http.get(this.URL+ '/hotels/getallMostPopular')
+  }
+
+  getallLeastPopular(){
+    return this.http.get(this.URL+ '/hotels/getallLeastPopular')
+
+  }
 }

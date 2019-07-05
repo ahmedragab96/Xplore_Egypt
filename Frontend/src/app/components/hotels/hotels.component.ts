@@ -17,10 +17,19 @@ export class HotelsComponent implements OnInit {
               private authservice:AuthServices) { }
 
   hotels: any;
+  hotelsOrderPriceAsc:any;
+  hotelsOrderPriceDESC:any;
+  hotelsgetallMostPopular:any;
+  hotelsgetallLeastPopular:any;
+  allOrderPriceAsc:boolean=false;
+  allOrderPriceDESC:boolean=false;
+  allMostPopular:boolean=false;
+  allLeastPopular:boolean=false;
   default = "../../../assets/images/noimage.png"
   getHotelsFromService(){
     this.service.GetAllHotels().subscribe((res) => {
       this.hotels = res;
+
       console.log(res);
     });
   }
@@ -52,4 +61,57 @@ export class HotelsComponent implements OnInit {
   }
  
 
+ getallOrderPriceAsc(){
+   this.allOrderPriceAsc=true;
+   this.allOrderPriceDESC=false;
+   this.allMostPopular=false
+   this.allLeastPopular=false;
+   this.service.getallOrderPriceAsc().subscribe((res) => {
+
+      this.hotelsOrderPriceAsc = res;
+
+      console.log(res);
+    });
+ }
+
+ getallOrderPriceDESC(){
+   this.allOrderPriceDESC=true
+   this.allOrderPriceAsc=false;
+   this.allMostPopular=false;
+   this.allLeastPopular=false;
+      this.service.getallOrderPriceDESC().subscribe((res) => {
+
+      this.hotelsOrderPriceDESC = res;
+
+      console.log(res);
+    });
+
+ }
+
+ getallMostPopular(){
+   this.allOrderPriceDESC=false
+   this.allOrderPriceAsc=false;
+   this.allMostPopular=true;
+   this.allLeastPopular=false;
+   this.service.getallMostPopular().subscribe((res) => {
+
+      this.hotelsgetallMostPopular = res;
+
+      console.log(res);
+    });
+
+ }
+
+getallLeastPopular(){
+   this.allOrderPriceDESC=false
+   this.allOrderPriceAsc=false;
+   this.allMostPopular=false;
+   this.allLeastPopular=true;
+   this.service.getallLeastPopular().subscribe((res) => {
+
+      this.hotelsgetallLeastPopular = res;
+
+      console.log(res);
+    });
+}
 }

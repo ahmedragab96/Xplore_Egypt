@@ -84,10 +84,55 @@
     </select>
     <span class="col-3" style="display:in-line;color: dimgrey;">Filter By Region</span>
     <br><br>
+     <button (click)="getallMostPopular()" class="btn section-button">sort By Most Popular</button>
+    <button (click)="getallLeastPopular()" class="btn section-button">sort By Least Popular</button>
 </div>
 
-<div *ngIf="restaurants" class="row">
+<div *ngIf="restaurants && !allLeastPopular && !allMostPopular" class="row">
     <div class="col-lg-3 col-md-4 col-12" *ngFor="let restaurant of restaurants | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region'] | paginate: { itemsPerPage: 12, currentPage: p }">
+        <div class="col d-flex align-items-stretch">
+            <div class="card">
+                <div class="card-body">
+                    <div class="frame">
+                        <img class="img-fluid imgSize" style="height: 170px;" src="{{restaurant['photo']?restaurant['photo']:default}}" alt="NO IMAGE AVAILABLE">              
+                    </div>
+                    <div class="frameTitle">
+                    <h5 class="card-title">{{restaurant['title']}}</h5>
+                    </div>
+                    <div class="card-text components">
+                        <p><b>{{restaurant['region']}}</b>, &nbsp;{{restaurant['rating']}}</p>
+                        <p><span class="inCard">Cuisine : </span>{{restaurant['cuisine']}}</p>
+                    </div>
+                    <button [routerLink] = "['/restaurants/',restaurant.itemid]" [queryParams]="{q:restaurant['title']}" class="btn section-button">More Details</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div *ngIf="restaurantsgetallMostPopular && !allLeastPopular && allMostPopular" class="row">
+    <div class="col-lg-3 col-md-4 col-12" *ngFor="let restaurant of restaurantsgetallMostPopular | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region'] | paginate: { itemsPerPage: 12, currentPage: p }">
+        <div class="col d-flex align-items-stretch">
+            <div class="card">
+                <div class="card-body">
+                    <div class="frame">
+                        <img class="img-fluid imgSize" style="height: 170px;" src="{{restaurant['photo']?restaurant['photo']:default}}" alt="NO IMAGE AVAILABLE">              
+                    </div>
+                    <div class="frameTitle">
+                    <h5 class="card-title">{{restaurant['title']}}</h5>
+                    </div>
+                    <div class="card-text components">
+                        <p><b>{{restaurant['region']}}</b>, &nbsp;{{restaurant['rating']}}</p>
+                        <p><span class="inCard">Cuisine : </span>{{restaurant['cuisine']}}</p>
+                    </div>
+                    <button [routerLink] = "['/restaurants/',restaurant.itemid]" [queryParams]="{q:restaurant['title']}" class="btn section-button">More Details</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div *ngIf="restaurantsgetallLeastPopular && allLeastPopular && !allMostPopular" class="row">
+    <div class="col-lg-3 col-md-4 col-12" *ngFor="let restaurant of restaurantsgetallLeastPopular | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region'] | paginate: { itemsPerPage: 12, currentPage: p }">
         <div class="col d-flex align-items-stretch">
             <div class="card">
                 <div class="card-body">

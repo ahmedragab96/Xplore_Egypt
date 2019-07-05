@@ -85,9 +85,13 @@
     </select>
     <span class="col-3" style="display:in-line; color: dimgrey;">Filter By Region</span>
     <br><br>
+    <button (click)="getallOrderPriceAsc()" class="btn section-button">sort By Price Ascending</button>
+    <button (click)="getallOrderPriceDESC()" class="btn section-button">sort By Price Descending</button>
+    <button (click)="getallMostPopular()" class="btn section-button">sort By Most Popular</button>
+    <button (click)="getallLeastPopular()" class="btn section-button">sort By Least Popular</button>
 </div>
 
-<div *ngIf="hotels" class="row">
+<div *ngIf="hotels && !allOrderPriceAsc && !allOrderPriceDESC && !allMostPopular && !allLeastPopular" class="row">
     <div class="col-lg-3 col-md-4 col-6" *ngFor="let hotel of hotels | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region'] | paginate: { itemsPerPage: 12, currentPage: p }">
         <div class="col d-flex align-items-stretch">
             <div class="card">
@@ -101,6 +105,91 @@
                     <div class="card-text components">
                         <p><b>{{hotel['region']}}</b>, &nbsp;{{hotel['rating']}}</p>
                         <p><span class="inCard">Price Range:</span> {{hotel['priceLow']}}&nbsp;<span>-</span>&nbsp;{{hotel['priceHigh']}}&nbsp;EGP </p>
+                    </div>
+                    <button [routerLink] = "['/hotels/',hotel.itemid]" [queryParams]="{q:hotel['title']}" class="btn section-button">More Details</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div *ngIf="hotelsOrderPriceAsc && allOrderPriceAsc  && !allLeastPopular" class="row">
+    <div class="col-lg-3 col-md-4 col-6" *ngFor="let hotel of hotelsOrderPriceAsc | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region'] | paginate: { itemsPerPage: 12, currentPage: p }">
+        <div class="col d-flex align-items-stretch">
+            <div class="card">
+                <div class="card-body">
+                    <div class="frame">
+                    <img class="img-fluid imgSize" style="height: 170px;" src="{{hotel['imageURL']?hotel['imageURL']:default}}" alt="NO IMAGE AVAILABLE">              
+                    </div>
+                    <div class="frameTitle">
+                    <h4 class="card-title">{{hotel['title']}}</h4>
+                    </div>
+                    <div class="card-text components">
+                        <p><b>{{hotel['region']}}</b>, &nbsp;{{hotel['rating']}}</p>
+                        <p><span class="inCard">Price Range:</span> {{hotel['priceLow']}}&nbsp;<span>-</span>&nbsp;EGP </p>
+                    </div>
+                    <button [routerLink] = "['/hotels/',hotel.itemid]" [queryParams]="{q:hotel['title']}" class="btn section-button">More Details</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div *ngIf="hotelsOrderPriceDESC && allOrderPriceDESC  && !allLeastPopular" class="row">
+    <div class="col-lg-3 col-md-4 col-6" *ngFor="let hotel of hotelsOrderPriceDESC | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region'] | paginate: { itemsPerPage: 12, currentPage: p }">
+        <div class="col d-flex align-items-stretch">
+            <div class="card">
+                <div class="card-body">
+                    <div class="frame">
+                    <img class="img-fluid imgSize" style="height: 170px;" src="{{hotel['imageURL']?hotel['imageURL']:default}}" alt="NO IMAGE AVAILABLE">              
+                    </div>
+                    <div class="frameTitle">
+                    <h4 class="card-title">{{hotel['title']}}</h4>
+                    </div>
+                    <div class="card-text components">
+                        <p><b>{{hotel['region']}}</b>, &nbsp;{{hotel['rating']}}</p>
+                        <p><span class="inCard">Price Range:</span> {{hotel['priceLow']}}&nbsp;<span>-</span>&nbsp;EGP </p>
+                    </div>
+                    <button [routerLink] = "['/hotels/',hotel.itemid]" [queryParams]="{q:hotel['title']}" class="btn section-button">More Details</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div *ngIf="hotelsgetallMostPopular && allMostPopular  && !allLeastPopular" class="row">
+    <div class="col-lg-3 col-md-4 col-6" *ngFor="let hotel of hotelsgetallMostPopular | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region'] | paginate: { itemsPerPage: 12, currentPage: p }">
+        <div class="col d-flex align-items-stretch">
+            <div class="card">
+                <div class="card-body">
+                    <div class="frame">
+                    <img class="img-fluid imgSize" style="height: 170px;" src="{{hotel['imageURL']?hotel['imageURL']:default}}" alt="NO IMAGE AVAILABLE">              
+                    </div>
+                    <div class="frameTitle">
+                    <h4 class="card-title">{{hotel['title']}}</h4>
+                    </div>
+                    <div class="card-text components">
+                        <p><b>{{hotel['region']}}</b>, &nbsp;{{hotel['rating']}}</p>
+                        <p><span class="inCard">Price Range:</span> {{hotel['priceLow']}}&nbsp;<span>-</span>&nbsp;EGP </p>
+                    </div>
+                    <button [routerLink] = "['/hotels/',hotel.itemid]" [queryParams]="{q:hotel['title']}" class="btn section-button">More Details</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div *ngIf="hotelsgetallLeastPopular && allLeastPopular && !allMostPopular" class="row">
+    <div class="col-lg-3 col-md-4 col-6" *ngFor="let hotel of hotelsgetallLeastPopular | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region'] | paginate: { itemsPerPage: 12, currentPage: p }">
+        <div class="col d-flex align-items-stretch">
+            <div class="card">
+                <div class="card-body">
+                    <div class="frame">
+                    <img class="img-fluid imgSize" style="height: 170px;" src="{{hotel['imageURL']?hotel['imageURL']:default}}" alt="NO IMAGE AVAILABLE">              
+                    </div>
+                    <div class="frameTitle">
+                    <h4 class="card-title">{{hotel['title']}}</h4>
+                    </div>
+                    <div class="card-text components">
+                        <p><b>{{hotel['region']}}</b>, &nbsp;{{hotel['rating']}}</p>
+                        <p><span class="inCard">Price Range:</span> {{hotel['priceLow']}}&nbsp;<span>-</span>&nbsp;EGP </p>
                     </div>
                     <button [routerLink] = "['/hotels/',hotel.itemid]" [queryParams]="{q:hotel['title']}" class="btn section-button">More Details</button>
                 </div>

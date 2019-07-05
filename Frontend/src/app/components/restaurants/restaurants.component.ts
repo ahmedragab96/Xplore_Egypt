@@ -12,11 +12,16 @@ export class RestaurantsComponent implements OnInit {
   recommendedPlaces:any;
   recommendedRestaurants:any=[];
   loggedin:boolean=false;
+
   constructor(private service:RestaurantsService,
               private recservice:RecommendaionService,
               private authservice:AuthServices) { }
 
   restaurants: any;
+  restaurantsgetallMostPopular:any;
+  restaurantsgetallLeastPopular:any;
+  allMostPopular:boolean=false;
+  allLeastPopular:boolean=false;
   default = "../../../assets/images/noimage.png"
   getRestaurantsFromService(){
     this.service.GetAllRestaurants().subscribe((res) => {
@@ -47,5 +52,30 @@ export class RestaurantsComponent implements OnInit {
     this.getRestaurantsFromService();
     this.getRecommended()
   }
+
+
+   getallMostPopular(){
+
+   this.allMostPopular=true;
+   this.allLeastPopular=false;
+   this.service.getallMostPopular().subscribe((res) => {
+
+      this.restaurantsgetallMostPopular = res;
+
+      console.log(res);
+    });
+
+ }
+
+getallLeastPopular(){
+   this.allMostPopular=false;
+   this.allLeastPopular=true;
+   this.service.getallLeastPopular().subscribe((res) => {
+
+      this.restaurantsgetallLeastPopular = res;
+
+      console.log(res);
+    });
+}
 
 }

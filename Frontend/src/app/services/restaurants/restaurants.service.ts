@@ -29,4 +29,13 @@ export class RestaurantsService {
   deleteRestaurant (id) {
     return this.http.delete( this.URL + `/restaurants/delete/:id=${id}`);
   }
+
+    getallMostPopular(){
+    return this.http.get(this.URL+ '/restaurants/getallMostPopular')
+  }
+
+  getallLeastPopular(){
+    return this.http.get(this.URL+ '/restaurants/getallLeastPopular')
+
+  }
 }
