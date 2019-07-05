@@ -19,6 +19,7 @@ export class EditProfileComponent implements OnInit {
   }
 
   updateUser(user){
+    console.log(user)
     this.service.updateUser(user);
   }
 

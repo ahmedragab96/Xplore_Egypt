@@ -1,15 +1,25 @@
-button {
-    background-color: #ffb72b;
-    border: none;
-    color: white;
-    padding: 15px 30px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 13px;
-    margin-top: 3%;
-    float: right;
-  
-  }
-  
-  
+.btn-primary{
+  width: 30%;
+  margin-left: 35%;
+  /* margin-bottom: 5%; */
+  border-radius:50px;
+
+}
+form{
+  border-color: rgb(232, 233, 235);
+  border-style: solid;
+  width: 50%;
+  padding: 5%;
+  margin-left: 25%;
+}
+h2{
+  font-family: 'Kaushan Script', cursive;
+  color: rgb(77, 75, 75);
+  text-align: center;
+}
+.line{
+  width: 60px;
+  background-color: rgb(204, 197, 197);
+  text-align: center;
+  margin-bottom: 7%;
+}

@@ -2,6 +2,8 @@
 
 
 <form style="margin-top: 10%;margin-bottom: 10%;" (submit)="changePassword()">
+  <h2>Change Password</h2>
+  <hr class="line">
   <div class="form-group row">
     <label for="old" class="col-sm-3 col-form-label" i18n>old Password :</label>
     <input type="password" class="form-control col-sm-9" name="oldPassword" [(ngModel)]="oldPassword">
@@ -15,7 +17,7 @@
     <input type="password" class="form-control col-sm-9" name="newPasswordConfirmation"
       [(ngModel)]="newPasswordConfirmation">
   </div>
-  <button type="submit" class="btn btn-success" i18n>change password</button>
+  <button type="submit" class=" btn btn-block mybtn btn-primary tx-tfm" i18n>change password</button>
 </form>
 
 

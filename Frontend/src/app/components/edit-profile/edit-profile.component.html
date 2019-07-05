@@ -30,9 +30,9 @@
 	    </div>
 	  </div>
 
-      <button class=" btn btn-block mybtn btn-primary tx-tfm" type="submit" [disabled]="!f.valid">Update</button>
-	</form>
-	<button class=" btn btn-block mybtn btn-primary tx-tfm" routerLink="/changePass">Change Password</button>
+      <button class=" btn btn-block mybtn btn-primary tx-tfm" type="submit">Update</button>
+			<button class=" btn btn-block mybtn btn-primary tx-tfm" style="width: 190px;" routerLink="/changePass">Change Password</button>
+		</form>
 	<h5>Profile Picture</h5>
 	<input id="photo"  type="file" name="avatar" (change)="editAvatar($event)" ngModel #avatar="ngModel">
 </div>

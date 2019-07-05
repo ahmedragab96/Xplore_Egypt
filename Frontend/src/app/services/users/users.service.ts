@@ -39,7 +39,7 @@ export class UserService {
       this.notifier.notify('success', 'your Profile is updated !');
     },
       error => { console.log('Error', error);
-    this.notifier.notify('success', error);
+    this.notifier.notify('error', error);
   });
   }
 
