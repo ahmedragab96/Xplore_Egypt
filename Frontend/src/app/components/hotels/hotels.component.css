@@ -3,6 +3,7 @@
     width: 100%;
     margin: 5em auto;
     padding: 0;
+
 }
 .ng2-carouselamos-container {
     width: 70%;
@@ -22,6 +23,11 @@
 #right{
     width:42px;
     height:42px;
+}
+.slides-wrapper{
+    border-style: solid;
+    border-color: rgb(236, 234, 230);
+    padding:3%;
 }
 /*end of slider style */
 

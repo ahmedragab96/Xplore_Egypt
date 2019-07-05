@@ -51,12 +51,12 @@
             <img class="imgSize" src="{{item.imageURL}}">
         </div>
         <div class="frameTitle">
-            <p><b> {{item.title}} </b></p>
+            <p><i style="color:rgb(240, 180, 52);" class="fa fa-star" aria-hidden="true"></i>&nbsp;<b> {{item.title}} </b></p>
         </div>
         <div class="components">
         <p><span class="inCard">Address:</span> {{item.address}} </p>
         </div>
-        <button class="btn btn-primary cardBtn"  [routerLink] = "['/hotels/',item.itemid]" [queryParams]="{q:item.title}">Read More</button>
+        <button class="btn section-button"  [routerLink] = "['/hotels/',item.itemid]" [queryParams]="{q:item.title}">Read More</button>
      </div>
   </ng-template>
 </div>
