@@ -17,12 +17,22 @@ export class MailService{
         return userId;
       }
 
-      sendMail(savedTrips:any){
+    sendMail(savedTrips:any){
         const body: any = {};
         body['id'] = this.decodeToken();
         body['plan'] = savedTrips;
         console.log(body);
         return this.http.post( this.URL + '/mail', body).subscribe(data => {
-            console.log('POST Request is successful ', data);})
+            console.log('mail is sent successfully ', data);},
+            error => { console.log('Error', error); });
+    }
+
+    resetPassword(userMAil:any){
+      const body: any = {};
+      body['mail']=userMAil;
+      return this.http.post( this.URL + '/mail/resetPassword', body).subscribe(data => {
+        console.log('mail with password is sent successfully ', data);
+      },
+        error => { console.log('Error', error); });
     }
 }
