@@ -1,6 +1,5 @@
 
 import { Component } from '@angular/core';
-import { NotifierService } from 'angular-notifier';
 import {NgForm} from '@angular/forms';
 import {MailService} from'../../../services/mail/mail.service';
 
@@ -10,9 +9,9 @@ import {MailService} from'../../../services/mail/mail.service';
 })
 
 export class ResetComponent {
-  constructor(private notifier: NotifierService,private mailService:MailService) {}
+  constructor(private mailService:MailService) {}
   sendMail(form:NgForm){
-    console.log(form.value.mail);
+    this.mailService.resetPassword(form.value.mail);
   }
   
 }
