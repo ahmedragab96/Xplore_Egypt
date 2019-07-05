@@ -65,4 +65,12 @@ export class UserService {
     return this.http.get('/reviews/getUserReviews/' + id);
   }
   
+  changepass(body){
+    let id=this.decodeToken();
+    return this.http.put(this.URL + '/users/changepass/' + id,body).subscribe(data => {
+      this.notifier.notify('success', 'Password is updated !');
+    },
+      error => { console.log('Error', error); 
+      this.notifier.notify('error', error);});
+  }
   }

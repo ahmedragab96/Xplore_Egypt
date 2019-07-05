@@ -11,6 +11,7 @@
     border-color: rgb(230, 226, 226) ;
     text-align: center;
     margin-top: 10%;
+    padding: 5%;
     
 }
 table {
@@ -18,4 +19,8 @@ table {
     border-collapse: separate;
     border-spacing: 2px;
     border-color: grey;
+}
+.btn-sm{
+    border-radius: 50px;
+    width: 100px;
 }

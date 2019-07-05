@@ -26,6 +26,7 @@ import { AboutUsComponent } from '../components/about-us/about-us.component';
 import { ProfileComponent } from '../components/profile/profile.component';
 import { EditProfileComponent } from '../components/edit-profile/edit-profile.component';
 import { AddrestaurantComponent } from '../components/AdminSection/DataBase/restaurants/addrestaurant/addrestaurant.component';
+import { ChangePassComponent } from '../components/change-pass/change-pass.component';
 
 const routes: Routes = [
   { path: 'login', component: LoginComponent},
@@ -41,6 +42,7 @@ const routes: Routes = [
   { path: 'hotels/:id', component: HotelDetailsComponent },
   { path: 'profile', component: ProfileComponent },
   { path: 'editprofile', component: EditProfileComponent },
+  { path: 'changePass', component: ChangePassComponent },
   {
     path: 'admin',
     component: AdminComponent,

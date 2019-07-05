@@ -90,6 +90,7 @@ import { AddrestaurantComponent } from './components/AdminSection/DataBase/resta
 import { ProfileComponent } from './components/profile/profile.component';
 import { EditProfileComponent } from './components/edit-profile/edit-profile.component';
 import { BookingComponent } from './components/booking/booking.component';
+import { ChangePassComponent } from './components/change-pass/change-pass.component';
 
 // Configs
 export function getAuthServiceConfigs() {
@@ -157,6 +158,7 @@ const notifierConfig: NotifierOptions = {
     ProfileComponent,
     EditProfileComponent,
     BookingComponent,
+    ChangePassComponent,
   ],
   imports: [
     BrowserModule,

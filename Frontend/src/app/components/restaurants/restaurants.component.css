@@ -23,6 +23,11 @@
     width:42px;
     height:42px;
 }
+.slides-wrapper{
+    border-style: solid;
+    border-color: rgb(236, 234, 230);
+    padding:3%;
+}
 /*end of slider style */   
 h2{
     margin-top: 2%;
