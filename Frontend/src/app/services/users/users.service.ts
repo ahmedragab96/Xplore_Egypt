@@ -34,12 +34,12 @@ export class UserService {
 
   updateUser(body){
     let id=this.decodeToken();
-    return this.http.post(this.URL + '/users/edit/' + id + "/",body).subscribe(data => {
+    return this.http.post("http://localhost:3000" + '/users/edit/' + id + "/",body).subscribe(data => {
       console.log('User Updated successfully ', data);
       this.notifier.notify('success', 'your Profile is updated !');
     },
       error => { console.log('Error', error);
-    this.notifier.notify('success', error);
+    this.notifier.notify('error', error);
   });
   }
 
