@@ -2,6 +2,7 @@ import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { LoginComponent } from './../components/auth/login/login.component';
 import { RegisterComponent } from './../components/auth/register/register.component';
+import { ResetComponent } from './../components/auth/reset_password/reset.component';
 import { TripPlannerComponent } from './../components/trip-planner/trip-planner.component';
 import { HomeComponent } from './../components/home/home.component';
 import { TripsComponent } from './../components/trips/trips.component';
@@ -29,6 +30,7 @@ import { AddrestaurantComponent } from '../components/AdminSection/DataBase/rest
 const routes: Routes = [
   { path: 'login', component: LoginComponent},
   { path: 'register', component: RegisterComponent},
+  { path:  'reset',  component:ResetComponent},
   { path: 'planner', component: TripPlannerComponent , canActivate: [AuthGuard]},
   { path: 'home', component: HomeComponent },
   { path: 'trips', component: TripsComponent },

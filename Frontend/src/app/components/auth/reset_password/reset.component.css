@@ -1,0 +1,21 @@
+#body{
+    padding-top:4rem;
+    /* padding-bottom:6rem; */
+    background:rgba(250, 249, 249, 0.76);
+    margin-bottom: 7%;
+}
+
+.mymodel{
+
+    border-style: solid;
+    border-color: rgb(230, 226, 226) ;
+    text-align: center;
+    margin-top: 10%;
+    
+}
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+}

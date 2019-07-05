@@ -27,6 +27,7 @@ import { AppComponent } from './app.component';
 import { TripPlannerComponent } from './components/trip-planner/trip-planner.component';
 import { LoginComponent } from './/components/auth/login/login.component';
 import { RegisterComponent } from './/components/auth/register/register.component';
+import { ResetComponent } from './/components/auth/reset_password/reset.component';
 import { FormsModule } from '@angular/forms';
 import { HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
 import { AppRoutingMOdule } from './routing/app-routing.module';
@@ -89,6 +90,7 @@ import { AddrestaurantComponent } from './components/AdminSection/DataBase/resta
 import { ProfileComponent } from './components/profile/profile.component';
 import { EditProfileComponent } from './components/edit-profile/edit-profile.component';
 import { BookingComponent } from './components/booking/booking.component';
+
 // Configs
 export function getAuthServiceConfigs() {
   const config = new AuthServiceConfig(
@@ -127,6 +129,7 @@ const notifierConfig: NotifierOptions = {
     TripPlannerComponent,
     LoginComponent,
     RegisterComponent,
+    ResetComponent,
     HomeComponent,
     NavbarComponent,
     TripsComponent,
