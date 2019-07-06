@@ -1,18 +1,21 @@
 import numpy as np
 import tensorflow as tf
 import json
+from flask import request
+from flask import jsonify
+
 def softmax(x):
     return np.exp(x) / np.sum(np.exp(x), axis=0)
 
 
 numItems = 2004  #number of items trained on
 
-def predict(n): #edit to send matrix of user's rating for each movie// predict(trainingMatrix,n)
+def predict(data,n): #edit to send matrix of user's rating for each movie// predict(trainingMatrix,n)
     #database
-   json_data=open("userRatings.json").read()
-   data = json.loads(json_data)
    userRatings=[]
-   for object in data:
+   data_json = json.loads(data)  
+   for object in data_json:
+       print(object)
        userRatings.append((object["itemID"],object["rating"]))
 
    trainingMatrix = np.zeros([1,numItems+1, 10], dtype=np.float32)
@@ -62,10 +65,15 @@ from flask import Flask
 #code which helps initialize our server
 app = Flask(__name__) 
 #defining a /hello route for only post requests
-@app.route('/recommend', methods=['GET'])
+@app.route('/recommend', methods=['POST'])
 def index():
    #id=request.args.get("id")
    #string_id=str(id)
-   query=predict(28)
+   data_=request.data
+   json_data = json.loads(data_)
+
+   query=predict(json_data['data'],28)
    print(query)
    return(query)
+   
+   

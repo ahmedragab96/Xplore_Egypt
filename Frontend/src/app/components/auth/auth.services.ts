@@ -79,7 +79,7 @@ export class AuthServices {
             //                             email: email , password: password ,
             //                             DOB: DOB , image: image , gender: gender , : nationality};
 
-            this.http.post('http://localhost:3000/users/register', userData).subscribe(
+            this.http.post(this.URL+'/users/register', userData).subscribe(
               (response: any) => {
                   console.log(response)
                     this.notifier.notify('success', 'You registered successfully, please login to continue');
@@ -94,7 +94,7 @@ export class AuthServices {
     socialSignUp(body) {
         // console.log(body)
         // calling the post function
-        return this.http.post('http://localhost:3000/users/socialSignUp', body);
+        return this.http.post(this.URL+'/users/socialSignUp', body);
     }
 
     logout() {
