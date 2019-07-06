@@ -82,10 +82,21 @@
         </select>
         <span class="col-3" style="display:in-line;color: dimgrey;">Filter By Region</span>
         <br><br>
+    <span class="col-3" style="display:in-line;">&nbsp;&nbsp;</span>       
+        <select id="price_category" [(ngModel)]="price_category" class="custom-select col-3">
+            <option value="low-price">Low</option>
+            <option value="moderate-price">Moderate</option>
+            <option value="high-price">High</option>
+            <option value="" >All</option>
+        </select>
+        <span class="col-3" style="display:in-line;color: dimgrey;">Filter By Price Levels</span>
+        <br>
+    <button (click)="getallMostPopular()" class="btn section-button">sort By Most Popular</button>
+    <button (click)="getallLeastPopular()" class="btn section-button">sort By Least Popular</button>
 </div>
 
-<div *ngIf="trips" class="row">
-    <div class="col-lg-3 col-md-4 col-6" *ngFor="let trip of trips | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region'] | paginate: { itemsPerPage: 12, currentPage: p }">
+<div *ngIf="trips && !allLeastPopular && !allMostPopular" class="row">
+    <div class="col-lg-3 col-md-4 col-6" *ngFor="let trip of trips | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region'] | filter : price_category : ['price_category'] | paginate: { itemsPerPage: 12, currentPage: p }">
       <div class="col d-flex align-items-stretch">
           <div class="card">
               <div class="card-body">
@@ -106,6 +117,54 @@
       </div>
     </div>
 </div>
+
+<div *ngIf="tripsgetallMostPopular && !allLeastPopular && allMostPopular" class="row">
+    <div class="col-lg-3 col-md-4 col-6" *ngFor="let trip of tripsgetallMostPopular | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region'] | filter : price_category : ['price_category']  | paginate: { itemsPerPage: 12, currentPage: p }">
+      <div class="col d-flex align-items-stretch">
+          <div class="card">
+              <div class="card-body">
+                <div class="frame">
+                  <img class="img-fluid imgSize" style="height: 170px;" src="{{trip['imageURL']?trip['imageURL']:default}}" alt="NO IMAGE AVAILABLE">              
+                </div>
+                <div class="frameTitle">
+                  <h5 class="card-title">{{trip['title']}}</h5>
+                </div>
+                <div class="card-text components">
+                    <p><b>{{trip['region']}}</b>, &nbsp;{{trip['rating']}}</p>
+                    <p><span class="inCard">Price : </span>{{trip['price']}}</p>
+                </div>
+                <button [routerLink] = "['/trips/',trip.itemid]" [queryParams]="{q:trip['title']}" class="btn section-button">More Details</button>
+
+            </div>
+          </div>
+      </div>
+    </div>
+</div>
+
+
+<div *ngIf="tripsgetallLeastPopular && allLeastPopular && !allMostPopular" class="row">
+    <div class="col-lg-3 col-md-4 col-6" *ngFor="let trip of tripsgetallLeastPopular | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region'] | filter : price_category : ['price_category']  | paginate: { itemsPerPage: 12, currentPage: p }">
+      <div class="col d-flex align-items-stretch">
+          <div class="card">
+              <div class="card-body">
+                <div class="frame">
+                  <img class="img-fluid imgSize" style="height: 170px;" src="{{trip['imageURL']?trip['imageURL']:default}}" alt="NO IMAGE AVAILABLE">              
+                </div>
+                <div class="frameTitle">
+                  <h5 class="card-title">{{trip['title']}}</h5>
+                </div>
+                <div class="card-text components">
+                    <p><b>{{trip['region']}}</b>, &nbsp;{{trip['rating']}}</p>
+                    <p><span class="inCard">Price : </span>{{trip['price']}}</p>
+                </div>
+                <button [routerLink] = "['/trips/',trip.itemid]" [queryParams]="{q:trip['title']}" class="btn section-button">More Details</button>
+
+            </div>
+          </div>
+      </div>
+    </div>
+</div>
+
 
 <div class="container" id="paging">
     <div class="row" style="margin-left: 25%">

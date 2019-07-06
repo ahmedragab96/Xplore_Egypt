@@ -61,4 +61,13 @@ export class TripPlannerService {
   deleteTrip (id) {
     return this.http.delete( this.URL + `/trips/delete/:id=${id}`);
   }
+
+  getallMostPopular(){
+    return this.http.get(this.URL+ '/trips/getallMostPopular')
+  }
+
+  getallLeastPopular(){
+    return this.http.get(this.URL+ '/trips/getallLeastPopular')
+
+  }
 }

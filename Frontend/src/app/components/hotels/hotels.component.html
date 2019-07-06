@@ -85,6 +85,15 @@
     </select>
     <span class="col-3" style="display:in-line; color: dimgrey;">Filter By Region</span>
     <br><br>
+    <span class="col-3" style="display:in-line;">&nbsp;&nbsp;</span>       
+        <select id="price_category" [(ngModel)]="price_category" class="custom-select col-3">
+            <option value="low-price">Low</option>
+            <option value="moderate-price">Moderate</option>
+            <option value="high-price">High</option>
+            <option value="" >All</option>
+        </select>
+        <span class="col-3" style="display:in-line;color: dimgrey;">Filter By Price Levels</span>
+        <br>
     <button (click)="getallOrderPriceAsc()" class="btn section-button">sort By Price Ascending</button>
     <button (click)="getallOrderPriceDESC()" class="btn section-button">sort By Price Descending</button>
     <button (click)="getallMostPopular()" class="btn section-button">sort By Most Popular</button>
@@ -92,7 +101,7 @@
 </div>
 
 <div *ngIf="hotels && !allOrderPriceAsc && !allOrderPriceDESC && !allMostPopular && !allLeastPopular" class="row">
-    <div class="col-lg-3 col-md-4 col-6" *ngFor="let hotel of hotels | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region'] | paginate: { itemsPerPage: 12, currentPage: p }">
+    <div class="col-lg-3 col-md-4 col-6" *ngFor="let hotel of hotels | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region']  | filter : price_category : ['price_category']  | paginate: { itemsPerPage: 12, currentPage: p }">
         <div class="col d-flex align-items-stretch">
             <div class="card">
                 <div class="card-body">
@@ -114,7 +123,7 @@
 </div>
 
 <div *ngIf="hotelsOrderPriceAsc && allOrderPriceAsc  && !allLeastPopular" class="row">
-    <div class="col-lg-3 col-md-4 col-6" *ngFor="let hotel of hotelsOrderPriceAsc | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region'] | paginate: { itemsPerPage: 12, currentPage: p }">
+    <div class="col-lg-3 col-md-4 col-6" *ngFor="let hotel of hotelsOrderPriceAsc | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region'] | filter : price_category : ['price_category']  | paginate: { itemsPerPage: 12, currentPage: p }">
         <div class="col d-flex align-items-stretch">
             <div class="card">
                 <div class="card-body">
@@ -135,7 +144,7 @@
     </div>
 </div>
 <div *ngIf="hotelsOrderPriceDESC && allOrderPriceDESC  && !allLeastPopular" class="row">
-    <div class="col-lg-3 col-md-4 col-6" *ngFor="let hotel of hotelsOrderPriceDESC | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region'] | paginate: { itemsPerPage: 12, currentPage: p }">
+    <div class="col-lg-3 col-md-4 col-6" *ngFor="let hotel of hotelsOrderPriceDESC | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region'] | filter : price_category : ['price_category']  | paginate: { itemsPerPage: 12, currentPage: p }">
         <div class="col d-flex align-items-stretch">
             <div class="card">
                 <div class="card-body">
@@ -156,7 +165,7 @@
     </div>
 </div>
 <div *ngIf="hotelsgetallMostPopular && allMostPopular  && !allLeastPopular" class="row">
-    <div class="col-lg-3 col-md-4 col-6" *ngFor="let hotel of hotelsgetallMostPopular | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region'] | paginate: { itemsPerPage: 12, currentPage: p }">
+    <div class="col-lg-3 col-md-4 col-6" *ngFor="let hotel of hotelsgetallMostPopular | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region'] | filter : price_category : ['price_category']  | paginate: { itemsPerPage: 12, currentPage: p }">
         <div class="col d-flex align-items-stretch">
             <div class="card">
                 <div class="card-body">
@@ -177,7 +186,7 @@
     </div>
 </div>
 <div *ngIf="hotelsgetallLeastPopular && allLeastPopular && !allMostPopular" class="row">
-    <div class="col-lg-3 col-md-4 col-6" *ngFor="let hotel of hotelsgetallLeastPopular | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region'] | paginate: { itemsPerPage: 12, currentPage: p }">
+    <div class="col-lg-3 col-md-4 col-6" *ngFor="let hotel of hotelsgetallLeastPopular | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region'] | filter : price_category : ['price_category']  | paginate: { itemsPerPage: 12, currentPage: p }">
         <div class="col d-flex align-items-stretch">
             <div class="card">
                 <div class="card-body">

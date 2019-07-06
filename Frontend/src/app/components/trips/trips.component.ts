@@ -19,6 +19,10 @@ export class TripsComponent implements OnInit {
               private authservice:AuthServices) { }
 
   itemsPerPage:any;
+  tripsgetallMostPopular:any;
+  tripsgetallLeastPopular:any;
+  allMostPopular:boolean=false;
+  allLeastPopular:boolean=false;
   p: number = 1;
   trips: any;
   default = "../../../assets/images/noimage.png"
@@ -57,5 +61,27 @@ export class TripsComponent implements OnInit {
     this.getTripsFromService();
     this.getRecommended()
   }
+   getallMostPopular(){
 
+   this.allMostPopular=true;
+   this.allLeastPopular=false;
+   this.service.getallMostPopular().subscribe((res) => {
+
+      this.tripsgetallMostPopular = res;
+
+      console.log(res);
+    });
+
+ }
+
+getallLeastPopular(){
+   this.allMostPopular=false;
+   this.allLeastPopular=true;
+   this.service.getallLeastPopular().subscribe((res) => {
+
+      this.tripsgetallLeastPopular = res;
+
+      console.log(res);
+    });
+}
 }

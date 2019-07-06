@@ -84,12 +84,21 @@
     </select>
     <span class="col-3" style="display:in-line;color: dimgrey;">Filter By Region</span>
     <br><br>
+    <span class="col-3" style="display:in-line;">&nbsp;&nbsp;</span>       
+        <select id="price_category" [(ngModel)]="price_category" class="custom-select col-3">
+            <option value="low-price">Low</option>
+            <option value="moderate-price">Moderate</option>
+            <option value="high-price">High</option>
+            <option value="" >All</option>
+        </select>
+        <span class="col-3" style="display:in-line;color: dimgrey;">Filter By Price Levels</span>
+        <br>
      <button (click)="getallMostPopular()" class="btn section-button">sort By Most Popular</button>
     <button (click)="getallLeastPopular()" class="btn section-button">sort By Least Popular</button>
 </div>
 
 <div *ngIf="restaurants && !allLeastPopular && !allMostPopular" class="row">
-    <div class="col-lg-3 col-md-4 col-12" *ngFor="let restaurant of restaurants | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region'] | paginate: { itemsPerPage: 12, currentPage: p }">
+    <div class="col-lg-3 col-md-4 col-12" *ngFor="let restaurant of restaurants | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region']  | filter : price_category : ['price_category'] | paginate: { itemsPerPage: 12, currentPage: p }">
         <div class="col d-flex align-items-stretch">
             <div class="card">
                 <div class="card-body">
@@ -111,7 +120,7 @@
 </div>
 
 <div *ngIf="restaurantsgetallMostPopular && !allLeastPopular && allMostPopular" class="row">
-    <div class="col-lg-3 col-md-4 col-12" *ngFor="let restaurant of restaurantsgetallMostPopular | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region'] | paginate: { itemsPerPage: 12, currentPage: p }">
+    <div class="col-lg-3 col-md-4 col-12" *ngFor="let restaurant of restaurantsgetallMostPopular | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region'] | filter : price_category : ['price_category']  | paginate: { itemsPerPage: 12, currentPage: p }">
         <div class="col d-flex align-items-stretch">
             <div class="card">
                 <div class="card-body">
@@ -132,7 +141,7 @@
     </div>
 </div>
 <div *ngIf="restaurantsgetallLeastPopular && allLeastPopular && !allMostPopular" class="row">
-    <div class="col-lg-3 col-md-4 col-12" *ngFor="let restaurant of restaurantsgetallLeastPopular | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region'] | paginate: { itemsPerPage: 12, currentPage: p }">
+    <div class="col-lg-3 col-md-4 col-12" *ngFor="let restaurant of restaurantsgetallLeastPopular | Rfilter: 'title' | filter : search : ['title'] | filter : region : ['region'] | filter : price_category : ['price_category']  | paginate: { itemsPerPage: 12, currentPage: p }">
         <div class="col d-flex align-items-stretch">
             <div class="card">
                 <div class="card-body">
