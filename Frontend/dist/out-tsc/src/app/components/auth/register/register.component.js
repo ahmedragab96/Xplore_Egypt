@@ -24,7 +24,6 @@ var RegisterComponent = /** @class */ (function () {
     }
     RegisterComponent.prototype.onregister = function (form) {
         var _this = this;
-        console.log(form.value);
         this.authService.register(form.value.fname, form.value.lname, form.value.email, form.value.password, form.value.DOB, form.value.gender, form.value.nationality).subscribe(function (response) {
             _this.notifier.notify('success', 'User registered successfully, please login to continue');
         });
@@ -37,7 +36,6 @@ var RegisterComponent = /** @class */ (function () {
         else if (socialPlatform === 'google') {
             socialPlatformProvider = GoogleLoginProvider.PROVIDER_ID;
         }
-        console.log(socialPlatformProvider);
         this.socialAuthService.signIn(socialPlatformProvider).then(function (userData) {
             console.log(userData);
         });

@@ -16,7 +16,6 @@ export class RestaurantDetailsComponent implements OnInit {
   getRestaurantDetail(){
     this.service.getRestaurantByID(this.id).subscribe((res) => {
       this.restaurantDetails = res;
-      console.log(res);
     });
   }
 

@@ -9,7 +9,6 @@ var HomeComponent = /** @class */ (function () {
         var _this = this;
         this.recservice.getRecommended().subscribe(function (res) {
             _this.recommendedPlaces = res;
-            console.log(res);
         });
     };
     HomeComponent.prototype.ngOnInit = function () {

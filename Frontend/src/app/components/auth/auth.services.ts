@@ -31,7 +31,6 @@ export class AuthServices {
     }
 
     private setAuthTimer (duration: number) {
-        console.log( 'Setting timer: ' + duration);
         this.Timer =  setTimeout(() => {
             this.logout();
         } , duration * 1000 );
@@ -55,16 +54,14 @@ export class AuthServices {
                 this.saveAuthData(token, expirationDte );
                 this.router.navigate(['/home']);
                 } else {
-                console.log(Response.error);
                 this.notifier.notify('error', Response.error);
             }
         });
-        //return this.http.post<{token: string , error: string , expireIn: number}>('http://localhost:3000/users/login', authData)
+        // return this.http.post<{token: string , error: string , expireIn: number}>('http://localhost:3000/users/login', authData)
     }
     register(fname: string , lname: string ,
           email: string , password: string ,
           /*image: File ,*/ DOB: string , gender: string , nationality: string) {
-              console.log("in auth");
 
             const userData = new FormData();
             userData.append('fname', fname);
@@ -79,9 +76,9 @@ export class AuthServices {
             //                             email: email , password: password ,
             //                             DOB: DOB , image: image , gender: gender , : nationality};
 
-            this.http.post(this.URL+'/users/register', userData).subscribe(
+            this.http.post(this.URL + '/users/register', userData).subscribe(
               (response: any) => {
-                  console.log(response)
+                  console.log(response);
                     this.notifier.notify('success', 'You registered successfully, please login to continue');
                       },
               (err: HttpErrorResponse) => {

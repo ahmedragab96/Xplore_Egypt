@@ -14,7 +14,6 @@ var TripsCRUDComponent = /** @class */ (function () {
         this.isLoading = true;
     }
     TripsCRUDComponent.prototype.navigateTo = function (link) {
-        console.log(link);
         this.router.navigate([link]);
     };
     TripsCRUDComponent.prototype.ngOnInit = function () {
@@ -39,11 +38,9 @@ var TripsCRUDComponent = /** @class */ (function () {
         });
     };
     TripsCRUDComponent.prototype.add = function () {
-        console.log('trips');
         this.router.navigate(['admin/database/trips/addTrip']);
     };
     TripsCRUDComponent.prototype.delete = function (trip) {
-        console.log(trip);
     };
     TripsCRUDComponent.prototype.ngAfterViewInit = function () {
         this.dataSource.paginator = this.paginator;

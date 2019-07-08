@@ -21,7 +21,6 @@ var AuthServices = /** @class */ (function () {
     };
     AuthServices.prototype.setAuthTimer = function (duration) {
         var _this = this;
-        console.log('Setting timer: ' + duration);
         this.Timer = setTimeout(function () {
             _this.logout();
         }, duration * 1000);
@@ -44,14 +43,12 @@ var AuthServices = /** @class */ (function () {
                 _this.router.navigate(['/home']);
             }
             else {
-                console.log(Response.error);
             }
         });
         return this.http.post('http://localhost:3000/users/login', authData);
     };
     AuthServices.prototype.register = function (fname, lname, email, password, 
     /*image: File ,*/ DOB, gender, nationality) {
-        console.log("in auth");
         var userData = new FormData();
         userData.append('fname', fname);
         userData.append('lname', lname);
@@ -67,7 +64,6 @@ var AuthServices = /** @class */ (function () {
         return this.http.post('http://localhost:3000/users/register', userData);
     };
     AuthServices.prototype.socialSignUp = function (body) {
-        // console.log(body)
         // calling the post function
         return this.http.post('http://localhost:3000/users/socialSignUp', body);
     };

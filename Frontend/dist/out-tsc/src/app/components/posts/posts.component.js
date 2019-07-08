@@ -14,7 +14,6 @@ var PostsComponent = /** @class */ (function () {
         var _this = this;
         this.service.GetAllPosts().subscribe(function (res) {
             _this.posts = res;
-            console.log(res);
         });
     };
     // onPost(form: PostForm){
@@ -25,14 +24,12 @@ var PostsComponent = /** @class */ (function () {
     //   this.service.savePost(this.newPost);
     // }
     PostsComponent.prototype.onPost = function (f) {
-        console.log(f.value);
         this.newPost['title'] = f.value.title;
         this.newPost['body'] = f.value.body;
         this.newPost['date'] = this.jstoday;
         this.service.savePost(this.newPost);
     };
     PostsComponent.prototype.ngOnInit = function () {
-        console.log(this.jstoday);
         this.getPostsFromService();
     };
     PostsComponent = tslib_1.__decorate([

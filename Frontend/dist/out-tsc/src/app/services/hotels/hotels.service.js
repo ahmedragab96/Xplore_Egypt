@@ -13,7 +13,6 @@ var HotelsService = /** @class */ (function () {
     };
     HotelsService.prototype.addHotel = function (hotelDetails) {
         return this.http.post('http://localhost:3000/hotels/addhotel', hotelDetails).subscribe(function (data) {
-            console.log('Hotel has been added successfully ', data);
         }, function (error) { console.log('Error', error); });
     };
     HotelsService.prototype.deleteHotel = function (id) {

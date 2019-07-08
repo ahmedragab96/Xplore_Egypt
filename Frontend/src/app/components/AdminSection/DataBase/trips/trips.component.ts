@@ -29,7 +29,6 @@ export class TripsCRUDComponent implements OnInit, AfterViewInit, OnDestroy {
 
 
   navigateTo(link) {
-    console.log(link);
     this.router.navigate([link]);
   }
 
@@ -47,7 +46,6 @@ export class TripsCRUDComponent implements OnInit, AfterViewInit, OnDestroy {
   }
 
   add() {
-    console.log('trips');
     this.router.navigate(['admin/database/trips/addTrip']);
   }
 

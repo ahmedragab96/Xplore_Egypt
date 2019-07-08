@@ -11,14 +11,12 @@ var TripDetailsComponent = /** @class */ (function () {
         var _this = this;
         this.service.getTripByID(this.id).subscribe(function (res) {
             _this.tripDetails = res;
-            console.log(res);
         });
     };
     TripDetailsComponent.prototype.ngOnInit = function () {
         // this.id =parseInt(this.router.snapshot.paramMap.get('trip_id'))
         this.id = parseInt(this.router.snapshot.paramMap.get('id'));
         this.getTripDetail();
-        console.log(this.tripDetails);
     };
     TripDetailsComponent = tslib_1.__decorate([
         Component({

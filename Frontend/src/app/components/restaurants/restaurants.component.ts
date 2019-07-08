@@ -26,7 +26,6 @@ export class RestaurantsComponent implements OnInit {
   getRestaurantsFromService(){
     this.service.GetAllRestaurants().subscribe((res) => {
       this.restaurants = res;
-      console.log(res);
     });
   }
 
@@ -34,13 +33,11 @@ export class RestaurantsComponent implements OnInit {
    {
     this.recservice.getRecommended().subscribe((res) => {
       this.recommendedPlaces = res;
-      console.log(res);
      for (var i = 0; i <this.recommendedPlaces.length; i++) {
       if(this.recommendedPlaces[i].type=="Restaurant")
         {console.log(i)
         this.recommendedRestaurants.push(this.recommendedPlaces[i])}
   }
-  console.log(this.recommendedRestaurants)
     });
   }
 
@@ -74,7 +71,6 @@ getallLeastPopular(){
 
       this.restaurantsgetallLeastPopular = res;
 
-      console.log(res);
     });
 }
 

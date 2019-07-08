@@ -11,7 +11,6 @@ var RestaurantDetailsComponent = /** @class */ (function () {
         var _this = this;
         this.service.getRestaurantByID(this.id).subscribe(function (res) {
             _this.restaurantDetails = res;
-            console.log(res);
         });
     };
     RestaurantDetailsComponent.prototype.ngOnInit = function () {

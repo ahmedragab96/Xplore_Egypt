@@ -6,15 +6,12 @@ var ReviewComponent = /** @class */ (function () {
         this.reviewsService = reviewsService;
     }
     ReviewComponent.prototype.review = function (ReviewForm) {
-        console.log(this.placeid);
-        console.log(ReviewForm);
         this.reviewsService.PostAReview(this.placeid, ReviewForm.value);
     };
     ReviewComponent.prototype.getReviews = function () {
         var _this = this;
         this.reviewsService.getReviewforPlace(this.placeid).subscribe(function (res) {
             _this.reviews = res;
-            console.log(res);
         });
     };
     ReviewComponent.prototype.ngOnInit = function () {

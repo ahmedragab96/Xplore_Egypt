@@ -11,7 +11,6 @@ var EditProfileComponent = /** @class */ (function () {
         var _this = this;
         this.service.GetUserByID().subscribe(function (res) {
             _this.old_userDetails = res;
-            console.log(res);
         });
     };
     EditProfileComponent.prototype.updateUser = function (user) {
@@ -19,7 +18,6 @@ var EditProfileComponent = /** @class */ (function () {
     };
     EditProfileComponent.prototype.editAvatar = function (event) {
         var file = event.target.files[0];
-        console.log(file);
         this.service.updateAvatar(file);
     };
     EditProfileComponent.prototype.submitForm = function (f) {

@@ -13,21 +13,17 @@ var RestaurantsComponent = /** @class */ (function () {
         var _this = this;
         this.service.GetAllRestaurants().subscribe(function (res) {
             _this.restaurants = res;
-            console.log(res);
         });
     };
     RestaurantsComponent.prototype.getRecommended = function () {
         var _this = this;
         this.recservice.getRecommended().subscribe(function (res) {
             _this.recommendedPlaces = res;
-            console.log(res);
             for (var i = 0; i < _this.recommendedPlaces.length; i++) {
                 if (_this.recommendedPlaces[i].type == "Restaurant") {
-                    console.log(i);
                     _this.recommendedRestaurants.push(_this.recommendedPlaces[i]);
                 }
             }
-            console.log(_this.recommendedRestaurants);
         });
     };
     RestaurantsComponent.prototype.ngOnInit = function () {
