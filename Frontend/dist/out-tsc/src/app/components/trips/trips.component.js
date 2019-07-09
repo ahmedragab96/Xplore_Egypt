@@ -16,21 +16,17 @@ var TripsComponent = /** @class */ (function () {
         var _this = this;
         this.service.GetAllTrips().subscribe(function (res) {
             _this.trips = res;
-            console.log(res);
         });
     };
     TripsComponent.prototype.getRecommended = function () {
         var _this = this;
         this.recservice.getRecommended().subscribe(function (res) {
             _this.recommendedPlaces = res;
-            console.log(res);
             for (var i = 0; i < _this.recommendedPlaces.length; i++) {
                 if (_this.recommendedPlaces[i].type == "trip") {
-                    console.log(i);
                     _this.recommendedTrips.push(_this.recommendedPlaces[i]);
                 }
             }
-            console.log(_this.recommendedTrips);
         });
     };
     TripsComponent.prototype.ViewTripDetail = function (id) {

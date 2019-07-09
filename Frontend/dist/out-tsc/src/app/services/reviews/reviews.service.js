@@ -14,8 +14,6 @@ var ReviewsService = /** @class */ (function () {
         return userId;
     };
     ReviewsService.prototype.PostAReview = function (placeid, body) {
-        console.log(placeid);
-        console.log(body);
         var userid = this.decodeToken();
         return this.http.post("http://localhost:3000/reviews/add/" + userid + "/" + placeid, body).subscribe(function (data) {
             console.log('POST Request is successful ', data);

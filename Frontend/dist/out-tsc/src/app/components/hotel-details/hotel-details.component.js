@@ -11,7 +11,6 @@ var HotelDetailsComponent = /** @class */ (function () {
         var _this = this;
         this.service.getHotelByID(this.id).subscribe(function (res) {
             _this.hotelDetails = res;
-            console.log(res);
         });
     };
     HotelDetailsComponent.prototype.ngOnInit = function () {

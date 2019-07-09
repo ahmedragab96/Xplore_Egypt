@@ -10,7 +10,7 @@ var AddhotelComponent = /** @class */ (function () {
     AddhotelComponent.prototype.ngOnInit = function () {
     };
     AddhotelComponent.prototype.onSubmit = function (form) {
-        console.log(form.value);
+
         this.hotelService.addHotel(form.value);
         this.router.navigate(['admin/database/hotels']);
     };

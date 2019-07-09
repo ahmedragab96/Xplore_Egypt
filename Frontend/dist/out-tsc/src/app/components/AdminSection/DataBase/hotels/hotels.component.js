@@ -14,7 +14,6 @@ var HotelsCRUDComponent = /** @class */ (function () {
         this.isLoading = true;
     }
     HotelsCRUDComponent.prototype.navigateTo = function (link) {
-        console.log(link);
         this.router.navigate([link]);
     };
     HotelsCRUDComponent.prototype.ngOnInit = function () {
@@ -45,10 +44,8 @@ var HotelsCRUDComponent = /** @class */ (function () {
         this.hotelsSubscription.unsubscribe();
     };
     HotelsCRUDComponent.prototype.delete = function (hotel) {
-        console.log(hotel);
     };
     HotelsCRUDComponent.prototype.add = function () {
-        console.log('hotel');
         this.router.navigate(['admin/database/hotels/addHotel']);
     };
     tslib_1.__decorate([

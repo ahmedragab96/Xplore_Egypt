@@ -15,7 +15,6 @@ var HotelsComponent = /** @class */ (function () {
         var _this = this;
         this.service.GetAllHotels().subscribe(function (res) {
             _this.hotels = res;
-            console.log(res);
         });
     };
     // ViewHotelDetail(id : any){
@@ -26,14 +25,12 @@ var HotelsComponent = /** @class */ (function () {
         var _this = this;
         this.recservice.getRecommended().subscribe(function (res) {
             _this.recommendedPlaces = res;
-            console.log(res);
             for (var i = 0; i < _this.recommendedPlaces.length; i++) {
                 if (_this.recommendedPlaces[i].type == "hotel") {
                     console.log(i);
                     _this.recommendedHotels.push(_this.recommendedPlaces[i]);
                 }
             }
-            console.log(_this.recommendedHotels);
         });
     };
     HotelsComponent.prototype.ngOnInit = function () {

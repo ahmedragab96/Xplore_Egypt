@@ -19,7 +19,6 @@ export class ProfileComponent implements OnInit {
   getUser(){
     this.service.GetUserByID().subscribe((res) => {
       this.userDetails = res;
-      console.log(res);
       this.userDetails['results'][0]['DoB']=this.userDetails['results'][0]['DoB'].substr(0,10);
     });
   }
@@ -27,7 +26,6 @@ export class ProfileComponent implements OnInit {
   getPosts(){
     this.service.GetUserPosts().subscribe((res) => {
       this.posts = res;
-      console.log("posts",this.posts);
       for(var i=0;i<this.posts.length;i++){
         this.posts[i]['date']=this.posts[i]['date'].substr(0,10);
       }

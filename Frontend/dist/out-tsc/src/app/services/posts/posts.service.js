@@ -12,7 +12,6 @@ var PostsService = /** @class */ (function () {
     PostsService.prototype.decodeToken = function () {
         var token = localStorage.getItem('token');
         var payload = jwt_decode(token);
-        console.log(payload);
         var userId = payload.userId;
         return userId;
     };
@@ -21,9 +20,7 @@ var PostsService = /** @class */ (function () {
         body['userID'] = this.decodeToken();
         body['upVoting'] = 0;
         body['downVoting'] = 0;
-        console.log(body);
         return this.http.post('http://localhost:3000/posts/postapost', body).subscribe(function (data) {
-            console.log('POST Request is successful ', data);
         }, function (error) { console.log('Error', error); });
     };
     PostsService = tslib_1.__decorate([

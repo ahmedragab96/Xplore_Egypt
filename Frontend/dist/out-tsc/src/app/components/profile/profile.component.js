@@ -11,13 +11,11 @@ var ProfileComponent = /** @class */ (function () {
         var _this = this;
         this.service.GetUserByID().subscribe(function (res) {
             _this.userDetails = res;
-            console.log(res);
         });
     };
     ProfileComponent.prototype.ngOnInit = function () {
         this.id = parseInt(this.router.snapshot.paramMap.get('id'));
         this.getUser();
-        console.log(this.userDetails);
     };
     ProfileComponent = tslib_1.__decorate([
         Component({

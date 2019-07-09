@@ -7,13 +7,13 @@
   <br />
   <br />
   <br />
-
+  <input class="search col-3" name="search" [(ngModel)]="search" placeholder="Search.."> 
 <div class="row">
   <div class="col-lg-8">
     <!-- <h3 style="margin-top: 5%;">Other Posts</h3>   -->
     <div class="row">
       <div class="span8">
-        <div *ngFor="let post of posts | paginate: { itemsPerPage: 4, currentPage: p }" class="post">
+        <div *ngFor="let post of posts| filter : search : ['body'] | paginate: { itemsPerPage: 4, currentPage: p }" class="post">
           <div class="row">
             <div class="col-lg-3">
           <img style="width: 80px;height: 80px;" class="rounded-circle" src="../../../assets/profilepics/{{post['avatar']}}" alt=""/>
@@ -25,6 +25,7 @@
           </div>
 
           <div class="row">
+
             <div class="span8" style="margin-top: 20px">
               <p>
                 <i class="fa fa-user"></i> by<span style="color: rgb(84, 84, 231)">&nbsp;{{post['first_name']}}&nbsp;{{post['last_name']}}</span>&nbsp;
@@ -57,7 +58,11 @@
           <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Body" name="body" ngModel #bodyInput="ngModel"></textarea>
         </div>
         <button type="submit" class="btn btn-primary" style="border-radius: 50px;margin-left: 35%;width: 100px;">Post</button>
-    </form>
+        <div class="form-group">
+            <label for="exampleFormControlFile1">Add photo Link</label>
+            <input type="text" class="form-control" placeholder="Enter Link" name="photo" ngModel #photoInput="ngModel">
+          </div>
+      </form>
     </div>
   </div>
   </div>
