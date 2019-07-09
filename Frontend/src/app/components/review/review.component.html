@@ -54,7 +54,7 @@
 <div class="container">
   <div class="row">
     <div class="col-lg-4" *ngFor="let review of reviews | paginate: { itemsPerPage: 6, currentPage: p }">
-      <div class="reviewsPreview">
+      <div class="reviewsPreview" style="height: 500px;">
         <h5 style="color: #353536;"><i class="fa fa-commenting-o" aria-hidden="true"></i>&nbsp;&nbsp;<strong>{{review.title}}</strong>, &nbsp;&nbsp;<span style="color: #918d8d">{{review.date}}</span></h5>
         <ngb-rating [(rate)]="review.rate" [readonly]="true">
           <ng-template let-fill="fill" let-index="index">
@@ -62,11 +62,12 @@
           </ng-template>
         </ngb-rating>
         <hr>
+        <p><span style="color: #555252">Company Type:</span>{{review.type}}</p>
         <!-- <p style="width: 200px;">{{review.review}}</p> -->
         <!-- <marquee behavior="scroll" >{{review.review}}</marquee> -->
         <div style="overflow: auto;"><p>{{review.review}}</p></div>
         <img style="width: 150px;height: 150px;" src="{{review.photo}}">
-        <p><span style="color: #555252">Company Type:</span>{{review.type}}</p>
+        
         <!-- <p>{{review.rate}}</p> -->
       </div>
     </div>

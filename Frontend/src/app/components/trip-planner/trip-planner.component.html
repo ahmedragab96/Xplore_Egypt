@@ -43,7 +43,7 @@
         <div id='wrap' class="col-4">
             <div id="external-events">
                 <div id='external-events-listing'>
-                    <h4>Draggable Events</h4>
+                    <h4>Trips added To Cart</h4>
                     <div class="fc-event" *ngFor="let trip of trips; let i= index" [id]="trip['title'] +','+ i"  [hidden]="!trip['selected']">{{trip['title']}}</div>
                 </div>
                 <p>
